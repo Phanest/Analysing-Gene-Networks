@@ -1,0 +1,1812 @@
+"","source","term_name","n"
+"1","CORUM","Cohesin-SA2 complex",3
+"2","CORUM","CDC2-PCNA-CCNB1-GADD45A complex",1
+"3","CORUM","CENP-H-I complex",1
+"4","CORUM","DNA polymerase alpha-primase complex",1
+"5","CORUM","DNA synthesome complex (13 subunits)",1
+"6","CORUM","DNA synthesome core complex",1
+"7","CORUM","GINS complex",1
+"8","CORUM","MCM complex",1
+"9","CORUM","MCM2-MCM4-MCM6-MCM7 complex",1
+"10","CORUM","Mitotic checkpoint complex (MCC)",1
+"11","CORUM","NDC80 kinetochore complex",1
+"12","CORUM","Nop56p-associated pre-rRNA complex",1
+"13","CORUM","RC complex (Replication competent complex)",1
+"14","CORUM","Ribosome, cytoplasmic",1
+"15","GO:BP","metabolic process",3
+"16","GO:BP","anatomical structure morphogenesis",2
+"17","GO:BP","biosynthetic process",2
+"18","GO:BP","cell development",2
+"19","GO:BP","cellular biosynthetic process",2
+"20","GO:BP","cellular component biogenesis",2
+"21","GO:BP","cellular component organization or biogenesis",2
+"22","GO:BP","cellular macromolecule biosynthetic process",2
+"23","GO:BP","cellular metabolic process",2
+"24","GO:BP","macromolecule biosynthetic process",2
+"25","GO:BP","organelle organization",2
+"26","GO:BP","organic substance biosynthetic process",2
+"27","GO:BP","positive regulation of nitrogen compound metabolic process",2
+"28","GO:BP","primary metabolic process",2
+"29","GO:BP","amide biosynthetic process",1
+"30","GO:BP","aminoglycoside antibiotic metabolic process",1
+"31","GO:BP","ammonium ion metabolic process",1
+"32","GO:BP","anaphase-promoting complex-dependent catabolic process",1
+"33","GO:BP","anatomical structure development",1
+"34","GO:BP","animal organ development",1
+"35","GO:BP","anterior/posterior pattern specification",1
+"36","GO:BP","aromatic compound biosynthetic process",1
+"37","GO:BP","aromatic compound catabolic process",1
+"38","GO:BP","attachment of spindle microtubules to kinetochore",1
+"39","GO:BP","axon development",1
+"40","GO:BP","axonogenesis",1
+"41","GO:BP","behavior",1
+"42","GO:BP","brain development",1
+"43","GO:BP","carboxylic acid metabolic process",1
+"44","GO:BP","carboxylic acid transport",1
+"45","GO:BP","cell-cell signaling",1
+"46","GO:BP","cell communication",1
+"47","GO:BP","cell cycle",1
+"48","GO:BP","cell cycle arrest",1
+"49","GO:BP","cell cycle checkpoint",1
+"50","GO:BP","cell cycle DNA replication",1
+"51","GO:BP","cell cycle G1/S phase transition",1
+"52","GO:BP","cell cycle G2/M phase transition",1
+"53","GO:BP","cell cycle phase transition",1
+"54","GO:BP","cell cycle process",1
+"55","GO:BP","cell differentiation",1
+"56","GO:BP","cell division",1
+"57","GO:BP","cell morphogenesis",1
+"58","GO:BP","cell morphogenesis involved in differentiation",1
+"59","GO:BP","cell morphogenesis involved in neuron differentiation",1
+"60","GO:BP","cell part morphogenesis",1
+"61","GO:BP","cell projection morphogenesis",1
+"62","GO:BP","cell projection organization",1
+"63","GO:BP","cellular amide metabolic process",1
+"64","GO:BP","cellular aromatic compound metabolic process",1
+"65","GO:BP","cellular catabolic process",1
+"66","GO:BP","cellular component assembly",1
+"67","GO:BP","cellular component morphogenesis",1
+"68","GO:BP","cellular component organization",1
+"69","GO:BP","cellular developmental process",1
+"70","GO:BP","cellular hormone metabolic process",1
+"71","GO:BP","cellular lipid metabolic process",1
+"72","GO:BP","cellular localization",1
+"73","GO:BP","cellular macromolecule catabolic process",1
+"74","GO:BP","cellular macromolecule localization",1
+"75","GO:BP","cellular macromolecule metabolic process",1
+"76","GO:BP","cellular nitrogen compound biosynthetic process",1
+"77","GO:BP","cellular nitrogen compound catabolic process",1
+"78","GO:BP","cellular nitrogen compound metabolic process",1
+"79","GO:BP","cellular process",1
+"80","GO:BP","cellular protein-containing complex assembly",1
+"81","GO:BP","cellular protein catabolic process",1
+"82","GO:BP","cellular protein localization",1
+"83","GO:BP","cellular protein metabolic process",1
+"84","GO:BP","cellular response to chemical stimulus",1
+"85","GO:BP","cellular response to DNA damage stimulus",1
+"86","GO:BP","cellular response to jasmonic acid stimulus",1
+"87","GO:BP","cellular response to radiation",1
+"88","GO:BP","cellular response to stress",1
+"89","GO:BP","CENP-A containing chromatin organization",1
+"90","GO:BP","CENP-A containing nucleosome assembly",1
+"91","GO:BP","central nervous system development",1
+"92","GO:BP","central nervous system neuron differentiation",1
+"93","GO:BP","centriole replication",1
+"94","GO:BP","centromere complex assembly",1
+"95","GO:BP","centrosome cycle",1
+"96","GO:BP","centrosome duplication",1
+"97","GO:BP","chromatin organization",1
+"98","GO:BP","chromatin remodeling at centromere",1
+"99","GO:BP","chromosome condensation",1
+"100","GO:BP","chromosome localization",1
+"101","GO:BP","chromosome organization",1
+"102","GO:BP","chromosome segregation",1
+"103","GO:BP","chromosome separation",1
+"104","GO:BP","cotranslational protein targeting to membrane",1
+"105","GO:BP","cytokinesis",1
+"106","GO:BP","cytokinetic process",1
+"107","GO:BP","cytoplasmic translation",1
+"108","GO:BP","cytoskeleton-dependent cytokinesis",1
+"109","GO:BP","cytoskeleton organization",1
+"110","GO:BP","daunorubicin metabolic process",1
+"111","GO:BP","developmental growth",1
+"112","GO:BP","developmental process",1
+"113","GO:BP","diencephalon development",1
+"114","GO:BP","diterpenoid metabolic process",1
+"115","GO:BP","DNA-dependent DNA replication",1
+"116","GO:BP","DNA-dependent DNA replication maintenance of fidelity",1
+"117","GO:BP","DNA biosynthetic process",1
+"118","GO:BP","DNA conformation change",1
+"119","GO:BP","DNA damage checkpoint",1
+"120","GO:BP","DNA damage response, detection of DNA damage",1
+"121","GO:BP","DNA damage response, signal transduction by p53 class mediator",1
+"122","GO:BP","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",1
+"123","GO:BP","DNA duplex unwinding",1
+"124","GO:BP","DNA endoreduplication",1
+"125","GO:BP","DNA geometric change",1
+"126","GO:BP","DNA integrity checkpoint",1
+"127","GO:BP","DNA metabolic process",1
+"128","GO:BP","DNA packaging",1
+"129","GO:BP","DNA recombination",1
+"130","GO:BP","DNA repair",1
+"131","GO:BP","DNA replication",1
+"132","GO:BP","DNA replication-independent nucleosome assembly",1
+"133","GO:BP","DNA replication-independent nucleosome organization",1
+"134","GO:BP","DNA replication checkpoint",1
+"135","GO:BP","DNA replication initiation",1
+"136","GO:BP","DNA replication, removal of RNA primer",1
+"137","GO:BP","DNA strand elongation",1
+"138","GO:BP","DNA strand elongation involved in DNA replication",1
+"139","GO:BP","double-strand break repair",1
+"140","GO:BP","double-strand break repair via homologous recombination",1
+"141","GO:BP","doxorubicin metabolic process",1
+"142","GO:BP","establishment of chromosome localization",1
+"143","GO:BP","establishment of localization in cell",1
+"144","GO:BP","establishment of protein localization to endoplasmic reticulum",1
+"145","GO:BP","establishment of protein localization to organelle",1
+"146","GO:BP","establishment of protein localization to telomere",1
+"147","GO:BP","establishment of RNA localization",1
+"148","GO:BP","fatty acid metabolic process",1
+"149","GO:BP","female meiotic nuclear division",1
+"150","GO:BP","folic acid-containing compound metabolic process",1
+"151","GO:BP","forebrain development",1
+"152","GO:BP","G1 DNA damage checkpoint",1
+"153","GO:BP","G1/S transition of mitotic cell cycle",1
+"154","GO:BP","G2 DNA damage checkpoint",1
+"155","GO:BP","G2/M transition of mitotic cell cycle",1
+"156","GO:BP","gene expression",1
+"157","GO:BP","generation of neurons",1
+"158","GO:BP","glutathione metabolic process",1
+"159","GO:BP","glycosaminoglycan biosynthetic process",1
+"160","GO:BP","glycoside metabolic process",1
+"161","GO:BP","head development",1
+"162","GO:BP","heterocycle biosynthetic process",1
+"163","GO:BP","heterocycle catabolic process",1
+"164","GO:BP","heterocycle metabolic process",1
+"165","GO:BP","hormone metabolic process",1
+"166","GO:BP","interstrand cross-link repair",1
+"167","GO:BP","intracellular signal transduction involved in G1 DNA damage checkpoint",1
+"168","GO:BP","isoprenoid metabolic process",1
+"169","GO:BP","kinetochore organization",1
+"170","GO:BP","lipid metabolic process",1
+"171","GO:BP","locomotion",1
+"172","GO:BP","locomotory behavior",1
+"173","GO:BP","macromolecule catabolic process",1
+"174","GO:BP","macromolecule metabolic process",1
+"175","GO:BP","macromolecule modification",1
+"176","GO:BP","meiosis I",1
+"177","GO:BP","meiosis I cell cycle process",1
+"178","GO:BP","meiotic cell cycle",1
+"179","GO:BP","meiotic cell cycle process",1
+"180","GO:BP","meiotic chromosome segregation",1
+"181","GO:BP","meiotic nuclear division",1
+"182","GO:BP","metaphase plate congression",1
+"183","GO:BP","metaphase/anaphase transition of cell cycle",1
+"184","GO:BP","metaphase/anaphase transition of mitotic cell cycle",1
+"185","GO:BP","microtubule-based process",1
+"186","GO:BP","microtubule cytoskeleton organization",1
+"187","GO:BP","microtubule cytoskeleton organization involved in mitosis",1
+"188","GO:BP","microtubule organizing center organization",1
+"189","GO:BP","mitochondrial gene expression",1
+"190","GO:BP","mitochondrial translation",1
+"191","GO:BP","mitotic cell cycle",1
+"192","GO:BP","mitotic cell cycle checkpoint",1
+"193","GO:BP","mitotic cell cycle phase transition",1
+"194","GO:BP","mitotic cell cycle process",1
+"195","GO:BP","mitotic cytokinesis",1
+"196","GO:BP","mitotic DNA damage checkpoint",1
+"197","GO:BP","mitotic DNA integrity checkpoint",1
+"198","GO:BP","mitotic DNA replication",1
+"199","GO:BP","mitotic G1 DNA damage checkpoint",1
+"200","GO:BP","mitotic G1/S transition checkpoint",1
+"201","GO:BP","mitotic metaphase plate congression",1
+"202","GO:BP","mitotic nuclear division",1
+"203","GO:BP","mitotic sister chromatid segregation",1
+"204","GO:BP","mitotic sister chromatid separation",1
+"205","GO:BP","mitotic spindle assembly",1
+"206","GO:BP","mitotic spindle assembly checkpoint",1
+"207","GO:BP","mitotic spindle checkpoint",1
+"208","GO:BP","mitotic spindle elongation",1
+"209","GO:BP","mitotic spindle midzone assembly",1
+"210","GO:BP","mitotic spindle organization",1
+"211","GO:BP","modification-dependent macromolecule catabolic process",1
+"212","GO:BP","modification-dependent protein catabolic process",1
+"213","GO:BP","modulation of chemical synaptic transmission",1
+"214","GO:BP","monocarboxylic acid metabolic process",1
+"215","GO:BP","movement of cell or subcellular component",1
+"216","GO:BP","mRNA catabolic process",1
+"217","GO:BP","mRNA metabolic process",1
+"218","GO:BP","multicellular organism development",1
+"219","GO:BP","multicellular organismal process",1
+"220","GO:BP","ncRNA export from nucleus",1
+"221","GO:BP","ncRNA metabolic process",1
+"222","GO:BP","ncRNA processing",1
+"223","GO:BP","negative regulation of cell cycle",1
+"224","GO:BP","negative regulation of cell cycle G1/S phase transition",1
+"225","GO:BP","negative regulation of cell cycle G2/M phase transition",1
+"226","GO:BP","negative regulation of cell cycle phase transition",1
+"227","GO:BP","negative regulation of cell cycle process",1
+"228","GO:BP","negative regulation of centrosome cycle",1
+"229","GO:BP","negative regulation of centrosome duplication",1
+"230","GO:BP","negative regulation of chromosome organization",1
+"231","GO:BP","negative regulation of chromosome segregation",1
+"232","GO:BP","negative regulation of chromosome separation",1
+"233","GO:BP","negative regulation of DNA-dependent DNA replication",1
+"234","GO:BP","negative regulation of DNA endoreduplication",1
+"235","GO:BP","negative regulation of DNA replication",1
+"236","GO:BP","negative regulation of G1/S transition of mitotic cell cycle",1
+"237","GO:BP","negative regulation of G2/M transition of mitotic cell cycle",1
+"238","GO:BP","negative regulation of gene expression",1
+"239","GO:BP","negative regulation of macromolecule metabolic process",1
+"240","GO:BP","negative regulation of metabolic process",1
+"241","GO:BP","negative regulation of metaphase/anaphase transition of cell cycle",1
+"242","GO:BP","negative regulation of mitotic cell cycle",1
+"243","GO:BP","negative regulation of mitotic cell cycle phase transition",1
+"244","GO:BP","negative regulation of mitotic metaphase/anaphase transition",1
+"245","GO:BP","negative regulation of mitotic nuclear division",1
+"246","GO:BP","negative regulation of mitotic sister chromatid segregation",1
+"247","GO:BP","negative regulation of mitotic sister chromatid separation",1
+"248","GO:BP","negative regulation of nuclear division",1
+"249","GO:BP","negative regulation of organelle organization",1
+"250","GO:BP","negative regulation of sister chromatid segregation",1
+"251","GO:BP","nervous system development",1
+"252","GO:BP","neurogenesis",1
+"253","GO:BP","neuron development",1
+"254","GO:BP","neuron differentiation",1
+"255","GO:BP","neuron projection development",1
+"256","GO:BP","neuron projection guidance",1
+"257","GO:BP","neuron projection morphogenesis",1
+"258","GO:BP","nitrobenzene metabolic process",1
+"259","GO:BP","nitrogen compound metabolic process",1
+"260","GO:BP","nuclear-transcribed mRNA catabolic process",1
+"261","GO:BP","nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",1
+"262","GO:BP","nuclear chromosome segregation",1
+"263","GO:BP","nuclear division",1
+"264","GO:BP","nuclear DNA replication",1
+"265","GO:BP","nuclear export",1
+"266","GO:BP","nuclear transport",1
+"267","GO:BP","nucleic acid metabolic process",1
+"268","GO:BP","nucleic acid phosphodiester bond hydrolysis",1
+"269","GO:BP","nucleic acid transport",1
+"270","GO:BP","nucleobase-containing compound biosynthetic process",1
+"271","GO:BP","nucleobase-containing compound catabolic process",1
+"272","GO:BP","nucleobase-containing compound metabolic process",1
+"273","GO:BP","nucleobase-containing compound transport",1
+"274","GO:BP","nucleocytoplasmic transport",1
+"275","GO:BP","organelle assembly",1
+"276","GO:BP","organelle fission",1
+"277","GO:BP","organic acid metabolic process",1
+"278","GO:BP","organic acid transport",1
+"279","GO:BP","organic anion transport",1
+"280","GO:BP","organic cyclic compound biosynthetic process",1
+"281","GO:BP","organic cyclic compound catabolic process",1
+"282","GO:BP","organic cyclic compound metabolic process",1
+"283","GO:BP","organic hydroxy compound metabolic process",1
+"284","GO:BP","organic substance catabolic process",1
+"285","GO:BP","organic substance metabolic process",1
+"286","GO:BP","organonitrogen compound biosynthetic process",1
+"287","GO:BP","organonitrogen compound catabolic process",1
+"288","GO:BP","organonitrogen compound metabolic process",1
+"289","GO:BP","osteoblast differentiation",1
+"290","GO:BP","oxoacid metabolic process",1
+"291","GO:BP","pattern specification process",1
+"292","GO:BP","pentose biosynthetic process",1
+"293","GO:BP","peptide biosynthetic process",1
+"294","GO:BP","peptide metabolic process",1
+"295","GO:BP","pituitary gland development",1
+"296","GO:BP","plasma membrane bounded cell projection morphogenesis",1
+"297","GO:BP","plasma membrane bounded cell projection organization",1
+"298","GO:BP","polyketide metabolic process",1
+"299","GO:BP","positive regulation of biosynthetic process",1
+"300","GO:BP","positive regulation of cell cycle",1
+"301","GO:BP","positive regulation of cell cycle arrest",1
+"302","GO:BP","positive regulation of cell cycle G2/M phase transition",1
+"303","GO:BP","positive regulation of cell cycle phase transition",1
+"304","GO:BP","positive regulation of cell cycle process",1
+"305","GO:BP","positive regulation of cellular biosynthetic process",1
+"306","GO:BP","positive regulation of cellular metabolic process",1
+"307","GO:BP","positive regulation of cerebellar granule cell precursor proliferation",1
+"308","GO:BP","positive regulation of chromosome organization",1
+"309","GO:BP","positive regulation of chromosome segregation",1
+"310","GO:BP","positive regulation of DNA-dependent DNA replication",1
+"311","GO:BP","positive regulation of DNA biosynthetic process",1
+"312","GO:BP","positive regulation of DNA metabolic process",1
+"313","GO:BP","positive regulation of DNA replication",1
+"314","GO:BP","positive regulation of establishment of protein localization to telomere",1
+"315","GO:BP","positive regulation of G2/M transition of mitotic cell cycle",1
+"316","GO:BP","positive regulation of gene expression",1
+"317","GO:BP","positive regulation of macromolecule biosynthetic process",1
+"318","GO:BP","positive regulation of macromolecule metabolic process",1
+"319","GO:BP","positive regulation of mitotic cell cycle",1
+"320","GO:BP","positive regulation of mitotic cell cycle phase transition",1
+"321","GO:BP","positive regulation of nucleic acid-templated transcription",1
+"322","GO:BP","positive regulation of nucleobase-containing compound metabolic process",1
+"323","GO:BP","positive regulation of protein localization to Cajal body",1
+"324","GO:BP","positive regulation of protein localization to chromosome, telomeric region",1
+"325","GO:BP","positive regulation of RNA biosynthetic process",1
+"326","GO:BP","positive regulation of RNA metabolic process",1
+"327","GO:BP","positive regulation of telomere maintenance via telomerase",1
+"328","GO:BP","positive regulation of telomere maintenance via telomere lengthening",1
+"329","GO:BP","positive regulation of transcription by RNA polymerase II",1
+"330","GO:BP","positive regulation of transcription, DNA-templated",1
+"331","GO:BP","postreplication repair",1
+"332","GO:BP","proteasomal protein catabolic process",1
+"333","GO:BP","proteasome-mediated ubiquitin-dependent protein catabolic process",1
+"334","GO:BP","protein-containing complex assembly",1
+"335","GO:BP","protein-containing complex subunit organization",1
+"336","GO:BP","protein-DNA complex assembly",1
+"337","GO:BP","protein-DNA complex subunit organization",1
+"338","GO:BP","protein catabolic process",1
+"339","GO:BP","protein localization to Cajal body",1
+"340","GO:BP","protein localization to chromosome",1
+"341","GO:BP","protein localization to chromosome, centromeric region",1
+"342","GO:BP","protein localization to chromosome, telomeric region",1
+"343","GO:BP","protein localization to endoplasmic reticulum",1
+"344","GO:BP","protein localization to kinetochore",1
+"345","GO:BP","protein localization to nuclear body",1
+"346","GO:BP","protein localization to nucleoplasm",1
+"347","GO:BP","protein localization to organelle",1
+"348","GO:BP","protein metabolic process",1
+"349","GO:BP","protein modification by small protein conjugation",1
+"350","GO:BP","protein modification by small protein conjugation or removal",1
+"351","GO:BP","protein stabilization",1
+"352","GO:BP","protein targeting to ER",1
+"353","GO:BP","protein ubiquitination",1
+"354","GO:BP","proteolysis involved in cellular protein catabolic process",1
+"355","GO:BP","recombinational repair",1
+"356","GO:BP","regulation of anatomical structure size",1
+"357","GO:BP","regulation of axonogenesis",1
+"358","GO:BP","regulation of biological quality",1
+"359","GO:BP","regulation of cell communication",1
+"360","GO:BP","regulation of cell cycle",1
+"361","GO:BP","regulation of cell cycle arrest",1
+"362","GO:BP","regulation of cell cycle G1/S phase transition",1
+"363","GO:BP","regulation of cell cycle G2/M phase transition",1
+"364","GO:BP","regulation of cell cycle phase transition",1
+"365","GO:BP","regulation of cell cycle process",1
+"366","GO:BP","regulation of cell development",1
+"367","GO:BP","regulation of cell differentiation",1
+"368","GO:BP","regulation of cell division",1
+"369","GO:BP","regulation of cellular biosynthetic process",1
+"370","GO:BP","regulation of cellular component size",1
+"371","GO:BP","regulation of cellular macromolecule biosynthetic process",1
+"372","GO:BP","regulation of cellular metabolic process",1
+"373","GO:BP","regulation of centrosome cycle",1
+"374","GO:BP","regulation of centrosome duplication",1
+"375","GO:BP","regulation of chromosome organization",1
+"376","GO:BP","regulation of chromosome segregation",1
+"377","GO:BP","regulation of chromosome separation",1
+"378","GO:BP","regulation of cyclin-dependent protein kinase activity",1
+"379","GO:BP","regulation of cyclin-dependent protein serine/threonine kinase activity",1
+"380","GO:BP","regulation of cytokinesis",1
+"381","GO:BP","regulation of developmental process",1
+"382","GO:BP","regulation of DNA-dependent DNA replication",1
+"383","GO:BP","regulation of DNA biosynthetic process",1
+"384","GO:BP","regulation of DNA endoreduplication",1
+"385","GO:BP","regulation of DNA metabolic process",1
+"386","GO:BP","regulation of DNA replication",1
+"387","GO:BP","regulation of establishment of protein localization to chromosome",1
+"388","GO:BP","regulation of establishment of protein localization to telomere",1
+"389","GO:BP","regulation of G1/S transition of mitotic cell cycle",1
+"390","GO:BP","regulation of G2/M transition of mitotic cell cycle",1
+"391","GO:BP","regulation of gene expression",1
+"392","GO:BP","regulation of hormone levels",1
+"393","GO:BP","regulation of macromolecule biosynthetic process",1
+"394","GO:BP","regulation of macromolecule metabolic process",1
+"395","GO:BP","regulation of metabolic process",1
+"396","GO:BP","regulation of metaphase/anaphase transition of cell cycle",1
+"397","GO:BP","regulation of microtubule-based process",1
+"398","GO:BP","regulation of microtubule cytoskeleton organization",1
+"399","GO:BP","regulation of mitotic cell cycle",1
+"400","GO:BP","regulation of mitotic cell cycle phase transition",1
+"401","GO:BP","regulation of mitotic metaphase/anaphase transition",1
+"402","GO:BP","regulation of mitotic nuclear division",1
+"403","GO:BP","regulation of mitotic sister chromatid segregation",1
+"404","GO:BP","regulation of mitotic sister chromatid separation",1
+"405","GO:BP","regulation of multicellular organismal process",1
+"406","GO:BP","regulation of nervous system development",1
+"407","GO:BP","regulation of neurogenesis",1
+"408","GO:BP","regulation of neuron differentiation",1
+"409","GO:BP","regulation of nitrogen compound metabolic process",1
+"410","GO:BP","regulation of nuclear division",1
+"411","GO:BP","regulation of nucleobase-containing compound metabolic process",1
+"412","GO:BP","regulation of organelle organization",1
+"413","GO:BP","regulation of plasma membrane bounded cell projection organization",1
+"414","GO:BP","regulation of primary metabolic process",1
+"415","GO:BP","regulation of protein localization to Cajal body",1
+"416","GO:BP","regulation of protein localization to chromosome, telomeric region",1
+"417","GO:BP","regulation of response to DNA damage stimulus",1
+"418","GO:BP","regulation of signal transduction",1
+"419","GO:BP","regulation of signal transduction by p53 class mediator",1
+"420","GO:BP","regulation of signaling",1
+"421","GO:BP","regulation of sister chromatid segregation",1
+"422","GO:BP","regulation of telomere maintenance via telomerase",1
+"423","GO:BP","regulation of trans-synaptic signaling",1
+"424","GO:BP","regulation of transcription by RNA polymerase II",1
+"425","GO:BP","regulation of transcription involved in G1/S transition of mitotic cell cycle",1
+"426","GO:BP","regulation of ubiquitin-protein transferase activity",1
+"427","GO:BP","regulation of ubiquitin protein ligase activity",1
+"428","GO:BP","replication fork protection",1
+"429","GO:BP","response to abiotic stimulus",1
+"430","GO:BP","response to acid chemical",1
+"431","GO:BP","response to chemical",1
+"432","GO:BP","response to jasmonic acid",1
+"433","GO:BP","response to lipid",1
+"434","GO:BP","response to organic substance",1
+"435","GO:BP","response to oxygen-containing compound",1
+"436","GO:BP","response to radiation",1
+"437","GO:BP","response to UV",1
+"438","GO:BP","response to xenobiotic stimulus",1
+"439","GO:BP","retinoid metabolic process",1
+"440","GO:BP","ribonucleoprotein complex assembly",1
+"441","GO:BP","ribonucleoprotein complex biogenesis",1
+"442","GO:BP","ribonucleoprotein complex subunit organization",1
+"443","GO:BP","ribosomal large subunit biogenesis",1
+"444","GO:BP","ribosomal small subunit biogenesis",1
+"445","GO:BP","ribosome biogenesis",1
+"446","GO:BP","RNA-dependent DNA biosynthetic process",1
+"447","GO:BP","RNA catabolic process",1
+"448","GO:BP","RNA localization",1
+"449","GO:BP","RNA metabolic process",1
+"450","GO:BP","RNA processing",1
+"451","GO:BP","RNA transport",1
+"452","GO:BP","rRNA metabolic process",1
+"453","GO:BP","rRNA processing",1
+"454","GO:BP","rRNA transcription",1
+"455","GO:BP","signal transduction by p53 class mediator",1
+"456","GO:BP","signal transduction in response to DNA damage",1
+"457","GO:BP","signal transduction involved in cell cycle checkpoint",1
+"458","GO:BP","signal transduction involved in DNA damage checkpoint",1
+"459","GO:BP","signal transduction involved in DNA integrity checkpoint",1
+"460","GO:BP","signal transduction involved in mitotic cell cycle checkpoint",1
+"461","GO:BP","signal transduction involved in mitotic DNA damage checkpoint",1
+"462","GO:BP","signal transduction involved in mitotic DNA integrity checkpoint",1
+"463","GO:BP","signal transduction involved in mitotic G1 DNA damage checkpoint",1
+"464","GO:BP","signaling",1
+"465","GO:BP","sister chromatid cohesion",1
+"466","GO:BP","sister chromatid segregation",1
+"467","GO:BP","small molecule metabolic process",1
+"468","GO:BP","smoothened signaling pathway involved in regulation of cerebellar granule cell precursor cell proliferation",1
+"469","GO:BP","spindle assembly",1
+"470","GO:BP","spindle assembly checkpoint",1
+"471","GO:BP","spindle checkpoint",1
+"472","GO:BP","spindle elongation",1
+"473","GO:BP","spindle organization",1
+"474","GO:BP","SRP-dependent cotranslational protein targeting to membrane",1
+"475","GO:BP","stem cell division",1
+"476","GO:BP","symbiont process",1
+"477","GO:BP","synapse assembly",1
+"478","GO:BP","synaptic signaling",1
+"479","GO:BP","system development",1
+"480","GO:BP","system process",1
+"481","GO:BP","telomere maintenance",1
+"482","GO:BP","telomere maintenance via semi-conservative replication",1
+"483","GO:BP","telomere maintenance via telomerase",1
+"484","GO:BP","telomere maintenance via telomere lengthening",1
+"485","GO:BP","telomere organization",1
+"486","GO:BP","terpenoid metabolic process",1
+"487","GO:BP","tertiary alcohol metabolic process",1
+"488","GO:BP","tissue development",1
+"489","GO:BP","tissue morphogenesis",1
+"490","GO:BP","trans-synaptic signaling",1
+"491","GO:BP","transcription by RNA polymerase II",1
+"492","GO:BP","translation",1
+"493","GO:BP","translational initiation",1
+"494","GO:BP","tRNA metabolic process",1
+"495","GO:BP","ubiquitin-dependent protein catabolic process",1
+"496","GO:BP","ventral midline development",1
+"497","GO:BP","viral gene expression",1
+"498","GO:BP","viral process",1
+"499","GO:BP","viral transcription",1
+"500","GO:BP","xenobiotic metabolic process",1
+"501","GO:CC","intracellular organelle part",8
+"502","GO:CC","organelle part",8
+"503","GO:CC","cytoplasm",7
+"504","GO:CC","intracellular",7
+"505","GO:CC","intracellular membrane-bounded organelle",7
+"506","GO:CC","intracellular part",7
+"507","GO:CC","cytoplasmic part",6
+"508","GO:CC","intracellular organelle",6
+"509","GO:CC","nuclear lumen",6
+"510","GO:CC","nuclear part",6
+"511","GO:CC","organelle",6
+"512","GO:CC","cytosol",5
+"513","GO:CC","membrane-bounded organelle",5
+"514","GO:CC","nucleus",5
+"515","GO:CC","protein-containing complex",5
+"516","GO:CC","intracellular organelle lumen",4
+"517","GO:CC","membrane-enclosed lumen",4
+"518","GO:CC","nucleoplasm",4
+"519","GO:CC","organelle lumen",4
+"520","GO:CC","cell part",3
+"521","GO:CC","organelle membrane",3
+"522","GO:CC","ribonucleoprotein complex",3
+"523","GO:CC","catalytic complex",2
+"524","GO:CC","cell",2
+"525","GO:CC","envelope",2
+"526","GO:CC","microtubule cytoskeleton",2
+"527","GO:CC","mitochondrion",2
+"528","GO:CC","nucleoplasm part",2
+"529","GO:CC","organelle envelope",2
+"530","GO:CC","alpha DNA polymerase:primase complex",1
+"531","GO:CC","anaphase-promoting complex",1
+"532","GO:CC","asymmetric synapse",1
+"533","GO:CC","axon",1
+"534","GO:CC","carboxy-terminal domain protein kinase complex",1
+"535","GO:CC","cation channel complex",1
+"536","GO:CC","Cdc73/Paf1 complex",1
+"537","GO:CC","cell-cell junction",1
+"538","GO:CC","cell division site part",1
+"539","GO:CC","cell periphery",1
+"540","GO:CC","cell projection",1
+"541","GO:CC","cell projection membrane",1
+"542","GO:CC","cell projection part",1
+"543","GO:CC","central region of growth cone",1
+"544","GO:CC","centralspindlin complex",1
+"545","GO:CC","centrosome",1
+"546","GO:CC","chaperone complex",1
+"547","GO:CC","chaperonin-containing T-complex",1
+"548","GO:CC","chromatin",1
+"549","GO:CC","chromocenter",1
+"550","GO:CC","chromosomal part",1
+"551","GO:CC","chromosomal region",1
+"552","GO:CC","chromosome",1
+"553","GO:CC","chromosome passenger complex",1
+"554","GO:CC","chromosome, centromeric region",1
+"555","GO:CC","chromosome, telomeric region",1
+"556","GO:CC","cleavage furrow",1
+"557","GO:CC","condensed chromosome",1
+"558","GO:CC","condensed chromosome inner kinetochore",1
+"559","GO:CC","condensed chromosome kinetochore",1
+"560","GO:CC","condensed chromosome outer kinetochore",1
+"561","GO:CC","condensed chromosome, centromeric region",1
+"562","GO:CC","condensed nuclear chromosome",1
+"563","GO:CC","condensed nuclear chromosome kinetochore",1
+"564","GO:CC","condensed nuclear chromosome outer kinetochore",1
+"565","GO:CC","condensed nuclear chromosome, centromeric region",1
+"566","GO:CC","condensin complex",1
+"567","GO:CC","contractile ring",1
+"568","GO:CC","cytoskeletal part",1
+"569","GO:CC","cytoskeleton",1
+"570","GO:CC","cytosolic large ribosomal subunit",1
+"571","GO:CC","cytosolic part",1
+"572","GO:CC","cytosolic ribosome",1
+"573","GO:CC","dendrite",1
+"574","GO:CC","dendritic tree",1
+"575","GO:CC","DNA replication factor C complex",1
+"576","GO:CC","DNA replication preinitiation complex",1
+"577","GO:CC","endomembrane system",1
+"578","GO:CC","endoplasmic reticulum",1
+"579","GO:CC","endosomal part",1
+"580","GO:CC","endosome membrane",1
+"581","GO:CC","GABA-ergic synapse",1
+"582","GO:CC","GINS complex",1
+"583","GO:CC","growth cone part",1
+"584","GO:CC","heterochromatin",1
+"585","GO:CC","integral component of membrane",1
+"586","GO:CC","integral component of plasma membrane",1
+"587","GO:CC","intracellular non-membrane-bounded organelle",1
+"588","GO:CC","intrinsic component of membrane",1
+"589","GO:CC","intrinsic component of plasma membrane",1
+"590","GO:CC","KICSTOR complex",1
+"591","GO:CC","kinesin complex",1
+"592","GO:CC","kinetochore",1
+"593","GO:CC","large ribosomal subunit",1
+"594","GO:CC","MCM complex",1
+"595","GO:CC","membrane",1
+"596","GO:CC","membrane microdomain",1
+"597","GO:CC","membrane part",1
+"598","GO:CC","membrane raft",1
+"599","GO:CC","membrane region",1
+"600","GO:CC","microtubule",1
+"601","GO:CC","microtubule associated complex",1
+"602","GO:CC","microtubule organizing center",1
+"603","GO:CC","midbody",1
+"604","GO:CC","mitochondrial envelope",1
+"605","GO:CC","mitochondrial inner membrane",1
+"606","GO:CC","mitochondrial matrix",1
+"607","GO:CC","mitochondrial membrane",1
+"608","GO:CC","mitochondrial part",1
+"609","GO:CC","mitotic spindle",1
+"610","GO:CC","mitotic spindle pole",1
+"611","GO:CC","Ndc80 complex",1
+"612","GO:CC","neuron part",1
+"613","GO:CC","neuron projection",1
+"614","GO:CC","neuron to neuron synapse",1
+"615","GO:CC","non-membrane-bounded organelle",1
+"616","GO:CC","nuclear body",1
+"617","GO:CC","nuclear chromatin",1
+"618","GO:CC","nuclear chromosome",1
+"619","GO:CC","nuclear chromosome part",1
+"620","GO:CC","nuclear chromosome, telomeric region",1
+"621","GO:CC","nuclear envelope",1
+"622","GO:CC","nuclear heterochromatin",1
+"623","GO:CC","nuclear matrix",1
+"624","GO:CC","nuclear periphery",1
+"625","GO:CC","nuclear pore cytoplasmic filaments",1
+"626","GO:CC","nuclear replication fork",1
+"627","GO:CC","nuclear ubiquitin ligase complex",1
+"628","GO:CC","nucleolar part",1
+"629","GO:CC","nucleolus",1
+"630","GO:CC","organelle inner membrane",1
+"631","GO:CC","pericentric heterochromatin",1
+"632","GO:CC","plasma membrane",1
+"633","GO:CC","plasma membrane bounded cell projection",1
+"634","GO:CC","plasma membrane bounded cell projection part",1
+"635","GO:CC","plasma membrane part",1
+"636","GO:CC","plasma membrane raft",1
+"637","GO:CC","plasma membrane region",1
+"638","GO:CC","platelet dense granule lumen",1
+"639","GO:CC","polymeric cytoskeletal fiber",1
+"640","GO:CC","polysomal ribosome",1
+"641","GO:CC","polysome",1
+"642","GO:CC","postsynapse",1
+"643","GO:CC","postsynaptic density",1
+"644","GO:CC","postsynaptic specialization",1
+"645","GO:CC","preribosome",1
+"646","GO:CC","pronucleus",1
+"647","GO:CC","protein kinase complex",1
+"648","GO:CC","replication fork",1
+"649","GO:CC","replication fork protection complex",1
+"650","GO:CC","replisome",1
+"651","GO:CC","ribosomal subunit",1
+"652","GO:CC","ribosome",1
+"653","GO:CC","serine/threonine protein kinase complex",1
+"654","GO:CC","small ribosomal subunit",1
+"655","GO:CC","somatodendritic compartment",1
+"656","GO:CC","spindle",1
+"657","GO:CC","spindle microtubule",1
+"658","GO:CC","spindle midzone",1
+"659","GO:CC","spindle pole",1
+"660","GO:CC","synapse",1
+"661","GO:CC","synapse part",1
+"662","GO:CC","transferase complex",1
+"663","GO:CC","ubiquitin ligase complex",1
+"664","GO:CC","voltage-gated calcium channel complex",1
+"665","GO:MF","catalytic activity",2
+"666","GO:MF","nucleic acid binding",2
+"667","GO:MF","3'-5' DNA helicase activity",1
+"668","GO:MF","adenyl nucleotide binding",1
+"669","GO:MF","adenyl ribonucleotide binding",1
+"670","GO:MF","alcohol dehydrogenase (NADP+) activity",1
+"671","GO:MF","alditol:NADP+ 1-oxidoreductase activity",1
+"672","GO:MF","aldo-keto reductase (NADP) activity",1
+"673","GO:MF","anaphase-promoting complex binding",1
+"674","GO:MF","androsterone dehydrogenase activity",1
+"675","GO:MF","anion binding",1
+"676","GO:MF","ATP binding",1
+"677","GO:MF","ATPase activity",1
+"678","GO:MF","ATPase activity, coupled",1
+"679","GO:MF","binding",1
+"680","GO:MF","carbohydrate derivative binding",1
+"681","GO:MF","catalytic activity, acting on DNA",1
+"682","GO:MF","catalytic activity, acting on RNA",1
+"683","GO:MF","chromatin binding",1
+"684","GO:MF","cis-trans isomerase activity",1
+"685","GO:MF","cyclosporin A binding",1
+"686","GO:MF","damaged DNA binding",1
+"687","GO:MF","DNA-binding transcription activator activity",1
+"688","GO:MF","DNA-binding transcription activator activity, RNA polymerase II-specific",1
+"689","GO:MF","DNA-binding transcription factor activity",1
+"690","GO:MF","DNA-binding transcription factor activity, RNA polymerase II-specific",1
+"691","GO:MF","DNA-dependent ATPase activity",1
+"692","GO:MF","DNA binding",1
+"693","GO:MF","DNA helicase activity",1
+"694","GO:MF","DNA polymerase binding",1
+"695","GO:MF","DNA replication origin binding",1
+"696","GO:MF","DNA secondary structure binding",1
+"697","GO:MF","double-stranded DNA binding",1
+"698","GO:MF","drug binding",1
+"699","GO:MF","enzyme binding",1
+"700","GO:MF","four-way junction DNA binding",1
+"701","GO:MF","G protein-coupled receptor binding",1
+"702","GO:MF","helicase activity",1
+"703","GO:MF","heterocyclic compound binding",1
+"704","GO:MF","hydrolase activity",1
+"705","GO:MF","hydrolase activity, acting on acid anhydrides",1
+"706","GO:MF","hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",1
+"707","GO:MF","indanol dehydrogenase activity",1
+"708","GO:MF","ketosteroid monooxygenase activity",1
+"709","GO:MF","kinase binding",1
+"710","GO:MF","magnesium ion binding",1
+"711","GO:MF","microtubule binding",1
+"712","GO:MF","microtubule motor activity",1
+"713","GO:MF","motor activity",1
+"714","GO:MF","nucleoside-triphosphatase activity",1
+"715","GO:MF","nucleoside phosphate binding",1
+"716","GO:MF","nucleotide binding",1
+"717","GO:MF","organic cyclic compound binding",1
+"718","GO:MF","oxidized purine DNA binding",1
+"719","GO:MF","oxidoreductase activity, acting on CH-OH group of donors",1
+"720","GO:MF","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",1
+"721","GO:MF","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",1
+"722","GO:MF","peptidyl-prolyl cis-trans isomerase activity",1
+"723","GO:MF","phenanthrene 9,10-monooxygenase activity",1
+"724","GO:MF","protein binding",1
+"725","GO:MF","protein C-terminus binding",1
+"726","GO:MF","purine nucleotide binding",1
+"727","GO:MF","purine ribonucleoside triphosphate binding",1
+"728","GO:MF","purine ribonucleotide binding",1
+"729","GO:MF","pyrophosphatase activity",1
+"730","GO:MF","regulatory region nucleic acid binding",1
+"731","GO:MF","ribonucleoprotein complex binding",1
+"732","GO:MF","ribonucleotide binding",1
+"733","GO:MF","ribosomal small subunit binding",1
+"734","GO:MF","RNA-DNA hybrid ribonuclease activity",1
+"735","GO:MF","RNA binding",1
+"736","GO:MF","RNA polymerase II C-terminal domain phosphoserine binding",1
+"737","GO:MF","RNA polymerase II regulatory region DNA binding",1
+"738","GO:MF","RNA polymerase II regulatory region sequence-specific DNA binding",1
+"739","GO:MF","sequence-specific DNA binding",1
+"740","GO:MF","sequence-specific double-stranded DNA binding",1
+"741","GO:MF","sequence-specific mRNA binding",1
+"742","GO:MF","single-stranded DNA binding",1
+"743","GO:MF","small molecule binding",1
+"744","GO:MF","structural constituent of ribosome",1
+"745","GO:MF","transcription factor binding",1
+"746","GO:MF","transcription regulator activity",1
+"747","GO:MF","transcription regulatory region DNA binding",1
+"748","GO:MF","transcription regulatory region sequence-specific DNA binding",1
+"749","GO:MF","transferase activity",1
+"750","GO:MF","tubulin binding",1
+"751","GO:MF","ubiquitin-like protein ligase binding",1
+"752","GO:MF","ubiquitin protein ligase binding",1
+"753","HP","Abnormality of forebrain morphology",2
+"754","HP","Abnormality of the cerebrum",2
+"755","HP","Global developmental delay",2
+"756","HP","Abnormal 5th finger morphology",1
+"757","HP","Abnormal aortic valve morphology",1
+"758","HP","Abnormal atrial septum morphology",1
+"759","HP","Abnormal cardiac atrium morphology",1
+"760","HP","Abnormal cardiac septum morphology",1
+"761","HP","Abnormal carotid artery morphology",1
+"762","HP","Abnormal digit morphology",1
+"763","HP","Abnormal erythrocyte morphology",1
+"764","HP","Abnormal facial shape",1
+"765","HP","Abnormal forearm bone morphology",1
+"766","HP","Abnormal ileum morphology",1
+"767","HP","Abnormal jaw morphology",1
+"768","HP","Abnormal male reproductive system physiology",1
+"769","HP","Abnormal male urethral meatus morphology",1
+"770","HP","Abnormal morphology of ulna",1
+"771","HP","Abnormal reproductive system morphology",1
+"772","HP","Abnormal shape of the palpebral fissure",1
+"773","HP","Abnormal soft palate morphology",1
+"774","HP","Abnormal thumb morphology",1
+"775","HP","Abnormal trachea morphology",1
+"776","HP","Abnormal ureter morphology",1
+"777","HP","Abnormality of body height",1
+"778","HP","Abnormality of body weight",1
+"779","HP","Abnormality of brain morphology",1
+"780","HP","Abnormality of calvarial morphology",1
+"781","HP","Abnormality of chromosome stability",1
+"782","HP","Abnormality of facial skeleton",1
+"783","HP","Abnormality of limb bone",1
+"784","HP","Abnormality of limb bone morphology",1
+"785","HP","Abnormality of limbs",1
+"786","HP","Abnormality of nervous system morphology",1
+"787","HP","Abnormality of nervous system physiology",1
+"788","HP","Abnormality of skull size",1
+"789","HP","Abnormality of the cerebral ventricles",1
+"790","HP","Abnormality of the cerebrospinal fluid",1
+"791","HP","Abnormality of the duodenum",1
+"792","HP","Abnormality of the fallopian tube",1
+"793","HP","Abnormality of the female genitalia",1
+"794","HP","Abnormality of the forehead",1
+"795","HP","Abnormality of the genital system",1
+"796","HP","Abnormality of the hand",1
+"797","HP","Abnormality of the lower urinary tract",1
+"798","HP","Abnormality of the mandible",1
+"799","HP","Abnormality of the nervous system",1
+"800","HP","Abnormality of the outer ear",1
+"801","HP","Abnormality of the palpebral fissures",1
+"802","HP","Abnormality of the pinna",1
+"803","HP","Abnormality of the preputium",1
+"804","HP","Abnormality of the small intestine",1
+"805","HP","Abnormality of the ureter",1
+"806","HP","Abnormality of the urethra",1
+"807","HP","Abnormality of the uterus",1
+"808","HP","Abnormality of the uvula",1
+"809","HP","Abnormality of thumb phalanx",1
+"810","HP","Abnormality of toe",1
+"811","HP","Absent testis",1
+"812","HP","Almond-shaped palpebral fissure",1
+"813","HP","Anemia",1
+"814","HP","Anemia of inadequate production",1
+"815","HP","Anotia",1
+"816","HP","Aplasia/hypoplasia affecting bones of the axial skeleton",1
+"817","HP","Aplasia/Hypoplasia affecting the anterior segment of the eye",1
+"818","HP","Aplasia/Hypoplasia affecting the uvea",1
+"819","HP","Aplasia/Hypoplasia involving bones of the skull",1
+"820","HP","Aplasia/Hypoplasia involving the central nervous system",1
+"821","HP","Aplasia/hypoplasia involving the skeleton",1
+"822","HP","Aplasia/Hypoplasia of the cerebrum",1
+"823","HP","Aplasia/Hypoplasia of the iris",1
+"824","HP","Aplasia/Hypoplasia of the mandible",1
+"825","HP","Aplasia/Hypoplasia of the radius",1
+"826","HP","Aplasia/Hypoplasia of the ulna",1
+"827","HP","Aplasia/Hypoplasia of the uvula",1
+"828","HP","Arteriovenous malformation",1
+"829","HP","Atrial septal defect",1
+"830","HP","Bicornuate uterus",1
+"831","HP","Cafe-au-lait spot",1
+"832","HP","Choanal atresia",1
+"833","HP","Chromosome breakage",1
+"834","HP","Clinodactyly",1
+"835","HP","Clinodactyly of the 5th finger",1
+"836","HP","Clubbing",1
+"837","HP","Clubbing of toes",1
+"838","HP","Decreased body weight",1
+"839","HP","Decreased head circumference",1
+"840","HP","Deviation of finger",1
+"841","HP","Deviation of the 5th finger",1
+"842","HP","Deviation of the hand or of fingers of the hand",1
+"843","HP","Deviation of the thumb",1
+"844","HP","Displacement of the urethral meatus",1
+"845","HP","Distal amyotrophy",1
+"846","HP","Duodenal stenosis",1
+"847","HP","External ear malformation",1
+"848","HP","Finger clinodactyly",1
+"849","HP","Forearm undergrowth",1
+"850","HP","Growth abnormality",1
+"851","HP","Growth delay",1
+"852","HP","Hematological neoplasm",1
+"853","HP","Hydroureter",1
+"854","HP","Hypoplasia of the ulna",1
+"855","HP","Hypospadias",1
+"856","HP","Intrauterine growth retardation",1
+"857","HP","Leukemia",1
+"858","HP","Limb undergrowth",1
+"859","HP","Meckel diverticulum",1
+"860","HP","Microcephaly",1
+"861","HP","Micrognathia",1
+"862","HP","Microphthalmia",1
+"863","HP","Microtia",1
+"864","HP","Microtia, third degree",1
+"865","HP","Morphological abnormality of the central nervous system",1
+"866","HP","Multiple cafe-au-lait spots",1
+"867","HP","Myelodysplasia",1
+"868","HP","Neurodevelopmental abnormality",1
+"869","HP","Neurodevelopmental delay",1
+"870","HP","Oligohydramnios",1
+"871","HP","Primary peritoneal carcinoma",1
+"872","HP","Proximal placement of thumb",1
+"873","HP","Pyridoxine-responsive sideroblastic anemia",1
+"874","HP","Sandal gap",1
+"875","HP","Short stature",1
+"876","HP","Sideroblastic anemia",1
+"877","HP","Simplified gyral pattern",1
+"878","HP","Slanting of the palpebral fissure",1
+"879","HP","Sloping forehead",1
+"880","HP","Small intestinal stenosis",1
+"881","HP","Toe syndactyly",1
+"882","HP","Tracheoesophageal fistula",1
+"883","HP","Triangular shaped phalanges of the hand",1
+"884","HP","Triphalangeal thumb",1
+"885","HP","Upper limb undergrowth",1
+"886","HP","Upslanted palpebral fissure",1
+"887","HP","Ventriculomegaly",1
+"888","HP","Weight loss",1
+"889","HPA","adrenal gland; glandular cells[Supported,Medium]",1
+"890","HPA","appendix; glandular cells[Supported,Low]",1
+"891","HPA","appendix; lymphoid tissue[Approved,Low]",1
+"892","HPA","appendix; lymphoid tissue[Approved,Medium]",1
+"893","HPA","appendix; lymphoid tissue[Supported,Medium]",1
+"894","HPA","bone marrow; hematopoietic cells[Supported,Medium]",1
+"895","HPA","breast; adipocytes[Supported,Low]",1
+"896","HPA","breast; glandular cells[Supported,High]",1
+"897","HPA","breast; glandular cells[Supported,Medium]",1
+"898","HPA","breast; glandular cells[Uncertain,High]",1
+"899","HPA","bronchus; respiratory epithelial cells[Approved,Medium]",1
+"900","HPA","bronchus; respiratory epithelial cells[Supported,High]",1
+"901","HPA","bronchus; respiratory epithelial cells[Supported,Low]",1
+"902","HPA","bronchus; respiratory epithelial cells[Supported,Medium]",1
+"903","HPA","cerebellum; cells in granular layer[Supported,Medium]",1
+"904","HPA","cerebellum; Purkinje cells[Supported,Low]",1
+"905","HPA","cerebellum; Purkinje cells[Supported,Medium]",1
+"906","HPA","cerebral cortex; glial cells[Supported,Low]",1
+"907","HPA","cerebral cortex; neuronal cells[Supported,Low]",1
+"908","HPA","cerebral cortex; neuronal cells[Supported,Medium]",1
+"909","HPA","cervix, uterine; glandular cells[Supported,High]",1
+"910","HPA","cervix, uterine; glandular cells[Supported,Medium]",1
+"911","HPA","cervix, uterine; squamous epithelial cells[Supported,High]",1
+"912","HPA","cervix, uterine; squamous epithelial cells[Supported,Low]",1
+"913","HPA","colon; glandular cells[Supported,High]",1
+"914","HPA","duodenum; glandular cells[Supported,Medium]",1
+"915","HPA","endometrium 1; glandular cells[Supported,Low]",1
+"916","HPA","endometrium 1; glandular cells[Supported,Medium]",1
+"917","HPA","endometrium 2; glandular cells[Supported,Low]",1
+"918","HPA","endometrium 2; glandular cells[Supported,Medium]",1
+"919","HPA","epididymis; glandular cells[Approved,Medium]",1
+"920","HPA","epididymis; glandular cells[Supported,Medium]",1
+"921","HPA","esophagus; squamous epithelial cells[Supported,Low]",1
+"922","HPA","esophagus; squamous epithelial cells[Supported,Medium]",1
+"923","HPA","fallopian tube; glandular cells[Approved,Medium]",1
+"924","HPA","fallopian tube; glandular cells[Supported,Low]",1
+"925","HPA","fallopian tube; glandular cells[Supported,Medium]",1
+"926","HPA","hippocampus; neuronal cells[Approved,Medium]",1
+"927","HPA","hippocampus; neuronal cells[Supported,Low]",1
+"928","HPA","hippocampus; neuronal cells[Supported,Medium]",1
+"929","HPA","lymph node; germinal center cells[Supported,Medium]",1
+"930","HPA","nasopharynx; respiratory epithelial cells[Supported,High]",1
+"931","HPA","nasopharynx; respiratory epithelial cells[Supported,Medium]",1
+"932","HPA","oral mucosa; squamous epithelial cells[Approved,Low]",1
+"933","HPA","oral mucosa; squamous epithelial cells[Supported,Low]",1
+"934","HPA","oral mucosa; squamous epithelial cells[Supported,Medium]",1
+"935","HPA","oral mucosa; squamous epithelial cells[Uncertain,Low]",1
+"936","HPA","placenta; decidual cells[Approved,Low]",1
+"937","HPA","placenta; trophoblastic cells[Approved,Medium]",1
+"938","HPA","placenta; trophoblastic cells[Supported,High]",1
+"939","HPA","placenta; trophoblastic cells[Uncertain,High]",1
+"940","HPA","prostate; glandular cells[Supported,Medium]",1
+"941","HPA","rectum; glandular cells[Supported,High]",1
+"942","HPA","rectum; glandular cells[Supported,Low]",1
+"943","HPA","rectum; glandular cells[Supported,Medium]",1
+"944","HPA","salivary gland; glandular cells[Supported,High]",1
+"945","HPA","skeletal muscle; myocytes[Supported,Medium]",1
+"946","HPA","skin 1; keratinocytes[Supported,Medium]",1
+"947","HPA","skin 1; keratinocytes[Uncertain,Medium]",1
+"948","HPA","skin 2; epidermal cells[Supported,Low]",1
+"949","HPA","skin 2; epidermal cells[Supported,Medium]",1
+"950","HPA","soft tissue 1; fibroblasts[Supported,Low]",1
+"951","HPA","spleen; cells in white pulp[Supported,Low]",1
+"952","HPA","stomach 1; glandular cells[Approved,Medium]",1
+"953","HPA","testis; Leydig cells[Supported,Medium]",1
+"954","HPA","tonsil; germinal center cells[Approved,Medium]",1
+"955","HPA","tonsil; germinal center cells[Supported,Medium]",1
+"956","HPA","tonsil; squamous epithelial cells[Supported,Low]",1
+"957","HPA","tonsil; squamous epithelial cells[Supported,Medium]",1
+"958","HPA","urinary bladder; urothelial cells[Supported,High]",1
+"959","HPA","vagina; squamous epithelial cells[Supported,Low]",1
+"960","HPA","vagina; squamous epithelial cells[Supported,Medium]",1
+"961","HPA","vagina; squamous epithelial cells[Uncertain,Low]",1
+"962","KEGG","Cell cycle",2
+"963","KEGG","Mismatch repair",2
+"964","KEGG","Basal cell carcinoma",1
+"965","KEGG","Base excision repair",1
+"966","KEGG","Breast cancer",1
+"967","KEGG","Cellular senescence",1
+"968","KEGG","Chemical carcinogenesis",1
+"969","KEGG","DNA replication",1
+"970","KEGG","Fanconi anemia pathway",1
+"971","KEGG","Glutathione metabolism",1
+"972","KEGG","Hepatocellular carcinoma",1
+"973","KEGG","Hippo signaling pathway",1
+"974","KEGG","Homologous recombination",1
+"975","KEGG","Melanogenesis",1
+"976","KEGG","Metabolism of xenobiotics by cytochrome P450",1
+"977","KEGG","One carbon pool by folate",1
+"978","KEGG","Oocyte meiosis",1
+"979","KEGG","Pathways in cancer",1
+"980","KEGG","Peroxisome",1
+"981","KEGG","Progesterone-mediated oocyte maturation",1
+"982","KEGG","Ribosome",1
+"983","KEGG","Ribosome biogenesis in eukaryotes",1
+"984","KEGG","RNA transport",1
+"985","KEGG","Ubiquitin mediated proteolysis",1
+"986","MIRNA","hsa-let-7b-5p",2
+"987","MIRNA","hsa-miR-484",2
+"988","MIRNA","hsa-let-7a-5p",1
+"989","MIRNA","hsa-let-7c-5p",1
+"990","MIRNA","hsa-miR-1278",1
+"991","MIRNA","hsa-miR-149-5p",1
+"992","MIRNA","hsa-miR-16-5p",1
+"993","MIRNA","hsa-miR-186-5p",1
+"994","MIRNA","hsa-miR-192-5p",1
+"995","MIRNA","hsa-miR-193b-3p",1
+"996","MIRNA","hsa-miR-215-5p",1
+"997","MIRNA","hsa-miR-24-3p",1
+"998","MIRNA","hsa-miR-30a-5p",1
+"999","MIRNA","hsa-miR-30c-5p",1
+"1000","MIRNA","hsa-miR-3146",1
+"1001","MIRNA","hsa-miR-324-5p",1
+"1002","MIRNA","hsa-miR-3929",1
+"1003","MIRNA","hsa-miR-4419b",1
+"1004","MIRNA","hsa-miR-4478",1
+"1005","MIRNA","hsa-miR-615-3p",1
+"1006","MIRNA","hsa-miR-665",1
+"1007","MIRNA","hsa-miR-877-3p",1
+"1008","MIRNA","hsa-miR-92a-3p",1
+"1009","MIRNA","hsa-miR-933",1
+"1010","REAC","Metabolism of proteins",3
+"1011","REAC","Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins",1
+"1012","REAC","Activation of ATR in response to replication stress",1
+"1013","REAC","Activation of the pre-replicative complex",1
+"1014","REAC","Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal",1
+"1015","REAC","Amplification of signal from the kinetochores",1
+"1016","REAC","Antiviral mechanism by IFN-stimulated genes",1
+"1017","REAC","APC-Cdc20 mediated degradation of Nek2A",1
+"1018","REAC","APC/C-mediated degradation of cell cycle proteins",1
+"1019","REAC","APC/C:Cdc20 mediated degradation of Cyclin B",1
+"1020","REAC","APC/C:Cdc20 mediated degradation of mitotic proteins",1
+"1021","REAC","APC/C:Cdc20 mediated degradation of Securin",1
+"1022","REAC","APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1",1
+"1023","REAC","APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint",1
+"1024","REAC","Assembly of the pre-replicative complex",1
+"1025","REAC","Autodegradation of Cdh1 by Cdh1:APC/C",1
+"1026","REAC","Beta-oxidation of pristanoyl-CoA",1
+"1027","REAC","Biological oxidations",1
+"1028","REAC","Cap-dependent Translation Initiation",1
+"1029","REAC","Cdc20:Phospho-APC/C mediated degradation of Cyclin A",1
+"1030","REAC","CDK-mediated phosphorylation and removal of Cdc6",1
+"1031","REAC","CDT1 association with the CDC6:ORC:origin complex",1
+"1032","REAC","Cell Cycle",1
+"1033","REAC","Cell Cycle Checkpoints",1
+"1034","REAC","Cell Cycle, Mitotic",1
+"1035","REAC","Chromosome Maintenance",1
+"1036","REAC","Cilium Assembly",1
+"1037","REAC","Condensation of Prometaphase Chromosomes",1
+"1038","REAC","COPI-dependent Golgi-to-ER retrograde traffic",1
+"1039","REAC","Cyclin A/B1/B2 associated events during G2/M transition",1
+"1040","REAC","Cyclin A:Cdk2-associated events at S phase entry",1
+"1041","REAC","Cyclin E associated events during G1/S transition ",1
+"1042","REAC","Deposition of new CENPA-containing nucleosomes at the centromere",1
+"1043","REAC","DNA Double-Strand Break Repair",1
+"1044","REAC","DNA Repair",1
+"1045","REAC","DNA Replication",1
+"1046","REAC","DNA Replication Pre-Initiation",1
+"1047","REAC","DNA strand elongation",1
+"1048","REAC","E2F mediated regulation of DNA replication",1
+"1049","REAC","Establishment of Sister Chromatid Cohesion",1
+"1050","REAC","Eukaryotic Translation Elongation",1
+"1051","REAC","Eukaryotic Translation Initiation",1
+"1052","REAC","Eukaryotic Translation Termination",1
+"1053","REAC","Extension of Telomeres",1
+"1054","REAC","Formation of a pool of free 40S subunits",1
+"1055","REAC","G0 and Early G1",1
+"1056","REAC","G1/S-Specific Transcription",1
+"1057","REAC","G1/S DNA Damage Checkpoints",1
+"1058","REAC","G1/S Transition",1
+"1059","REAC","G2/M Checkpoints",1
+"1060","REAC","G2/M DNA damage checkpoint",1
+"1061","REAC","G2/M DNA replication checkpoint",1
+"1062","REAC","G2/M Transition",1
+"1063","REAC","Gene expression (Transcription)",1
+"1064","REAC","Golgi-to-ER retrograde transport",1
+"1065","REAC","GTP hydrolysis and joining of the 60S ribosomal subunit",1
+"1066","REAC","HDR through Homologous Recombination (HRR)",1
+"1067","REAC","HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)",1
+"1068","REAC","HDR through Single Strand Annealing (SSA)",1
+"1069","REAC","HIV Infection",1
+"1070","REAC","Homologous DNA Pairing and Strand Exchange",1
+"1071","REAC","Homology Directed Repair",1
+"1072","REAC","Host Interactions of HIV factors",1
+"1073","REAC","Inactivation of APC/C via direct inhibition of the APC/C complex",1
+"1074","REAC","Infectious disease",1
+"1075","REAC","Influenza Infection",1
+"1076","REAC","Influenza Life Cycle",1
+"1077","REAC","Influenza Viral RNA Transcription and Replication",1
+"1078","REAC","Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components",1
+"1079","REAC","Interactions of Rev with host cellular proteins",1
+"1080","REAC","Kinesins",1
+"1081","REAC","L13a-mediated translational silencing of Ceruloplasmin expression",1
+"1082","REAC","Lagging Strand Synthesis",1
+"1083","REAC","Leading Strand Synthesis",1
+"1084","REAC","M Phase",1
+"1085","REAC","Major pathway of rRNA processing in the nucleolus and cytosol",1
+"1086","REAC","Meiosis",1
+"1087","REAC","Metabolism",1
+"1088","REAC","Metabolism of amino acids and derivatives",1
+"1089","REAC","Metabolism of lipids",1
+"1090","REAC","Metabolism of RNA",1
+"1091","REAC","Mismatch Repair",1
+"1092","REAC","Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)",1
+"1093","REAC","Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)",1
+"1094","REAC","Mitotic Anaphase",1
+"1095","REAC","Mitotic G1-G1/S phases",1
+"1096","REAC","Mitotic G2-G2/M phases",1
+"1097","REAC","Mitotic Metaphase and Anaphase",1
+"1098","REAC","Mitotic Prometaphase",1
+"1099","REAC","Mitotic Spindle Checkpoint",1
+"1100","REAC","Mitotic Telophase/Cytokinesis",1
+"1101","REAC","Neuronal System",1
+"1102","REAC","Nonsense-Mediated Decay (NMD)",1
+"1103","REAC","Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",1
+"1104","REAC","Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",1
+"1105","REAC","Nucleosome assembly",1
+"1106","REAC","Orc1 removal from chromatin",1
+"1107","REAC","Organelle biogenesis and maintenance",1
+"1108","REAC","p53-Dependent G1 DNA Damage Response",1
+"1109","REAC","p53-Dependent G1/S DNA damage checkpoint",1
+"1110","REAC","p53-Independent DNA Damage Response",1
+"1111","REAC","p53-Independent G1/S DNA damage checkpoint",1
+"1112","REAC","Peptide chain elongation",1
+"1113","REAC","Phosphorylation of Emi1",1
+"1114","REAC","Phosphorylation of the APC/C",1
+"1115","REAC","Polo-like kinase mediated events",1
+"1116","REAC","Polymerase switching",1
+"1117","REAC","Polymerase switching on the C-strand of the telomere",1
+"1118","REAC","Presynaptic phase of homologous DNA pairing and strand exchange",1
+"1119","REAC","Processing of DNA double-strand break ends",1
+"1120","REAC","Processive synthesis on the lagging strand",1
+"1121","REAC","Recognition of DNA damage by PCNA-containing replication complex",1
+"1122","REAC","Regulation of APC/C activators between G1/S and early anaphase",1
+"1123","REAC","Regulation of expression of SLITs and ROBOs",1
+"1124","REAC","Regulation of mitotic cell cycle",1
+"1125","REAC","Regulation of TP53 Activity",1
+"1126","REAC","Regulation of TP53 Activity through Phosphorylation",1
+"1127","REAC","Removal of the Flap Intermediate",1
+"1128","REAC","Resolution of D-Loop Structures",1
+"1129","REAC","Resolution of D-loop Structures through Holliday Junction Intermediates",1
+"1130","REAC","Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)",1
+"1131","REAC","Resolution of Sister Chromatid Cohesion",1
+"1132","REAC","Respiratory electron transport",1
+"1133","REAC","RHO GTPase Effectors",1
+"1134","REAC","RHO GTPases Activate Formins",1
+"1135","REAC","rRNA modification in the nucleus and cytosol",1
+"1136","REAC","rRNA processing",1
+"1137","REAC","rRNA processing in the nucleus and cytosol",1
+"1138","REAC","S Phase",1
+"1139","REAC","SCF(Skp2)-mediated degradation of p27/p21",1
+"1140","REAC","Selenoamino acid metabolism",1
+"1141","REAC","Selenocysteine synthesis",1
+"1142","REAC","Separation of Sister Chromatids",1
+"1143","REAC","Signaling by FGFR2 in disease",1
+"1144","REAC","Signaling by Rho GTPases",1
+"1145","REAC","Signaling by ROBO receptors",1
+"1146","REAC","SRP-dependent cotranslational protein targeting to membrane",1
+"1147","REAC","SUMO E3 ligases SUMOylate target proteins",1
+"1148","REAC","SUMOylation",1
+"1149","REAC","SUMOylation of DNA damage response and repair proteins",1
+"1150","REAC","SUMOylation of DNA replication proteins",1
+"1151","REAC","Switching of origins to a post-replicative state",1
+"1152","REAC","Synthesis of DNA",1
+"1153","REAC","Telomere C-strand (Lagging Strand) Synthesis",1
+"1154","REAC","Telomere Maintenance",1
+"1155","REAC","The role of GTSE1 in G2/M progression after G2 checkpoint",1
+"1156","REAC","TP53 Regulates Transcription of Cell Cycle Genes",1
+"1157","REAC","TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest",1
+"1158","REAC","TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",1
+"1159","REAC","Transcription of E2F targets under negative control by DREAM complex",1
+"1160","REAC","Transcriptional Regulation by E2F6",1
+"1161","REAC","Transcriptional Regulation by TP53",1
+"1162","REAC","Translation",1
+"1163","REAC","tRNA processing",1
+"1164","REAC","tRNA processing in the nucleus",1
+"1165","REAC","Ubiquitin Mediated Degradation of Phosphorylated Cdc25A",1
+"1166","REAC","Unwinding of DNA",1
+"1167","REAC","Viral mRNA Translation",1
+"1168","TF","Factor: ESE-1; motif: NSMGGAARTN",6
+"1169","TF","Factor: ESE-1; motif: NSMGGAARTN; match class: 0",6
+"1170","TF","Factor: ZF5; motif: GSGCGCGR; match class: 1",6
+"1171","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT",5
+"1172","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 0",5
+"1173","TF","Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM; match class: 1",5
+"1174","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1",5
+"1175","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT; match class: 1",5
+"1176","TF","Factor: E2F; motif: GGCGSG",5
+"1177","TF","Factor: E2F; motif: GGCGSG; match class: 0",5
+"1178","TF","Factor: E2F; motif: TTTSGCGS",5
+"1179","TF","Factor: E2F; motif: TTTSGCGS; match class: 0",5
+"1180","TF","Factor: ER81; motif: RCCGGAARYN",5
+"1181","TF","Factor: ER81; motif: RCCGGAARYN; match class: 0",5
+"1182","TF","Factor: Erg; motif: ACCGGAAGTN",5
+"1183","TF","Factor: Erg; motif: ACCGGAAGTN; match class: 0",5
+"1184","TF","Factor: Erm; motif: ACCGGAAGTN",5
+"1185","TF","Factor: Erm; motif: ACCGGAAGTN; match class: 0",5
+"1186","TF","Factor: ETF; motif: GVGGMGG",5
+"1187","TF","Factor: ETF; motif: GVGGMGG; match class: 0",5
+"1188","TF","Factor: FLI1; motif: ACCGGAARTN",5
+"1189","TF","Factor: FLI1; motif: ACCGGAARTN; match class: 0",5
+"1190","TF","Factor: nerf; motif: NRRNSCGGAAGNRNNNN",5
+"1191","TF","Factor: nerf; motif: NRRNSCGGAAGNRNNNN; match class: 0",5
+"1192","TF","Factor: p300; motif: ACNTCCG; match class: 1",5
+"1193","TF","Factor: PEA3; motif: RCCGGAAGYN",5
+"1194","TF","Factor: PEA3; motif: RCCGGAAGYN; match class: 0",5
+"1195","TF","Factor: ZF5; motif: GSGCGCGR",5
+"1196","TF","Factor: ZF5; motif: GSGCGCGR; match class: 0",5
+"1197","TF","Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN",4
+"1198","TF","Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN; match class: 0",4
+"1199","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 1",4
+"1200","TF","Factor: E2F-1; motif: NGGGCGGGARV",4
+"1201","TF","Factor: E2F-1; motif: NGGGCGGGARV; match class: 0",4
+"1202","TF","Factor: E2F-1; motif: NGGGCGGGARV; match class: 1",4
+"1203","TF","Factor: E2F-1; motif: NNNSSCGCSAANN",4
+"1204","TF","Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 0",4
+"1205","TF","Factor: E2F-1; motif: WWTGGCGCCAAA",4
+"1206","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 0",4
+"1207","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN",4
+"1208","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 0",4
+"1209","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT",4
+"1210","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT; match class: 0",4
+"1211","TF","Factor: E2F-4; motif: NTTTCSCGCC",4
+"1212","TF","Factor: E2F-4; motif: NTTTCSCGCC; match class: 0",4
+"1213","TF","Factor: E2F; motif: GGCGSG; match class: 1",4
+"1214","TF","Factor: E2F; motif: TTTCGCGC",4
+"1215","TF","Factor: E2F; motif: TTTCGCGC; match class: 0",4
+"1216","TF","Factor: EHF; motif: CSCGGAARTN",4
+"1217","TF","Factor: EHF; motif: CSCGGAARTN; match class: 0",4
+"1218","TF","Factor: Elf-1; motif: ACTTCCGGG",4
+"1219","TF","Factor: Elf-1; motif: ACTTCCGGG; match class: 0",4
+"1220","TF","Factor: Elf-1; motif: ACTTCCGGG; match class: 1",4
+"1221","TF","Factor: ELF1; motif: NCCGGAARTN",4
+"1222","TF","Factor: ELF1; motif: NCCGGAARTN; match class: 0",4
+"1223","TF","Factor: Elk-1; motif: NNNNCCGGAARTNN",4
+"1224","TF","Factor: Elk-1; motif: NNNNCCGGAARTNN; match class: 0",4
+"1225","TF","Factor: Elk-1; motif: NNNNCCGGAARTNN; match class: 1",4
+"1226","TF","Factor: ER81; motif: RCCGGAARYN; match class: 1",4
+"1227","TF","Factor: ERG; motif: ACCGGAART; match class: 1",4
+"1228","TF","Factor: ETS1; motif: ACCGGAARYN; match class: 1",4
+"1229","TF","Factor: ETV4; motif: ACCGGAAGTN",4
+"1230","TF","Factor: ETV4; motif: ACCGGAAGTN; match class: 0",4
+"1231","TF","Factor: ETV7; motif: NCCGGAANNN",4
+"1232","TF","Factor: ETV7; motif: NCCGGAANNN; match class: 0",4
+"1233","TF","Factor: ETV7; motif: NCCGGAANNN; match class: 1",4
+"1234","TF","Factor: FLI-1; motif: NAYTTCCGGT; match class: 1",4
+"1235","TF","Factor: Kaiso; motif: TCTCGCGAG",4
+"1236","TF","Factor: Kaiso; motif: TCTCGCGAG; match class: 0",4
+"1237","TF","Factor: TEL1; motif: CNCGGAANNN",4
+"1238","TF","Factor: TEL1; motif: CNCGGAANNN; match class: 0",4
+"1239","TF","Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1",4
+"1240","TF","Factor: c-ets-1; motif: ACCGGAWGTN",3
+"1241","TF","Factor: c-ets-1; motif: ACCGGAWGTN; match class: 0",3
+"1242","TF","Factor: c-ets-1; motif: ACCGGAWGTN; match class: 1",3
+"1243","TF","Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN; match class: 1",3
+"1244","TF","Factor: c-Ets-2; motif: NCCGGAAGTG",3
+"1245","TF","Factor: c-Ets-2; motif: NCCGGAAGTG; match class: 0",3
+"1246","TF","Factor: c-Ets-2; motif: NCCGGAAGTG; match class: 1",3
+"1247","TF","Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM",3
+"1248","TF","Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM; match class: 0",3
+"1249","TF","Factor: E2F-1; motif: NTTTCGCGCS",3
+"1250","TF","Factor: E2F-1; motif: NTTTCGCGCS; match class: 0",3
+"1251","TF","Factor: E2F-1; motif: TTTGGCGCCAAA",3
+"1252","TF","Factor: E2F-1; motif: TTTGGCGCCAAA; match class: 0",3
+"1253","TF","Factor: E2F-1; motif: TTTGGCGCCAAA; match class: 1",3
+"1254","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1",3
+"1255","TF","Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 1",3
+"1256","TF","Factor: E2F-4; motif: NTTTCSCGCC; match class: 1",3
+"1257","TF","Factor: Egr-1; motif: GCGCATGCG",3
+"1258","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 0",3
+"1259","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 1",3
+"1260","TF","Factor: EHF; motif: CSCGGAARTN; match class: 1",3
+"1261","TF","Factor: ELF1; motif: AACCCGGAAGTR",3
+"1262","TF","Factor: ELF1; motif: AACCCGGAAGTR; match class: 0",3
+"1263","TF","Factor: ELF4; motif: NCCGGAARTN",3
+"1264","TF","Factor: ELF4; motif: NCCGGAARTN; match class: 0",3
+"1265","TF","Factor: Elk-1:HOXA3; motif: ACCGGWAATKRNNTNWCNNATTAN; match class: 1",3
+"1266","TF","Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG; match class: 1",3
+"1267","TF","Factor: ELK-1; motif: ACCGGAAGTN",3
+"1268","TF","Factor: ELK-1; motif: ACCGGAAGTN; match class: 0",3
+"1269","TF","Factor: ELK-1; motif: ACCGGAAGTN; match class: 1",3
+"1270","TF","Factor: Elk-1; motif: RACCGGAAGTR; match class: 1",3
+"1271","TF","Factor: ERG; motif: ACCGGAART",3
+"1272","TF","Factor: ERG; motif: ACCGGAART; match class: 0",3
+"1273","TF","Factor: ERG; motif: ACCGGAARTN",3
+"1274","TF","Factor: ERG; motif: ACCGGAARTN; match class: 0",3
+"1275","TF","Factor: ERG; motif: ACCGGAARTN; match class: 1",3
+"1276","TF","Factor: ESE-1; motif: NSMGGAARTN; match class: 1",3
+"1277","TF","Factor: ETS1; motif: ACCGGAARYN",3
+"1278","TF","Factor: ETS1; motif: ACCGGAARYN; match class: 0",3
+"1279","TF","Factor: Fli-1; motif: ACCGGAAGYN",3
+"1280","TF","Factor: Fli-1; motif: ACCGGAAGYN; match class: 0",3
+"1281","TF","Factor: FLI-1; motif: NAYTTCCGGT",3
+"1282","TF","Factor: FLI-1; motif: NAYTTCCGGT; match class: 0",3
+"1283","TF","Factor: FLI1; motif: ACCGGAARTN; match class: 1",3
+"1284","TF","Factor: GABP-alpha; motif: CACTTCCGG",3
+"1285","TF","Factor: GABP-alpha; motif: CACTTCCGG; match class: 0",3
+"1286","TF","Factor: GABP-alpha; motif: CTTCCK",3
+"1287","TF","Factor: GABP-alpha; motif: CTTCCK; match class: 0",3
+"1288","TF","Factor: GABP-alpha; motif: CTTCCK; match class: 1",3
+"1289","TF","Factor: GABPalpha; motif: RCCGGAWRYN",3
+"1290","TF","Factor: GABPalpha; motif: RCCGGAWRYN; match class: 0",3
+"1291","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG",3
+"1292","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 0",3
+"1293","TF","Factor: meis1:Elf-1; motif: NTGCCGGAAGTN",3
+"1294","TF","Factor: meis1:Elf-1; motif: NTGCCGGAAGTN; match class: 0",3
+"1295","TF","Factor: p300; motif: ACNTCCG",3
+"1296","TF","Factor: p300; motif: ACNTCCG; match class: 0",3
+"1297","TF","Factor: TEL1; motif: CNCGGAANNN; match class: 1",3
+"1298","TF","Factor: YY1; motif: NNCGCCATTNN",3
+"1299","TF","Factor: YY1; motif: NNCGCCATTNN; match class: 0",3
+"1300","TF","Factor: YY2; motif: NCCGCCATNTY",3
+"1301","TF","Factor: YY2; motif: NCCGCCATNTY; match class: 0",3
+"1302","TF","Factor: ZF5; motif: NRNGNGCGCGCWN",3
+"1303","TF","Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 0",3
+"1304","TF","Factor: AP-2; motif: MKCCCSCNGGCG",2
+"1305","TF","Factor: AP-2; motif: MKCCCSCNGGCG; match class: 0",2
+"1306","TF","Factor: ATF-3; motif: GGCGCSSNSNGRTSACGTSA",2
+"1307","TF","Factor: ATF-3; motif: GGCGCSSNSNGRTSACGTSA; match class: 0",2
+"1308","TF","Factor: BEN; motif: CAGCGRNV",2
+"1309","TF","Factor: BEN; motif: CAGCGRNV; match class: 0",2
+"1310","TF","Factor: BEN; motif: CAGCGRNV; match class: 1",2
+"1311","TF","Factor: c-ets-2; motif: ACCGGAWRTN",2
+"1312","TF","Factor: c-ets-2; motif: ACCGGAWRTN; match class: 0",2
+"1313","TF","Factor: c-ets-2; motif: ACCGGAWRTN; match class: 1",2
+"1314","TF","Factor: CHD2; motif: TCTCGCGAG",2
+"1315","TF","Factor: CHD2; motif: TCTCGCGAG; match class: 0",2
+"1316","TF","Factor: CREB,; motif: NTGACGTNA",2
+"1317","TF","Factor: CREB,; motif: NTGACGTNA; match class: 0",2
+"1318","TF","Factor: CREB,; motif: NTGACGTNA; match class: 1",2
+"1319","TF","Factor: CREB; motif: CNNTGACGTMA",2
+"1320","TF","Factor: CREB; motif: CNNTGACGTMA; match class: 0",2
+"1321","TF","Factor: CREB; motif: CNNTGACGTMA; match class: 1",2
+"1322","TF","Factor: E2F-1:DP-1; motif: TTTCSCGC",2
+"1323","TF","Factor: E2F-1:DP-1; motif: TTTCSCGC; match class: 0",2
+"1324","TF","Factor: E2F-1:TBR2; motif: NGGTGNNANGGCGCNNTNNCRNNN",2
+"1325","TF","Factor: E2F-1:TBR2; motif: NGGTGNNANGGCGCNNTNNCRNNN; match class: 0",2
+"1326","TF","Factor: E2F-1:TBR2; motif: NGGTGNNANGGCGCNNTNNCRNNN; match class: 1",2
+"1327","TF","Factor: E2F-1; motif: NKTSSCGC",2
+"1328","TF","Factor: E2F-1; motif: NKTSSCGC; match class: 0",2
+"1329","TF","Factor: E2F-1; motif: TTGGCGCGRAANNGNM",2
+"1330","TF","Factor: E2F-1; motif: TTGGCGCGRAANNGNM; match class: 0",2
+"1331","TF","Factor: E2F-1; motif: TTTSGCGS",2
+"1332","TF","Factor: E2F-1; motif: TTTSGCGS; match class: 0",2
+"1333","TF","Factor: E2F-3:FOXO6; motif: NAATGACACGCGCCCMC",2
+"1334","TF","Factor: E2F-3:FOXO6; motif: NAATGACACGCGCCCMC; match class: 0",2
+"1335","TF","Factor: E2F-3; motif: GGCGGGN",2
+"1336","TF","Factor: E2F-3; motif: GGCGGGN; match class: 0",2
+"1337","TF","Factor: E2F-4:DP-1; motif: TTTSGCGC",2
+"1338","TF","Factor: E2F-4:DP-1; motif: TTTSGCGC; match class: 0",2
+"1339","TF","Factor: E2F-4; motif: GCGGGAAANA; match class: 1",2
+"1340","TF","Factor: E2F-4; motif: NGGCGGGAARN",2
+"1341","TF","Factor: E2F-4; motif: NGGCGGGAARN; match class: 0",2
+"1342","TF","Factor: E2F-4; motif: NGGCGGGAARN; match class: 1",2
+"1343","TF","Factor: E2F-4; motif: NNTTCCCGCCNN",2
+"1344","TF","Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 0",2
+"1345","TF","Factor: E2F; motif: NNTTTCGCGCN",2
+"1346","TF","Factor: E2F; motif: NNTTTCGCGCN; match class: 0",2
+"1347","TF","Factor: E2F; motif: TTTCGCGC; match class: 1",2
+"1348","TF","Factor: E2F; motif: TTTSGCGS; match class: 1",2
+"1349","TF","Factor: E2F; motif: TTTSGCGSG",2
+"1350","TF","Factor: E2F; motif: TTTSGCGSG; match class: 0",2
+"1351","TF","Factor: E2F; motif: TTTSGCGSG; match class: 1",2
+"1352","TF","Factor: E2F1; motif: NNNNNGCGSSAAAN",2
+"1353","TF","Factor: E2F1; motif: NNNNNGCGSSAAAN; match class: 0",2
+"1354","TF","Factor: Egr-1; motif: GCGGGGGCGG",2
+"1355","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 0",2
+"1356","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 1",2
+"1357","TF","Factor: Elf-1; motif: AWCCCGGAAGTN",2
+"1358","TF","Factor: Elf-1; motif: AWCCCGGAAGTN; match class: 0",2
+"1359","TF","Factor: ELF1; motif: NCCGGAARTN; match class: 1",2
+"1360","TF","Factor: ELF2; motif: CCCGGAARYN",2
+"1361","TF","Factor: ELF2; motif: CCCGGAARYN; match class: 0",2
+"1362","TF","Factor: ELF4; motif: NCCGGAARTN; match class: 1",2
+"1363","TF","Factor: Elk-1:HOXA1; motif: ACCGGAAGTAATTA",2
+"1364","TF","Factor: Elk-1:HOXA1; motif: ACCGGAAGTAATTA; match class: 0",2
+"1365","TF","Factor: Elk-1:HOXB13; motif: ACCGGAAGTNGTAAAN",2
+"1366","TF","Factor: Elk-1:HOXB13; motif: ACCGGAAGTNGTAAAN; match class: 0",2
+"1367","TF","Factor: Elk-1:HOXB13; motif: ACCGGAAGTNGTAAAN; match class: 1",2
+"1368","TF","Factor: Elk-1:OC-2; motif: RCCGGAASCGATCGATNN",2
+"1369","TF","Factor: Elk-1:OC-2; motif: RCCGGAASCGATCGATNN; match class: 0",2
+"1370","TF","Factor: Elk-1:Pax-9; motif: ACCGGAACYACGCWYSANTG",2
+"1371","TF","Factor: Elk-1:Pax-9; motif: ACCGGAACYACGCWYSANTG; match class: 0",2
+"1372","TF","Factor: ELK1; motif: ACCGGAAGTN",2
+"1373","TF","Factor: ELK1; motif: ACCGGAAGTN; match class: 0",2
+"1374","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN",2
+"1375","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN; match class: 0",2
+"1376","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN; match class: 1",2
+"1377","TF","Factor: ER71; motif: ACCGGAARYN",2
+"1378","TF","Factor: ER71; motif: ACCGGAARYN; match class: 0",2
+"1379","TF","Factor: ERF; motif: ACCGGAARYN",2
+"1380","TF","Factor: ERF; motif: ACCGGAARYN; match class: 0",2
+"1381","TF","Factor: Erg; motif: ACCGGAAGTN; match class: 1",2
+"1382","TF","Factor: Erg; motif: NNACCGGAARTSN",2
+"1383","TF","Factor: Erg; motif: NNACCGGAARTSN; match class: 0",2
+"1384","TF","Factor: Erg; motif: NNACCGGAARTSN; match class: 1",2
+"1385","TF","Factor: Erm; motif: ACCGGAAGTN; match class: 1",2
+"1386","TF","Factor: ETF; motif: GVGGMGG; match class: 1",2
+"1387","TF","Factor: ETV3; motif: ACCGGAAGTN",2
+"1388","TF","Factor: ETV3; motif: ACCGGAAGTN; match class: 0",2
+"1389","TF","Factor: Fli-1; motif: ACCGGAAGYN; match class: 1",2
+"1390","TF","Factor: GABP-ALPHA; motif: RCCGGAARTNN",2
+"1391","TF","Factor: GABP-ALPHA; motif: RCCGGAARTNN; match class: 0",2
+"1392","TF","Factor: GABP; motif: CACTTCCGGNNN",2
+"1393","TF","Factor: GABP; motif: CACTTCCGGNNN; match class: 0",2
+"1394","TF","Factor: GABPA; motif: ACCGGAAGTN",2
+"1395","TF","Factor: GABPA; motif: ACCGGAAGTN; match class: 0",2
+"1396","TF","Factor: GABPalpha; motif: RCCGGAWRYN; match class: 1",2
+"1397","TF","Factor: GCMa:PEA3; motif: ATRCGGGCGGAAGTR",2
+"1398","TF","Factor: GCMa:PEA3; motif: ATRCGGGCGGAAGTR; match class: 0",2
+"1399","TF","Factor: Kaiso; motif: TCTCGCGAG; match class: 1",2
+"1400","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 1",2
+"1401","TF","Factor: meis1:Elf-1; motif: NTGCCGGAAGTN; match class: 1",2
+"1402","TF","Factor: nerf; motif: NRRNSCGGAAGNRNNNN; match class: 1",2
+"1403","TF","Factor: NRF-1; motif: GCGCMTGCGCN",2
+"1404","TF","Factor: NRF-1; motif: GCGCMTGCGCN; match class: 0",2
+"1405","TF","Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN",2
+"1406","TF","Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN; match class: 0",2
+"1407","TF","Factor: NRF-1; motif: YGCGCATGCGCN; match class: 1",2
+"1408","TF","Factor: NRF-1; motif: YGCGCMTGCGC",2
+"1409","TF","Factor: NRF-1; motif: YGCGCMTGCGC; match class: 0",2
+"1410","TF","Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN",2
+"1411","TF","Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN; match class: 0",2
+"1412","TF","Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN; match class: 1",2
+"1413","TF","Factor: PEA3; motif: RCCGGAAGYN; match class: 1",2
+"1414","TF","Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC",2
+"1415","TF","Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC; match class: 0",2
+"1416","TF","Factor: SAP-1; motif: ACCGGAAGTNN",2
+"1417","TF","Factor: SAP-1; motif: ACCGGAAGTNN; match class: 0",2
+"1418","TF","Factor: Sp1; motif: NGGGGGCGGGGYN",2
+"1419","TF","Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 0",2
+"1420","TF","Factor: YY1; motif: GCCGCCATTTTG",2
+"1421","TF","Factor: YY1; motif: GCCGCCATTTTG; match class: 0",2
+"1422","TF","Factor: YY1; motif: NAANATGGCGNNN",2
+"1423","TF","Factor: YY1; motif: NAANATGGCGNNN; match class: 0",2
+"1424","TF","Factor: YY1; motif: NNCGCCATTNN; match class: 1",2
+"1425","TF","Factor: A-Myb:Elf-1; motif: NMCCGGAACCGTTA",1
+"1426","TF","Factor: A-Myb:Elf-1; motif: NMCCGGAACCGTTA; match class: 0",1
+"1427","TF","Factor: A-Myb:Elf-1; motif: NMCCGGAACCGTTA; match class: 1",1
+"1428","TF","Factor: alpha-CP1; motif: CAGCCAATGAG; match class: 1",1
+"1429","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN",1
+"1430","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 0",1
+"1431","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 1",1
+"1432","TF","Factor: AP-2; motif: MKCCCSCNGGCG; match class: 1",1
+"1433","TF","Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 1",1
+"1434","TF","Factor: AP-2alpha; motif: GCCNNNRGS",1
+"1435","TF","Factor: AP-2alpha; motif: GCCNNNRGS; match class: 0",1
+"1436","TF","Factor: AP-2alpha; motif: GCCNNNRGS; match class: 1",1
+"1437","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN",1
+"1438","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 0",1
+"1439","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 1",1
+"1440","TF","Factor: AP-2alpha; motif: NSCCNCRGGSN",1
+"1441","TF","Factor: AP-2alpha; motif: NSCCNCRGGSN; match class: 0",1
+"1442","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN",1
+"1443","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 0",1
+"1444","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 1",1
+"1445","TF","Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG",1
+"1446","TF","Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 0",1
+"1447","TF","Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 1",1
+"1448","TF","Factor: AP-2gamma; motif: GCCYNNGGS",1
+"1449","TF","Factor: AP-2gamma; motif: GCCYNNGGS; match class: 0",1
+"1450","TF","Factor: AP-2gamma; motif: GCCYNNGGS; match class: 1",1
+"1451","TF","Factor: AP2; motif: GCCYGSGGSN",1
+"1452","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 0",1
+"1453","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 1",1
+"1454","TF","Factor: ARX; motif: NTAATYNAATTAN",1
+"1455","TF","Factor: ARX; motif: NTAATYNAATTAN; match class: 0",1
+"1456","TF","Factor: ATF-1; motif: TNACGTCAN",1
+"1457","TF","Factor: ATF-1; motif: TNACGTCAN; match class: 0",1
+"1458","TF","Factor: ATF-1; motif: TNACGTCAN; match class: 1",1
+"1459","TF","Factor: ATF-2; motif: TTACGTAA; match class: 1",1
+"1460","TF","Factor: ATF-3; motif: GGCGCSSNSNGRTSACGTSA; match class: 1",1
+"1461","TF","Factor: ATF; motif: CNSTGACGTNNNYC",1
+"1462","TF","Factor: ATF; motif: CNSTGACGTNNNYC; match class: 0",1
+"1463","TF","Factor: ATF; motif: CNSTGACGTNNNYC; match class: 1",1
+"1464","TF","Factor: ATF2; motif: VGTGACGTMACN",1
+"1465","TF","Factor: ATF2; motif: VGTGACGTMACN; match class: 0",1
+"1466","TF","Factor: BARHL2; motif: NNTAAAYGNN",1
+"1467","TF","Factor: BARHL2; motif: NNTAAAYGNN; match class: 0",1
+"1468","TF","Factor: BEN; motif: CWGCGAYA",1
+"1469","TF","Factor: BEN; motif: CWGCGAYA; match class: 0",1
+"1470","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS",1
+"1471","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 0",1
+"1472","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 1",1
+"1473","TF","Factor: BTEB3; motif: BNRNGGGAGGNGT; match class: 1",1
+"1474","TF","Factor: c-Ets-1(p54); motif: NCMGGAWGYN",1
+"1475","TF","Factor: c-Ets-1(p54); motif: NCMGGAWGYN; match class: 0",1
+"1476","TF","Factor: c-Ets-1(p54); motif: NCMGGAWGYN; match class: 1",1
+"1477","TF","Factor: Cdx-1; motif: TTTATK",1
+"1478","TF","Factor: Cdx-1; motif: TTTATK; match class: 0",1
+"1479","TF","Factor: CHD2; motif: TCTCGCGAG; match class: 1",1
+"1480","TF","Factor: Churchill; motif: CGGGNN",1
+"1481","TF","Factor: Churchill; motif: CGGGNN; match class: 0",1
+"1482","TF","Factor: Churchill; motif: CGGGNN; match class: 1",1
+"1483","TF","Factor: CKROX; motif: SCCCTCCCC",1
+"1484","TF","Factor: CKROX; motif: SCCCTCCCC; match class: 0",1
+"1485","TF","Factor: CPBP; motif: SNCCCNN; match class: 1",1
+"1486","TF","Factor: CREB; motif: NNTKACGTCANNNS",1
+"1487","TF","Factor: CREB; motif: NNTKACGTCANNNS; match class: 0",1
+"1488","TF","Factor: CREB; motif: NNTKACGTCANNNS; match class: 1",1
+"1489","TF","Factor: CREB; motif: NSTGACGTAANN",1
+"1490","TF","Factor: CREB; motif: NSTGACGTAANN; match class: 0",1
+"1491","TF","Factor: CREB; motif: NSTGACGTMANN",1
+"1492","TF","Factor: CREB; motif: NSTGACGTMANN; match class: 0",1
+"1493","TF","Factor: CREB; motif: TGACGTMA",1
+"1494","TF","Factor: CREB; motif: TGACGTMA; match class: 0",1
+"1495","TF","Factor: CREB; motif: TGACGTMA; match class: 1",1
+"1496","TF","Factor: CREB1; motif: NNNNTGACGTNANNN; match class: 1",1
+"1497","TF","Factor: CREB1; motif: TKACGTCAYNN",1
+"1498","TF","Factor: CREB1; motif: TKACGTCAYNN; match class: 0",1
+"1499","TF","Factor: CREM; motif: TGACGTCASYN; match class: 1",1
+"1500","TF","Factor: ctcf; motif: CCNCNAGRKGGCRSTN",1
+"1501","TF","Factor: ctcf; motif: CCNCNAGRKGGCRSTN; match class: 0",1
+"1502","TF","Factor: ctcf; motif: CCNCNAGRKGGCRSTN; match class: 1",1
+"1503","TF","Factor: CTCF; motif: NCCRSTAGGGGGCGC",1
+"1504","TF","Factor: CTCF; motif: NCCRSTAGGGGGCGC; match class: 0",1
+"1505","TF","Factor: CTCF; motif: NCCRSTAGGGGGCGC; match class: 1",1
+"1506","TF","Factor: DEAF1; motif: NCGNNYTCGGGNRTTTCCGDARNNN",1
+"1507","TF","Factor: DEAF1; motif: NCGNNYTCGGGNRTTTCCGDARNNN; match class: 0",1
+"1508","TF","Factor: DEC2; motif: SNTCACGTGS; match class: 1",1
+"1509","TF","Factor: E2F-1:DP-1; motif: TTTCSCGC; match class: 1",1
+"1510","TF","Factor: E2F-1:DP-2; motif: TTTSSCGC",1
+"1511","TF","Factor: E2F-1:DP-2; motif: TTTSSCGC; match class: 0",1
+"1512","TF","Factor: E2F-1:DP-2; motif: TTTSSCGC; match class: 1",1
+"1513","TF","Factor: E2F-1; motif: NKTSSCGC; match class: 1",1
+"1514","TF","Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 1",1
+"1515","TF","Factor: E2F-1; motif: NTTSGCGG",1
+"1516","TF","Factor: E2F-1; motif: NTTSGCGG; match class: 0",1
+"1517","TF","Factor: E2F-1; motif: NTTSGCGG; match class: 1",1
+"1518","TF","Factor: E2F-1; motif: NTTTCGCGCS; match class: 1",1
+"1519","TF","Factor: E2F-1; motif: TTTSGCGCGMNR",1
+"1520","TF","Factor: E2F-1; motif: TTTSGCGCGMNR; match class: 0",1
+"1521","TF","Factor: E2F-1; motif: TTTSGCGCGMNR; match class: 1",1
+"1522","TF","Factor: E2F-1; motif: TTTSGCGS; match class: 1",1
+"1523","TF","Factor: E2F-1; motif: TWSGCGCGAAAAYKR",1
+"1524","TF","Factor: E2F-1; motif: TWSGCGCGAAAAYKR; match class: 0",1
+"1525","TF","Factor: E2F-1; motif: TWSGCGCGAAAAYKR; match class: 1",1
+"1526","TF","Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC",1
+"1527","TF","Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC; match class: 0",1
+"1528","TF","Factor: E2F-3:FOXO6; motif: NAATGACACGCGCCCMC; match class: 1",1
+"1529","TF","Factor: E2F-3:Prrxl1; motif: SGCGCTAATTNN",1
+"1530","TF","Factor: E2F-3:Prrxl1; motif: SGCGCTAATTNN; match class: 0",1
+"1531","TF","Factor: E2F-3:Prrxl1; motif: SGCGCTAATTNN; match class: 1",1
+"1532","TF","Factor: E2F-3; motif: GGCGGGN; match class: 1",1
+"1533","TF","Factor: E2F-4:DP-1; motif: TTTSGCGC; match class: 1",1
+"1534","TF","Factor: E2F-4:DP-2; motif: TTTCSCGC",1
+"1535","TF","Factor: E2F-4:DP-2; motif: TTTCSCGC; match class: 0",1
+"1536","TF","Factor: E2F-4:DP-2; motif: TTTCSCGC; match class: 1",1
+"1537","TF","Factor: E2F-4; motif: GCGGGAAANA",1
+"1538","TF","Factor: E2F-4; motif: GCGGGAAANA; match class: 0",1
+"1539","TF","Factor: E2F-4; motif: TTTGGCGCCAAA",1
+"1540","TF","Factor: E2F-4; motif: TTTGGCGCCAAA; match class: 0",1
+"1541","TF","Factor: E2F-4; motif: TTTGGCGCCAAA; match class: 1",1
+"1542","TF","Factor: E2F; motif: NCSCGCSAAAN",1
+"1543","TF","Factor: E2F; motif: NCSCGCSAAAN; match class: 0",1
+"1544","TF","Factor: E2F; motif: NCSCGCSAAAN; match class: 1",1
+"1545","TF","Factor: E2F; motif: NKCGCGCSAAAN",1
+"1546","TF","Factor: E2F; motif: NKCGCGCSAAAN; match class: 0",1
+"1547","TF","Factor: E2F; motif: NKCGCGCSAAAN; match class: 1",1
+"1548","TF","Factor: E2F; motif: NNTTTCGCGCN; match class: 1",1
+"1549","TF","Factor: E2F; motif: TTTSGCGC",1
+"1550","TF","Factor: E2F; motif: TTTSGCGC; match class: 0",1
+"1551","TF","Factor: E2F; motif: TTTSGCGC; match class: 1",1
+"1552","TF","Factor: E2F1; motif: NNNNNGCGSSAAAN; match class: 1",1
+"1553","TF","Factor: E2F2; motif: AAAAATGGCGCCAAAAWG",1
+"1554","TF","Factor: E2F2; motif: AAAAATGGCGCCAAAAWG; match class: 0",1
+"1555","TF","Factor: E2F2; motif: AAAAATGGCGCCAAAAWG; match class: 1",1
+"1556","TF","Factor: E2F2; motif: AAAATGGCGCCATTTT; match class: 1",1
+"1557","TF","Factor: Egr-1; motif: NGCGTGCGY",1
+"1558","TF","Factor: Egr-1; motif: NGCGTGCGY; match class: 0",1
+"1559","TF","Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN",1
+"1560","TF","Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN; match class: 0",1
+"1561","TF","Factor: EGR; motif: CGCCCCCGCNN",1
+"1562","TF","Factor: EGR; motif: CGCCCCCGCNN; match class: 0",1
+"1563","TF","Factor: EGR; motif: CGCCCCCGCNN; match class: 1",1
+"1564","TF","Factor: EGR1; motif: NACGCCCACGCANW",1
+"1565","TF","Factor: EGR1; motif: NACGCCCACGCANW; match class: 0",1
+"1566","TF","Factor: EGR1; motif: NACGCCCACGCANW; match class: 1",1
+"1567","TF","Factor: EGR1; motif: NCNCCGCCCCCGCN",1
+"1568","TF","Factor: EGR1; motif: NCNCCGCCCCCGCN; match class: 0",1
+"1569","TF","Factor: Elf-1; motif: AWCCCGGAAGTN; match class: 1",1
+"1570","TF","Factor: Elf-1; motif: NAANCMGGAAGTGN",1
+"1571","TF","Factor: Elf-1; motif: NAANCMGGAAGTGN; match class: 0",1
+"1572","TF","Factor: Elk-1:HOXA1; motif: ACCGGAAGTAATTA; match class: 1",1
+"1573","TF","Factor: Elk-1:OC-2; motif: RCCGGAASCGATCGATNN; match class: 1",1
+"1574","TF","Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG",1
+"1575","TF","Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG; match class: 0",1
+"1576","TF","Factor: Elk-1:Pax-9; motif: ACCGGAACYACGCWYSANTG; match class: 1",1
+"1577","TF","Factor: Elk-1:T-bet; motif: TCACACCGGAAGNN",1
+"1578","TF","Factor: Elk-1:T-bet; motif: TCACACCGGAAGNN; match class: 0",1
+"1579","TF","Factor: Elk-1:TBR2; motif: TNRCACCGGAAGN",1
+"1580","TF","Factor: Elk-1:TBR2; motif: TNRCACCGGAAGN; match class: 0",1
+"1581","TF","Factor: Elk-1; motif: AACCGGAAGTR",1
+"1582","TF","Factor: Elk-1; motif: AACCGGAAGTR; match class: 0",1
+"1583","TF","Factor: Elk-1; motif: RACCGGAAGTR",1
+"1584","TF","Factor: Elk-1; motif: RACCGGAAGTR; match class: 0",1
+"1585","TF","Factor: ELK1; motif: ACCGGAAGTN; match class: 1",1
+"1586","TF","Factor: ELK3; motif: ACCGGAAGTN",1
+"1587","TF","Factor: ELK3; motif: ACCGGAAGTN; match class: 0",1
+"1588","TF","Factor: ELK4; motif: NCRCTTCCGGN",1
+"1589","TF","Factor: ELK4; motif: NCRCTTCCGGN; match class: 0",1
+"1590","TF","Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG",1
+"1591","TF","Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG; match class: 0",1
+"1592","TF","Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG; match class: 1",1
+"1593","TF","Factor: ER71:SREBP-2; motif: NTSACGTGACGGAARY",1
+"1594","TF","Factor: ER71:SREBP-2; motif: NTSACGTGACGGAARY; match class: 0",1
+"1595","TF","Factor: ER71:SREBP-2; motif: NTSACGTGACGGAARY; match class: 1",1
+"1596","TF","Factor: ER71; motif: ACCGGAARYN; match class: 1",1
+"1597","TF","Factor: ER81; motif: NNNGRCMGGAAGYRNNNNNNNS",1
+"1598","TF","Factor: ER81; motif: NNNGRCMGGAAGYRNNNNNNNS; match class: 0",1
+"1599","TF","Factor: ETF; motif: CCCCGCCCCYN",1
+"1600","TF","Factor: ETF; motif: CCCCGCCCCYN; match class: 0",1
+"1601","TF","Factor: ETF; motif: CCCCGCCCCYN; match class: 1",1
+"1602","TF","Factor: ETS1; motif: GCCGGAWGTACTTCCGGN",1
+"1603","TF","Factor: ETS1; motif: GCCGGAWGTACTTCCGGN; match class: 0",1
+"1604","TF","Factor: ETS1; motif: GCCGGAWGTACTTCCGGN; match class: 1",1
+"1605","TF","Factor: ETV1; motif: ACCGGAAGTN",1
+"1606","TF","Factor: ETV1; motif: ACCGGAAGTN; match class: 0",1
+"1607","TF","Factor: etv3; motif: ACCGGAAGYN",1
+"1608","TF","Factor: etv3; motif: ACCGGAAGYN; match class: 0",1
+"1609","TF","Factor: ETV4; motif: ACCGGAAGTN; match class: 1",1
+"1610","TF","Factor: ETV5; motif: NCCGGAWGYN",1
+"1611","TF","Factor: ETV5; motif: NCCGGAWGYN; match class: 0",1
+"1612","TF","Factor: FEV; motif: ACCGGAAGTN",1
+"1613","TF","Factor: FEV; motif: ACCGGAAGTN; match class: 0",1
+"1614","TF","Factor: FKLF; motif: BGGGNGGVMD",1
+"1615","TF","Factor: FKLF; motif: BGGGNGGVMD; match class: 0",1
+"1616","TF","Factor: FKLF; motif: BGGGNGGVMD; match class: 1",1
+"1617","TF","Factor: GABP-alpha; motif: AACCGGAAR",1
+"1618","TF","Factor: GABP-alpha; motif: AACCGGAAR; match class: 0",1
+"1619","TF","Factor: GABP-alpha; motif: AACCGGAAR; match class: 1",1
+"1620","TF","Factor: GABP-alpha; motif: CACTTCCGG; match class: 1",1
+"1621","TF","Factor: GABP; motif: VCCGGAAGNGCR",1
+"1622","TF","Factor: GABP; motif: VCCGGAAGNGCR; match class: 0",1
+"1623","TF","Factor: GABPA; motif: ACCGGAAGTN; match class: 1",1
+"1624","TF","Factor: GABPalpha_GABPbeta; motif: CTTCCKGY",1
+"1625","TF","Factor: GABPalpha_GABPbeta; motif: CTTCCKGY; match class: 0",1
+"1626","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG",1
+"1627","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 0",1
+"1628","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 1",1
+"1629","TF","Factor: GCMa:PEA3; motif: ATRCGGGCGGAAGTR; match class: 1",1
+"1630","TF","Factor: GEMIN3; motif: NCWGGRARRGRGNGNG; match class: 1",1
+"1631","TF","Factor: GKLF; motif: NNNRGGNGNGGSN",1
+"1632","TF","Factor: GKLF; motif: NNNRGGNGNGGSN; match class: 0",1
+"1633","TF","Factor: GKLF; motif: NNRRGRRNGNSNNN",1
+"1634","TF","Factor: GKLF; motif: NNRRGRRNGNSNNN; match class: 0",1
+"1635","TF","Factor: HIC1; motif: NSNNNNTGCCCSSNN",1
+"1636","TF","Factor: HIC1; motif: NSNNNNTGCCCSSNN; match class: 0",1
+"1637","TF","Factor: HOXB2:PEA3; motif: ACCGGAAATGRN",1
+"1638","TF","Factor: HOXB2:PEA3; motif: ACCGGAAATGRN; match class: 0",1
+"1639","TF","Factor: HSFY1; motif: TTTCGAACG",1
+"1640","TF","Factor: HSFY1; motif: TTTCGAACG; match class: 0",1
+"1641","TF","Factor: Kaiso; motif: GCMGGGRGCRGS; match class: 1",1
+"1642","TF","Factor: Kaiso; motif: GNTCTCGCGAGRNNNNGGN",1
+"1643","TF","Factor: Kaiso; motif: GNTCTCGCGAGRNNNNGGN; match class: 0",1
+"1644","TF","Factor: KLF17; motif: NGGGCGG",1
+"1645","TF","Factor: KLF17; motif: NGGGCGG; match class: 0",1
+"1646","TF","Factor: KROX; motif: CCCGCCCCCRCCCC",1
+"1647","TF","Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 0",1
+"1648","TF","Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 1",1
+"1649","TF","Factor: LKLF; motif: NGGGCGG",1
+"1650","TF","Factor: LKLF; motif: NGGGCGG; match class: 0",1
+"1651","TF","Factor: LRF; motif: GGGGKYNNB; match class: 1",1
+"1652","TF","Factor: MAZ; motif: GGGGAGGG",1
+"1653","TF","Factor: MAZ; motif: GGGGAGGG; match class: 0",1
+"1654","TF","Factor: MAZ; motif: GGGGAGGG; match class: 1",1
+"1655","TF","Factor: MOVO-B; motif: GNGGGGG",1
+"1656","TF","Factor: MOVO-B; motif: GNGGGGG; match class: 0",1
+"1657","TF","Factor: MOVO-B; motif: GNGGGGG; match class: 1",1
+"1658","TF","Factor: NF-Y; motif: NCTGATTGGYTASY",1
+"1659","TF","Factor: NF-Y; motif: NCTGATTGGYTASY; match class: 0",1
+"1660","TF","Factor: NF-Y; motif: NNNNRRCCAATSR",1
+"1661","TF","Factor: NF-Y; motif: NNNNRRCCAATSR; match class: 0",1
+"1662","TF","Factor: NF-Y; motif: NNNRRCCAATSRGNNN",1
+"1663","TF","Factor: NF-Y; motif: NNNRRCCAATSRGNNN; match class: 0",1
+"1664","TF","Factor: NF-Y; motif: RGCCAATCRGN",1
+"1665","TF","Factor: NF-Y; motif: RGCCAATCRGN; match class: 0",1
+"1666","TF","Factor: NF-Y; motif: RGCCAATCRGN; match class: 1",1
+"1667","TF","Factor: NF-YA; motif: CRGCCAATCAGNRN",1
+"1668","TF","Factor: NF-YA; motif: CRGCCAATCAGNRN; match class: 0",1
+"1669","TF","Factor: NF-YA; motif: YTCTSATTGGYYRN",1
+"1670","TF","Factor: NF-YA; motif: YTCTSATTGGYYRN; match class: 0",1
+"1671","TF","Factor: NF-YB; motif: NNNYNRRCCAATCAG",1
+"1672","TF","Factor: NF-YB; motif: NNNYNRRCCAATCAG; match class: 0",1
+"1673","TF","Factor: NF-YC; motif: NRGCCAATYAGMGC",1
+"1674","TF","Factor: NF-YC; motif: NRGCCAATYAGMGC; match class: 0",1
+"1675","TF","Factor: NFYA; motif: AGNSYKCTGATTGGTNNR",1
+"1676","TF","Factor: NFYA; motif: AGNSYKCTGATTGGTNNR; match class: 0",1
+"1677","TF","Factor: NFYA; motif: RRCCAATCAGN",1
+"1678","TF","Factor: NFYA; motif: RRCCAATCAGN; match class: 0",1
+"1679","TF","Factor: NRF-1; motif: CGCATGCGCR",1
+"1680","TF","Factor: NRF-1; motif: CGCATGCGCR; match class: 0",1
+"1681","TF","Factor: NRF-1; motif: CNCTGCGCATGCGC",1
+"1682","TF","Factor: NRF-1; motif: CNCTGCGCATGCGC; match class: 0",1
+"1683","TF","Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN; match class: 1",1
+"1684","TF","Factor: NRF-1; motif: YGCGCATGCGCN",1
+"1685","TF","Factor: NRF-1; motif: YGCGCATGCGCN; match class: 0",1
+"1686","TF","Factor: Osx; motif: CCNCCCCCNNN",1
+"1687","TF","Factor: Osx; motif: CCNCCCCCNNN; match class: 0",1
+"1688","TF","Factor: Pax-3; motif: TCGTCACRCTTHM; match class: 1",1
+"1689","TF","Factor: Pax-5; motif: RRMSWGANWYCTNRAGCGKRACSRYNSM",1
+"1690","TF","Factor: Pax-5; motif: RRMSWGANWYCTNRAGCGKRACSRYNSM; match class: 0",1
+"1691","TF","Factor: Pax-5; motif: RRMSWGANWYCTNRAGCGKRACSRYNSM; match class: 1",1
+"1692","TF","Factor: Pet-1; motif: ACCGGAWRTN",1
+"1693","TF","Factor: Pet-1; motif: ACCGGAWRTN; match class: 0",1
+"1694","TF","Factor: pitx2; motif: NNTAAWCCCA",1
+"1695","TF","Factor: pitx2; motif: NNTAAWCCCA; match class: 0",1
+"1696","TF","Factor: Pitx2; motif: WNTAAWCCCA",1
+"1697","TF","Factor: Pitx2; motif: WNTAAWCCCA; match class: 0",1
+"1698","TF","Factor: PLAG1; motif: CCCCCKWNNNGGSCCC",1
+"1699","TF","Factor: PLAG1; motif: CCCCCKWNNNGGSCCC; match class: 0",1
+"1700","TF","Factor: PRRX1; motif: TAATYTAATTA",1
+"1701","TF","Factor: PRRX1; motif: TAATYTAATTA; match class: 0",1
+"1702","TF","Factor: PSF; motif: KWATCCGN",1
+"1703","TF","Factor: PSF; motif: KWATCCGN; match class: 0",1
+"1704","TF","Factor: PSF; motif: KWATCCGN; match class: 1",1
+"1705","TF","Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC; match class: 1",1
+"1706","TF","Factor: RNF96; motif: BCCCGCRGCC",1
+"1707","TF","Factor: RNF96; motif: BCCCGCRGCC; match class: 0",1
+"1708","TF","Factor: RNF96; motif: BCCCGCRGCC; match class: 1",1
+"1709","TF","Factor: RUNX2; motif: NRACCGCAAACCGCAN",1
+"1710","TF","Factor: RUNX2; motif: NRACCGCAAACCGCAN; match class: 0",1
+"1711","TF","Factor: SAP-1; motif: ACCGGAAGTNN; match class: 1",1
+"1712","TF","Factor: SAP-1a; motif: NACCGGAAGTV",1
+"1713","TF","Factor: SAP-1a; motif: NACCGGAAGTV; match class: 0",1
+"1714","TF","Factor: SAP-1a; motif: NACCGGAAGTV; match class: 1",1
+"1715","TF","Factor: SAP1A; motif: NCCGGAARYN",1
+"1716","TF","Factor: SAP1A; motif: NCCGGAARYN; match class: 0",1
+"1717","TF","Factor: SP1:SP3; motif: CCSCCCCCYCC",1
+"1718","TF","Factor: SP1:SP3; motif: CCSCCCCCYCC; match class: 0",1
+"1719","TF","Factor: Sp1; motif: NGGGGCGGGGN",1
+"1720","TF","Factor: Sp1; motif: NGGGGCGGGGN; match class: 0",1
+"1721","TF","Factor: SP1; motif: RCCMCRCCCMC",1
+"1722","TF","Factor: SP1; motif: RCCMCRCCCMC; match class: 0",1
+"1723","TF","Factor: SP2; motif: GGGCGGGAC",1
+"1724","TF","Factor: SP2; motif: GGGCGGGAC; match class: 0",1
+"1725","TF","Factor: Sp2; motif: TGGGCGCGCCCA",1
+"1726","TF","Factor: Sp2; motif: TGGGCGCGCCCA; match class: 0",1
+"1727","TF","Factor: SP4; motif: NWRGCCACGCCCMCTYN",1
+"1728","TF","Factor: SP4; motif: NWRGCCACGCCCMCTYN; match class: 0",1
+"1729","TF","Factor: Stra13; motif: NYSTCACGTGABNN",1
+"1730","TF","Factor: Stra13; motif: NYSTCACGTGABNN; match class: 0",1
+"1731","TF","Factor: Stra13; motif: NYSTCACGTGABNN; match class: 1",1
+"1732","TF","Factor: TATA; motif: STATAAAWRNNNNNN",1
+"1733","TF","Factor: TATA; motif: STATAAAWRNNNNNN; match class: 0",1
+"1734","TF","Factor: Tax/CREB; motif: GGGGGTTGACGYANA",1
+"1735","TF","Factor: Tax/CREB; motif: GGGGGTTGACGYANA; match class: 0",1
+"1736","TF","Factor: TEF-3:ER81; motif: ACCGGAAATRCC",1
+"1737","TF","Factor: TEF-3:ER81; motif: ACCGGAAATRCC; match class: 0",1
+"1738","TF","Factor: TEF-3:Fli-1; motif: ACCGGAAATGCC",1
+"1739","TF","Factor: TEF-3:Fli-1; motif: ACCGGAAATGCC; match class: 0",1
+"1740","TF","Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG; match class: 1",1
+"1741","TF","Factor: TFDP1; motif: NSGCGGGAANN",1
+"1742","TF","Factor: TFDP1; motif: NSGCGGGAANN; match class: 0",1
+"1743","TF","Factor: TFEC; motif: RNCACRTGAY; match class: 1",1
+"1744","TF","Factor: USF2; motif: AAGTCACG",1
+"1745","TF","Factor: USF2; motif: AAGTCACG; match class: 0",1
+"1746","TF","Factor: USF2; motif: GTCACGTGA; match class: 1",1
+"1747","TF","Factor: WT1; motif: CGCCCCCNCN",1
+"1748","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 0",1
+"1749","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 1",1
+"1750","TF","Factor: WT1; motif: GNGGGGGCGGGG",1
+"1751","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 0",1
+"1752","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 1",1
+"1753","TF","Factor: WT1; motif: NGCGGGGGGGTSMMCYN",1
+"1754","TF","Factor: WT1; motif: NGCGGGGGGGTSMMCYN; match class: 0",1
+"1755","TF","Factor: YB-1; motif: CCAMTCNGMR",1
+"1756","TF","Factor: YB-1; motif: CCAMTCNGMR; match class: 0",1
+"1757","TF","Factor: YB-1; motif: CCAMTCNGMR; match class: 1",1
+"1758","TF","Factor: YB-1; motif: NNNNCCAATNN",1
+"1759","TF","Factor: YB-1; motif: NNNNCCAATNN; match class: 0",1
+"1760","TF","Factor: YB-1; motif: NNNNCCAATNN; match class: 1",1
+"1761","TF","Factor: YY1; motif: CAARATGGCNGC",1
+"1762","TF","Factor: YY1; motif: CAARATGGCNGC; match class: 0",1
+"1763","TF","Factor: YY1; motif: GCCATNTTN",1
+"1764","TF","Factor: YY1; motif: GCCATNTTN; match class: 0",1
+"1765","TF","Factor: YY1; motif: GCCGCCATNTTGNNNNNGGNCN",1
+"1766","TF","Factor: YY1; motif: GCCGCCATNTTGNNNNNGGNCN; match class: 0",1
+"1767","TF","Factor: YY1; motif: NAANATGGCGNNN; match class: 1",1
+"1768","TF","Factor: YY1; motif: NNNNAARATGGNNNN",1
+"1769","TF","Factor: YY1; motif: NNNNAARATGGNNNN; match class: 0",1
+"1770","TF","Factor: YY1; motif: NYNKCCATNTT",1
+"1771","TF","Factor: YY1; motif: NYNKCCATNTT; match class: 0",1
+"1772","TF","Factor: YY1; motif: NYNKCCATNTT; match class: 1",1
+"1773","TF","Factor: YY2; motif: NCCGCCATNTY; match class: 1",1
+"1774","TF","Factor: ZNF333; motif: ATAAT",1
+"1775","TF","Factor: ZNF333; motif: ATAAT; match class: 0",1
+"1776","TF","Factor: ZNF511; motif: GGRRGRGGCWGNG; match class: 1",1
+"1777","WP","ATM Signaling Pathway",1
+"1778","WP","Benzene metabolism",1
+"1779","WP","Benzo(a)pyrene metabolism",1
+"1780","WP","Cell Cycle",1
+"1781","WP","Cytoplasmic Ribosomal Proteins",1
+"1782","WP","Disorders of Folate Metabolism and Transport",1
+"1783","WP","DNA Damage Response",1
+"1784","WP","DNA IR-damage and cellular response via ATR",1
+"1785","WP","DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM",1
+"1786","WP","DNA Replication",1
+"1787","WP","G1 to S cell cycle control",1
+"1788","WP","Gastric Cancer Network 1",1
+"1789","WP","Gastric Cancer Network 2",1
+"1790","WP","Genes related to primary cilium development (based on CRISPR)",1
+"1791","WP","Glutathione metabolism",1
+"1792","WP","Glycolysis and Gluconeogenesis",1
+"1793","WP","Hedgehog Signaling Pathway",1
+"1794","WP","HIF1A and PPARG regulation of glycolysis",1
+"1795","WP","Integrated Breast Cancer Pathway",1
+"1796","WP","Integrated Cancer Pathway",1
+"1797","WP","Irinotecan Pathway",1
+"1798","WP","Metapathway biotransformation Phase I and II",1
+"1799","WP","miRNA Regulation of DNA Damage Response",1
+"1800","WP","mRNA Processing",1
+"1801","WP","NRF2 pathway",1
+"1802","WP","Nuclear Receptors Meta-Pathway",1
+"1803","WP","Nucleotide Metabolism",1
+"1804","WP","One Carbon Metabolism",1
+"1805","WP","Pentose Phosphate Metabolism",1
+"1806","WP","Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling",1
+"1807","WP","Pyrimidine metabolism",1
+"1808","WP","Regulation of sister chromatid separation at the metaphase-anaphase transition",1
+"1809","WP","Retinoblastoma Gene in Cancer",1
+"1810","WP","Trans-sulfuration and one carbon metabolism",1
+"1811","WP","Type 2 papillary renal cell carcinoma",1

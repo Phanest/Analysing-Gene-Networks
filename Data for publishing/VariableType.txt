@@ -1,0 +1,33 @@
+
+Binary:
+clinical_data_gender [BRCA, LUSC, PRAD, THCA]
+clinical_data_HER2 [BRCA]
+
+Ordinal (Spearman):
+clinical_data_pathology_N_stage [BRCA, LUSC, PRAD, THCA]
+clinical_data_pathology_M_stage [BRCA, LUSC, THCA]
+clinical_data_clinical_stage
+clinical_data_pathologic_stage [BRCA, LUSC, PRAD, THCA]
+clinical_data_pathology_T_stage [BRCA, LUSC, PRAD, THCA]
+clinical_data_year_of_tobacco_smoking_onset (binned or Continous) [LUSC]
+clinical_data_gleason_score (scale) [PRAD]
+clinical_data_extrathyroidal_extension [THCA]
+ips_ctla4_neg_pd1_neg [BRCA, LUSC, PRAD, THCA]
+ips_ctla4_neg_pd1_pos [BRCA, LUSC, PRAD, THCA]
+ips_ctla4_pos_pd1_neg [BRCA, LUSC, PRAD, THCA]
+ips_ctla4_pos_pd1_pos [BRCA, LUSC, PRAD, THCA]
+
+Continous:
+clinical_data_years_to_birth [BRCA, LUSC, PRAD, THCA]
+clinical_data_number_of_lymph_nodes [BRCA, PRAD, THCA]
+clinical_data_progression_free
+clinical_data_days_to_death [BRCA, LUSC]
+clinical_data_tumor_size [THCA]
+clinical_data_karnofsky_performance_score [LUSC]
+clinical_data_psa_value [PRAD]
+
+Categorical:
+clinical_data_NF1
+clinical_data_PAM50MRNA [BRCA]
+clinical_data_msi_status
+clinical_data_NRAS

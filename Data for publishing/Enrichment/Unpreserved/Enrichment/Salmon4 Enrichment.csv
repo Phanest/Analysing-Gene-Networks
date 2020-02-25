@@ -1,0 +1,5 @@
+"source","term_name","term_id","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"GO:MF","voltage-gated cation channel activity","GO:0022843","0.049639120717215754","1.3041759199823997","145","33","4","18098","CACNG7,HCN1,KCNB1,KCNQ2"
+"GO:BP","spermatid nucleus differentiation","GO:0007289","0.017853547710573188","1.7482754715387645","23","33","3","17816","CHD5,DMRTC2,HIST1H2BA"
+"GO:CC","axon","GO:0030424","0.02314250398667915","1.6355896527842626","617","34","7","18797","ATCAY,CACNG7,HCN1,KCNB1,KCNQ2,PRKCG,SLC32A1"
+"HPA","ovary; follicle cells[Supported,Not detected]","HPA:031010_10","0.039260265613620164","1.406046766525637","849","5","4","9499","CHD5,DCD,PRKCG,RHOXF2B"

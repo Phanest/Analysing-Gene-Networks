@@ -1,0 +1,1964 @@
+"","source","term_name","n"
+"1","CORUM","ADAM12-alphaVbeta3-integrin-MMP-14 complex",1
+"2","CORUM","CP-LF complex",1
+"3","CORUM","DTX3L-PARP9-STAT1 complex",1
+"4","CORUM","DTX3L-PARP9 complex",1
+"5","CORUM","ITGA5-ITGB1-FN-1-NOV complex",1
+"6","CORUM","NMI homodimer complex",1
+"7","CORUM","Respiratory chain complex I (holoenzyme), mitochondrial",1
+"8","CORUM","SERPINA1-CTSG complex",1
+"9","GO:BP","multicellular organismal process",4
+"10","GO:BP","anatomical structure development",3
+"11","GO:BP","biological adhesion",3
+"12","GO:BP","cell surface receptor signaling pathway",3
+"13","GO:BP","cellular response to chemical stimulus",3
+"14","GO:BP","cellular response to organic substance",3
+"15","GO:BP","movement of cell or subcellular component",3
+"16","GO:BP","regulation of biological quality",3
+"17","GO:BP","regulation of cell communication",3
+"18","GO:BP","regulation of multicellular organismal process",3
+"19","GO:BP","regulation of signaling",3
+"20","GO:BP","response to biotic stimulus",3
+"21","GO:BP","response to chemical",3
+"22","GO:BP","response to external biotic stimulus",3
+"23","GO:BP","response to external stimulus",3
+"24","GO:BP","response to organic substance",3
+"25","GO:BP","response to other organism",3
+"26","GO:BP","response to stimulus",3
+"27","GO:BP","tube development",3
+"28","GO:BP","tube morphogenesis",3
+"29","GO:BP","anatomical structure formation involved in morphogenesis",2
+"30","GO:BP","anatomical structure morphogenesis",2
+"31","GO:BP","animal organ development",2
+"32","GO:BP","anterograde trans-synaptic signaling",2
+"33","GO:BP","axonogenesis",2
+"34","GO:BP","blood vessel development",2
+"35","GO:BP","blood vessel morphogenesis",2
+"36","GO:BP","cell-cell adhesion",2
+"37","GO:BP","cell-cell signaling",2
+"38","GO:BP","cell adhesion",2
+"39","GO:BP","cell communication",2
+"40","GO:BP","cell differentiation",2
+"41","GO:BP","cell migration",2
+"42","GO:BP","cell morphogenesis",2
+"43","GO:BP","cell morphogenesis involved in differentiation",2
+"44","GO:BP","cell morphogenesis involved in neuron differentiation",2
+"45","GO:BP","cellular component morphogenesis",2
+"46","GO:BP","cellular developmental process",2
+"47","GO:BP","cellular response to cytokine stimulus",2
+"48","GO:BP","cellular response to endogenous stimulus",2
+"49","GO:BP","cellular response to interferon-gamma",2
+"50","GO:BP","chemical homeostasis",2
+"51","GO:BP","chemical synaptic transmission",2
+"52","GO:BP","cytokine-mediated signaling pathway",2
+"53","GO:BP","defense response",2
+"54","GO:BP","defense response to other organism",2
+"55","GO:BP","defense response to virus",2
+"56","GO:BP","developmental process",2
+"57","GO:BP","establishment of localization",2
+"58","GO:BP","export from cell",2
+"59","GO:BP","generation of neurons",2
+"60","GO:BP","immune effector process",2
+"61","GO:BP","immune response",2
+"62","GO:BP","immune system process",2
+"63","GO:BP","innate immune response",2
+"64","GO:BP","interferon-gamma-mediated signaling pathway",2
+"65","GO:BP","ion transport",2
+"66","GO:BP","leukocyte mediated immunity",2
+"67","GO:BP","localization",2
+"68","GO:BP","locomotion",2
+"69","GO:BP","multi-organism process",2
+"70","GO:BP","multicellular organism development",2
+"71","GO:BP","myeloid cell activation involved in immune response",2
+"72","GO:BP","myeloid leukocyte activation",2
+"73","GO:BP","negative regulation of cytokine production",2
+"74","GO:BP","negative regulation of multi-organism process",2
+"75","GO:BP","negative regulation of multicellular organismal process",2
+"76","GO:BP","nervous system development",2
+"77","GO:BP","neurogenesis",2
+"78","GO:BP","neuron projection morphogenesis",2
+"79","GO:BP","pattern recognition receptor signaling pathway",2
+"80","GO:BP","plasma membrane bounded cell projection morphogenesis",2
+"81","GO:BP","positive regulation of biological process",2
+"82","GO:BP","positive regulation of cell communication",2
+"83","GO:BP","positive regulation of cellular process",2
+"84","GO:BP","positive regulation of cytokine secretion",2
+"85","GO:BP","positive regulation of innate immune response",2
+"86","GO:BP","positive regulation of multi-organism process",2
+"87","GO:BP","positive regulation of multicellular organismal process",2
+"88","GO:BP","positive regulation of peptide secretion",2
+"89","GO:BP","positive regulation of protein secretion",2
+"90","GO:BP","positive regulation of response to biotic stimulus",2
+"91","GO:BP","positive regulation of secretion",2
+"92","GO:BP","positive regulation of signaling",2
+"93","GO:BP","regulated exocytosis",2
+"94","GO:BP","regulation of cell adhesion",2
+"95","GO:BP","regulation of defense response",2
+"96","GO:BP","regulation of developmental process",2
+"97","GO:BP","regulation of immune effector process",2
+"98","GO:BP","regulation of immune response",2
+"99","GO:BP","regulation of immune system process",2
+"100","GO:BP","regulation of innate immune response",2
+"101","GO:BP","regulation of localization",2
+"102","GO:BP","regulation of locomotion",2
+"103","GO:BP","regulation of multi-organism process",2
+"104","GO:BP","regulation of multicellular organismal development",2
+"105","GO:BP","regulation of response to biotic stimulus",2
+"106","GO:BP","regulation of response to external stimulus",2
+"107","GO:BP","regulation of signal transduction",2
+"108","GO:BP","response to cytokine",2
+"109","GO:BP","response to endogenous stimulus",2
+"110","GO:BP","response to interferon-gamma",2
+"111","GO:BP","response to oxygen-containing compound",2
+"112","GO:BP","response to stress",2
+"113","GO:BP","response to virus",2
+"114","GO:BP","secretion",2
+"115","GO:BP","secretion by cell",2
+"116","GO:BP","signal transduction",2
+"117","GO:BP","signaling",2
+"118","GO:BP","synaptic signaling",2
+"119","GO:BP","system development",2
+"120","GO:BP","trans-synaptic signaling",2
+"121","GO:BP","transport",2
+"122","GO:BP","actin cytoskeleton organization",1
+"123","GO:BP","actin filament-based process",1
+"124","GO:BP","activation of immune response",1
+"125","GO:BP","activation of innate immune response",1
+"126","GO:BP","adaptive immune response",1
+"127","GO:BP","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",1
+"128","GO:BP","adherens junction assembly",1
+"129","GO:BP","adherens junction organization",1
+"130","GO:BP","alpha-beta T cell activation",1
+"131","GO:BP","alpha-beta T cell differentiation",1
+"132","GO:BP","alpha-beta T cell proliferation",1
+"133","GO:BP","aminoglycan biosynthetic process",1
+"134","GO:BP","angiogenesis",1
+"135","GO:BP","animal organ morphogenesis",1
+"136","GO:BP","anion transport",1
+"137","GO:BP","antibacterial humoral response",1
+"138","GO:BP","antigen processing and presentation",1
+"139","GO:BP","antigen processing and presentation of endogenous antigen",1
+"140","GO:BP","antigen receptor-mediated signaling pathway",1
+"141","GO:BP","antimicrobial humoral response",1
+"142","GO:BP","apoptotic process",1
+"143","GO:BP","axon development",1
+"144","GO:BP","axonemal dynein complex assembly",1
+"145","GO:BP","axoneme assembly",1
+"146","GO:BP","B cell activation",1
+"147","GO:BP","B cell activation involved in immune response",1
+"148","GO:BP","B cell differentiation",1
+"149","GO:BP","B cell mediated immunity",1
+"150","GO:BP","B cell proliferation",1
+"151","GO:BP","B cell receptor signaling pathway",1
+"152","GO:BP","bicarbonate transport",1
+"153","GO:BP","biological regulation",1
+"154","GO:BP","biomineral tissue development",1
+"155","GO:BP","blood circulation",1
+"156","GO:BP","blood coagulation, fibrin clot formation",1
+"157","GO:BP","bone development",1
+"158","GO:BP","bone mineralization",1
+"159","GO:BP","bone morphogenesis",1
+"160","GO:BP","calcium-mediated signaling",1
+"161","GO:BP","calcium ion homeostasis",1
+"162","GO:BP","calcium ion transmembrane import into cytosol",1
+"163","GO:BP","calcium ion transport",1
+"164","GO:BP","calcium ion transport into cytosol",1
+"165","GO:BP","cardiac chamber development",1
+"166","GO:BP","cardiac chamber morphogenesis",1
+"167","GO:BP","cardiac septum development",1
+"168","GO:BP","cardiac ventricle development",1
+"169","GO:BP","cardiac ventricle morphogenesis",1
+"170","GO:BP","cardiovascular system development",1
+"171","GO:BP","cartilage development",1
+"172","GO:BP","cation homeostasis",1
+"173","GO:BP","CD4-positive, alpha-beta T cell activation",1
+"174","GO:BP","CD4-positive, alpha-beta T cell differentiation",1
+"175","GO:BP","cell-cell adhesion via plasma-membrane adhesion molecules",1
+"176","GO:BP","cell-matrix adhesion",1
+"177","GO:BP","cell-substrate adherens junction assembly",1
+"178","GO:BP","cell-substrate adhesion",1
+"179","GO:BP","cell-substrate junction assembly",1
+"180","GO:BP","cell activation",1
+"181","GO:BP","cell activation involved in immune response",1
+"182","GO:BP","cell chemotaxis",1
+"183","GO:BP","cell death",1
+"184","GO:BP","cell development",1
+"185","GO:BP","cell junction assembly",1
+"186","GO:BP","cell junction organization",1
+"187","GO:BP","cell killing",1
+"188","GO:BP","cell motility",1
+"189","GO:BP","cell part morphogenesis",1
+"190","GO:BP","cell population proliferation",1
+"191","GO:BP","cell projection assembly",1
+"192","GO:BP","cell projection morphogenesis",1
+"193","GO:BP","cell projection organization",1
+"194","GO:BP","cellular calcium ion homeostasis",1
+"195","GO:BP","cellular cation homeostasis",1
+"196","GO:BP","cellular chemical homeostasis",1
+"197","GO:BP","cellular component organization",1
+"198","GO:BP","cellular component organization or biogenesis",1
+"199","GO:BP","cellular defense response",1
+"200","GO:BP","cellular divalent inorganic cation homeostasis",1
+"201","GO:BP","cellular extravasation",1
+"202","GO:BP","cellular homeostasis",1
+"203","GO:BP","cellular ion homeostasis",1
+"204","GO:BP","cellular lipid metabolic process",1
+"205","GO:BP","cellular metal ion homeostasis",1
+"206","GO:BP","cellular response to biotic stimulus",1
+"207","GO:BP","cellular response to BMP stimulus",1
+"208","GO:BP","cellular response to chemokine",1
+"209","GO:BP","cellular response to exogenous dsRNA",1
+"210","GO:BP","cellular response to growth factor stimulus",1
+"211","GO:BP","cellular response to lipid",1
+"212","GO:BP","cellular response to lipopolysaccharide",1
+"213","GO:BP","cellular response to molecule of bacterial origin",1
+"214","GO:BP","cellular response to organic cyclic compound",1
+"215","GO:BP","cellular response to steroid hormone stimulus",1
+"216","GO:BP","cellular response to stimulus",1
+"217","GO:BP","cellular response to transforming growth factor beta stimulus",1
+"218","GO:BP","cellular response to tumor necrosis factor",1
+"219","GO:BP","cellular response to type I interferon",1
+"220","GO:BP","cellular response to virus",1
+"221","GO:BP","chemical homeostasis within a tissue",1
+"222","GO:BP","chemokine-mediated signaling pathway",1
+"223","GO:BP","chemokine secretion",1
+"224","GO:BP","chemotaxis",1
+"225","GO:BP","chondrocyte development",1
+"226","GO:BP","chondrocyte differentiation",1
+"227","GO:BP","chondroitin sulfate biosynthetic process",1
+"228","GO:BP","chondroitin sulfate metabolic process",1
+"229","GO:BP","chondroitin sulfate proteoglycan biosynthetic process",1
+"230","GO:BP","cilium-dependent cell motility",1
+"231","GO:BP","cilium assembly",1
+"232","GO:BP","cilium movement",1
+"233","GO:BP","cilium movement involved in cell motility",1
+"234","GO:BP","cilium or flagellum-dependent cell motility",1
+"235","GO:BP","cilium organization",1
+"236","GO:BP","circulatory system development",1
+"237","GO:BP","circulatory system process",1
+"238","GO:BP","collagen biosynthetic process",1
+"239","GO:BP","collagen catabolic process",1
+"240","GO:BP","collagen fibril organization",1
+"241","GO:BP","collagen metabolic process",1
+"242","GO:BP","complement activation, alternative pathway",1
+"243","GO:BP","connective tissue development",1
+"244","GO:BP","cytokine biosynthetic process",1
+"245","GO:BP","cytokine metabolic process",1
+"246","GO:BP","cytokine production",1
+"247","GO:BP","cytokine secretion",1
+"248","GO:BP","cytoplasmic pattern recognition receptor signaling pathway",1
+"249","GO:BP","cytoplasmic pattern recognition receptor signaling pathway in response to virus",1
+"250","GO:BP","cytosolic calcium ion transport",1
+"251","GO:BP","dendritic cell differentiation",1
+"252","GO:BP","determination of bilateral symmetry",1
+"253","GO:BP","determination of left/right symmetry",1
+"254","GO:BP","developmental growth",1
+"255","GO:BP","divalent inorganic cation homeostasis",1
+"256","GO:BP","divalent inorganic cation transport",1
+"257","GO:BP","divalent metal ion transport",1
+"258","GO:BP","drug metabolic process",1
+"259","GO:BP","embryo development",1
+"260","GO:BP","embryonic morphogenesis",1
+"261","GO:BP","embryonic organ development",1
+"262","GO:BP","endocardial cushion development",1
+"263","GO:BP","endochondral bone morphogenesis",1
+"264","GO:BP","endocytosis",1
+"265","GO:BP","endoderm development",1
+"266","GO:BP","endoderm formation",1
+"267","GO:BP","endodermal cell differentiation",1
+"268","GO:BP","enzyme linked receptor protein signaling pathway",1
+"269","GO:BP","eosinophil chemotaxis",1
+"270","GO:BP","eosinophil migration",1
+"271","GO:BP","epithelial cilium movement involved in extracellular fluid movement",1
+"272","GO:BP","epithelial to mesenchymal transition",1
+"273","GO:BP","epithelium development",1
+"274","GO:BP","ERK1 and ERK2 cascade",1
+"275","GO:BP","establishment of protein localization to extracellular region",1
+"276","GO:BP","exocytosis",1
+"277","GO:BP","extracellular matrix assembly",1
+"278","GO:BP","extracellular matrix disassembly",1
+"279","GO:BP","extracellular matrix organization",1
+"280","GO:BP","extracellular structure organization",1
+"281","GO:BP","extracellular transport",1
+"282","GO:BP","Fc-gamma receptor signaling pathway",1
+"283","GO:BP","Fc-gamma receptor signaling pathway involved in phagocytosis",1
+"284","GO:BP","Fc receptor mediated stimulatory signaling pathway",1
+"285","GO:BP","fibrinolysis",1
+"286","GO:BP","flagellated sperm motility",1
+"287","GO:BP","focal adhesion assembly",1
+"288","GO:BP","formation of primary germ layer",1
+"289","GO:BP","gamete generation",1
+"290","GO:BP","glial cell activation",1
+"291","GO:BP","glycosaminoglycan biosynthetic process",1
+"292","GO:BP","glycosaminoglycan metabolic process",1
+"293","GO:BP","granulocyte activation",1
+"294","GO:BP","granulocyte chemotaxis",1
+"295","GO:BP","granulocyte migration",1
+"296","GO:BP","growth",1
+"297","GO:BP","heart development",1
+"298","GO:BP","heart morphogenesis",1
+"299","GO:BP","heart valve development",1
+"300","GO:BP","heart valve morphogenesis",1
+"301","GO:BP","hematopoietic or lymphoid organ development",1
+"302","GO:BP","hemopoiesis",1
+"303","GO:BP","homeostasis of number of cells",1
+"304","GO:BP","homeostatic process",1
+"305","GO:BP","homophilic cell adhesion via plasma membrane adhesion molecules",1
+"306","GO:BP","homotypic cell-cell adhesion",1
+"307","GO:BP","humoral immune response",1
+"308","GO:BP","I-kappaB kinase/NF-kappaB signaling",1
+"309","GO:BP","immune response-activating cell surface receptor signaling pathway",1
+"310","GO:BP","immune response-activating signal transduction",1
+"311","GO:BP","immune response-regulating cell surface receptor signaling pathway",1
+"312","GO:BP","immune response-regulating cell surface receptor signaling pathway involved in phagocytosis",1
+"313","GO:BP","immune response-regulating signaling pathway",1
+"314","GO:BP","immune system development",1
+"315","GO:BP","immunoglobulin mediated immune response",1
+"316","GO:BP","immunoglobulin production",1
+"317","GO:BP","import into cell",1
+"318","GO:BP","inflammatory response",1
+"319","GO:BP","innate immune response-activating signal transduction",1
+"320","GO:BP","inner dynein arm assembly",1
+"321","GO:BP","inorganic ion homeostasis",1
+"322","GO:BP","interferon-alpha production",1
+"323","GO:BP","interferon-gamma production",1
+"324","GO:BP","interleukin-1 beta production",1
+"325","GO:BP","interleukin-1 beta secretion",1
+"326","GO:BP","interleukin-1 production",1
+"327","GO:BP","interleukin-1 secretion",1
+"328","GO:BP","interleukin-10 production",1
+"329","GO:BP","interleukin-12 production",1
+"330","GO:BP","interleukin-17 production",1
+"331","GO:BP","interleukin-2 biosynthetic process",1
+"332","GO:BP","interleukin-2 production",1
+"333","GO:BP","interleukin-6 production",1
+"334","GO:BP","interleukin-8 production",1
+"335","GO:BP","interspecies interaction between organisms",1
+"336","GO:BP","intracellular signal transduction",1
+"337","GO:BP","ion homeostasis",1
+"338","GO:BP","kidney development",1
+"339","GO:BP","kidney epithelium development",1
+"340","GO:BP","leukocyte activation",1
+"341","GO:BP","leukocyte activation involved in immune response",1
+"342","GO:BP","leukocyte activation involved in inflammatory response",1
+"343","GO:BP","leukocyte apoptotic process",1
+"344","GO:BP","leukocyte cell-cell adhesion",1
+"345","GO:BP","leukocyte chemotaxis",1
+"346","GO:BP","leukocyte degranulation",1
+"347","GO:BP","leukocyte differentiation",1
+"348","GO:BP","leukocyte homeostasis",1
+"349","GO:BP","leukocyte mediated cytotoxicity",1
+"350","GO:BP","leukocyte migration",1
+"351","GO:BP","leukocyte proliferation",1
+"352","GO:BP","lipid localization",1
+"353","GO:BP","lipid metabolic process",1
+"354","GO:BP","lipopolysaccharide-mediated signaling pathway",1
+"355","GO:BP","localization of cell",1
+"356","GO:BP","lung development",1
+"357","GO:BP","lymphocyte activation",1
+"358","GO:BP","lymphocyte activation involved in immune response",1
+"359","GO:BP","lymphocyte apoptotic process",1
+"360","GO:BP","lymphocyte chemotaxis",1
+"361","GO:BP","lymphocyte costimulation",1
+"362","GO:BP","lymphocyte differentiation",1
+"363","GO:BP","lymphocyte homeostasis",1
+"364","GO:BP","lymphocyte mediated immunity",1
+"365","GO:BP","lymphocyte migration",1
+"366","GO:BP","lymphocyte proliferation",1
+"367","GO:BP","macrophage activation",1
+"368","GO:BP","male gamete generation",1
+"369","GO:BP","MAPK cascade",1
+"370","GO:BP","mast cell activation",1
+"371","GO:BP","mast cell activation involved in immune response",1
+"372","GO:BP","mast cell degranulation",1
+"373","GO:BP","mast cell mediated immunity",1
+"374","GO:BP","MDA-5 signaling pathway",1
+"375","GO:BP","membrane invagination",1
+"376","GO:BP","mesenchymal cell differentiation",1
+"377","GO:BP","mesenchyme development",1
+"378","GO:BP","metal ion homeostasis",1
+"379","GO:BP","microglial cell activation",1
+"380","GO:BP","microtubule-based movement",1
+"381","GO:BP","microtubule-based process",1
+"382","GO:BP","microtubule bundle formation",1
+"383","GO:BP","microtubule cytoskeleton organization",1
+"384","GO:BP","monocyte chemotaxis",1
+"385","GO:BP","mononuclear cell migration",1
+"386","GO:BP","mononuclear cell proliferation",1
+"387","GO:BP","morphogenesis of a branching structure",1
+"388","GO:BP","morphogenesis of an epithelium",1
+"389","GO:BP","motile cilium assembly",1
+"390","GO:BP","mucopolysaccharide metabolic process",1
+"391","GO:BP","multi-organism cellular process",1
+"392","GO:BP","multi-organism reproductive process",1
+"393","GO:BP","multicellular organism reproduction",1
+"394","GO:BP","multicellular organismal reproductive process",1
+"395","GO:BP","muscle contraction",1
+"396","GO:BP","muscle structure development",1
+"397","GO:BP","muscle system process",1
+"398","GO:BP","MyD88-dependent toll-like receptor signaling pathway",1
+"399","GO:BP","MyD88-independent toll-like receptor signaling pathway",1
+"400","GO:BP","myeloid cell differentiation",1
+"401","GO:BP","myeloid dendritic cell activation",1
+"402","GO:BP","myeloid leukocyte differentiation",1
+"403","GO:BP","myeloid leukocyte mediated immunity",1
+"404","GO:BP","myeloid leukocyte migration",1
+"405","GO:BP","natural killer cell activation",1
+"406","GO:BP","natural killer cell mediated cytotoxicity",1
+"407","GO:BP","natural killer cell mediated immunity",1
+"408","GO:BP","necroptotic process",1
+"409","GO:BP","negative regulation of antigen receptor-mediated signaling pathway",1
+"410","GO:BP","negative regulation of B cell activation",1
+"411","GO:BP","negative regulation of blood coagulation",1
+"412","GO:BP","negative regulation of catalytic activity",1
+"413","GO:BP","negative regulation of cell-cell adhesion",1
+"414","GO:BP","negative regulation of cell activation",1
+"415","GO:BP","negative regulation of cell adhesion",1
+"416","GO:BP","negative regulation of cell communication",1
+"417","GO:BP","negative regulation of cell development",1
+"418","GO:BP","negative regulation of cell differentiation",1
+"419","GO:BP","negative regulation of cellular process",1
+"420","GO:BP","negative regulation of coagulation",1
+"421","GO:BP","negative regulation of cytokine secretion",1
+"422","GO:BP","negative regulation of defense response",1
+"423","GO:BP","negative regulation of developmental process",1
+"424","GO:BP","negative regulation of endopeptidase activity",1
+"425","GO:BP","negative regulation of hemostasis",1
+"426","GO:BP","negative regulation of hydrolase activity",1
+"427","GO:BP","negative regulation of immune response",1
+"428","GO:BP","negative regulation of immune system process",1
+"429","GO:BP","negative regulation of inflammatory response",1
+"430","GO:BP","negative regulation of interleukin-12 production",1
+"431","GO:BP","negative regulation of interleukin-6 production",1
+"432","GO:BP","negative regulation of leukocyte activation",1
+"433","GO:BP","negative regulation of leukocyte apoptotic process",1
+"434","GO:BP","negative regulation of leukocyte cell-cell adhesion",1
+"435","GO:BP","negative regulation of leukocyte migration",1
+"436","GO:BP","negative regulation of leukocyte proliferation",1
+"437","GO:BP","negative regulation of lymphocyte activation",1
+"438","GO:BP","negative regulation of lymphocyte proliferation",1
+"439","GO:BP","negative regulation of molecular function",1
+"440","GO:BP","negative regulation of mononuclear cell proliferation",1
+"441","GO:BP","negative regulation of neurogenesis",1
+"442","GO:BP","negative regulation of peptidase activity",1
+"443","GO:BP","negative regulation of proteolysis",1
+"444","GO:BP","negative regulation of response to biotic stimulus",1
+"445","GO:BP","negative regulation of response to external stimulus",1
+"446","GO:BP","negative regulation of response to stimulus",1
+"447","GO:BP","negative regulation of secretion",1
+"448","GO:BP","negative regulation of secretion by cell",1
+"449","GO:BP","negative regulation of sequestering of calcium ion",1
+"450","GO:BP","negative regulation of signal transduction",1
+"451","GO:BP","negative regulation of signaling",1
+"452","GO:BP","negative regulation of T cell activation",1
+"453","GO:BP","negative regulation of toll-like receptor signaling pathway",1
+"454","GO:BP","negative regulation of tumor necrosis factor superfamily cytokine production",1
+"455","GO:BP","negative regulation of type I interferon production",1
+"456","GO:BP","negative regulation of viral genome replication",1
+"457","GO:BP","negative regulation of viral life cycle",1
+"458","GO:BP","negative regulation of viral process",1
+"459","GO:BP","negative regulation of wound healing",1
+"460","GO:BP","neuroinflammatory response",1
+"461","GO:BP","neuromuscular junction development",1
+"462","GO:BP","neuron development",1
+"463","GO:BP","neuron differentiation",1
+"464","GO:BP","neuron projection development",1
+"465","GO:BP","neutrophil activation",1
+"466","GO:BP","neutrophil activation involved in immune response",1
+"467","GO:BP","neutrophil chemotaxis",1
+"468","GO:BP","neutrophil degranulation",1
+"469","GO:BP","neutrophil mediated immunity",1
+"470","GO:BP","neutrophil migration",1
+"471","GO:BP","organelle assembly",1
+"472","GO:BP","organic anion transport",1
+"473","GO:BP","ossification",1
+"474","GO:BP","osteoblast differentiation",1
+"475","GO:BP","outer dynein arm assembly",1
+"476","GO:BP","pattern specification process",1
+"477","GO:BP","peptide secretion",1
+"478","GO:BP","peptidyl-tyrosine modification",1
+"479","GO:BP","peptidyl-tyrosine phosphorylation",1
+"480","GO:BP","phagocytosis",1
+"481","GO:BP","phagocytosis, engulfment",1
+"482","GO:BP","phosphorylation",1
+"483","GO:BP","plasma membrane bounded cell projection assembly",1
+"484","GO:BP","plasma membrane bounded cell projection organization",1
+"485","GO:BP","plasminogen activation",1
+"486","GO:BP","platelet-derived growth factor receptor-beta signaling pathway",1
+"487","GO:BP","platelet activation",1
+"488","GO:BP","platelet aggregation",1
+"489","GO:BP","platelet degranulation",1
+"490","GO:BP","positive regulation of adaptive immune response",1
+"491","GO:BP","positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",1
+"492","GO:BP","positive regulation of alpha-beta T cell activation",1
+"493","GO:BP","positive regulation of alpha-beta T cell proliferation",1
+"494","GO:BP","positive regulation of B cell activation",1
+"495","GO:BP","positive regulation of B cell proliferation",1
+"496","GO:BP","positive regulation of catalytic activity",1
+"497","GO:BP","positive regulation of cell-cell adhesion",1
+"498","GO:BP","positive regulation of cell activation",1
+"499","GO:BP","positive regulation of cell adhesion",1
+"500","GO:BP","positive regulation of cell development",1
+"501","GO:BP","positive regulation of cell differentiation",1
+"502","GO:BP","positive regulation of cell killing",1
+"503","GO:BP","positive regulation of cell migration",1
+"504","GO:BP","positive regulation of cell motility",1
+"505","GO:BP","positive regulation of cell population proliferation",1
+"506","GO:BP","positive regulation of cellular component movement",1
+"507","GO:BP","positive regulation of cellular metabolic process",1
+"508","GO:BP","positive regulation of cellular protein metabolic process",1
+"509","GO:BP","positive regulation of chemokine production",1
+"510","GO:BP","positive regulation of chemokine secretion",1
+"511","GO:BP","positive regulation of cytokine biosynthetic process",1
+"512","GO:BP","positive regulation of cytokine production",1
+"513","GO:BP","positive regulation of cytosolic calcium ion concentration",1
+"514","GO:BP","positive regulation of defense response",1
+"515","GO:BP","positive regulation of developmental process",1
+"516","GO:BP","positive regulation of ERK1 and ERK2 cascade",1
+"517","GO:BP","positive regulation of establishment of protein localization",1
+"518","GO:BP","positive regulation of GTPase activity",1
+"519","GO:BP","positive regulation of hemopoiesis",1
+"520","GO:BP","positive regulation of hydrolase activity",1
+"521","GO:BP","positive regulation of I-kappaB kinase/NF-kappaB signaling",1
+"522","GO:BP","positive regulation of immune effector process",1
+"523","GO:BP","positive regulation of immune response",1
+"524","GO:BP","positive regulation of immune system process",1
+"525","GO:BP","positive regulation of inflammatory response",1
+"526","GO:BP","positive regulation of interferon-gamma production",1
+"527","GO:BP","positive regulation of interleukin-10 production",1
+"528","GO:BP","positive regulation of interleukin-12 production",1
+"529","GO:BP","positive regulation of interleukin-17 production",1
+"530","GO:BP","positive regulation of interleukin-6 production",1
+"531","GO:BP","positive regulation of intracellular signal transduction",1
+"532","GO:BP","positive regulation of kinase activity",1
+"533","GO:BP","positive regulation of leukocyte activation",1
+"534","GO:BP","positive regulation of leukocyte cell-cell adhesion",1
+"535","GO:BP","positive regulation of leukocyte differentiation",1
+"536","GO:BP","positive regulation of leukocyte mediated cytotoxicity",1
+"537","GO:BP","positive regulation of leukocyte mediated immunity",1
+"538","GO:BP","positive regulation of leukocyte migration",1
+"539","GO:BP","positive regulation of leukocyte proliferation",1
+"540","GO:BP","positive regulation of locomotion",1
+"541","GO:BP","positive regulation of lymphocyte activation",1
+"542","GO:BP","positive regulation of lymphocyte differentiation",1
+"543","GO:BP","positive regulation of lymphocyte mediated immunity",1
+"544","GO:BP","positive regulation of lymphocyte migration",1
+"545","GO:BP","positive regulation of lymphocyte proliferation",1
+"546","GO:BP","positive regulation of macromolecule metabolic process",1
+"547","GO:BP","positive regulation of MAP kinase activity",1
+"548","GO:BP","positive regulation of MAPK cascade",1
+"549","GO:BP","positive regulation of metabolic process",1
+"550","GO:BP","positive regulation of molecular function",1
+"551","GO:BP","positive regulation of mononuclear cell proliferation",1
+"552","GO:BP","positive regulation of natural killer cell mediated cytotoxicity",1
+"553","GO:BP","positive regulation of natural killer cell mediated immunity",1
+"554","GO:BP","positive regulation of nervous system development",1
+"555","GO:BP","positive regulation of neurogenesis",1
+"556","GO:BP","positive regulation of nitrogen compound metabolic process",1
+"557","GO:BP","positive regulation of peptidyl-tyrosine phosphorylation",1
+"558","GO:BP","positive regulation of phosphate metabolic process",1
+"559","GO:BP","positive regulation of phosphorus metabolic process",1
+"560","GO:BP","positive regulation of phosphorylation",1
+"561","GO:BP","positive regulation of protein kinase activity",1
+"562","GO:BP","positive regulation of protein metabolic process",1
+"563","GO:BP","positive regulation of protein modification process",1
+"564","GO:BP","positive regulation of protein phosphorylation",1
+"565","GO:BP","positive regulation of protein serine/threonine kinase activity",1
+"566","GO:BP","positive regulation of protein transport",1
+"567","GO:BP","positive regulation of receptor signaling pathway via STAT",1
+"568","GO:BP","positive regulation of response to external stimulus",1
+"569","GO:BP","positive regulation of response to stimulus",1
+"570","GO:BP","positive regulation of secretion by cell",1
+"571","GO:BP","positive regulation of signal transduction",1
+"572","GO:BP","positive regulation of T cell activation",1
+"573","GO:BP","positive regulation of T cell differentiation",1
+"574","GO:BP","positive regulation of T cell migration",1
+"575","GO:BP","positive regulation of T cell proliferation",1
+"576","GO:BP","positive regulation of transport",1
+"577","GO:BP","positive regulation of tumor necrosis factor production",1
+"578","GO:BP","positive regulation of tumor necrosis factor secretion",1
+"579","GO:BP","positive regulation of tumor necrosis factor superfamily cytokine production",1
+"580","GO:BP","positive T cell selection",1
+"581","GO:BP","production of molecular mediator involved in inflammatory response",1
+"582","GO:BP","production of molecular mediator of immune response",1
+"583","GO:BP","protein-containing complex subunit organization",1
+"584","GO:BP","protein activation cascade",1
+"585","GO:BP","protein localization to extracellular region",1
+"586","GO:BP","protein modification by small protein conjugation or removal",1
+"587","GO:BP","protein phosphorylation",1
+"588","GO:BP","protein polyubiquitination",1
+"589","GO:BP","protein processing",1
+"590","GO:BP","protein secretion",1
+"591","GO:BP","proteoglycan biosynthetic process",1
+"592","GO:BP","proteoglycan metabolic process",1
+"593","GO:BP","receptor signaling pathway via JAK-STAT",1
+"594","GO:BP","receptor signaling pathway via STAT",1
+"595","GO:BP","regulation of adaptive immune response",1
+"596","GO:BP","regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",1
+"597","GO:BP","regulation of alpha-beta T cell activation",1
+"598","GO:BP","regulation of alpha-beta T cell proliferation",1
+"599","GO:BP","regulation of anatomical structure morphogenesis",1
+"600","GO:BP","regulation of animal organ morphogenesis",1
+"601","GO:BP","regulation of antigen processing and presentation",1
+"602","GO:BP","regulation of antigen receptor-mediated signaling pathway",1
+"603","GO:BP","regulation of B cell activation",1
+"604","GO:BP","regulation of B cell differentiation",1
+"605","GO:BP","regulation of B cell proliferation",1
+"606","GO:BP","regulation of B cell receptor signaling pathway",1
+"607","GO:BP","regulation of biological process",1
+"608","GO:BP","regulation of biomineral tissue development",1
+"609","GO:BP","regulation of blood coagulation",1
+"610","GO:BP","regulation of BMP signaling pathway",1
+"611","GO:BP","regulation of body fluid levels",1
+"612","GO:BP","regulation of bone mineralization",1
+"613","GO:BP","regulation of calcium ion transport",1
+"614","GO:BP","regulation of cartilage development",1
+"615","GO:BP","regulation of catalytic activity",1
+"616","GO:BP","regulation of CD4-positive, alpha-beta T cell activation",1
+"617","GO:BP","regulation of cell-cell adhesion",1
+"618","GO:BP","regulation of cell-substrate adhesion",1
+"619","GO:BP","regulation of cell activation",1
+"620","GO:BP","regulation of cell development",1
+"621","GO:BP","regulation of cell differentiation",1
+"622","GO:BP","regulation of cell killing",1
+"623","GO:BP","regulation of cell migration",1
+"624","GO:BP","regulation of cell motility",1
+"625","GO:BP","regulation of cell population proliferation",1
+"626","GO:BP","regulation of cellular component movement",1
+"627","GO:BP","regulation of cellular component organization",1
+"628","GO:BP","regulation of cellular extravasation",1
+"629","GO:BP","regulation of cellular process",1
+"630","GO:BP","regulation of cellular protein metabolic process",1
+"631","GO:BP","regulation of cellular response to growth factor stimulus",1
+"632","GO:BP","regulation of chemokine production",1
+"633","GO:BP","regulation of chemokine secretion",1
+"634","GO:BP","regulation of chemotaxis",1
+"635","GO:BP","regulation of coagulation",1
+"636","GO:BP","regulation of complement activation",1
+"637","GO:BP","regulation of cytokine-mediated signaling pathway",1
+"638","GO:BP","regulation of cytokine biosynthetic process",1
+"639","GO:BP","regulation of cytokine production",1
+"640","GO:BP","regulation of cytokine secretion",1
+"641","GO:BP","regulation of cytosolic calcium ion concentration",1
+"642","GO:BP","regulation of defense response to virus",1
+"643","GO:BP","regulation of epithelial to mesenchymal transition",1
+"644","GO:BP","regulation of ERK1 and ERK2 cascade",1
+"645","GO:BP","regulation of establishment of protein localization",1
+"646","GO:BP","regulation of GTPase activity",1
+"647","GO:BP","regulation of heart morphogenesis",1
+"648","GO:BP","regulation of hemopoiesis",1
+"649","GO:BP","regulation of hemostasis",1
+"650","GO:BP","regulation of humoral immune response",1
+"651","GO:BP","regulation of hydrolase activity",1
+"652","GO:BP","regulation of I-kappaB kinase/NF-kappaB signaling",1
+"653","GO:BP","regulation of inflammatory response",1
+"654","GO:BP","regulation of interferon-alpha production",1
+"655","GO:BP","regulation of interferon-gamma production",1
+"656","GO:BP","regulation of interleukin-1 production",1
+"657","GO:BP","regulation of interleukin-10 production",1
+"658","GO:BP","regulation of interleukin-12 production",1
+"659","GO:BP","regulation of interleukin-17 production",1
+"660","GO:BP","regulation of interleukin-6 production",1
+"661","GO:BP","regulation of interleukin-8 production",1
+"662","GO:BP","regulation of intracellular signal transduction",1
+"663","GO:BP","regulation of kinase activity",1
+"664","GO:BP","regulation of leukocyte activation",1
+"665","GO:BP","regulation of leukocyte apoptotic process",1
+"666","GO:BP","regulation of leukocyte cell-cell adhesion",1
+"667","GO:BP","regulation of leukocyte chemotaxis",1
+"668","GO:BP","regulation of leukocyte degranulation",1
+"669","GO:BP","regulation of leukocyte differentiation",1
+"670","GO:BP","regulation of leukocyte mediated cytotoxicity",1
+"671","GO:BP","regulation of leukocyte mediated immunity",1
+"672","GO:BP","regulation of leukocyte migration",1
+"673","GO:BP","regulation of leukocyte proliferation",1
+"674","GO:BP","regulation of lymphocyte activation",1
+"675","GO:BP","regulation of lymphocyte apoptotic process",1
+"676","GO:BP","regulation of lymphocyte differentiation",1
+"677","GO:BP","regulation of lymphocyte mediated immunity",1
+"678","GO:BP","regulation of lymphocyte migration",1
+"679","GO:BP","regulation of lymphocyte proliferation",1
+"680","GO:BP","regulation of MAP kinase activity",1
+"681","GO:BP","regulation of MAPK cascade",1
+"682","GO:BP","regulation of mast cell activation",1
+"683","GO:BP","regulation of metal ion transport",1
+"684","GO:BP","regulation of molecular function",1
+"685","GO:BP","regulation of mononuclear cell proliferation",1
+"686","GO:BP","regulation of myeloid leukocyte mediated immunity",1
+"687","GO:BP","regulation of natural killer cell mediated cytotoxicity",1
+"688","GO:BP","regulation of natural killer cell mediated immunity",1
+"689","GO:BP","regulation of nervous system development",1
+"690","GO:BP","regulation of neurogenesis",1
+"691","GO:BP","regulation of neuron differentiation",1
+"692","GO:BP","regulation of nuclease activity",1
+"693","GO:BP","regulation of ossification",1
+"694","GO:BP","regulation of peptide secretion",1
+"695","GO:BP","regulation of peptide transport",1
+"696","GO:BP","regulation of peptidyl-tyrosine phosphorylation",1
+"697","GO:BP","regulation of phosphate metabolic process",1
+"698","GO:BP","regulation of phosphorus metabolic process",1
+"699","GO:BP","regulation of phosphorylation",1
+"700","GO:BP","regulation of production of molecular mediator of immune response",1
+"701","GO:BP","regulation of protein kinase activity",1
+"702","GO:BP","regulation of protein localization",1
+"703","GO:BP","regulation of protein metabolic process",1
+"704","GO:BP","regulation of protein modification process",1
+"705","GO:BP","regulation of protein phosphorylation",1
+"706","GO:BP","regulation of protein secretion",1
+"707","GO:BP","regulation of protein transport",1
+"708","GO:BP","regulation of response to cytokine stimulus",1
+"709","GO:BP","regulation of response to stimulus",1
+"710","GO:BP","regulation of response to stress",1
+"711","GO:BP","regulation of ribonuclease activity",1
+"712","GO:BP","regulation of secretion",1
+"713","GO:BP","regulation of secretion by cell",1
+"714","GO:BP","regulation of sequestering of calcium ion",1
+"715","GO:BP","regulation of symbiosis, encompassing mutualism through parasitism",1
+"716","GO:BP","regulation of system process",1
+"717","GO:BP","regulation of T cell activation",1
+"718","GO:BP","regulation of T cell apoptotic process",1
+"719","GO:BP","regulation of T cell differentiation",1
+"720","GO:BP","regulation of T cell mediated cytotoxicity",1
+"721","GO:BP","regulation of T cell migration",1
+"722","GO:BP","regulation of T cell proliferation",1
+"723","GO:BP","regulation of toll-like receptor signaling pathway",1
+"724","GO:BP","regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",1
+"725","GO:BP","regulation of transport",1
+"726","GO:BP","regulation of tumor necrosis factor production",1
+"727","GO:BP","regulation of tumor necrosis factor superfamily cytokine production",1
+"728","GO:BP","regulation of type I interferon production",1
+"729","GO:BP","regulation of type III interferon production",1
+"730","GO:BP","regulation of viral genome replication",1
+"731","GO:BP","regulation of viral life cycle",1
+"732","GO:BP","regulation of viral process",1
+"733","GO:BP","regulatory T cell differentiation",1
+"734","GO:BP","release of sequestered calcium ion into cytosol",1
+"735","GO:BP","renal system development",1
+"736","GO:BP","reproduction",1
+"737","GO:BP","reproductive process",1
+"738","GO:BP","respiratory system development",1
+"739","GO:BP","respiratory system process",1
+"740","GO:BP","respiratory tube development",1
+"741","GO:BP","response to bacterium",1
+"742","GO:BP","response to BMP",1
+"743","GO:BP","response to chemokine",1
+"744","GO:BP","response to growth factor",1
+"745","GO:BP","response to hormone",1
+"746","GO:BP","response to interferon-alpha",1
+"747","GO:BP","response to interferon-beta",1
+"748","GO:BP","response to lipid",1
+"749","GO:BP","response to lipopolysaccharide",1
+"750","GO:BP","response to molecule of bacterial origin",1
+"751","GO:BP","response to organic cyclic compound",1
+"752","GO:BP","response to steroid hormone",1
+"753","GO:BP","response to transforming growth factor beta",1
+"754","GO:BP","response to tumor necrosis factor",1
+"755","GO:BP","response to type I interferon",1
+"756","GO:BP","response to wounding",1
+"757","GO:BP","RIG-I signaling pathway",1
+"758","GO:BP","second-messenger-mediated signaling",1
+"759","GO:BP","semi-lunar valve development",1
+"760","GO:BP","sequestering of calcium ion",1
+"761","GO:BP","sexual reproduction",1
+"762","GO:BP","signal transduction by protein phosphorylation",1
+"763","GO:BP","skeletal system development",1
+"764","GO:BP","skeletal system morphogenesis",1
+"765","GO:BP","small GTPase mediated signal transduction",1
+"766","GO:BP","small molecule metabolic process",1
+"767","GO:BP","specification of symmetry",1
+"768","GO:BP","sperm motility",1
+"769","GO:BP","spermatid development",1
+"770","GO:BP","spermatid differentiation",1
+"771","GO:BP","spermatogenesis",1
+"772","GO:BP","supramolecular fiber organization",1
+"773","GO:BP","surfactant homeostasis",1
+"774","GO:BP","symbiont process",1
+"775","GO:BP","synapse organization",1
+"776","GO:BP","system process",1
+"777","GO:BP","T-helper 1 type immune response",1
+"778","GO:BP","T cell activation",1
+"779","GO:BP","T cell activation involved in immune response",1
+"780","GO:BP","T cell apoptotic process",1
+"781","GO:BP","T cell costimulation",1
+"782","GO:BP","T cell differentiation",1
+"783","GO:BP","T cell differentiation involved in immune response",1
+"784","GO:BP","T cell homeostasis",1
+"785","GO:BP","T cell mediated cytotoxicity",1
+"786","GO:BP","T cell mediated immunity",1
+"787","GO:BP","T cell migration",1
+"788","GO:BP","T cell proliferation",1
+"789","GO:BP","T cell receptor signaling pathway",1
+"790","GO:BP","T cell selection",1
+"791","GO:BP","taxis",1
+"792","GO:BP","tissue development",1
+"793","GO:BP","tissue morphogenesis",1
+"794","GO:BP","tolerance induction",1
+"795","GO:BP","toll-like receptor signaling pathway",1
+"796","GO:BP","transcytosis",1
+"797","GO:BP","transmembrane receptor protein serine/threonine kinase signaling pathway",1
+"798","GO:BP","transmembrane receptor protein tyrosine kinase signaling pathway",1
+"799","GO:BP","transmembrane transport",1
+"800","GO:BP","tumor necrosis factor production",1
+"801","GO:BP","tumor necrosis factor superfamily cytokine production",1
+"802","GO:BP","type I interferon production",1
+"803","GO:BP","type I interferon signaling pathway",1
+"804","GO:BP","type III interferon production",1
+"805","GO:BP","tyrosine phosphorylation of STAT protein",1
+"806","GO:BP","urogenital system development",1
+"807","GO:BP","vasculature development",1
+"808","GO:BP","vesicle-mediated transport",1
+"809","GO:BP","viral genome replication",1
+"810","GO:BP","viral life cycle",1
+"811","GO:BP","viral process",1
+"812","GO:BP","wound healing",1
+"813","GO:BP","zymogen activation",1
+"814","GO:CC","cell periphery",4
+"815","GO:CC","intrinsic component of plasma membrane",4
+"816","GO:CC","plasma membrane",4
+"817","GO:CC","plasma membrane part",4
+"818","GO:CC","cytoplasm",3
+"819","GO:CC","extracellular region",3
+"820","GO:CC","extracellular space",3
+"821","GO:CC","integral component of plasma membrane",3
+"822","GO:CC","vesicle",3
+"823","GO:CC","apical part of cell",2
+"824","GO:CC","apical plasma membrane",2
+"825","GO:CC","cell projection",2
+"826","GO:CC","cell surface",2
+"827","GO:CC","collagen-containing extracellular matrix",2
+"828","GO:CC","cytoplasmic part",2
+"829","GO:CC","cytoplasmic vesicle",2
+"830","GO:CC","cytoplasmic vesicle part",2
+"831","GO:CC","endocytic vesicle",2
+"832","GO:CC","endomembrane system",2
+"833","GO:CC","endoplasmic reticulum",2
+"834","GO:CC","extracellular exosome",2
+"835","GO:CC","extracellular matrix",2
+"836","GO:CC","extracellular organelle",2
+"837","GO:CC","extracellular region part",2
+"838","GO:CC","extracellular vesicle",2
+"839","GO:CC","intracellular vesicle",2
+"840","GO:CC","lysosome",2
+"841","GO:CC","lytic vacuole",2
+"842","GO:CC","membrane part",2
+"843","GO:CC","neuron part",2
+"844","GO:CC","neuron projection",2
+"845","GO:CC","plasma membrane bounded cell projection",2
+"846","GO:CC","plasma membrane region",2
+"847","GO:CC","platelet alpha granule",2
+"848","GO:CC","platelet alpha granule lumen",2
+"849","GO:CC","presynapse",2
+"850","GO:CC","secretory granule",2
+"851","GO:CC","secretory vesicle",2
+"852","GO:CC","specific granule",2
+"853","GO:CC","synapse",2
+"854","GO:CC","vacuole",2
+"855","GO:CC","9+2 motile cilium",1
+"856","GO:CC","acrosomal vesicle",1
+"857","GO:CC","actin-based cell projection",1
+"858","GO:CC","actin cytoskeleton",1
+"859","GO:CC","adherens junction",1
+"860","GO:CC","alveolar lamellar body",1
+"861","GO:CC","anchored component of membrane",1
+"862","GO:CC","anchoring junction",1
+"863","GO:CC","axon",1
+"864","GO:CC","axonemal dynein complex",1
+"865","GO:CC","axoneme",1
+"866","GO:CC","axoneme part",1
+"867","GO:CC","azurophil granule",1
+"868","GO:CC","banded collagen fibril",1
+"869","GO:CC","basement membrane",1
+"870","GO:CC","blood microparticle",1
+"871","GO:CC","bounding membrane of organelle",1
+"872","GO:CC","brush border membrane",1
+"873","GO:CC","cell-cell junction",1
+"874","GO:CC","cell-substrate adherens junction",1
+"875","GO:CC","cell-substrate junction",1
+"876","GO:CC","cell junction",1
+"877","GO:CC","cell leading edge",1
+"878","GO:CC","cell projection part",1
+"879","GO:CC","cellular_component",1
+"880","GO:CC","ciliary basal body",1
+"881","GO:CC","ciliary part",1
+"882","GO:CC","ciliary plasm",1
+"883","GO:CC","ciliary transition zone",1
+"884","GO:CC","cilium",1
+"885","GO:CC","collagen trimer",1
+"886","GO:CC","complex of collagen trimers",1
+"887","GO:CC","contractile fiber",1
+"888","GO:CC","cytoplasmic region",1
+"889","GO:CC","cytoplasmic vesicle lumen",1
+"890","GO:CC","cytoplasmic vesicle membrane",1
+"891","GO:CC","cytoskeletal part",1
+"892","GO:CC","cytoskeleton",1
+"893","GO:CC","cytosol",1
+"894","GO:CC","dendrite",1
+"895","GO:CC","dynein complex",1
+"896","GO:CC","endocytic vesicle membrane",1
+"897","GO:CC","endoplasmic reticulum lumen",1
+"898","GO:CC","endoplasmic reticulum part",1
+"899","GO:CC","endosome",1
+"900","GO:CC","external side of plasma membrane",1
+"901","GO:CC","extracellular matrix component",1
+"902","GO:CC","fibrillar collagen trimer",1
+"903","GO:CC","fibrinogen complex",1
+"904","GO:CC","filopodium",1
+"905","GO:CC","focal adhesion",1
+"906","GO:CC","glutamatergic synapse",1
+"907","GO:CC","glycinergic synapse",1
+"908","GO:CC","Golgi apparatus",1
+"909","GO:CC","Golgi lumen",1
+"910","GO:CC","immunological synapse",1
+"911","GO:CC","integral component of membrane",1
+"912","GO:CC","integral component of postsynaptic membrane",1
+"913","GO:CC","integral component of postsynaptic specialization membrane",1
+"914","GO:CC","integral component of synaptic membrane",1
+"915","GO:CC","intracellular",1
+"916","GO:CC","intracellular part",1
+"917","GO:CC","intrinsic component of membrane",1
+"918","GO:CC","intrinsic component of postsynaptic membrane",1
+"919","GO:CC","intrinsic component of synaptic membrane",1
+"920","GO:CC","ion channel complex",1
+"921","GO:CC","lamellar body",1
+"922","GO:CC","late endosome lumen",1
+"923","GO:CC","manchette",1
+"924","GO:CC","membrane",1
+"925","GO:CC","membrane-bounded organelle",1
+"926","GO:CC","membrane attack complex",1
+"927","GO:CC","microtubule",1
+"928","GO:CC","microtubule associated complex",1
+"929","GO:CC","microtubule cytoskeleton",1
+"930","GO:CC","motile cilium",1
+"931","GO:CC","multivesicular body",1
+"932","GO:CC","multivesicular body lumen",1
+"933","GO:CC","myosin complex",1
+"934","GO:CC","neuromuscular junction",1
+"935","GO:CC","organelle",1
+"936","GO:CC","organelle membrane",1
+"937","GO:CC","outer dynein arm",1
+"938","GO:CC","phagocytic vesicle",1
+"939","GO:CC","plasma membrane bounded cell projection cytoplasm",1
+"940","GO:CC","plasma membrane bounded cell projection part",1
+"941","GO:CC","polymeric cytoskeletal fiber",1
+"942","GO:CC","postsynapse",1
+"943","GO:CC","postsynaptic membrane",1
+"944","GO:CC","presynaptic membrane",1
+"945","GO:CC","primary lysosome",1
+"946","GO:CC","receptor complex",1
+"947","GO:CC","sarcolemma",1
+"948","GO:CC","secretory granule lumen",1
+"949","GO:CC","secretory granule membrane",1
+"950","GO:CC","side of membrane",1
+"951","GO:CC","somatodendritic compartment",1
+"952","GO:CC","specific granule lumen",1
+"953","GO:CC","specific granule membrane",1
+"954","GO:CC","sperm flagellum",1
+"955","GO:CC","sperm part",1
+"956","GO:CC","supramolecular fiber",1
+"957","GO:CC","synapse part",1
+"958","GO:CC","synaptic membrane",1
+"959","GO:CC","T cell receptor complex",1
+"960","GO:CC","tertiary granule",1
+"961","GO:CC","tertiary granule membrane",1
+"962","GO:CC","transport vesicle",1
+"963","GO:CC","vesicle lumen",1
+"964","GO:CC","vesicle membrane",1
+"965","GO:CC","whole membrane",1
+"966","GO:MF","signaling receptor binding",2
+"967","GO:MF","2'-5'-oligoadenylate synthetase activity",1
+"968","GO:MF","actin binding",1
+"969","GO:MF","actin filament binding",1
+"970","GO:MF","adenylyltransferase activity",1
+"971","GO:MF","antigen binding",1
+"972","GO:MF","ATP-dependent microtubule motor activity",1
+"973","GO:MF","ATP-dependent microtubule motor activity, minus-end-directed",1
+"974","GO:MF","ATP-dependent microtubule motor activity, plus-end-directed",1
+"975","GO:MF","BH domain binding",1
+"976","GO:MF","C-C chemokine binding",1
+"977","GO:MF","C-C chemokine receptor activity",1
+"978","GO:MF","calcium-dependent phospholipid binding",1
+"979","GO:MF","calcium ion binding",1
+"980","GO:MF","carbohydrate binding",1
+"981","GO:MF","cation binding",1
+"982","GO:MF","cation transmembrane transporter activity",1
+"983","GO:MF","CCR chemokine receptor binding",1
+"984","GO:MF","cell-matrix adhesion mediator activity",1
+"985","GO:MF","cell adhesion molecule binding",1
+"986","GO:MF","chemokine activity",1
+"987","GO:MF","chemokine receptor activity",1
+"988","GO:MF","chemokine receptor binding",1
+"989","GO:MF","collagen binding",1
+"990","GO:MF","coreceptor activity",1
+"991","GO:MF","cytokine activity",1
+"992","GO:MF","cytokine receptor activity",1
+"993","GO:MF","cytokine receptor binding",1
+"994","GO:MF","cytoskeletal protein binding",1
+"995","GO:MF","double-stranded RNA binding",1
+"996","GO:MF","dynein heavy chain binding",1
+"997","GO:MF","dynein intermediate chain binding",1
+"998","GO:MF","dynein light chain binding",1
+"999","GO:MF","dynein light intermediate chain binding",1
+"1000","GO:MF","endopeptidase inhibitor activity",1
+"1001","GO:MF","endopeptidase regulator activity",1
+"1002","GO:MF","enzyme inhibitor activity",1
+"1003","GO:MF","extracellular matrix binding",1
+"1004","GO:MF","extracellular matrix structural constituent",1
+"1005","GO:MF","extracellular matrix structural constituent conferring compression resistance",1
+"1006","GO:MF","extracellular matrix structural constituent conferring tensile strength",1
+"1007","GO:MF","fibronectin binding",1
+"1008","GO:MF","G protein-coupled chemoattractant receptor activity",1
+"1009","GO:MF","glycosaminoglycan binding",1
+"1010","GO:MF","growth factor binding",1
+"1011","GO:MF","helicase activity",1
+"1012","GO:MF","heparin binding",1
+"1013","GO:MF","immunoglobulin binding",1
+"1014","GO:MF","inorganic cation transmembrane transporter activity",1
+"1015","GO:MF","inorganic molecular entity transmembrane transporter activity",1
+"1016","GO:MF","insulin-like growth factor binding",1
+"1017","GO:MF","integrin binding",1
+"1018","GO:MF","ion binding",1
+"1019","GO:MF","ion transmembrane transporter activity",1
+"1020","GO:MF","lipid binding",1
+"1021","GO:MF","metal ion binding",1
+"1022","GO:MF","metal ion transmembrane transporter activity",1
+"1023","GO:MF","metalloendopeptidase activity",1
+"1024","GO:MF","metallopeptidase activity",1
+"1025","GO:MF","MHC protein binding",1
+"1026","GO:MF","microtubule motor activity",1
+"1027","GO:MF","molecular function regulator",1
+"1028","GO:MF","molecular transducer activity",1
+"1029","GO:MF","monovalent inorganic cation transmembrane transporter activity",1
+"1030","GO:MF","motor activity",1
+"1031","GO:MF","NAD+ ADP-ribosyltransferase activity",1
+"1032","GO:MF","neurotransmitter binding",1
+"1033","GO:MF","non-membrane spanning protein tyrosine kinase activity",1
+"1034","GO:MF","oxidoreductase activity",1
+"1035","GO:MF","peptidase inhibitor activity",1
+"1036","GO:MF","peptidase regulator activity",1
+"1037","GO:MF","phosphatidylinositol bisphosphate binding",1
+"1038","GO:MF","platelet-derived growth factor binding",1
+"1039","GO:MF","platelet-derived growth factor receptor binding",1
+"1040","GO:MF","protein-containing complex binding",1
+"1041","GO:MF","protein-lysine 6-oxidase activity",1
+"1042","GO:MF","proteoglycan binding",1
+"1043","GO:MF","purinergic receptor activity",1
+"1044","GO:MF","receptor ligand activity",1
+"1045","GO:MF","receptor regulator activity",1
+"1046","GO:MF","RNA binding",1
+"1047","GO:MF","scavenger receptor activity",1
+"1048","GO:MF","serine-type endopeptidase activity",1
+"1049","GO:MF","serine-type endopeptidase inhibitor activity",1
+"1050","GO:MF","signaling receptor activator activity",1
+"1051","GO:MF","signaling receptor activity",1
+"1052","GO:MF","single-stranded RNA binding",1
+"1053","GO:MF","sodium ion transmembrane transporter activity",1
+"1054","GO:MF","solute:sodium symporter activity",1
+"1055","GO:MF","steroid hormone receptor activity",1
+"1056","GO:MF","structural molecule activity",1
+"1057","GO:MF","sulfur compound binding",1
+"1058","GO:MF","transmembrane signaling receptor activity",1
+"1059","GO:MF","transmembrane transporter activity",1
+"1060","GO:MF","transporter activity",1
+"1061","GO:MF","tumor necrosis factor receptor binding",1
+"1062","GO:MF","tumor necrosis factor receptor superfamily binding",1
+"1063","HP","Abnormality of the nasopharynx",2
+"1064","HP","Abnormality of the paranasal sinuses",2
+"1065","HP","Abnormality of the pharynx",2
+"1066","HP","Recurrent respiratory infections",2
+"1067","HP","Recurrent upper respiratory tract infections",2
+"1068","HP","Respiratory tract infection",2
+"1069","HP","Sinusitis",2
+"1070","HP","Abnormal anatomic location of the heart",1
+"1071","HP","Abnormal appendicular skeleton morphology",1
+"1072","HP","Abnormal breath sound",1
+"1073","HP","Abnormal bronchus morphology",1
+"1074","HP","Abnormal cellular immune system morphology",1
+"1075","HP","Abnormal cellular phenotype",1
+"1076","HP","Abnormal cellular physiology",1
+"1077","HP","Abnormal ciliary motility",1
+"1078","HP","Abnormal delayed hypersensitivity skin test",1
+"1079","HP","Abnormal erythrocyte sedimentation rate",1
+"1080","HP","Abnormal IgA level",1
+"1081","HP","Abnormal IgE level",1
+"1082","HP","Abnormal IgG level",1
+"1083","HP","Abnormal IgM level",1
+"1084","HP","Abnormal immune system morphology",1
+"1085","HP","Abnormal immunoglobulin level",1
+"1086","HP","Abnormal inflammatory response",1
+"1087","HP","Abnormal joint morphology",1
+"1088","HP","Abnormal leukocyte count",1
+"1089","HP","Abnormal leukocyte morphology",1
+"1090","HP","Abnormal liver morphology",1
+"1091","HP","Abnormal lung morphology",1
+"1092","HP","Abnormal lymphocyte count",1
+"1093","HP","Abnormal lymphocyte morphology",1
+"1094","HP","Abnormal lymphocyte physiology",1
+"1095","HP","Abnormal macrophage morphology",1
+"1096","HP","Abnormal myeloid leukocyte morphology",1
+"1097","HP","Abnormal oral mucosa morphology",1
+"1098","HP","Abnormal phalangeal joint morphology of the hand",1
+"1099","HP","Abnormal platelet count",1
+"1100","HP","Abnormal proportion of double-negative alpha-beta regulatory T cell",1
+"1101","HP","Abnormal respiratory epithelium morphology",1
+"1102","HP","Abnormal respiratory motile cilium morphology",1
+"1103","HP","Abnormal respiratory motile cilium physiology",1
+"1104","HP","Abnormal respiratory system morphology",1
+"1105","HP","Abnormal sclera morphology",1
+"1106","HP","Abnormal spatial orientation of the cardiac segments",1
+"1107","HP","Abnormal spleen morphology",1
+"1108","HP","Abnormal T cell count",1
+"1109","HP","Abnormal T cell morphology",1
+"1110","HP","Abnormal T cell subset distribution",1
+"1111","HP","Abnormal thrombocyte morphology",1
+"1112","HP","Abnormal tracheobronchial morphology",1
+"1113","HP","Abnormal vertebral morphology",1
+"1114","HP","Abnormality of abdomen morphology",1
+"1115","HP","Abnormality of B cell physiology",1
+"1116","HP","Abnormality of bone marrow cell morphology",1
+"1117","HP","Abnormality of complement system",1
+"1118","HP","Abnormality of connective tissue",1
+"1119","HP","Abnormality of cranial sutures",1
+"1120","HP","Abnormality of dental eruption",1
+"1121","HP","Abnormality of humoral immunity",1
+"1122","HP","Abnormality of immune system physiology",1
+"1123","HP","Abnormality of joint mobility",1
+"1124","HP","Abnormality of limb bone",1
+"1125","HP","Abnormality of limb bone morphology",1
+"1126","HP","Abnormality of lower limb joint",1
+"1127","HP","Abnormality of pelvic girdle bone morphology",1
+"1128","HP","Abnormality of reproductive system physiology",1
+"1129","HP","Abnormality of skin physiology",1
+"1130","HP","Abnormality of T cell physiology",1
+"1131","HP","Abnormality of temperature regulation",1
+"1132","HP","Abnormality of the abdominal organs",1
+"1133","HP","Abnormality of the elbow",1
+"1134","HP","Abnormality of the immune system",1
+"1135","HP","Abnormality of the knee",1
+"1136","HP","Abnormality of the liver",1
+"1137","HP","Abnormality of the lymph nodes",1
+"1138","HP","Abnormality of the lymphatic system",1
+"1139","HP","Abnormality of the midface",1
+"1140","HP","Abnormality of the nasal mucosa",1
+"1141","HP","Abnormality of the spleen",1
+"1142","HP","Abnormality of the sternum",1
+"1143","HP","Abnormality of the thorax",1
+"1144","HP","Abnormality of the upper limb",1
+"1145","HP","Abnormality of the upper respiratory tract",1
+"1146","HP","Abnormality of the vasculature",1
+"1147","HP","Abnormality of the wrist",1
+"1148","HP","Abnormality of upper limb joint",1
+"1149","HP","Absent outer dynein arms",1
+"1150","HP","Absent/shortened dynein arms",1
+"1151","HP","Anemia due to reduced life span of red cells",1
+"1152","HP","Anterior uveitis",1
+"1153","HP","Antinuclear antibody positivity",1
+"1154","HP","Antiphospholipid antibody positivity",1
+"1155","HP","Aphthous ulcer",1
+"1156","HP","Arterial thrombosis",1
+"1157","HP","Arthralgia",1
+"1158","HP","Arthritis",1
+"1159","HP","Autoimmune antibody positivity",1
+"1160","HP","Autoimmune hemolytic anemia",1
+"1161","HP","Autoimmune thrombocytopenia",1
+"1162","HP","Autoimmunity",1
+"1163","HP","Autosomal dominant inheritance",1
+"1164","HP","Blue sclerae",1
+"1165","HP","Bronchiectasis",1
+"1166","HP","Bronchitis",1
+"1167","HP","Camptodactyly",1
+"1168","HP","Chronic bronchitis",1
+"1169","HP","Chronic obstructive pulmonary disease",1
+"1170","HP","Chronic otitis media",1
+"1171","HP","Chronic rhinitis",1
+"1172","HP","Ciliary dyskinesia",1
+"1173","HP","Clubbing",1
+"1174","HP","Colitis",1
+"1175","HP","Complement deficiency",1
+"1176","HP","Conjunctivitis",1
+"1177","HP","Contractures of the joints of the upper limbs",1
+"1178","HP","Coombs-positive hemolytic anemia",1
+"1179","HP","Crackles",1
+"1180","HP","Decrease in T cell count",1
+"1181","HP","Decreased antibody level in blood",1
+"1182","HP","Decreased circulating IgG level",1
+"1183","HP","Decreased circulating level of specific antibody",1
+"1184","HP","Decreased circulating total IgM",1
+"1185","HP","Decreased fertility",1
+"1186","HP","Decreased pulmonary function",1
+"1187","HP","Delayed eruption of teeth",1
+"1188","HP","Dextrocardia",1
+"1189","HP","Diarrhea",1
+"1190","HP","Dynein arm defect of respiratory motile cilia",1
+"1191","HP","Eczema",1
+"1192","HP","Elbow flexion contracture",1
+"1193","HP","Elevated erythrocyte sedimentation rate",1
+"1194","HP","Encephalitis",1
+"1195","HP","Fever",1
+"1196","HP","Flexion contracture",1
+"1197","HP","Flexion contracture of digit",1
+"1198","HP","Gastrointestinal inflammation",1
+"1199","HP","Granulomatosis",1
+"1200","HP","Ground-glass opacification on pulmonary HRCT",1
+"1201","HP","Hemolytic anemia",1
+"1202","HP","Hemophagocytosis",1
+"1203","HP","Hepatitis",1
+"1204","HP","Hepatomegaly",1
+"1205","HP","Honeycomb lung",1
+"1206","HP","Hyperextensible skin",1
+"1207","HP","Immotile cilia",1
+"1208","HP","Immunodeficiency",1
+"1209","HP","Impaired antigen-specific response",1
+"1210","HP","Impaired T cell function",1
+"1211","HP","Increased antibody level in blood",1
+"1212","HP","Increased circulating IgA level",1
+"1213","HP","Increased circulating IgG level",1
+"1214","HP","Increased circulating IgM level",1
+"1215","HP","Increased inflammatory response",1
+"1216","HP","Infertility",1
+"1217","HP","Inflammation of the large intestine",1
+"1218","HP","Inflammatory abnormality of the eye",1
+"1219","HP","Inflammatory abnormality of the skin",1
+"1220","HP","Joint stiffness",1
+"1221","HP","Leukocytosis",1
+"1222","HP","Leukopenia",1
+"1223","HP","Limb joint contracture",1
+"1224","HP","Limitation of joint mobility",1
+"1225","HP","Limited elbow movement",1
+"1226","HP","Liver abscess",1
+"1227","HP","Localized skin lesion",1
+"1228","HP","Lymphadenitis",1
+"1229","HP","Lymphadenopathy",1
+"1230","HP","Lymphoma",1
+"1231","HP","Lymphopenia",1
+"1232","HP","Meningitis",1
+"1233","HP","Multiple pulmonary cysts",1
+"1234","HP","Nasal polyposis",1
+"1235","HP","Neutropenia in presence of anti-neutropil antibodies",1
+"1236","HP","Optic neuritis",1
+"1237","HP","Oral ulcer",1
+"1238","HP","Otitis media",1
+"1239","HP","Papule",1
+"1240","HP","Pneumonia",1
+"1241","HP","Pneumothorax",1
+"1242","HP","Posterior pharyngeal cleft",1
+"1243","HP","Pruritus",1
+"1244","HP","Pulmonary infiltrates",1
+"1245","HP","Pulmonary opacity",1
+"1246","HP","Purpura",1
+"1247","HP","Recurrent aphthous stomatitis",1
+"1248","HP","Recurrent bacterial infections",1
+"1249","HP","Recurrent bacterial skin infections",1
+"1250","HP","Recurrent bronchitis",1
+"1251","HP","Recurrent fever",1
+"1252","HP","Recurrent fungal infections",1
+"1253","HP","Recurrent gram-negative bacterial infections",1
+"1254","HP","Recurrent Haemophilus influenzae infections",1
+"1255","HP","Recurrent infection of the gastrointestinal tract",1
+"1256","HP","Recurrent infections",1
+"1257","HP","Recurrent otitis media",1
+"1258","HP","Recurrent sinusitis",1
+"1259","HP","Recurrent skin infections",1
+"1260","HP","Recurrent viral infections",1
+"1261","HP","Red eye",1
+"1262","HP","Respiratory insufficiency due to defective ciliary clearance",1
+"1263","HP","Reticular pattern on pulmonary HRCT",1
+"1264","HP","Retrobulbar optic neuritis",1
+"1265","HP","Rheumatoid arthritis",1
+"1266","HP","Rheumatoid factor positive",1
+"1267","HP","Rhinitis",1
+"1268","HP","Serositis",1
+"1269","HP","Situs inversus totalis",1
+"1270","HP","Skeletal dysplasia",1
+"1271","HP","Skin rash",1
+"1272","HP","Skin ulcer",1
+"1273","HP","Slender finger",1
+"1274","HP","Specific anti-polysaccharide antibody deficiency",1
+"1275","HP","Splenomegaly",1
+"1276","HP","Stomatitis",1
+"1277","HP","Subcutaneous hemorrhage",1
+"1278","HP","T-cell lymphoma",1
+"1279","HP","Thrombocytopenia",1
+"1280","HP","Unusual CNS infection",1
+"1281","HP","Unusual fungal infection",1
+"1282","HP","Unusual infection",1
+"1283","HP","Unusual infection by anatomical site",1
+"1284","HP","Urticaria",1
+"1285","HP","Uveitis",1
+"1286","HP","Vascular skin abnormality",1
+"1287","HP","Vasculitis",1
+"1288","HP","Visceromegaly",1
+"1289","HPA","retina",1
+"1290","HPA","retina; cells in inner nuclear layer ",1
+"1291","HPA","retina; cells in photoreceptor layer ",1
+"1292","HPA","retina; ganglion cells ",1
+"1293","HPA","retina; limiting membrane",1
+"1294","HPA","retina; nerve fibers in inner plexiform layer",1
+"1295","HPA","retina; nerve fibers in nerve fiber layer",1
+"1296","HPA","retina; nerve fibers in outer plexiform layer ",1
+"1297","HPA","testis; elongated or late spermatids",1
+"1298","HPA","testis; elongated or late spermatids[Approved,Low]",1
+"1299","HPA","testis; elongated or late spermatids[Approved,Not detected]",1
+"1300","HPA","testis; elongated or late spermatids[Supported,Not detected]",1
+"1301","HPA","testis; pachytene spermatocytes",1
+"1302","HPA","testis; pachytene spermatocytes[Approved,Medium]",1
+"1303","HPA","testis; pachytene spermatocytes[Approved,Not detected]",1
+"1304","HPA","testis; pachytene spermatocytes[Supported,Not detected]",1
+"1305","HPA","testis; peritubular cells",1
+"1306","HPA","testis; peritubular cells[Approved,Not detected]",1
+"1307","HPA","testis; peritubular cells[Supported,Not detected]",1
+"1308","HPA","testis; preleptotene spermatocytes",1
+"1309","HPA","testis; preleptotene spermatocytes[Approved,Not detected]",1
+"1310","HPA","testis; preleptotene spermatocytes[Supported,Not detected]",1
+"1311","HPA","testis; round or early spermatids",1
+"1312","HPA","testis; round or early spermatids[Approved,Not detected]",1
+"1313","HPA","testis; round or early spermatids[Supported,High]",1
+"1314","HPA","testis; round or early spermatids[Supported,Low]",1
+"1315","HPA","testis; round or early spermatids[Supported,Medium]",1
+"1316","HPA","testis; round or early spermatids[Supported,Not detected]",1
+"1317","HPA","testis; round or early spermatids[Uncertain,High]",1
+"1318","HPA","testis; round or early spermatids[Uncertain,Low]",1
+"1319","HPA","testis; round or early spermatids[Uncertain,Medium]",1
+"1320","HPA","testis; sertoli cells",1
+"1321","HPA","testis; sertoli cells[Approved,Not detected]",1
+"1322","HPA","testis; sertoli cells[Supported,Not detected]",1
+"1323","HPA","testis; spermatogonia",1
+"1324","HPA","testis; spermatogonia[Approved,Not detected]",1
+"1325","HPA","testis; spermatogonia[Supported,Not detected]",1
+"1326","HPA","thymus",1
+"1327","HPA","thymus; cortical cells",1
+"1328","HPA","thymus; cortical cells[Supported,Low]",1
+"1329","HPA","thymus; cortical cells[Supported,Medium]",1
+"1330","HPA","thymus; cortical cells[Supported,Not detected]",1
+"1331","HPA","thymus; cortical cells[Uncertain,Low]",1
+"1332","HPA","thymus; cortical cells[Uncertain,Medium]",1
+"1333","HPA","thymus; medullary cells",1
+"1334","HPA","thymus; medullary cells[Supported,Low]",1
+"1335","HPA","thymus; medullary cells[Supported,Medium]",1
+"1336","HPA","thymus; medullary cells[Supported,Not detected]",1
+"1337","HPA","thymus; medullary cells[Uncertain,Low]",1
+"1338","HPA","thymus; medullary cells[Uncertain,Medium]",1
+"1339","KEGG","Epstein-Barr virus infection",2
+"1340","KEGG","Measles",2
+"1341","KEGG","NOD-like receptor signaling pathway",2
+"1342","KEGG","Pertussis",2
+"1343","KEGG","Staphylococcus aureus infection",2
+"1344","KEGG","African trypanosomiasis",1
+"1345","KEGG","Allograft rejection",1
+"1346","KEGG","Amoebiasis",1
+"1347","KEGG","Antigen processing and presentation",1
+"1348","KEGG","Apoptosis",1
+"1349","KEGG","Arrhythmogenic right ventricular cardiomyopathy (ARVC)",1
+"1350","KEGG","Autoimmune thyroid disease",1
+"1351","KEGG","Axon guidance",1
+"1352","KEGG","B cell receptor signaling pathway",1
+"1353","KEGG","Bile secretion",1
+"1354","KEGG","C-type lectin receptor signaling pathway",1
+"1355","KEGG","Cell adhesion molecules (CAMs)",1
+"1356","KEGG","Chagas disease (American trypanosomiasis)",1
+"1357","KEGG","Chemokine signaling pathway",1
+"1358","KEGG","Complement and coagulation cascades",1
+"1359","KEGG","Cytokine-cytokine receptor interaction",1
+"1360","KEGG","Dilated cardiomyopathy (DCM)",1
+"1361","KEGG","ECM-receptor interaction",1
+"1362","KEGG","Fc epsilon RI signaling pathway",1
+"1363","KEGG","Fc gamma R-mediated phagocytosis",1
+"1364","KEGG","Focal adhesion",1
+"1365","KEGG","Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",1
+"1366","KEGG","Graft-versus-host disease",1
+"1367","KEGG","Hematopoietic cell lineage",1
+"1368","KEGG","Hepatitis C",1
+"1369","KEGG","Herpes simplex virus 1 infection",1
+"1370","KEGG","Human cytomegalovirus infection",1
+"1371","KEGG","Human immunodeficiency virus 1 infection",1
+"1372","KEGG","Huntington disease",1
+"1373","KEGG","Hypertrophic cardiomyopathy (HCM)",1
+"1374","KEGG","Inflammatory bowel disease (IBD)",1
+"1375","KEGG","Influenza A",1
+"1376","KEGG","Intestinal immune network for IgA production",1
+"1377","KEGG","JAK-STAT signaling pathway",1
+"1378","KEGG","Kaposi sarcoma-associated herpesvirus infection",1
+"1379","KEGG","KEGG root term",1
+"1380","KEGG","Legionellosis",1
+"1381","KEGG","Leishmaniasis",1
+"1382","KEGG","Malaria",1
+"1383","KEGG","Natural killer cell mediated cytotoxicity",1
+"1384","KEGG","Necroptosis",1
+"1385","KEGG","Neuroactive ligand-receptor interaction",1
+"1386","KEGG","NF-kappa B signaling pathway",1
+"1387","KEGG","Osteoclast differentiation",1
+"1388","KEGG","Pancreatic secretion",1
+"1389","KEGG","Pathways in cancer",1
+"1390","KEGG","PD-L1 expression and PD-1 checkpoint pathway in cancer",1
+"1391","KEGG","Phagosome",1
+"1392","KEGG","PI3K-Akt signaling pathway",1
+"1393","KEGG","Platelet activation",1
+"1394","KEGG","Primary immunodeficiency",1
+"1395","KEGG","Proteoglycans in cancer",1
+"1396","KEGG","Rap1 signaling pathway",1
+"1397","KEGG","Rheumatoid arthritis",1
+"1398","KEGG","RIG-I-like receptor signaling pathway",1
+"1399","KEGG","Salivary secretion",1
+"1400","KEGG","T cell receptor signaling pathway",1
+"1401","KEGG","TGF-beta signaling pathway",1
+"1402","KEGG","Th1 and Th2 cell differentiation",1
+"1403","KEGG","Th17 cell differentiation",1
+"1404","KEGG","TNF signaling pathway",1
+"1405","KEGG","Toll-like receptor signaling pathway",1
+"1406","KEGG","Toxoplasmosis",1
+"1407","KEGG","Tuberculosis",1
+"1408","KEGG","Type I diabetes mellitus",1
+"1409","KEGG","Viral myocarditis",1
+"1410","KEGG","Viral protein interaction with cytokine and cytokine receptor",1
+"1411","MIRNA","hsa-miR-335-5p",3
+"1412","MIRNA","hsa-miR-124-3p",1
+"1413","MIRNA","hsa-miR-146a-5p",1
+"1414","MIRNA","hsa-miR-29b-3p",1
+"1415","MIRNA","hsa-miR-7113-3p",1
+"1416","REAC","Cytokine Signaling in Immune system",2
+"1417","REAC","Diseases associated with O-glycosylation of proteins",2
+"1418","REAC","Diseases of glycosylation",2
+"1419","REAC","Immune System",2
+"1420","REAC","Innate Immune System",2
+"1421","REAC","Interferon gamma signaling",2
+"1422","REAC","Interferon Signaling",2
+"1423","REAC","Platelet degranulation ",2
+"1424","REAC","Post-translational protein phosphorylation",2
+"1425","REAC","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",2
+"1426","REAC","Response to elevated platelet cytosolic Ca2+",2
+"1427","REAC","Activation of Matrix Metalloproteinases",1
+"1428","REAC","Adaptive Immune System",1
+"1429","REAC","Antigen activates B Cell Receptor (BCR) leading to generation of second messengers",1
+"1430","REAC","Antigen processing-Cross presentation",1
+"1431","REAC","Antiviral mechanism by IFN-stimulated genes",1
+"1432","REAC","Assembly of collagen fibrils and other multimeric structures",1
+"1433","REAC","Carboxyterminal post-translational modifications of tubulin",1
+"1434","REAC","Cell-extracellular matrix interactions",1
+"1435","REAC","Cell surface interactions at the vascular wall",1
+"1436","REAC","Chemokine receptors bind chemokines",1
+"1437","REAC","Chondroitin sulfate biosynthesis",1
+"1438","REAC","Chondroitin sulfate/dermatan sulfate metabolism",1
+"1439","REAC","Class A/1 (Rhodopsin-like receptors)",1
+"1440","REAC","Collagen biosynthesis and modifying enzymes",1
+"1441","REAC","Collagen chain trimerization",1
+"1442","REAC","Collagen degradation",1
+"1443","REAC","Collagen formation",1
+"1444","REAC","Complement cascade",1
+"1445","REAC","Crosslinking of collagen fibrils",1
+"1446","REAC","DAP12 interactions",1
+"1447","REAC","DAP12 signaling",1
+"1448","REAC","DDX58/IFIH1-mediated induction of interferon-alpha/beta",1
+"1449","REAC","Dectin-2 family",1
+"1450","REAC","Defective B3GALTL causes Peters-plus syndrome (PpS)",1
+"1451","REAC","Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)",1
+"1452","REAC","Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS)",1
+"1453","REAC","Defective CSF2RA causes pulmonary surfactant metabolism dysfunction 4 (SMDP4)",1
+"1454","REAC","Defective CSF2RB causes pulmonary surfactant metabolism dysfunction 5 (SMDP5)",1
+"1455","REAC","Defective GALNT12 causes colorectal cancer 1 (CRCS1)",1
+"1456","REAC","Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)",1
+"1457","REAC","Degradation of the extracellular matrix",1
+"1458","REAC","Diseases associated with glycosaminoglycan metabolism",1
+"1459","REAC","Diseases associated with surfactant metabolism",1
+"1460","REAC","Diseases associated with the TLR signaling cascade",1
+"1461","REAC","Diseases of Immune System",1
+"1462","REAC","Diseases of metabolism",1
+"1463","REAC","ECM proteoglycans",1
+"1464","REAC","Elastic fibre formation",1
+"1465","REAC","Erythrocytes take up oxygen and release carbon dioxide",1
+"1466","REAC","Extracellular matrix organization",1
+"1467","REAC","Fcgamma receptor (FCGR) dependent phagocytosis",1
+"1468","REAC","FCGR activation",1
+"1469","REAC","G-protein beta:gamma signalling",1
+"1470","REAC","G alpha (i) signalling events",1
+"1471","REAC","G alpha (q) signalling events",1
+"1472","REAC","Generation of second messenger molecules",1
+"1473","REAC","Glycosaminoglycan metabolism",1
+"1474","REAC","GPCR ligand binding",1
+"1475","REAC","GPVI-mediated activation cascade",1
+"1476","REAC","Hemostasis",1
+"1477","REAC","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",1
+"1478","REAC","Integrin cell surface interactions",1
+"1479","REAC","Interferon alpha/beta signaling",1
+"1480","REAC","Interleukin-10 signaling",1
+"1481","REAC","Interleukin-18 signaling",1
+"1482","REAC","Interleukin-2 family signaling",1
+"1483","REAC","Interleukin-2 signaling",1
+"1484","REAC","Interleukin-21 signaling",1
+"1485","REAC","Interleukin-3, Interleukin-5 and GM-CSF signaling",1
+"1486","REAC","IRAK4 deficiency (TLR2/4)",1
+"1487","REAC","ISG15 antiviral mechanism",1
+"1488","REAC","Laminin interactions",1
+"1489","REAC","MET activates PTK2 signaling",1
+"1490","REAC","MET promotes cell motility",1
+"1491","REAC","Metal sequestration by antimicrobial proteins",1
+"1492","REAC","Molecules associated with elastic fibres",1
+"1493","REAC","Muscle contraction",1
+"1494","REAC","MyD88 deficiency (TLR2/4)",1
+"1495","REAC","NCAM1 interactions",1
+"1496","REAC","Negative regulators of DDX58/IFIH1 signaling",1
+"1497","REAC","Neurexins and neuroligins",1
+"1498","REAC","Neuronal System",1
+"1499","REAC","Neutrophil degranulation",1
+"1500","REAC","Non-integrin membrane-ECM interactions",1
+"1501","REAC","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",1
+"1502","REAC","O-glycosylation of TSR domain-containing proteins",1
+"1503","REAC","O-linked glycosylation",1
+"1504","REAC","O-linked glycosylation of mucins",1
+"1505","REAC","OAS antiviral response",1
+"1506","REAC","Other interleukin signaling",1
+"1507","REAC","PD-1 signaling",1
+"1508","REAC","Peptide ligand-binding receptors",1
+"1509","REAC","Phosphorylation of CD3 and TCR zeta chains",1
+"1510","REAC","Platelet activation, signaling and aggregation",1
+"1511","REAC","Protein-protein interactions at synapses",1
+"1512","REAC","Regulated Necrosis",1
+"1513","REAC","Regulation of Complement cascade",1
+"1514","REAC","Regulation of TLR by endogenous ligand",1
+"1515","REAC","RIPK1-mediated regulated necrosis",1
+"1516","REAC","Signaling by Interleukins",1
+"1517","REAC","Signaling by PDGF",1
+"1518","REAC","Signaling by Receptor Tyrosine Kinases",1
+"1519","REAC","Signaling by SCF-KIT",1
+"1520","REAC","Smooth Muscle Contraction",1
+"1521","REAC","Surfactant metabolism",1
+"1522","REAC","Syndecan interactions",1
+"1523","REAC","Terminal pathway of complement",1
+"1524","REAC","Termination of O-glycan biosynthesis",1
+"1525","REAC","TNFR2 non-canonical NF-kB pathway",1
+"1526","REAC","TNFs bind their physiological receptors",1
+"1527","REAC","Toll-like Receptor Cascades",1
+"1528","REAC","Toll Like Receptor 4 (TLR4) Cascade",1
+"1529","REAC","Translocation of ZAP-70 to Immunological synapse",1
+"1530","TF","Factor: Egr-1; motif: GCGGGGGCGG",3
+"1531","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 0",3
+"1532","TF","Factor: AP-2; motif: SNNNCCNCAGGCN",2
+"1533","TF","Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 0",2
+"1534","TF","Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 1",2
+"1535","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN",2
+"1536","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 0",2
+"1537","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 1",2
+"1538","TF","Factor: AP2; motif: GCCYGSGGSN",2
+"1539","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 0",2
+"1540","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 1",2
+"1541","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 1",2
+"1542","TF","Factor: Churchill; motif: CGGGNN",2
+"1543","TF","Factor: Churchill; motif: CGGGNN; match class: 0",2
+"1544","TF","Factor: Churchill; motif: CGGGNN; match class: 1",2
+"1545","TF","Factor: E2F-3; motif: GGCGGGN; match class: 1",2
+"1546","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 1",2
+"1547","TF","Factor: EGR1; motif: NCNCCGCCCCCGCN",2
+"1548","TF","Factor: EGR1; motif: NCNCCGCCCCCGCN; match class: 0",2
+"1549","TF","Factor: ETF; motif: CCCCGCCCCYN; match class: 1",2
+"1550","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 1",2
+"1551","TF","Factor: GEMIN3; motif: NCWGGRARRGRGNGNG",2
+"1552","TF","Factor: GEMIN3; motif: NCWGGRARRGRGNGNG; match class: 0",2
+"1553","TF","Factor: GKLF; motif: NNNRGGNGNGGSN; match class: 1",2
+"1554","TF","Factor: GKLF; motif: NNRRGRRNGNSNNN",2
+"1555","TF","Factor: GKLF; motif: NNRRGRRNGNSNNN; match class: 0",2
+"1556","TF","Factor: GKLF; motif: NNRRGRRNGNSNNN; match class: 1",2
+"1557","TF","Factor: IRF-1; motif: NAAANNGAAAGTGAAASTRN",2
+"1558","TF","Factor: IRF-1; motif: NAAANNGAAAGTGAAASTRN; match class: 0",2
+"1559","TF","Factor: IRF-1; motif: NNRAAANNGAAASN",2
+"1560","TF","Factor: IRF-1; motif: NNRAAANNGAAASN; match class: 0",2
+"1561","TF","Factor: IRF-1; motif: STTTCACTTTCNNT",2
+"1562","TF","Factor: IRF-1; motif: STTTCACTTTCNNT; match class: 0",2
+"1563","TF","Factor: IRF-2; motif: NNRAAAGTGAAASNNA",2
+"1564","TF","Factor: IRF-2; motif: NNRAAAGTGAAASNNA; match class: 0",2
+"1565","TF","Factor: IRF1; motif: NNNYASTTTCACTTTCNNTTT",2
+"1566","TF","Factor: IRF1; motif: NNNYASTTTCACTTTCNNTTT; match class: 0",2
+"1567","TF","Factor: Kaiso; motif: GCMGGGRGCRGS; match class: 1",2
+"1568","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 1",2
+"1569","TF","Factor: MOVO-B; motif: GNGGGGG",2
+"1570","TF","Factor: MOVO-B; motif: GNGGGGG; match class: 0",2
+"1571","TF","Factor: MOVO-B; motif: GNGGGGG; match class: 1",2
+"1572","TF","Factor: Sp1; motif: GGGGCGGGGC",2
+"1573","TF","Factor: Sp1; motif: GGGGCGGGGC; match class: 0",2
+"1574","TF","Factor: Sp1; motif: GGGGCGGGGC; match class: 1",2
+"1575","TF","Factor: STAT2; motif: NRGAAANNGAAACTNA",2
+"1576","TF","Factor: STAT2; motif: NRGAAANNGAAACTNA; match class: 0",2
+"1577","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 1",2
+"1578","TF","Factor: WT1; motif: GNGGGGGCGGGG",2
+"1579","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 0",2
+"1580","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 1",2
+"1581","TF","Factor: AP-1; motif: NTGASTCAG",1
+"1582","TF","Factor: AP-1; motif: NTGASTCAG; match class: 0",1
+"1583","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN",1
+"1584","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 0",1
+"1585","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 1",1
+"1586","TF","Factor: AP-2; motif: MKCCCSCNGGCG",1
+"1587","TF","Factor: AP-2; motif: MKCCCSCNGGCG; match class: 0",1
+"1588","TF","Factor: AP-2alpha; motif: GCCNNNRGS",1
+"1589","TF","Factor: AP-2alpha; motif: GCCNNNRGS; match class: 0",1
+"1590","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN",1
+"1591","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 0",1
+"1592","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 1",1
+"1593","TF","Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 1",1
+"1594","TF","Factor: AP-2gamma; motif: GCCYNCRGSN",1
+"1595","TF","Factor: AP-2gamma; motif: GCCYNCRGSN; match class: 0",1
+"1596","TF","Factor: AP-2gamma; motif: GCCYNNGGS",1
+"1597","TF","Factor: AP-2gamma; motif: GCCYNNGGS; match class: 0",1
+"1598","TF","Factor: AP-2gamma; motif: GCCYNNGGS; match class: 1",1
+"1599","TF","Factor: BEN; motif: CAGCGRNV",1
+"1600","TF","Factor: BEN; motif: CAGCGRNV; match class: 0",1
+"1601","TF","Factor: BEN; motif: CAGCGRNV; match class: 1",1
+"1602","TF","Factor: Blimp-1; motif: NRGRAAGKGAAAGKRN",1
+"1603","TF","Factor: Blimp-1; motif: NRGRAAGKGAAAGKRN; match class: 0",1
+"1604","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS",1
+"1605","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 0",1
+"1606","TF","Factor: BTEB2; motif: GNAGGGGGNGGGSSNN",1
+"1607","TF","Factor: BTEB2; motif: GNAGGGGGNGGGSSNN; match class: 0",1
+"1608","TF","Factor: BTEB2; motif: RGGGNGKGGN",1
+"1609","TF","Factor: BTEB2; motif: RGGGNGKGGN; match class: 0",1
+"1610","TF","Factor: BTEB3; motif: BNRNGGGAGGNGT",1
+"1611","TF","Factor: BTEB3; motif: BNRNGGGAGGNGT; match class: 0",1
+"1612","TF","Factor: BTEB3; motif: BNRNGGGAGGNGT; match class: 1",1
+"1613","TF","Factor: C-ets-1; motif: AGGAAGN; match class: 1",1
+"1614","TF","Factor: c-Ets-1; motif: RCAGGAAGTGNNTNS",1
+"1615","TF","Factor: c-Ets-1; motif: RCAGGAAGTGNNTNS; match class: 0",1
+"1616","TF","Factor: c-Ets-2; motif: CTTCCTG",1
+"1617","TF","Factor: c-Ets-2; motif: CTTCCTG; match class: 0",1
+"1618","TF","Factor: C/EBPgamma; motif: YTBATTTCARAAW; match class: 1",1
+"1619","TF","Factor: Cdx-2; motif: ANANTTTTATKRCC",1
+"1620","TF","Factor: Cdx-2; motif: ANANTTTTATKRCC; match class: 0",1
+"1621","TF","Factor: CKROX; motif: SCCCTCCCC",1
+"1622","TF","Factor: CKROX; motif: SCCCTCCCC; match class: 0",1
+"1623","TF","Factor: CNOT3; motif: GGCCGCGSSS",1
+"1624","TF","Factor: CNOT3; motif: GGCCGCGSSS; match class: 0",1
+"1625","TF","Factor: CPBP; motif: SNCCCNN; match class: 1",1
+"1626","TF","Factor: CTCF; motif: NCCRSTAGGGGGCGC; match class: 1",1
+"1627","TF","Factor: DATF1; motif: SNGGRRGCWGNGGG",1
+"1628","TF","Factor: DATF1; motif: SNGGRRGCWGNGGG; match class: 0",1
+"1629","TF","Factor: DPF2; motif: NYCACYTCCYCNYYCY",1
+"1630","TF","Factor: DPF2; motif: NYCACYTCCYCNYYCY; match class: 0",1
+"1631","TF","Factor: DPF2; motif: NYCACYTCCYCNYYCY; match class: 1",1
+"1632","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT",1
+"1633","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 0",1
+"1634","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 1",1
+"1635","TF","Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM; match class: 1",1
+"1636","TF","Factor: E2F-1; motif: NGGGCGGGARV",1
+"1637","TF","Factor: E2F-1; motif: NGGGCGGGARV; match class: 0",1
+"1638","TF","Factor: E2F-1; motif: NGGGCGGGARV; match class: 1",1
+"1639","TF","Factor: E2F-1; motif: NNNSSCGCSAANN",1
+"1640","TF","Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 0",1
+"1641","TF","Factor: E2F-1; motif: TTTGGCGCCAAA",1
+"1642","TF","Factor: E2F-1; motif: TTTGGCGCCAAA; match class: 0",1
+"1643","TF","Factor: E2F-1; motif: WWTGGCGCCAAA",1
+"1644","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 0",1
+"1645","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1",1
+"1646","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN",1
+"1647","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 0",1
+"1648","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1",1
+"1649","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT",1
+"1650","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT; match class: 0",1
+"1651","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT; match class: 1",1
+"1652","TF","Factor: E2F-3; motif: GGCGGGN",1
+"1653","TF","Factor: E2F-3; motif: GGCGGGN; match class: 0",1
+"1654","TF","Factor: E2F-4; motif: GCGGGAAANA; match class: 1",1
+"1655","TF","Factor: E2F-4; motif: NGGCGGGAARN; match class: 1",1
+"1656","TF","Factor: E2F-4; motif: NNTTCCCGCCNN",1
+"1657","TF","Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 0",1
+"1658","TF","Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 1",1
+"1659","TF","Factor: E2F; motif: GGCGSG",1
+"1660","TF","Factor: E2F; motif: GGCGSG; match class: 0",1
+"1661","TF","Factor: E2F; motif: GGCGSG; match class: 1",1
+"1662","TF","Factor: Egr-1; motif: CCGCCCMCG",1
+"1663","TF","Factor: Egr-1; motif: CCGCCCMCG; match class: 0",1
+"1664","TF","Factor: Egr-1; motif: GCGCATGCG",1
+"1665","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 0",1
+"1666","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 1",1
+"1667","TF","Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN",1
+"1668","TF","Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN; match class: 0",1
+"1669","TF","Factor: EGR; motif: CGCCCCCGCNN",1
+"1670","TF","Factor: EGR; motif: CGCCCCCGCNN; match class: 0",1
+"1671","TF","Factor: EGR; motif: CGCCCCCGCNN; match class: 1",1
+"1672","TF","Factor: Egr; motif: GTGGGSGCRRS",1
+"1673","TF","Factor: Egr; motif: GTGGGSGCRRS; match class: 0",1
+"1674","TF","Factor: EGR1; motif: NACGCCCACGCANW",1
+"1675","TF","Factor: EGR1; motif: NACGCCCACGCANW; match class: 0",1
+"1676","TF","Factor: EGR1; motif: NCNCCGCCCCCGCN; match class: 1",1
+"1677","TF","Factor: EGR1; motif: NGNGKGGGYGGNGS",1
+"1678","TF","Factor: EGR1; motif: NGNGKGGGYGGNGS; match class: 0",1
+"1679","TF","Factor: Elk-1; motif: CTTCCKG",1
+"1680","TF","Factor: Elk-1; motif: CTTCCKG; match class: 0",1
+"1681","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN",1
+"1682","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN; match class: 0",1
+"1683","TF","Factor: ETF; motif: CCCCGCCCCYN",1
+"1684","TF","Factor: ETF; motif: CCCCGCCCCYN; match class: 0",1
+"1685","TF","Factor: ETF; motif: GVGGMGG",1
+"1686","TF","Factor: ETF; motif: GVGGMGG; match class: 0",1
+"1687","TF","Factor: ETF; motif: GVGGMGG; match class: 1",1
+"1688","TF","Factor: Ets; motif: ANNCACTTCCTG",1
+"1689","TF","Factor: Ets; motif: ANNCACTTCCTG; match class: 0",1
+"1690","TF","Factor: Fli-1; motif: MGGAAGT; match class: 1",1
+"1691","TF","Factor: FPM315; motif: GGAGGAGGRRGRGGRGGRRGR",1
+"1692","TF","Factor: FPM315; motif: GGAGGAGGRRGRGGRGGRRGR; match class: 0",1
+"1693","TF","Factor: FPM315; motif: SRGGGAGGAGGN",1
+"1694","TF","Factor: FPM315; motif: SRGGGAGGAGGN; match class: 0",1
+"1695","TF","Factor: Fra-1; motif: ACTCATG",1
+"1696","TF","Factor: Fra-1; motif: ACTCATG; match class: 0",1
+"1697","TF","Factor: GATA-5; motif: TATCTN",1
+"1698","TF","Factor: GATA-5; motif: TATCTN; match class: 0",1
+"1699","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG",1
+"1700","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 0",1
+"1701","TF","Factor: GEMIN3; motif: NCWGGRARRGRGNGNG; match class: 1",1
+"1702","TF","Factor: GKLF; motif: CCTCCYN",1
+"1703","TF","Factor: GKLF; motif: CCTCCYN; match class: 0",1
+"1704","TF","Factor: GKLF; motif: CCTCCYN; match class: 1",1
+"1705","TF","Factor: GKLF; motif: NNNRGGNGNGGSN",1
+"1706","TF","Factor: GKLF; motif: NNNRGGNGNGGSN; match class: 0",1
+"1707","TF","Factor: HELIOS; motif: RNARRRGGAASTGARAN",1
+"1708","TF","Factor: HELIOS; motif: RNARRRGGAASTGARAN; match class: 0",1
+"1709","TF","Factor: HELIOS; motif: RNARRRGGAASTGARAN; match class: 1",1
+"1710","TF","Factor: HIC1; motif: NNNGGKTGCCCSNNNNNN",1
+"1711","TF","Factor: HIC1; motif: NNNGGKTGCCCSNNNNNN; match class: 0",1
+"1712","TF","Factor: HIC1; motif: NSNNNNTGCCCSSNN",1
+"1713","TF","Factor: HIC1; motif: NSNNNNTGCCCSSNN; match class: 0",1
+"1714","TF","Factor: HNF1B; motif: NRTTAATNATTAACN; match class: 1",1
+"1715","TF","Factor: HSF4; motif: CTGCMRN; match class: 1",1
+"1716","TF","Factor: HTF4; motif: CASCTGB",1
+"1717","TF","Factor: HTF4; motif: CASCTGB; match class: 0",1
+"1718","TF","Factor: ICSBP; motif: RAARTGAAACTG",1
+"1719","TF","Factor: ICSBP; motif: RAARTGAAACTG; match class: 0",1
+"1720","TF","Factor: ICSBP; motif: RAARTGAAACTG; match class: 1",1
+"1721","TF","Factor: IRF-1; motif: NNRAAANNGAAASN; match class: 1",1
+"1722","TF","Factor: IRF-1; motif: STTTCACTTTCNNT; match class: 1",1
+"1723","TF","Factor: IRF-2; motif: NAANYGAAASYR",1
+"1724","TF","Factor: IRF-2; motif: NAANYGAAASYR; match class: 0",1
+"1725","TF","Factor: IRF-2; motif: NAANYGAAASYR; match class: 1",1
+"1726","TF","Factor: IRF-4; motif: KRAAMNGAAANYN",1
+"1727","TF","Factor: IRF-4; motif: KRAAMNGAAANYN; match class: 0",1
+"1728","TF","Factor: IRF-4; motif: KRAAMNGAAANYN; match class: 1",1
+"1729","TF","Factor: IRF-4; motif: NCGAAACCGAAACYA",1
+"1730","TF","Factor: IRF-4; motif: NCGAAACCGAAACYA; match class: 0",1
+"1731","TF","Factor: IRF-4; motif: NCGAAACCGAAACYA; match class: 1",1
+"1732","TF","Factor: IRF-7; motif: TNSGAAWNCGAAANTNNN",1
+"1733","TF","Factor: IRF-7; motif: TNSGAAWNCGAAANTNNN; match class: 0",1
+"1734","TF","Factor: IRF-7; motif: TNSGAAWNCGAAANTNNN; match class: 1",1
+"1735","TF","Factor: IRF-8; motif: AGTTTCW",1
+"1736","TF","Factor: IRF-8; motif: AGTTTCW; match class: 0",1
+"1737","TF","Factor: IRF; motif: NNGAAANTGAAANN",1
+"1738","TF","Factor: IRF; motif: NNGAAANTGAAANN; match class: 0",1
+"1739","TF","Factor: IRF; motif: NNGAAANTGAAANN; match class: 1",1
+"1740","TF","Factor: IRF; motif: RAAANTGAAAN",1
+"1741","TF","Factor: IRF; motif: RAAANTGAAAN; match class: 0",1
+"1742","TF","Factor: IRF; motif: RAAANTGAAAN; match class: 1",1
+"1743","TF","Factor: IRF; motif: RRAANTGAAASYGNV",1
+"1744","TF","Factor: IRF; motif: RRAANTGAAASYGNV; match class: 0",1
+"1745","TF","Factor: IRF; motif: RRAANTGAAASYGNV; match class: 1",1
+"1746","TF","Factor: IRF3; motif: NNRRAANGGAAACCGAAACYR",1
+"1747","TF","Factor: IRF3; motif: NNRRAANGGAAACCGAAACYR; match class: 0",1
+"1748","TF","Factor: IRF5; motif: CCGAAACCGAAACY",1
+"1749","TF","Factor: IRF5; motif: CCGAAACCGAAACY; match class: 0",1
+"1750","TF","Factor: IRF7; motif: NCGAAARYGAAANT",1
+"1751","TF","Factor: IRF7; motif: NCGAAARYGAAANT; match class: 0",1
+"1752","TF","Factor: IRF8; motif: NCGAAACCGAAACT",1
+"1753","TF","Factor: IRF8; motif: NCGAAACCGAAACT; match class: 0",1
+"1754","TF","Factor: IRF8; motif: NCGAAACCGAAACT; match class: 1",1
+"1755","TF","Factor: ISGF-3; motif: CAGTTTCWCTTTYCC",1
+"1756","TF","Factor: ISGF-3; motif: CAGTTTCWCTTTYCC; match class: 0",1
+"1757","TF","Factor: ISGF-3; motif: CAGTTTCWCTTTYCC; match class: 1",1
+"1758","TF","Factor: Kaiso; motif: GCMGGGRGCRGS",1
+"1759","TF","Factor: Kaiso; motif: GCMGGGRGCRGS; match class: 0",1
+"1760","TF","Factor: KLF; motif: GGGNGGGG",1
+"1761","TF","Factor: KLF; motif: GGGNGGGG; match class: 0",1
+"1762","TF","Factor: KROX; motif: CCCGCCCCCRCCCC",1
+"1763","TF","Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 0",1
+"1764","TF","Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 1",1
+"1765","TF","Factor: LKLF; motif: CNCCACCCS",1
+"1766","TF","Factor: LKLF; motif: CNCCACCCS; match class: 0",1
+"1767","TF","Factor: LKLF; motif: CNCCACCCS; match class: 1",1
+"1768","TF","Factor: LKLF; motif: GGGGTGGKSN",1
+"1769","TF","Factor: LKLF; motif: GGGGTGGKSN; match class: 0",1
+"1770","TF","Factor: LKLF; motif: GGGGTGGKSN; match class: 1",1
+"1771","TF","Factor: LRF; motif: GGGGKYNNB",1
+"1772","TF","Factor: LRF; motif: GGGGKYNNB; match class: 0",1
+"1773","TF","Factor: LRF; motif: GGGGKYNNB; match class: 1",1
+"1774","TF","Factor: MAZ; motif: GGGGAGGG",1
+"1775","TF","Factor: MAZ; motif: GGGGAGGG; match class: 0",1
+"1776","TF","Factor: MAZ; motif: GGGGAGGG; match class: 1",1
+"1777","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG",1
+"1778","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 0",1
+"1779","TF","Factor: MAZ; motif: NKGGGAGGGGRGGR",1
+"1780","TF","Factor: MAZ; motif: NKGGGAGGGGRGGR; match class: 0",1
+"1781","TF","Factor: MAZ; motif: NKGGGAGGGGRGGR; match class: 1",1
+"1782","TF","Factor: MIF-1; motif: NNGTTGCWWGGYAACNGS; match class: 1",1
+"1783","TF","Factor: MRF4; motif: CASCTGC",1
+"1784","TF","Factor: MRF4; motif: CASCTGC; match class: 0",1
+"1785","TF","Factor: nerf; motif: YRNCAGGAAGYRGSTBDS",1
+"1786","TF","Factor: nerf; motif: YRNCAGGAAGYRGSTBDS; match class: 0",1
+"1787","TF","Factor: NF-kappaB; motif: GGGGATYCCC",1
+"1788","TF","Factor: NF-kappaB; motif: GGGGATYCCC; match class: 0",1
+"1789","TF","Factor: NFATc1; motif: TTTTCCATGGAAAN; match class: 1",1
+"1790","TF","Factor: NGFI-C; motif: WTGCGTGGGYGG",1
+"1791","TF","Factor: NGFI-C; motif: WTGCGTGGGYGG; match class: 0",1
+"1792","TF","Factor: Osx; motif: CCNCCCCCNNN",1
+"1793","TF","Factor: Osx; motif: CCNCCCCCNNN; match class: 0",1
+"1794","TF","Factor: PEA3; motif: ACWTCCK; match class: 1",1
+"1795","TF","Factor: PEA3; motif: AGGAAGT; match class: 1",1
+"1796","TF","Factor: PLAG1; motif: CCCCCKWNNNGGSCCC; match class: 1",1
+"1797","TF","Factor: PUR1; motif: GGGNCAGNN",1
+"1798","TF","Factor: PUR1; motif: GGGNCAGNN; match class: 0",1
+"1799","TF","Factor: RFX; motif: SHGTTGCSN",1
+"1800","TF","Factor: RFX; motif: SHGTTGCSN; match class: 0",1
+"1801","TF","Factor: RFX; motif: SNGTTGCYANGGA",1
+"1802","TF","Factor: RFX; motif: SNGTTGCYANGGA; match class: 0",1
+"1803","TF","Factor: Rfx1; motif: GTTGCYNNGGARMS",1
+"1804","TF","Factor: Rfx1; motif: GTTGCYNNGGARMS; match class: 0",1
+"1805","TF","Factor: Rfx1; motif: GTTGCYNNGGARMS; match class: 1",1
+"1806","TF","Factor: RFX1; motif: MRWYRCYAKGSAAM",1
+"1807","TF","Factor: RFX1; motif: MRWYRCYAKGSAAM; match class: 0",1
+"1808","TF","Factor: RFX1; motif: NNGTNRCNATRGYAACNN; match class: 1",1
+"1809","TF","Factor: RFX1; motif: NNGTNRCNWRGYAACNN; match class: 1",1
+"1810","TF","Factor: RFX2; motif: GTYNCCATGGCAACNGNNN",1
+"1811","TF","Factor: RFX2; motif: GTYNCCATGGCAACNGNNN; match class: 0",1
+"1812","TF","Factor: rfx2; motif: SNSSCSGTTGCCATGGNRACNG",1
+"1813","TF","Factor: rfx2; motif: SNSSCSGTTGCCATGGNRACNG; match class: 0",1
+"1814","TF","Factor: RFX3; motif: NGTTRCCATGGYAACN",1
+"1815","TF","Factor: RFX3; motif: NGTTRCCATGGYAACN; match class: 0",1
+"1816","TF","Factor: RFX3; motif: NGTTRCCATGGYAACN; match class: 1",1
+"1817","TF","Factor: RFX3; motif: NYNCCMTGGCAACM",1
+"1818","TF","Factor: RFX3; motif: NYNCCMTGGCAACM; match class: 0",1
+"1819","TF","Factor: RFX4; motif: NGTWRCCATGGYWACN",1
+"1820","TF","Factor: RFX4; motif: NGTWRCCATGGYWACN; match class: 0",1
+"1821","TF","Factor: RFX4; motif: NGTWRCCATGGYWACN; match class: 1",1
+"1822","TF","Factor: rfx5; motif: YNSCMTRGCAACAGN",1
+"1823","TF","Factor: rfx5; motif: YNSCMTRGCAACAGN; match class: 0",1
+"1824","TF","Factor: RNF96; motif: BCCCGCRGCC",1
+"1825","TF","Factor: RNF96; motif: BCCCGCRGCC; match class: 0",1
+"1826","TF","Factor: RNF96; motif: BCCCGCRGCC; match class: 1",1
+"1827","TF","Factor: RREB-1; motif: CCCCAAACMMCCCC; match class: 1",1
+"1828","TF","Factor: RUNX2; motif: NRACCGCAAACCGCAN",1
+"1829","TF","Factor: RUNX2; motif: NRACCGCAAACCGCAN; match class: 0",1
+"1830","TF","Factor: RUNX2; motif: NRACCGCAAACCGCAN; match class: 1",1
+"1831","TF","Factor: SALL2; motif: GGGTGGG",1
+"1832","TF","Factor: SALL2; motif: GGGTGGG; match class: 0",1
+"1833","TF","Factor: SMAD4; motif: GKSRKKCAGMCANCY; match class: 1",1
+"1834","TF","Factor: SP1:SP3; motif: CCSCCCCCYCC",1
+"1835","TF","Factor: SP1:SP3; motif: CCSCCCCCYCC; match class: 0",1
+"1836","TF","Factor: Sp1; motif: CCCCGCCCCN",1
+"1837","TF","Factor: Sp1; motif: CCCCGCCCCN; match class: 0",1
+"1838","TF","Factor: Sp1; motif: CCCCGCCCCN; match class: 1",1
+"1839","TF","Factor: SP1; motif: CCCCKCCCCC",1
+"1840","TF","Factor: SP1; motif: CCCCKCCCCC; match class: 0",1
+"1841","TF","Factor: Sp1; motif: GGGGCGGGGT; match class: 1",1
+"1842","TF","Factor: SP1; motif: GGGGYGGGGNS",1
+"1843","TF","Factor: SP1; motif: GGGGYGGGGNS; match class: 0",1
+"1844","TF","Factor: SP1; motif: GGGGYGGGGNS; match class: 1",1
+"1845","TF","Factor: Sp1; motif: GGNDGGRGGCGGGG",1
+"1846","TF","Factor: Sp1; motif: GGNDGGRGGCGGGG; match class: 0",1
+"1847","TF","Factor: Sp1; motif: GGNDGGRGGCGGGG; match class: 1",1
+"1848","TF","Factor: SP1; motif: NCCCCKCCCCC",1
+"1849","TF","Factor: SP1; motif: NCCCCKCCCCC; match class: 0",1
+"1850","TF","Factor: Sp1; motif: NGGGGCGGGGN",1
+"1851","TF","Factor: Sp1; motif: NGGGGCGGGGN; match class: 0",1
+"1852","TF","Factor: Sp1; motif: NGGGGCGGGGN; match class: 1",1
+"1853","TF","Factor: Sp1; motif: NGGGGGCGGGGYN",1
+"1854","TF","Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 0",1
+"1855","TF","Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1",1
+"1856","TF","Factor: Sp1; motif: NNGGGGCGGGGNN",1
+"1857","TF","Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 0",1
+"1858","TF","Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 1",1
+"1859","TF","Factor: SP1; motif: NRGKGGGCGGGGCN",1
+"1860","TF","Factor: SP1; motif: NRGKGGGCGGGGCN; match class: 0",1
+"1861","TF","Factor: Sp2; motif: GGSNNGGGGGCGGGGCCNGNGS",1
+"1862","TF","Factor: Sp2; motif: GGSNNGGGGGCGGGGCCNGNGS; match class: 0",1
+"1863","TF","Factor: SP2; motif: GNNGGGGGCGGGGSN",1
+"1864","TF","Factor: SP2; motif: GNNGGGGGCGGGGSN; match class: 0",1
+"1865","TF","Factor: Sp2; motif: GYCCCGCCYCYNNNN",1
+"1866","TF","Factor: Sp2; motif: GYCCCGCCYCYNNNN; match class: 0",1
+"1867","TF","Factor: Sp2; motif: NYSGCCCCGCCCCCY",1
+"1868","TF","Factor: Sp2; motif: NYSGCCCCGCCCCCY; match class: 0",1
+"1869","TF","Factor: Sp2; motif: TGGGCGCGCCCA",1
+"1870","TF","Factor: Sp2; motif: TGGGCGCGCCCA; match class: 0",1
+"1871","TF","Factor: Sp2; motif: TGGGCGCGCCCA; match class: 1",1
+"1872","TF","Factor: Sp3; motif: GGGGCGGGGSNN",1
+"1873","TF","Factor: Sp3; motif: GGGGCGGGGSNN; match class: 0",1
+"1874","TF","Factor: Spi-B; motif: AAAAWGMGGAAGTWNSN",1
+"1875","TF","Factor: Spi-B; motif: AAAAWGMGGAAGTWNSN; match class: 0",1
+"1876","TF","Factor: SPI1; motif: AGGAAGT; match class: 1",1
+"1877","TF","Factor: STAT2; motif: NRGAAANNGAAACTNA; match class: 1",1
+"1878","TF","Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG",1
+"1879","TF","Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG; match class: 0",1
+"1880","TF","Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG; match class: 1",1
+"1881","TF","Factor: TFAP2A; motif: NGCCCYNNGGGCN",1
+"1882","TF","Factor: TFAP2A; motif: NGCCCYNNGGGCN; match class: 0",1
+"1883","TF","Factor: TFAP2A; motif: NGCCCYNNGGGCN; match class: 1",1
+"1884","TF","Factor: TFAP2A; motif: YGCCCNNRGGCN; match class: 1",1
+"1885","TF","Factor: TFII-I; motif: RGAGGKAGG",1
+"1886","TF","Factor: TFII-I; motif: RGAGGKAGG; match class: 0",1
+"1887","TF","Factor: WT1; motif: CGCCCCCNCN",1
+"1888","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 0",1
+"1889","TF","Factor: WT1; motif: NGCGGGGGGGTSMMCYN",1
+"1890","TF","Factor: WT1; motif: NGCGGGGGGGTSMMCYN; match class: 0",1
+"1891","TF","Factor: WT1; motif: NNGGGNGGGSGN",1
+"1892","TF","Factor: WT1; motif: NNGGGNGGGSGN; match class: 0",1
+"1893","TF","Factor: WT1; motif: NNGGGNGGGSGN; match class: 1",1
+"1894","TF","Factor: WT1; motif: SMCNCCNSC",1
+"1895","TF","Factor: WT1; motif: SMCNCCNSC; match class: 0",1
+"1896","TF","Factor: ZBP89; motif: CCCCKCCCCCNN",1
+"1897","TF","Factor: ZBP89; motif: CCCCKCCCCCNN; match class: 0",1
+"1898","TF","Factor: ZF5; motif: GSGCGCGR",1
+"1899","TF","Factor: ZF5; motif: GSGCGCGR; match class: 0",1
+"1900","TF","Factor: ZF5; motif: GSGCGCGR; match class: 1",1
+"1901","TF","Factor: ZF5; motif: NRNGNGCGCGCWN",1
+"1902","TF","Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 0",1
+"1903","TF","Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1",1
+"1904","TF","Factor: ZGPAT; motif: GRGGCWGNGGNG",1
+"1905","TF","Factor: ZGPAT; motif: GRGGCWGNGGNG; match class: 0",1
+"1906","TF","Factor: ZNF511; motif: GGRRGRGGCWGNG",1
+"1907","TF","Factor: ZNF511; motif: GGRRGRGGCWGNG; match class: 0",1
+"1908","TF","Factor: ZNF692; motif: SYNGGSCCCASCCNC",1
+"1909","TF","Factor: ZNF692; motif: SYNGGSCCCASCCNC; match class: 0",1
+"1910","TF","Factor: ZNF692; motif: SYNGGSCCCASCCNC; match class: 1",1
+"1911","TF","Factor: ZXDL; motif: NGGGGWS",1
+"1912","TF","Factor: ZXDL; motif: NGGGGWS; match class: 0",1
+"1913","WP","Human Complement System",2
+"1914","WP","Non-genomic actions of 1,25 dihydroxyvitamin D3",2
+"1915","WP","Type II interferon signaling (IFNG)",2
+"1916","WP","Adipogenesis",1
+"1917","WP","Allograft Rejection",1
+"1918","WP","Apoptosis",1
+"1919","WP","Apoptosis Modulation and Signaling",1
+"1920","WP","B Cell Receptor Signaling Pathway",1
+"1921","WP","Calcium Regulation in the Cardiac Cell",1
+"1922","WP","Canonical and Non-Canonical TGF-B signaling",1
+"1923","WP","Chemokine signaling pathway",1
+"1924","WP","Complement Activation",1
+"1925","WP","Complement and Coagulation Cascades",1
+"1926","WP","Control of immune tolerance by vasoactive intestinal peptide",1
+"1927","WP","Development and heterogeneity of the ILC family",1
+"1928","WP","Focal Adhesion",1
+"1929","WP","Focal Adhesion-PI3K-Akt-mTOR-signaling pathway",1
+"1930","WP","GPCRs, Class A Rhodopsin-like",1
+"1931","WP","IL-2 Signaling Pathway",1
+"1932","WP","IL-3 Signaling Pathway",1
+"1933","WP","Inflammatory Response Pathway",1
+"1934","WP","Interactions between immune cells and microRNAs in tumor microenvironment",1
+"1935","WP","Kit receptor signaling pathway",1
+"1936","WP","Macrophage markers",1
+"1937","WP","Matrix Metalloproteinases",1
+"1938","WP","Metapathway biotransformation Phase I and II",1
+"1939","WP","Microglia Pathogen Phagocytosis Pathway",1
+"1940","WP","miR-509-3p alteration of YAP1/ECM axis",1
+"1941","WP","miRNA targets in ECM and membrane receptors",1
+"1942","WP","miRNAs involvement in the immune response in sepsis",1
+"1943","WP","Nucleotide-binding Oligomerization Domain (NOD) pathway",1
+"1944","WP","Osteoblast Signaling",1
+"1945","WP","Peptide GPCRs",1
+"1946","WP","Platelet-mediated interactions with vascular and circulating cells",1
+"1947","WP","Primary Focal Segmental Glomerulosclerosis FSGS",1
+"1948","WP","Ras Signaling",1
+"1949","WP","Regulation of toll-like receptor signaling pathway",1
+"1950","WP","RIG-I-like Receptor Signaling",1
+"1951","WP","Selective expression of chemokine receptors during T-cell polarization",1
+"1952","WP","Simplified Depiction of MYD88 Distinct Input-Output Pathway",1
+"1953","WP","T-Cell antigen Receptor (TCR)  Signaling Pathway",1
+"1954","WP","T-Cell antigen Receptor (TCR) pathway during Staphylococcus aureus infection",1
+"1955","WP","T-Cell Receptor and Co-stimulatory Signaling",1
+"1956","WP","The human immune response to tuberculosis",1
+"1957","WP","Thymic Stromal LymphoPoietin (TSLP) Signaling Pathway",1
+"1958","WP","TNF alpha Signaling Pathway",1
+"1959","WP","Toll-like Receptor Signaling",1
+"1960","WP","Toll-like Receptor Signaling Pathway",1
+"1961","WP","TYROBP Causal Network",1
+"1962","WP","Viral Acute Myocarditis",1
+"1963","WP","Vitamin A and Carotenoid Metabolism",1

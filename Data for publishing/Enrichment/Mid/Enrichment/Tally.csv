@@ -1,0 +1,1672 @@
+"","source","term_name","n"
+"1","CORUM","Telomere-associated protein complex",2
+"2","CORUM","core-histone (H2A/H2B/H3/H4)-TDIF2-TDT complex",1
+"3","CORUM","CP-LF complex",1
+"4","CORUM","E2F4-p130 complex",1
+"5","CORUM","H2A-H2B-TDIF2-PCNA complex",1
+"6","CORUM","H2AX complex II",1
+"7","CORUM","RAF1-PPP2-PIN1 complex",1
+"8","CORUM","Rap1 complex",1
+"9","CORUM","SERPINA1-CTSG complex",1
+"10","CORUM","TRF2-Rap1 complex III",1
+"11","GO:BP","cellular aromatic compound metabolic process",2
+"12","GO:BP","cellular component biogenesis",2
+"13","GO:BP","cellular component organization or biogenesis",2
+"14","GO:BP","cellular nitrogen compound metabolic process",2
+"15","GO:BP","gene expression",2
+"16","GO:BP","heterocycle metabolic process",2
+"17","GO:BP","nucleic acid metabolic process",2
+"18","GO:BP","nucleobase-containing compound metabolic process",2
+"19","GO:BP","nucleosome assembly",2
+"20","GO:BP","organelle organization",2
+"21","GO:BP","organic cyclic compound metabolic process",2
+"22","GO:BP","acetyl-CoA metabolic process",1
+"23","GO:BP","anion transport",1
+"24","GO:BP","antibacterial humoral response",1
+"25","GO:BP","antimicrobial humoral response",1
+"26","GO:BP","aromatic compound biosynthetic process",1
+"27","GO:BP","bicarbonate transport",1
+"28","GO:BP","biological adhesion",1
+"29","GO:BP","biosynthetic process",1
+"30","GO:BP","blood coagulation, fibrin clot formation",1
+"31","GO:BP","cellular biosynthetic process",1
+"32","GO:BP","cellular component assembly",1
+"33","GO:BP","cellular component organization",1
+"34","GO:BP","cellular lipid metabolic process",1
+"35","GO:BP","cellular macromolecule biosynthetic process",1
+"36","GO:BP","cellular macromolecule metabolic process",1
+"37","GO:BP","cellular metabolic process",1
+"38","GO:BP","cellular nitrogen compound biosynthetic process",1
+"39","GO:BP","cellular protein-containing complex assembly",1
+"40","GO:BP","cellular response to chemical stimulus",1
+"41","GO:BP","cellular response to endogenous stimulus",1
+"42","GO:BP","cellular response to lipid",1
+"43","GO:BP","cellular response to organic cyclic compound",1
+"44","GO:BP","cellular response to organic substance",1
+"45","GO:BP","cellular response to steroid hormone stimulus",1
+"46","GO:BP","chemical homeostasis",1
+"47","GO:BP","chemical homeostasis within a tissue",1
+"48","GO:BP","chemokine secretion",1
+"49","GO:BP","chromatin assembly",1
+"50","GO:BP","chromatin assembly or disassembly",1
+"51","GO:BP","chromatin organization",1
+"52","GO:BP","chromatin organization involved in negative regulation of transcription",1
+"53","GO:BP","chromatin organization involved in regulation of transcription",1
+"54","GO:BP","chromatin silencing",1
+"55","GO:BP","chromosome condensation",1
+"56","GO:BP","chromosome organization",1
+"57","GO:BP","complement activation, alternative pathway",1
+"58","GO:BP","DNA conformation change",1
+"59","GO:BP","DNA packaging",1
+"60","GO:BP","drug metabolic process",1
+"61","GO:BP","establishment of localization",1
+"62","GO:BP","export from cell",1
+"63","GO:BP","fibrinolysis",1
+"64","GO:BP","gene silencing",1
+"65","GO:BP","generation of precursor metabolites and energy",1
+"66","GO:BP","gonadal mesoderm development",1
+"67","GO:BP","heterocycle biosynthetic process",1
+"68","GO:BP","histone H3-K27 methylation",1
+"69","GO:BP","histone H3-K27 trimethylation",1
+"70","GO:BP","histone H3-K4 trimethylation",1
+"71","GO:BP","histone lysine methylation",1
+"72","GO:BP","humoral immune response",1
+"73","GO:BP","innate immune response in mucosa",1
+"74","GO:BP","ion transport",1
+"75","GO:BP","kidney epithelium development",1
+"76","GO:BP","leukocyte mediated immunity",1
+"77","GO:BP","lipid localization",1
+"78","GO:BP","lipid metabolic process",1
+"79","GO:BP","localization",1
+"80","GO:BP","macromolecule biosynthetic process",1
+"81","GO:BP","macromolecule metabolic process",1
+"82","GO:BP","mesoderm development",1
+"83","GO:BP","metabolic process",1
+"84","GO:BP","mitochondrial translational elongation",1
+"85","GO:BP","mitochondrial translational termination",1
+"86","GO:BP","mucosal immune response",1
+"87","GO:BP","multicellular organismal process",1
+"88","GO:BP","myeloid cell activation involved in immune response",1
+"89","GO:BP","myeloid leukocyte activation",1
+"90","GO:BP","negative regulation of blood coagulation",1
+"91","GO:BP","negative regulation of catalytic activity",1
+"92","GO:BP","negative regulation of cellular component organization",1
+"93","GO:BP","negative regulation of chromatin organization",1
+"94","GO:BP","negative regulation of chromatin silencing",1
+"95","GO:BP","negative regulation of chromosome organization",1
+"96","GO:BP","negative regulation of coagulation",1
+"97","GO:BP","negative regulation of DNA metabolic process",1
+"98","GO:BP","negative regulation of DNA recombination",1
+"99","GO:BP","negative regulation of endopeptidase activity",1
+"100","GO:BP","negative regulation of gene expression, epigenetic",1
+"101","GO:BP","negative regulation of gene silencing",1
+"102","GO:BP","negative regulation of hemostasis",1
+"103","GO:BP","negative regulation of hydrolase activity",1
+"104","GO:BP","negative regulation of molecular function",1
+"105","GO:BP","negative regulation of peptidase activity",1
+"106","GO:BP","negative regulation of proteolysis",1
+"107","GO:BP","negative regulation of wound healing",1
+"108","GO:BP","nitrogen compound metabolic process",1
+"109","GO:BP","nuclear envelope reassembly",1
+"110","GO:BP","nucleic acid-templated transcription",1
+"111","GO:BP","nucleobase-containing compound biosynthetic process",1
+"112","GO:BP","nucleosome organization",1
+"113","GO:BP","nucleosome positioning",1
+"114","GO:BP","organ or tissue specific immune response",1
+"115","GO:BP","organic anion transport",1
+"116","GO:BP","organic cyclic compound biosynthetic process",1
+"117","GO:BP","organic substance biosynthetic process",1
+"118","GO:BP","organic substance metabolic process",1
+"119","GO:BP","plasminogen activation",1
+"120","GO:BP","platelet degranulation",1
+"121","GO:BP","positive regulation of chemokine production",1
+"122","GO:BP","positive regulation of chemokine secretion",1
+"123","GO:BP","positive regulation of cytokine secretion",1
+"124","GO:BP","positive regulation of gene expression, epigenetic",1
+"125","GO:BP","positive regulation of peptide secretion",1
+"126","GO:BP","positive regulation of protein secretion",1
+"127","GO:BP","positive regulation of secretion",1
+"128","GO:BP","positive regulation of tumor necrosis factor secretion",1
+"129","GO:BP","primary metabolic process",1
+"130","GO:BP","protein-containing complex assembly",1
+"131","GO:BP","protein-containing complex subunit organization",1
+"132","GO:BP","protein-DNA complex assembly",1
+"133","GO:BP","protein-DNA complex subunit organization",1
+"134","GO:BP","protein activation cascade",1
+"135","GO:BP","protein modification by small protein conjugation",1
+"136","GO:BP","protein modification by small protein conjugation or removal",1
+"137","GO:BP","protein processing",1
+"138","GO:BP","protein ubiquitination",1
+"139","GO:BP","regulated exocytosis",1
+"140","GO:BP","regulation of biological quality",1
+"141","GO:BP","regulation of biosynthetic process",1
+"142","GO:BP","regulation of blood coagulation",1
+"143","GO:BP","regulation of body fluid levels",1
+"144","GO:BP","regulation of cellular biosynthetic process",1
+"145","GO:BP","regulation of cellular macromolecule biosynthetic process",1
+"146","GO:BP","regulation of cellular metabolic process",1
+"147","GO:BP","regulation of chemokine production",1
+"148","GO:BP","regulation of chemokine secretion",1
+"149","GO:BP","regulation of chromatin organization",1
+"150","GO:BP","regulation of chromatin silencing",1
+"151","GO:BP","regulation of coagulation",1
+"152","GO:BP","regulation of complement activation",1
+"153","GO:BP","regulation of DNA recombination",1
+"154","GO:BP","regulation of gene expression",1
+"155","GO:BP","regulation of gene expression, epigenetic",1
+"156","GO:BP","regulation of gene silencing",1
+"157","GO:BP","regulation of hemostasis",1
+"158","GO:BP","regulation of humoral immune response",1
+"159","GO:BP","regulation of macromolecule biosynthetic process",1
+"160","GO:BP","regulation of macromolecule metabolic process",1
+"161","GO:BP","regulation of metabolic process",1
+"162","GO:BP","regulation of nitrogen compound metabolic process",1
+"163","GO:BP","regulation of nucleic acid-templated transcription",1
+"164","GO:BP","regulation of nucleobase-containing compound metabolic process",1
+"165","GO:BP","regulation of primary metabolic process",1
+"166","GO:BP","regulation of RNA biosynthetic process",1
+"167","GO:BP","regulation of RNA metabolic process",1
+"168","GO:BP","regulation of transcription by RNA polymerase II",1
+"169","GO:BP","regulation of transcription, DNA-templated",1
+"170","GO:BP","response to biotic stimulus",1
+"171","GO:BP","response to chemical",1
+"172","GO:BP","response to endogenous stimulus",1
+"173","GO:BP","response to external biotic stimulus",1
+"174","GO:BP","response to external stimulus",1
+"175","GO:BP","response to hormone",1
+"176","GO:BP","response to lipid",1
+"177","GO:BP","response to organic cyclic compound",1
+"178","GO:BP","response to organic substance",1
+"179","GO:BP","response to other organism",1
+"180","GO:BP","response to oxygen-containing compound",1
+"181","GO:BP","response to steroid hormone",1
+"182","GO:BP","response to stimulus",1
+"183","GO:BP","RNA biosynthetic process",1
+"184","GO:BP","RNA metabolic process",1
+"185","GO:BP","secretion",1
+"186","GO:BP","secretion by cell",1
+"187","GO:BP","small molecule metabolic process",1
+"188","GO:BP","surfactant homeostasis",1
+"189","GO:BP","transcription by RNA polymerase II",1
+"190","GO:BP","transcription, DNA-templated",1
+"191","GO:BP","transcytosis",1
+"192","GO:BP","transmembrane transport",1
+"193","GO:BP","transport",1
+"194","GO:BP","tube development",1
+"195","GO:BP","tube morphogenesis",1
+"196","GO:BP","valyl-tRNA aminoacylation",1
+"197","GO:BP","zymogen activation",1
+"198","GO:CC","intracellular",10
+"199","GO:CC","intracellular part",10
+"200","GO:CC","nuclear lumen",10
+"201","GO:CC","intracellular membrane-bounded organelle",9
+"202","GO:CC","intracellular organelle part",9
+"203","GO:CC","nuclear part",8
+"204","GO:CC","organelle part",8
+"205","GO:CC","intracellular organelle",7
+"206","GO:CC","nucleus",7
+"207","GO:CC","cytosol",6
+"208","GO:CC","intracellular organelle lumen",6
+"209","GO:CC","membrane-bounded organelle",6
+"210","GO:CC","membrane-enclosed lumen",6
+"211","GO:CC","organelle",6
+"212","GO:CC","organelle lumen",6
+"213","GO:CC","protein-containing complex",6
+"214","GO:CC","nucleoplasm",5
+"215","GO:CC","cytoplasm",4
+"216","GO:CC","cytoplasmic part",3
+"217","GO:CC","cell part",2
+"218","GO:CC","extracellular exosome",2
+"219","GO:CC","extracellular organelle",2
+"220","GO:CC","extracellular region",2
+"221","GO:CC","extracellular region part",2
+"222","GO:CC","extracellular space",2
+"223","GO:CC","extracellular vesicle",2
+"224","GO:CC","intracellular non-membrane-bounded organelle",2
+"225","GO:CC","non-membrane-bounded organelle",2
+"226","GO:CC","organelle membrane",2
+"227","GO:CC","ribonucleoprotein complex",2
+"228","GO:CC","vesicle",2
+"229","GO:CC","alveolar lamellar body",1
+"230","GO:CC","anchored component of membrane",1
+"231","GO:CC","apical part of cell",1
+"232","GO:CC","apical plasma membrane",1
+"233","GO:CC","azurophil granule",1
+"234","GO:CC","blood microparticle",1
+"235","GO:CC","brush border membrane",1
+"236","GO:CC","catalytic complex",1
+"237","GO:CC","Cdc73/Paf1 complex",1
+"238","GO:CC","cell",1
+"239","GO:CC","cell periphery",1
+"240","GO:CC","cell surface",1
+"241","GO:CC","central region of growth cone",1
+"242","GO:CC","chromatin",1
+"243","GO:CC","chromosomal part",1
+"244","GO:CC","chromosome",1
+"245","GO:CC","collagen-containing extracellular matrix",1
+"246","GO:CC","cytoplasmic vesicle",1
+"247","GO:CC","cytoplasmic vesicle lumen",1
+"248","GO:CC","cytoplasmic vesicle part",1
+"249","GO:CC","DNA packaging complex",1
+"250","GO:CC","endocytic vesicle",1
+"251","GO:CC","endoplasmic reticulum",1
+"252","GO:CC","endosomal part",1
+"253","GO:CC","endosome membrane",1
+"254","GO:CC","extracellular matrix",1
+"255","GO:CC","fibrinogen complex",1
+"256","GO:CC","growth cone part",1
+"257","GO:CC","integral component of plasma membrane",1
+"258","GO:CC","intracellular vesicle",1
+"259","GO:CC","intrinsic component of plasma membrane",1
+"260","GO:CC","KICSTOR complex",1
+"261","GO:CC","lamellar body",1
+"262","GO:CC","large ribosomal subunit",1
+"263","GO:CC","late endosome lumen",1
+"264","GO:CC","lysosome",1
+"265","GO:CC","lytic vacuole",1
+"266","GO:CC","membrane attack complex",1
+"267","GO:CC","microtubule cytoskeleton",1
+"268","GO:CC","mitochondrial large ribosomal subunit",1
+"269","GO:CC","mitochondrial protein complex",1
+"270","GO:CC","mitochondrial ribosome",1
+"271","GO:CC","multivesicular body",1
+"272","GO:CC","multivesicular body lumen",1
+"273","GO:CC","nuclear chromatin",1
+"274","GO:CC","nuclear chromosome",1
+"275","GO:CC","nuclear chromosome part",1
+"276","GO:CC","nuclear telomere cap complex",1
+"277","GO:CC","nucleoplasm part",1
+"278","GO:CC","nucleosome",1
+"279","GO:CC","organellar large ribosomal subunit",1
+"280","GO:CC","organellar ribosome",1
+"281","GO:CC","plasma membrane",1
+"282","GO:CC","plasma membrane part",1
+"283","GO:CC","plasma membrane region",1
+"284","GO:CC","platelet alpha granule",1
+"285","GO:CC","platelet alpha granule lumen",1
+"286","GO:CC","polysomal ribosome",1
+"287","GO:CC","primary lysosome",1
+"288","GO:CC","protein-DNA complex",1
+"289","GO:CC","ribosomal subunit",1
+"290","GO:CC","ribosome",1
+"291","GO:CC","secretory granule",1
+"292","GO:CC","secretory granule lumen",1
+"293","GO:CC","secretory vesicle",1
+"294","GO:CC","shelterin complex",1
+"295","GO:CC","small ribosomal subunit",1
+"296","GO:CC","specific granule",1
+"297","GO:CC","specific granule lumen",1
+"298","GO:CC","telomere cap complex",1
+"299","GO:CC","vacuole",1
+"300","GO:CC","vesicle lumen",1
+"301","GO:MF","DNA binding",3
+"302","GO:MF","nucleic acid binding",3
+"303","GO:MF","heterocyclic compound binding",2
+"304","GO:MF","organic cyclic compound binding",2
+"305","GO:MF","cation binding",1
+"306","GO:MF","cation transmembrane transporter activity",1
+"307","GO:MF","chromatin binding",1
+"308","GO:MF","chromatin DNA binding",1
+"309","GO:MF","cis-trans isomerase activity",1
+"310","GO:MF","cyclosporin A binding",1
+"311","GO:MF","DNA-binding transcription factor activity",1
+"312","GO:MF","DNA-binding transcription factor activity, RNA polymerase II-specific",1
+"313","GO:MF","endopeptidase inhibitor activity",1
+"314","GO:MF","endopeptidase regulator activity",1
+"315","GO:MF","enzyme inhibitor activity",1
+"316","GO:MF","inorganic cation transmembrane transporter activity",1
+"317","GO:MF","inorganic molecular entity transmembrane transporter activity",1
+"318","GO:MF","ion binding",1
+"319","GO:MF","ion transmembrane transporter activity",1
+"320","GO:MF","metal ion binding",1
+"321","GO:MF","metal ion transmembrane transporter activity",1
+"322","GO:MF","monovalent inorganic cation transmembrane transporter activity",1
+"323","GO:MF","nucleosomal DNA binding",1
+"324","GO:MF","nucleosome binding",1
+"325","GO:MF","peptidase inhibitor activity",1
+"326","GO:MF","peptidase regulator activity",1
+"327","GO:MF","peptidyl-prolyl cis-trans isomerase activity",1
+"328","GO:MF","protein dimerization activity",1
+"329","GO:MF","protein heterodimerization activity",1
+"330","GO:MF","protein serine/threonine kinase activity",1
+"331","GO:MF","RNA polymerase II C-terminal domain phosphoserine binding",1
+"332","GO:MF","scavenger receptor activity",1
+"333","GO:MF","serine-type endopeptidase activity",1
+"334","GO:MF","serine-type endopeptidase inhibitor activity",1
+"335","GO:MF","sodium ion transmembrane transporter activity",1
+"336","GO:MF","solute:sodium symporter activity",1
+"337","GO:MF","steroid hormone receptor activity",1
+"338","GO:MF","structural constituent of ribosome",1
+"339","GO:MF","transcription regulator activity",1
+"340","GO:MF","transmembrane transporter activity",1
+"341","GO:MF","transporter activity",1
+"342","GO:MF","tRNA (cytosine-5-)-methyltransferase activity",1
+"343","GO:MF","valine-tRNA ligase activity",1
+"344","HP","Abnormal breath sound",1
+"345","HP","Abnormal renal pelvis morphology",1
+"346","HP","Abnormality of complement system",1
+"347","HP","Abnormality of forebrain morphology",1
+"348","HP","Abnormality of the cerebrum",1
+"349","HP","Clubbing",1
+"350","HP","Complement deficiency",1
+"351","HP","Crackles",1
+"352","HP","Decreased pulmonary function",1
+"353","HP","Dilatation of the renal pelvis",1
+"354","HP","Distal amyotrophy",1
+"355","HP","Global developmental delay",1
+"356","HP","Ground-glass opacification on pulmonary HRCT",1
+"357","HP","Honeycomb lung",1
+"358","HP","Hydronephrosis",1
+"359","HP","Increased head circumference",1
+"360","HP","Macrocephaly",1
+"361","HP","Multiple pulmonary cysts",1
+"362","HP","Pulmonary opacity",1
+"363","HP","Recurrent gram-negative bacterial infections",1
+"364","HP","Recurrent Haemophilus influenzae infections",1
+"365","HP","Reticular pattern on pulmonary HRCT",1
+"366","HPA","adrenal gland; glandular cells[Supported,Not detected]",2
+"367","HPA","appendix; glandular cells[Supported,Not detected]",2
+"368","HPA","appendix; lymphoid tissue[Supported,Not detected]",2
+"369","HPA","bone marrow; hematopoietic cells[Supported,Not detected]",2
+"370","HPA","breast; adipocytes[Supported,Not detected]",2
+"371","HPA","breast; glandular cells[Supported,Not detected]",2
+"372","HPA","breast; myoepithelial cells[Supported,Not detected]",2
+"373","HPA","breast; myoepithelial cells[Uncertain,High]",2
+"374","HPA","bronchus; respiratory epithelial cells[Supported,Not detected]",2
+"375","HPA","caudate; glial cells[Supported,Not detected]",2
+"376","HPA","caudate; neuronal cells[Supported,Not detected]",2
+"377","HPA","cerebellum; cells in granular layer[Supported,Not detected]",2
+"378","HPA","cerebellum; cells in molecular layer[Supported,Not detected]",2
+"379","HPA","cerebellum; Purkinje cells[Supported,Not detected]",2
+"380","HPA","cerebral cortex; endothelial cells[Supported,Not detected]",2
+"381","HPA","cerebral cortex; glial cells[Supported,Not detected]",2
+"382","HPA","cerebral cortex; neuronal cells[Supported,Not detected]",2
+"383","HPA","cerebral cortex; neuropil[Supported,Not detected]",2
+"384","HPA","cervix, uterine; glandular cells[Supported,Not detected]",2
+"385","HPA","colon; endothelial cells[Supported,Not detected]",2
+"386","HPA","colon; glandular cells[Supported,Not detected]",2
+"387","HPA","duodenum; glandular cells[Supported,Not detected]",2
+"388","HPA","endometrium 1; cells in endometrial stroma[Supported,Not detected]",2
+"389","HPA","endometrium 1; glandular cells[Supported,Not detected]",2
+"390","HPA","endometrium 2; cells in endometrial stroma[Supported,Not detected]",2
+"391","HPA","endometrium 2; glandular cells[Supported,Not detected]",2
+"392","HPA","epididymis; glandular cells[Supported,Not detected]",2
+"393","HPA","esophagus; squamous epithelial cells[Supported,Not detected]",2
+"394","HPA","fallopian tube; glandular cells[Supported,Not detected]",2
+"395","HPA","gallbladder; glandular cells[Supported,Not detected]",2
+"396","HPA","heart muscle; myocytes[Supported,Not detected]",2
+"397","HPA","hippocampus; glial cells[Supported,Not detected]",2
+"398","HPA","hippocampus; neuronal cells[Supported,Not detected]",2
+"399","HPA","kidney; cells in glomeruli[Supported,Not detected]",2
+"400","HPA","kidney; cells in tubules[Supported,Not detected]",2
+"401","HPA","liver; bile duct cells[Supported,Not detected]",2
+"402","HPA","liver; hepatocytes[Supported,Not detected]",2
+"403","HPA","lung; macrophages[Supported,Not detected]",2
+"404","HPA","lung; pneumocytes[Supported,Not detected]",2
+"405","HPA","lymph node; germinal center cells[Supported,Not detected]",2
+"406","HPA","lymph node; non-germinal center cells[Supported,Not detected]",2
+"407","HPA","nasopharynx; respiratory epithelial cells[Supported,Not detected]",2
+"408","HPA","oral mucosa; squamous epithelial cells[Supported,Not detected]",2
+"409","HPA","oral mucosa; squamous epithelial cells[Uncertain,Low]",2
+"410","HPA","ovary; follicle cells[Supported,Not detected]",2
+"411","HPA","ovary; ovarian stroma cells[Supported,Not detected]",2
+"412","HPA","pancreas; exocrine glandular cells[Supported,Not detected]",2
+"413","HPA","pancreas; islets of Langerhans[Supported,Not detected]",2
+"414","HPA","parathyroid gland; glandular cells[Supported,Not detected]",2
+"415","HPA","placenta; trophoblastic cells[Supported,Not detected]",2
+"416","HPA","prostate; glandular cells[Supported,Not detected]",2
+"417","HPA","rectum; glandular cells[Supported,Not detected]",2
+"418","HPA","salivary gland; glandular cells[Supported,Not detected]",2
+"419","HPA","seminal vesicle; glandular cells[Supported,Not detected]",2
+"420","HPA","skeletal muscle; myocytes[Supported,Not detected]",2
+"421","HPA","skin 1; fibroblasts[Supported,Not detected]",2
+"422","HPA","skin 1; keratinocytes[Supported,Not detected]",2
+"423","HPA","skin 1; keratinocytes[Uncertain,Medium]",2
+"424","HPA","skin 1; Langerhans[Supported,Not detected]",2
+"425","HPA","skin 1; melanocytes[Supported,Not detected]",2
+"426","HPA","skin 2; epidermal cells[Supported,Not detected]",2
+"427","HPA","small intestine; glandular cells[Supported,Not detected]",2
+"428","HPA","smooth muscle; smooth muscle cells[Supported,Not detected]",2
+"429","HPA","soft tissue 1; adipocytes[Supported,Not detected]",2
+"430","HPA","soft tissue 1; fibroblasts[Supported,Not detected]",2
+"431","HPA","soft tissue 1; peripheral nerve[Supported,Not detected]",2
+"432","HPA","soft tissue 2; adipocytes[Supported,Not detected]",2
+"433","HPA","soft tissue 2; fibroblasts[Supported,Not detected]",2
+"434","HPA","soft tissue 2; peripheral nerve[Supported,Not detected]",2
+"435","HPA","spleen; cells in red pulp[Supported,Not detected]",2
+"436","HPA","spleen; cells in white pulp[Supported,Not detected]",2
+"437","HPA","stomach 1; glandular cells[Supported,Not detected]",2
+"438","HPA","stomach 2; glandular cells[Supported,Not detected]",2
+"439","HPA","testis; cells in seminiferous ducts[Supported,High]",2
+"440","HPA","testis; Leydig cells[Supported,Not detected]",2
+"441","HPA","thyroid gland; glandular cells[Supported,Not detected]",2
+"442","HPA","tonsil; germinal center cells[Supported,Not detected]",2
+"443","HPA","tonsil; non-germinal center cells[Supported,Not detected]",2
+"444","HPA","tonsil; squamous epithelial cells[Supported,Not detected]",2
+"445","HPA","urinary bladder; urothelial cells[Supported,Not detected]",2
+"446","HPA","vagina; squamous epithelial cells[Supported,Not detected]",2
+"447","HPA","adrenal gland; glandular cells[Supported,High]",1
+"448","HPA","adrenal gland; glandular cells[Supported,Low]",1
+"449","HPA","adrenal gland; glandular cells[Supported,Medium]",1
+"450","HPA","adrenal gland; glandular cells[Uncertain,High]",1
+"451","HPA","adrenal gland; glandular cells[Uncertain,Low]",1
+"452","HPA","adrenal gland; glandular cells[Uncertain,Medium]",1
+"453","HPA","appendix; glandular cells[Supported,High]",1
+"454","HPA","appendix; glandular cells[Supported,Low]",1
+"455","HPA","appendix; glandular cells[Supported,Medium]",1
+"456","HPA","appendix; glandular cells[Uncertain,High]",1
+"457","HPA","appendix; glandular cells[Uncertain,Low]",1
+"458","HPA","appendix; glandular cells[Uncertain,Medium]",1
+"459","HPA","appendix; lymphoid tissue[Supported,High]",1
+"460","HPA","appendix; lymphoid tissue[Supported,Low]",1
+"461","HPA","appendix; lymphoid tissue[Supported,Medium]",1
+"462","HPA","appendix; lymphoid tissue[Uncertain,High]",1
+"463","HPA","appendix; lymphoid tissue[Uncertain,Low]",1
+"464","HPA","appendix; lymphoid tissue[Uncertain,Medium]",1
+"465","HPA","bone marrow; hematopoietic cells[Supported,High]",1
+"466","HPA","bone marrow; hematopoietic cells[Supported,Low]",1
+"467","HPA","bone marrow; hematopoietic cells[Supported,Medium]",1
+"468","HPA","bone marrow; hematopoietic cells[Uncertain,High]",1
+"469","HPA","bone marrow; hematopoietic cells[Uncertain,Low]",1
+"470","HPA","bone marrow; hematopoietic cells[Uncertain,Medium]",1
+"471","HPA","breast; adipocytes[Supported,High]",1
+"472","HPA","breast; adipocytes[Supported,Low]",1
+"473","HPA","breast; adipocytes[Supported,Medium]",1
+"474","HPA","breast; adipocytes[Uncertain,High]",1
+"475","HPA","breast; adipocytes[Uncertain,Low]",1
+"476","HPA","breast; adipocytes[Uncertain,Medium]",1
+"477","HPA","breast; glandular cells[Supported,High]",1
+"478","HPA","breast; glandular cells[Supported,Low]",1
+"479","HPA","breast; glandular cells[Supported,Medium]",1
+"480","HPA","breast; glandular cells[Uncertain,High]",1
+"481","HPA","breast; glandular cells[Uncertain,Low]",1
+"482","HPA","breast; glandular cells[Uncertain,Medium]",1
+"483","HPA","breast; myoepithelial cells[Supported,High]",1
+"484","HPA","breast; myoepithelial cells[Supported,Low]",1
+"485","HPA","breast; myoepithelial cells[Supported,Medium]",1
+"486","HPA","breast; myoepithelial cells[Uncertain,Low]",1
+"487","HPA","breast; myoepithelial cells[Uncertain,Medium]",1
+"488","HPA","bronchus; respiratory epithelial cells[Supported,High]",1
+"489","HPA","bronchus; respiratory epithelial cells[Supported,Low]",1
+"490","HPA","bronchus; respiratory epithelial cells[Supported,Medium]",1
+"491","HPA","bronchus; respiratory epithelial cells[Uncertain,High]",1
+"492","HPA","bronchus; respiratory epithelial cells[Uncertain,Low]",1
+"493","HPA","bronchus; respiratory epithelial cells[Uncertain,Medium]",1
+"494","HPA","caudate; glial cells[Supported,High]",1
+"495","HPA","caudate; glial cells[Supported,Low]",1
+"496","HPA","caudate; glial cells[Supported,Medium]",1
+"497","HPA","caudate; glial cells[Uncertain,High]",1
+"498","HPA","caudate; glial cells[Uncertain,Low]",1
+"499","HPA","caudate; glial cells[Uncertain,Medium]",1
+"500","HPA","caudate; neuronal cells[Supported,High]",1
+"501","HPA","caudate; neuronal cells[Supported,Low]",1
+"502","HPA","caudate; neuronal cells[Supported,Medium]",1
+"503","HPA","caudate; neuronal cells[Uncertain,High]",1
+"504","HPA","caudate; neuronal cells[Uncertain,Low]",1
+"505","HPA","caudate; neuronal cells[Uncertain,Medium]",1
+"506","HPA","cerebellum; cells in granular layer[Supported,High]",1
+"507","HPA","cerebellum; cells in granular layer[Supported,Low]",1
+"508","HPA","cerebellum; cells in granular layer[Supported,Medium]",1
+"509","HPA","cerebellum; cells in granular layer[Uncertain,High]",1
+"510","HPA","cerebellum; cells in granular layer[Uncertain,Low]",1
+"511","HPA","cerebellum; cells in granular layer[Uncertain,Medium]",1
+"512","HPA","cerebellum; cells in molecular layer[Supported,High]",1
+"513","HPA","cerebellum; cells in molecular layer[Supported,Low]",1
+"514","HPA","cerebellum; cells in molecular layer[Supported,Medium]",1
+"515","HPA","cerebellum; cells in molecular layer[Uncertain,High]",1
+"516","HPA","cerebellum; cells in molecular layer[Uncertain,Low]",1
+"517","HPA","cerebellum; cells in molecular layer[Uncertain,Medium]",1
+"518","HPA","cerebellum; Purkinje cells[Supported,Low]",1
+"519","HPA","cerebellum; Purkinje cells[Supported,Medium]",1
+"520","HPA","cerebellum; Purkinje cells[Uncertain,Low]",1
+"521","HPA","cerebellum; Purkinje cells[Uncertain,Medium]",1
+"522","HPA","cerebral cortex; endothelial cells[Supported,High]",1
+"523","HPA","cerebral cortex; endothelial cells[Supported,Low]",1
+"524","HPA","cerebral cortex; endothelial cells[Supported,Medium]",1
+"525","HPA","cerebral cortex; endothelial cells[Uncertain,High]",1
+"526","HPA","cerebral cortex; endothelial cells[Uncertain,Low]",1
+"527","HPA","cerebral cortex; endothelial cells[Uncertain,Medium]",1
+"528","HPA","cerebral cortex; glial cells[Supported,High]",1
+"529","HPA","cerebral cortex; glial cells[Supported,Low]",1
+"530","HPA","cerebral cortex; glial cells[Supported,Medium]",1
+"531","HPA","cerebral cortex; glial cells[Uncertain,High]",1
+"532","HPA","cerebral cortex; glial cells[Uncertain,Low]",1
+"533","HPA","cerebral cortex; glial cells[Uncertain,Medium]",1
+"534","HPA","cerebral cortex; neuronal cells[Supported,High]",1
+"535","HPA","cerebral cortex; neuronal cells[Supported,Low]",1
+"536","HPA","cerebral cortex; neuronal cells[Supported,Medium]",1
+"537","HPA","cerebral cortex; neuronal cells[Uncertain,High]",1
+"538","HPA","cerebral cortex; neuronal cells[Uncertain,Low]",1
+"539","HPA","cerebral cortex; neuronal cells[Uncertain,Medium]",1
+"540","HPA","cervix, uterine; glandular cells[Supported,High]",1
+"541","HPA","cervix, uterine; glandular cells[Supported,Low]",1
+"542","HPA","cervix, uterine; glandular cells[Supported,Medium]",1
+"543","HPA","cervix, uterine; glandular cells[Uncertain,High]",1
+"544","HPA","cervix, uterine; glandular cells[Uncertain,Low]",1
+"545","HPA","cervix, uterine; glandular cells[Uncertain,Medium]",1
+"546","HPA","cervix, uterine; squamous epithelial cells[Supported,High]",1
+"547","HPA","cervix, uterine; squamous epithelial cells[Supported,Low]",1
+"548","HPA","cervix, uterine; squamous epithelial cells[Supported,Medium]",1
+"549","HPA","cervix, uterine; squamous epithelial cells[Supported,Not detected]",1
+"550","HPA","cervix, uterine; squamous epithelial cells[Uncertain,High]",1
+"551","HPA","cervix, uterine; squamous epithelial cells[Uncertain,Low]",1
+"552","HPA","cervix, uterine; squamous epithelial cells[Uncertain,Medium]",1
+"553","HPA","colon; endothelial cells[Supported,High]",1
+"554","HPA","colon; endothelial cells[Supported,Low]",1
+"555","HPA","colon; endothelial cells[Supported,Medium]",1
+"556","HPA","colon; endothelial cells[Uncertain,Medium]",1
+"557","HPA","colon; glandular cells[Supported,High]",1
+"558","HPA","colon; glandular cells[Supported,Low]",1
+"559","HPA","colon; glandular cells[Supported,Medium]",1
+"560","HPA","colon; glandular cells[Uncertain,High]",1
+"561","HPA","colon; glandular cells[Uncertain,Low]",1
+"562","HPA","colon; glandular cells[Uncertain,Medium]",1
+"563","HPA","colon; peripheral nerve/ganglion[Supported,Low]",1
+"564","HPA","colon; peripheral nerve/ganglion[Supported,Medium]",1
+"565","HPA","colon; peripheral nerve/ganglion[Supported,Not detected]",1
+"566","HPA","colon; peripheral nerve/ganglion[Uncertain,Medium]",1
+"567","HPA","duodenum; glandular cells[Supported,High]",1
+"568","HPA","duodenum; glandular cells[Supported,Low]",1
+"569","HPA","duodenum; glandular cells[Supported,Medium]",1
+"570","HPA","duodenum; glandular cells[Uncertain,High]",1
+"571","HPA","duodenum; glandular cells[Uncertain,Low]",1
+"572","HPA","duodenum; glandular cells[Uncertain,Medium]",1
+"573","HPA","endometrium 1; cells in endometrial stroma[Supported,High]",1
+"574","HPA","endometrium 1; cells in endometrial stroma[Supported,Low]",1
+"575","HPA","endometrium 1; cells in endometrial stroma[Supported,Medium]",1
+"576","HPA","endometrium 1; cells in endometrial stroma[Uncertain,High]",1
+"577","HPA","endometrium 1; cells in endometrial stroma[Uncertain,Low]",1
+"578","HPA","endometrium 1; cells in endometrial stroma[Uncertain,Medium]",1
+"579","HPA","endometrium 1; glandular cells[Supported,High]",1
+"580","HPA","endometrium 1; glandular cells[Supported,Low]",1
+"581","HPA","endometrium 1; glandular cells[Supported,Medium]",1
+"582","HPA","endometrium 1; glandular cells[Uncertain,High]",1
+"583","HPA","endometrium 1; glandular cells[Uncertain,Low]",1
+"584","HPA","endometrium 1; glandular cells[Uncertain,Medium]",1
+"585","HPA","endometrium 2; cells in endometrial stroma[Supported,High]",1
+"586","HPA","endometrium 2; cells in endometrial stroma[Supported,Low]",1
+"587","HPA","endometrium 2; cells in endometrial stroma[Supported,Medium]",1
+"588","HPA","endometrium 2; cells in endometrial stroma[Uncertain,High]",1
+"589","HPA","endometrium 2; cells in endometrial stroma[Uncertain,Low]",1
+"590","HPA","endometrium 2; cells in endometrial stroma[Uncertain,Medium]",1
+"591","HPA","endometrium 2; glandular cells[Supported,High]",1
+"592","HPA","endometrium 2; glandular cells[Supported,Low]",1
+"593","HPA","endometrium 2; glandular cells[Supported,Medium]",1
+"594","HPA","endometrium 2; glandular cells[Uncertain,High]",1
+"595","HPA","endometrium 2; glandular cells[Uncertain,Low]",1
+"596","HPA","endometrium 2; glandular cells[Uncertain,Medium]",1
+"597","HPA","epididymis; glandular cells[Supported,High]",1
+"598","HPA","epididymis; glandular cells[Supported,Low]",1
+"599","HPA","epididymis; glandular cells[Supported,Medium]",1
+"600","HPA","epididymis; glandular cells[Uncertain,High]",1
+"601","HPA","epididymis; glandular cells[Uncertain,Low]",1
+"602","HPA","epididymis; glandular cells[Uncertain,Medium]",1
+"603","HPA","esophagus; squamous epithelial cells[Supported,High]",1
+"604","HPA","esophagus; squamous epithelial cells[Supported,Low]",1
+"605","HPA","esophagus; squamous epithelial cells[Supported,Medium]",1
+"606","HPA","esophagus; squamous epithelial cells[Uncertain,High]",1
+"607","HPA","esophagus; squamous epithelial cells[Uncertain,Low]",1
+"608","HPA","esophagus; squamous epithelial cells[Uncertain,Medium]",1
+"609","HPA","fallopian tube; glandular cells[Supported,High]",1
+"610","HPA","fallopian tube; glandular cells[Supported,Low]",1
+"611","HPA","fallopian tube; glandular cells[Supported,Medium]",1
+"612","HPA","fallopian tube; glandular cells[Uncertain,High]",1
+"613","HPA","fallopian tube; glandular cells[Uncertain,Low]",1
+"614","HPA","fallopian tube; glandular cells[Uncertain,Medium]",1
+"615","HPA","gallbladder; glandular cells[Supported,High]",1
+"616","HPA","gallbladder; glandular cells[Supported,Low]",1
+"617","HPA","gallbladder; glandular cells[Supported,Medium]",1
+"618","HPA","gallbladder; glandular cells[Uncertain,High]",1
+"619","HPA","gallbladder; glandular cells[Uncertain,Low]",1
+"620","HPA","gallbladder; glandular cells[Uncertain,Medium]",1
+"621","HPA","heart muscle; myocytes[Supported,High]",1
+"622","HPA","heart muscle; myocytes[Supported,Low]",1
+"623","HPA","heart muscle; myocytes[Supported,Medium]",1
+"624","HPA","heart muscle; myocytes[Uncertain,High]",1
+"625","HPA","heart muscle; myocytes[Uncertain,Low]",1
+"626","HPA","heart muscle; myocytes[Uncertain,Medium]",1
+"627","HPA","hippocampus; glial cells[Supported,High]",1
+"628","HPA","hippocampus; glial cells[Supported,Low]",1
+"629","HPA","hippocampus; glial cells[Supported,Medium]",1
+"630","HPA","hippocampus; glial cells[Uncertain,High]",1
+"631","HPA","hippocampus; glial cells[Uncertain,Low]",1
+"632","HPA","hippocampus; glial cells[Uncertain,Medium]",1
+"633","HPA","hippocampus; neuronal cells[Supported,High]",1
+"634","HPA","hippocampus; neuronal cells[Supported,Low]",1
+"635","HPA","hippocampus; neuronal cells[Supported,Medium]",1
+"636","HPA","hippocampus; neuronal cells[Uncertain,High]",1
+"637","HPA","hippocampus; neuronal cells[Uncertain,Low]",1
+"638","HPA","hippocampus; neuronal cells[Uncertain,Medium]",1
+"639","HPA","kidney; cells in glomeruli[Supported,High]",1
+"640","HPA","kidney; cells in glomeruli[Supported,Low]",1
+"641","HPA","kidney; cells in glomeruli[Supported,Medium]",1
+"642","HPA","kidney; cells in glomeruli[Uncertain,High]",1
+"643","HPA","kidney; cells in glomeruli[Uncertain,Low]",1
+"644","HPA","kidney; cells in glomeruli[Uncertain,Medium]",1
+"645","HPA","kidney; cells in tubules[Supported,High]",1
+"646","HPA","kidney; cells in tubules[Supported,Low]",1
+"647","HPA","kidney; cells in tubules[Supported,Medium]",1
+"648","HPA","kidney; cells in tubules[Uncertain,High]",1
+"649","HPA","kidney; cells in tubules[Uncertain,Low]",1
+"650","HPA","kidney; cells in tubules[Uncertain,Medium]",1
+"651","HPA","liver; bile duct cells[Supported,High]",1
+"652","HPA","liver; bile duct cells[Supported,Low]",1
+"653","HPA","liver; bile duct cells[Supported,Medium]",1
+"654","HPA","liver; bile duct cells[Uncertain,High]",1
+"655","HPA","liver; bile duct cells[Uncertain,Low]",1
+"656","HPA","liver; bile duct cells[Uncertain,Medium]",1
+"657","HPA","liver; hepatocytes[Supported,High]",1
+"658","HPA","liver; hepatocytes[Supported,Low]",1
+"659","HPA","liver; hepatocytes[Supported,Medium]",1
+"660","HPA","liver; hepatocytes[Uncertain,High]",1
+"661","HPA","liver; hepatocytes[Uncertain,Low]",1
+"662","HPA","liver; hepatocytes[Uncertain,Medium]",1
+"663","HPA","lung; macrophages[Supported,High]",1
+"664","HPA","lung; macrophages[Supported,Low]",1
+"665","HPA","lung; macrophages[Supported,Medium]",1
+"666","HPA","lung; macrophages[Uncertain,High]",1
+"667","HPA","lung; macrophages[Uncertain,Low]",1
+"668","HPA","lung; macrophages[Uncertain,Medium]",1
+"669","HPA","lung; pneumocytes[Supported,High]",1
+"670","HPA","lung; pneumocytes[Supported,Low]",1
+"671","HPA","lung; pneumocytes[Supported,Medium]",1
+"672","HPA","lung; pneumocytes[Uncertain,High]",1
+"673","HPA","lung; pneumocytes[Uncertain,Low]",1
+"674","HPA","lung; pneumocytes[Uncertain,Medium]",1
+"675","HPA","lymph node; germinal center cells[Supported,High]",1
+"676","HPA","lymph node; germinal center cells[Supported,Low]",1
+"677","HPA","lymph node; germinal center cells[Supported,Medium]",1
+"678","HPA","lymph node; germinal center cells[Uncertain,High]",1
+"679","HPA","lymph node; germinal center cells[Uncertain,Low]",1
+"680","HPA","lymph node; germinal center cells[Uncertain,Medium]",1
+"681","HPA","lymph node; non-germinal center cells[Supported,High]",1
+"682","HPA","lymph node; non-germinal center cells[Supported,Low]",1
+"683","HPA","lymph node; non-germinal center cells[Supported,Medium]",1
+"684","HPA","lymph node; non-germinal center cells[Uncertain,High]",1
+"685","HPA","lymph node; non-germinal center cells[Uncertain,Low]",1
+"686","HPA","lymph node; non-germinal center cells[Uncertain,Medium]",1
+"687","HPA","nasopharynx; respiratory epithelial cells[Supported,High]",1
+"688","HPA","nasopharynx; respiratory epithelial cells[Supported,Low]",1
+"689","HPA","nasopharynx; respiratory epithelial cells[Supported,Medium]",1
+"690","HPA","nasopharynx; respiratory epithelial cells[Uncertain,High]",1
+"691","HPA","nasopharynx; respiratory epithelial cells[Uncertain,Low]",1
+"692","HPA","nasopharynx; respiratory epithelial cells[Uncertain,Medium]",1
+"693","HPA","oral mucosa; squamous epithelial cells[Supported,High]",1
+"694","HPA","oral mucosa; squamous epithelial cells[Supported,Low]",1
+"695","HPA","oral mucosa; squamous epithelial cells[Supported,Medium]",1
+"696","HPA","oral mucosa; squamous epithelial cells[Uncertain,High]",1
+"697","HPA","oral mucosa; squamous epithelial cells[Uncertain,Medium]",1
+"698","HPA","ovary; follicle cells[Supported,High]",1
+"699","HPA","ovary; follicle cells[Supported,Low]",1
+"700","HPA","ovary; follicle cells[Supported,Medium]",1
+"701","HPA","ovary; follicle cells[Uncertain,High]",1
+"702","HPA","ovary; follicle cells[Uncertain,Low]",1
+"703","HPA","ovary; follicle cells[Uncertain,Medium]",1
+"704","HPA","ovary; ovarian stroma cells[Supported,High]",1
+"705","HPA","ovary; ovarian stroma cells[Supported,Low]",1
+"706","HPA","ovary; ovarian stroma cells[Supported,Medium]",1
+"707","HPA","ovary; ovarian stroma cells[Uncertain,High]",1
+"708","HPA","ovary; ovarian stroma cells[Uncertain,Low]",1
+"709","HPA","ovary; ovarian stroma cells[Uncertain,Medium]",1
+"710","HPA","pancreas; exocrine glandular cells[Supported,High]",1
+"711","HPA","pancreas; exocrine glandular cells[Supported,Low]",1
+"712","HPA","pancreas; exocrine glandular cells[Supported,Medium]",1
+"713","HPA","pancreas; exocrine glandular cells[Uncertain,High]",1
+"714","HPA","pancreas; exocrine glandular cells[Uncertain,Low]",1
+"715","HPA","pancreas; exocrine glandular cells[Uncertain,Medium]",1
+"716","HPA","pancreas; islets of Langerhans[Supported,High]",1
+"717","HPA","pancreas; islets of Langerhans[Supported,Low]",1
+"718","HPA","pancreas; islets of Langerhans[Supported,Medium]",1
+"719","HPA","pancreas; islets of Langerhans[Uncertain,High]",1
+"720","HPA","pancreas; islets of Langerhans[Uncertain,Low]",1
+"721","HPA","pancreas; islets of Langerhans[Uncertain,Medium]",1
+"722","HPA","parathyroid gland; glandular cells[Supported,High]",1
+"723","HPA","parathyroid gland; glandular cells[Supported,Low]",1
+"724","HPA","parathyroid gland; glandular cells[Supported,Medium]",1
+"725","HPA","parathyroid gland; glandular cells[Uncertain,High]",1
+"726","HPA","parathyroid gland; glandular cells[Uncertain,Low]",1
+"727","HPA","parathyroid gland; glandular cells[Uncertain,Medium]",1
+"728","HPA","placenta; decidual cells[Supported,High]",1
+"729","HPA","placenta; decidual cells[Supported,Low]",1
+"730","HPA","placenta; decidual cells[Supported,Medium]",1
+"731","HPA","placenta; decidual cells[Supported,Not detected]",1
+"732","HPA","placenta; decidual cells[Uncertain,High]",1
+"733","HPA","placenta; decidual cells[Uncertain,Low]",1
+"734","HPA","placenta; decidual cells[Uncertain,Medium]",1
+"735","HPA","placenta; trophoblastic cells[Supported,High]",1
+"736","HPA","placenta; trophoblastic cells[Supported,Low]",1
+"737","HPA","placenta; trophoblastic cells[Supported,Medium]",1
+"738","HPA","placenta; trophoblastic cells[Uncertain,High]",1
+"739","HPA","placenta; trophoblastic cells[Uncertain,Low]",1
+"740","HPA","placenta; trophoblastic cells[Uncertain,Medium]",1
+"741","HPA","prostate; glandular cells[Supported,High]",1
+"742","HPA","prostate; glandular cells[Supported,Low]",1
+"743","HPA","prostate; glandular cells[Supported,Medium]",1
+"744","HPA","prostate; glandular cells[Uncertain,High]",1
+"745","HPA","prostate; glandular cells[Uncertain,Low]",1
+"746","HPA","prostate; glandular cells[Uncertain,Medium]",1
+"747","HPA","rectum; glandular cells[Supported,High]",1
+"748","HPA","rectum; glandular cells[Supported,Low]",1
+"749","HPA","rectum; glandular cells[Supported,Medium]",1
+"750","HPA","rectum; glandular cells[Uncertain,High]",1
+"751","HPA","rectum; glandular cells[Uncertain,Low]",1
+"752","HPA","rectum; glandular cells[Uncertain,Medium]",1
+"753","HPA","retina",1
+"754","HPA","retina; cells in inner nuclear layer ",1
+"755","HPA","retina; cells in photoreceptor layer ",1
+"756","HPA","retina; ganglion cells ",1
+"757","HPA","retina; limiting membrane",1
+"758","HPA","retina; nerve fibers in inner plexiform layer",1
+"759","HPA","retina; nerve fibers in nerve fiber layer",1
+"760","HPA","retina; nerve fibers in outer plexiform layer ",1
+"761","HPA","salivary gland; glandular cells[Supported,High]",1
+"762","HPA","salivary gland; glandular cells[Supported,Low]",1
+"763","HPA","salivary gland; glandular cells[Supported,Medium]",1
+"764","HPA","salivary gland; glandular cells[Uncertain,High]",1
+"765","HPA","salivary gland; glandular cells[Uncertain,Low]",1
+"766","HPA","salivary gland; glandular cells[Uncertain,Medium]",1
+"767","HPA","seminal vesicle; glandular cells[Supported,High]",1
+"768","HPA","seminal vesicle; glandular cells[Supported,Low]",1
+"769","HPA","seminal vesicle; glandular cells[Supported,Medium]",1
+"770","HPA","seminal vesicle; glandular cells[Uncertain,High]",1
+"771","HPA","seminal vesicle; glandular cells[Uncertain,Low]",1
+"772","HPA","seminal vesicle; glandular cells[Uncertain,Medium]",1
+"773","HPA","skeletal muscle; myocytes[Supported,High]",1
+"774","HPA","skeletal muscle; myocytes[Supported,Low]",1
+"775","HPA","skeletal muscle; myocytes[Supported,Medium]",1
+"776","HPA","skeletal muscle; myocytes[Uncertain,High]",1
+"777","HPA","skeletal muscle; myocytes[Uncertain,Low]",1
+"778","HPA","skeletal muscle; myocytes[Uncertain,Medium]",1
+"779","HPA","skin 1; fibroblasts[Supported,High]",1
+"780","HPA","skin 1; fibroblasts[Supported,Low]",1
+"781","HPA","skin 1; fibroblasts[Supported,Medium]",1
+"782","HPA","skin 1; fibroblasts[Uncertain,High]",1
+"783","HPA","skin 1; fibroblasts[Uncertain,Low]",1
+"784","HPA","skin 1; fibroblasts[Uncertain,Medium]",1
+"785","HPA","skin 1; keratinocytes[Supported,High]",1
+"786","HPA","skin 1; keratinocytes[Supported,Low]",1
+"787","HPA","skin 1; keratinocytes[Supported,Medium]",1
+"788","HPA","skin 1; keratinocytes[Uncertain,High]",1
+"789","HPA","skin 1; keratinocytes[Uncertain,Low]",1
+"790","HPA","skin 1; Langerhans[Supported,High]",1
+"791","HPA","skin 1; Langerhans[Supported,Low]",1
+"792","HPA","skin 1; Langerhans[Supported,Medium]",1
+"793","HPA","skin 1; Langerhans[Uncertain,High]",1
+"794","HPA","skin 1; Langerhans[Uncertain,Low]",1
+"795","HPA","skin 1; Langerhans[Uncertain,Medium]",1
+"796","HPA","skin 1; melanocytes[Supported,High]",1
+"797","HPA","skin 1; melanocytes[Supported,Low]",1
+"798","HPA","skin 1; melanocytes[Supported,Medium]",1
+"799","HPA","skin 1; melanocytes[Uncertain,High]",1
+"800","HPA","skin 1; melanocytes[Uncertain,Low]",1
+"801","HPA","skin 1; melanocytes[Uncertain,Medium]",1
+"802","HPA","skin 2; epidermal cells[Supported,High]",1
+"803","HPA","skin 2; epidermal cells[Supported,Low]",1
+"804","HPA","skin 2; epidermal cells[Supported,Medium]",1
+"805","HPA","skin 2; epidermal cells[Uncertain,High]",1
+"806","HPA","skin 2; epidermal cells[Uncertain,Low]",1
+"807","HPA","skin 2; epidermal cells[Uncertain,Medium]",1
+"808","HPA","small intestine; glandular cells[Supported,High]",1
+"809","HPA","small intestine; glandular cells[Supported,Low]",1
+"810","HPA","small intestine; glandular cells[Supported,Medium]",1
+"811","HPA","small intestine; glandular cells[Uncertain,High]",1
+"812","HPA","small intestine; glandular cells[Uncertain,Low]",1
+"813","HPA","small intestine; glandular cells[Uncertain,Medium]",1
+"814","HPA","smooth muscle; smooth muscle cells[Supported,High]",1
+"815","HPA","smooth muscle; smooth muscle cells[Supported,Low]",1
+"816","HPA","smooth muscle; smooth muscle cells[Supported,Medium]",1
+"817","HPA","smooth muscle; smooth muscle cells[Uncertain,Low]",1
+"818","HPA","smooth muscle; smooth muscle cells[Uncertain,Medium]",1
+"819","HPA","soft tissue 1; adipocytes[Supported,High]",1
+"820","HPA","soft tissue 1; adipocytes[Supported,Low]",1
+"821","HPA","soft tissue 1; adipocytes[Supported,Medium]",1
+"822","HPA","soft tissue 1; adipocytes[Uncertain,High]",1
+"823","HPA","soft tissue 1; adipocytes[Uncertain,Low]",1
+"824","HPA","soft tissue 1; adipocytes[Uncertain,Medium]",1
+"825","HPA","soft tissue 1; chondrocytes[Supported,Low]",1
+"826","HPA","soft tissue 1; chondrocytes[Supported,Medium]",1
+"827","HPA","soft tissue 1; chondrocytes[Supported,Not detected]",1
+"828","HPA","soft tissue 1; chondrocytes[Uncertain,Low]",1
+"829","HPA","soft tissue 1; chondrocytes[Uncertain,Medium]",1
+"830","HPA","soft tissue 1; fibroblasts[Supported,High]",1
+"831","HPA","soft tissue 1; fibroblasts[Supported,Low]",1
+"832","HPA","soft tissue 1; fibroblasts[Supported,Medium]",1
+"833","HPA","soft tissue 1; fibroblasts[Uncertain,High]",1
+"834","HPA","soft tissue 1; fibroblasts[Uncertain,Low]",1
+"835","HPA","soft tissue 1; fibroblasts[Uncertain,Medium]",1
+"836","HPA","soft tissue 1; peripheral nerve[Supported,High]",1
+"837","HPA","soft tissue 1; peripheral nerve[Supported,Low]",1
+"838","HPA","soft tissue 1; peripheral nerve[Supported,Medium]",1
+"839","HPA","soft tissue 1; peripheral nerve[Uncertain,High]",1
+"840","HPA","soft tissue 1; peripheral nerve[Uncertain,Low]",1
+"841","HPA","soft tissue 1; peripheral nerve[Uncertain,Medium]",1
+"842","HPA","soft tissue 2; adipocytes[Supported,High]",1
+"843","HPA","soft tissue 2; adipocytes[Supported,Low]",1
+"844","HPA","soft tissue 2; adipocytes[Supported,Medium]",1
+"845","HPA","soft tissue 2; adipocytes[Uncertain,High]",1
+"846","HPA","soft tissue 2; adipocytes[Uncertain,Low]",1
+"847","HPA","soft tissue 2; adipocytes[Uncertain,Medium]",1
+"848","HPA","soft tissue 2; chondrocytes",1
+"849","HPA","soft tissue 2; chondrocytes[Supported,High]",1
+"850","HPA","soft tissue 2; chondrocytes[Supported,Low]",1
+"851","HPA","soft tissue 2; chondrocytes[Supported,Medium]",1
+"852","HPA","soft tissue 2; chondrocytes[Supported,Not detected]",1
+"853","HPA","soft tissue 2; chondrocytes[Uncertain,High]",1
+"854","HPA","soft tissue 2; chondrocytes[Uncertain,Low]",1
+"855","HPA","soft tissue 2; chondrocytes[Uncertain,Medium]",1
+"856","HPA","soft tissue 2; fibroblasts[Supported,High]",1
+"857","HPA","soft tissue 2; fibroblasts[Supported,Low]",1
+"858","HPA","soft tissue 2; fibroblasts[Supported,Medium]",1
+"859","HPA","soft tissue 2; fibroblasts[Uncertain,High]",1
+"860","HPA","soft tissue 2; fibroblasts[Uncertain,Low]",1
+"861","HPA","soft tissue 2; fibroblasts[Uncertain,Medium]",1
+"862","HPA","soft tissue 2; peripheral nerve",1
+"863","HPA","soft tissue 2; peripheral nerve[Supported,High]",1
+"864","HPA","soft tissue 2; peripheral nerve[Supported,Low]",1
+"865","HPA","soft tissue 2; peripheral nerve[Supported,Medium]",1
+"866","HPA","soft tissue 2; peripheral nerve[Uncertain,High]",1
+"867","HPA","soft tissue 2; peripheral nerve[Uncertain,Low]",1
+"868","HPA","soft tissue 2; peripheral nerve[Uncertain,Medium]",1
+"869","HPA","spleen; cells in red pulp[Supported,High]",1
+"870","HPA","spleen; cells in red pulp[Supported,Low]",1
+"871","HPA","spleen; cells in red pulp[Supported,Medium]",1
+"872","HPA","spleen; cells in red pulp[Uncertain,High]",1
+"873","HPA","spleen; cells in red pulp[Uncertain,Low]",1
+"874","HPA","spleen; cells in red pulp[Uncertain,Medium]",1
+"875","HPA","spleen; cells in white pulp[Supported,High]",1
+"876","HPA","spleen; cells in white pulp[Supported,Low]",1
+"877","HPA","spleen; cells in white pulp[Supported,Medium]",1
+"878","HPA","spleen; cells in white pulp[Uncertain,High]",1
+"879","HPA","spleen; cells in white pulp[Uncertain,Low]",1
+"880","HPA","spleen; cells in white pulp[Uncertain,Medium]",1
+"881","HPA","stomach 1; glandular cells[Approved,High]",1
+"882","HPA","stomach 1; glandular cells[Supported,High]",1
+"883","HPA","stomach 1; glandular cells[Supported,Low]",1
+"884","HPA","stomach 1; glandular cells[Supported,Medium]",1
+"885","HPA","stomach 1; glandular cells[Uncertain,High]",1
+"886","HPA","stomach 1; glandular cells[Uncertain,Low]",1
+"887","HPA","stomach 1; glandular cells[Uncertain,Medium]",1
+"888","HPA","stomach 2; glandular cells[Supported,High]",1
+"889","HPA","stomach 2; glandular cells[Supported,Low]",1
+"890","HPA","stomach 2; glandular cells[Supported,Medium]",1
+"891","HPA","stomach 2; glandular cells[Uncertain,High]",1
+"892","HPA","stomach 2; glandular cells[Uncertain,Low]",1
+"893","HPA","stomach 2; glandular cells[Uncertain,Medium]",1
+"894","HPA","testis; cells in seminiferous ducts[Supported,Low]",1
+"895","HPA","testis; cells in seminiferous ducts[Supported,Medium]",1
+"896","HPA","testis; cells in seminiferous ducts[Supported,Not detected]",1
+"897","HPA","testis; cells in seminiferous ducts[Uncertain,High]",1
+"898","HPA","testis; cells in seminiferous ducts[Uncertain,Low]",1
+"899","HPA","testis; cells in seminiferous ducts[Uncertain,Medium]",1
+"900","HPA","testis; elongated or late spermatids",1
+"901","HPA","testis; elongated or late spermatids[Supported,Not detected]",1
+"902","HPA","testis; Leydig cells[Supported,High]",1
+"903","HPA","testis; Leydig cells[Supported,Low]",1
+"904","HPA","testis; Leydig cells[Supported,Medium]",1
+"905","HPA","testis; Leydig cells[Uncertain,High]",1
+"906","HPA","testis; Leydig cells[Uncertain,Low]",1
+"907","HPA","testis; Leydig cells[Uncertain,Medium]",1
+"908","HPA","testis; pachytene spermatocytes",1
+"909","HPA","testis; pachytene spermatocytes[Supported,Low]",1
+"910","HPA","testis; pachytene spermatocytes[Supported,Not detected]",1
+"911","HPA","testis; pachytene spermatocytes[Uncertain,Low]",1
+"912","HPA","testis; peritubular cells",1
+"913","HPA","testis; peritubular cells[Supported,High]",1
+"914","HPA","testis; peritubular cells[Supported,Low]",1
+"915","HPA","testis; peritubular cells[Supported,Medium]",1
+"916","HPA","testis; peritubular cells[Supported,Not detected]",1
+"917","HPA","testis; peritubular cells[Uncertain,High]",1
+"918","HPA","testis; peritubular cells[Uncertain,Medium]",1
+"919","HPA","testis; preleptotene spermatocytes",1
+"920","HPA","testis; preleptotene spermatocytes[Supported,High]",1
+"921","HPA","testis; preleptotene spermatocytes[Supported,Low]",1
+"922","HPA","testis; preleptotene spermatocytes[Supported,Medium]",1
+"923","HPA","testis; preleptotene spermatocytes[Supported,Not detected]",1
+"924","HPA","testis; preleptotene spermatocytes[Uncertain,High]",1
+"925","HPA","testis; preleptotene spermatocytes[Uncertain,Low]",1
+"926","HPA","testis; preleptotene spermatocytes[Uncertain,Medium]",1
+"927","HPA","testis; round or early spermatids",1
+"928","HPA","testis; round or early spermatids[Supported,Not detected]",1
+"929","HPA","testis; sertoli cells",1
+"930","HPA","testis; sertoli cells[Supported,Medium]",1
+"931","HPA","testis; sertoli cells[Supported,Not detected]",1
+"932","HPA","testis; sertoli cells[Uncertain,Medium]",1
+"933","HPA","testis; spermatogonia",1
+"934","HPA","testis; spermatogonia[Supported,High]",1
+"935","HPA","testis; spermatogonia[Supported,Low]",1
+"936","HPA","testis; spermatogonia[Supported,Medium]",1
+"937","HPA","testis; spermatogonia[Supported,Not detected]",1
+"938","HPA","testis; spermatogonia[Uncertain,High]",1
+"939","HPA","testis; spermatogonia[Uncertain,Low]",1
+"940","HPA","testis; spermatogonia[Uncertain,Medium]",1
+"941","HPA","thymus",1
+"942","HPA","thymus; cortical cells",1
+"943","HPA","thymus; cortical cells[Supported,Low]",1
+"944","HPA","thymus; cortical cells[Supported,Medium]",1
+"945","HPA","thymus; cortical cells[Supported,Not detected]",1
+"946","HPA","thymus; cortical cells[Uncertain,Low]",1
+"947","HPA","thymus; cortical cells[Uncertain,Medium]",1
+"948","HPA","thymus; medullary cells",1
+"949","HPA","thymus; medullary cells[Supported,Low]",1
+"950","HPA","thymus; medullary cells[Supported,Medium]",1
+"951","HPA","thymus; medullary cells[Supported,Not detected]",1
+"952","HPA","thymus; medullary cells[Uncertain,Low]",1
+"953","HPA","thymus; medullary cells[Uncertain,Medium]",1
+"954","HPA","thyroid gland; glandular cells[Supported,High]",1
+"955","HPA","thyroid gland; glandular cells[Supported,Low]",1
+"956","HPA","thyroid gland; glandular cells[Supported,Medium]",1
+"957","HPA","thyroid gland; glandular cells[Uncertain,High]",1
+"958","HPA","thyroid gland; glandular cells[Uncertain,Low]",1
+"959","HPA","thyroid gland; glandular cells[Uncertain,Medium]",1
+"960","HPA","tonsil; germinal center cells[Supported,High]",1
+"961","HPA","tonsil; germinal center cells[Supported,Low]",1
+"962","HPA","tonsil; germinal center cells[Supported,Medium]",1
+"963","HPA","tonsil; germinal center cells[Uncertain,High]",1
+"964","HPA","tonsil; germinal center cells[Uncertain,Low]",1
+"965","HPA","tonsil; germinal center cells[Uncertain,Medium]",1
+"966","HPA","tonsil; non-germinal center cells[Supported,High]",1
+"967","HPA","tonsil; non-germinal center cells[Supported,Low]",1
+"968","HPA","tonsil; non-germinal center cells[Supported,Medium]",1
+"969","HPA","tonsil; non-germinal center cells[Uncertain,High]",1
+"970","HPA","tonsil; non-germinal center cells[Uncertain,Low]",1
+"971","HPA","tonsil; non-germinal center cells[Uncertain,Medium]",1
+"972","HPA","tonsil; squamous epithelial cells[Supported,High]",1
+"973","HPA","tonsil; squamous epithelial cells[Supported,Low]",1
+"974","HPA","tonsil; squamous epithelial cells[Supported,Medium]",1
+"975","HPA","tonsil; squamous epithelial cells[Uncertain,High]",1
+"976","HPA","tonsil; squamous epithelial cells[Uncertain,Low]",1
+"977","HPA","tonsil; squamous epithelial cells[Uncertain,Medium]",1
+"978","HPA","urinary bladder; urothelial cells[Supported,High]",1
+"979","HPA","urinary bladder; urothelial cells[Supported,Low]",1
+"980","HPA","urinary bladder; urothelial cells[Supported,Medium]",1
+"981","HPA","urinary bladder; urothelial cells[Uncertain,High]",1
+"982","HPA","urinary bladder; urothelial cells[Uncertain,Low]",1
+"983","HPA","urinary bladder; urothelial cells[Uncertain,Medium]",1
+"984","HPA","vagina; squamous epithelial cells[Supported,High]",1
+"985","HPA","vagina; squamous epithelial cells[Supported,Low]",1
+"986","HPA","vagina; squamous epithelial cells[Supported,Medium]",1
+"987","HPA","vagina; squamous epithelial cells[Uncertain,High]",1
+"988","HPA","vagina; squamous epithelial cells[Uncertain,Low]",1
+"989","HPA","vagina; squamous epithelial cells[Uncertain,Medium]",1
+"990","KEGG","Herpes simplex virus 1 infection",2
+"991","KEGG","Alcoholism",1
+"992","KEGG","Bile secretion",1
+"993","KEGG","Cell cycle",1
+"994","KEGG","Complement and coagulation cascades",1
+"995","KEGG","Mismatch repair",1
+"996","KEGG","Necroptosis",1
+"997","KEGG","Pancreatic secretion",1
+"998","KEGG","Pertussis",1
+"999","KEGG","Ribosome",1
+"1000","KEGG","Staphylococcus aureus infection",1
+"1001","KEGG","Systemic lupus erythematosus",1
+"1002","KEGG","Viral carcinogenesis",1
+"1003","MIRNA","hsa-miR-484",2
+"1004","MIRNA","hsa-miR-1276",1
+"1005","MIRNA","hsa-miR-1293",1
+"1006","MIRNA","hsa-miR-146a-3p",1
+"1007","MIRNA","hsa-miR-16-5p",1
+"1008","MIRNA","hsa-miR-324-5p",1
+"1009","MIRNA","hsa-miR-335-5p",1
+"1010","MIRNA","hsa-miR-34a-5p",1
+"1011","MIRNA","hsa-miR-363-5p",1
+"1012","MIRNA","hsa-miR-3940-5p",1
+"1013","MIRNA","hsa-miR-4483",1
+"1014","MIRNA","hsa-miR-4507",1
+"1015","MIRNA","hsa-miR-4766-5p",1
+"1016","MIRNA","hsa-miR-5693",1
+"1017","MIRNA","hsa-miR-615-3p",1
+"1018","MIRNA","hsa-miR-629-5p",1
+"1019","MIRNA","hsa-miR-652-3p",1
+"1020","MIRNA","hsa-miR-6745",1
+"1021","MIRNA","hsa-miR-6756-5p",1
+"1022","MIRNA","hsa-miR-6766-5p",1
+"1023","MIRNA","hsa-miR-6822-3p",1
+"1024","MIRNA","hsa-miR-6839-3p",1
+"1025","MIRNA","hsa-miR-760",1
+"1026","MIRNA","hsa-miR-8057",1
+"1027","MIRNA","hsa-miR-98-5p",1
+"1028","REAC","Gene expression (Transcription)",2
+"1029","REAC","Generic Transcription Pathway",2
+"1030","REAC","Metabolism of proteins",2
+"1031","REAC","RNA Polymerase II Transcription",2
+"1032","REAC","Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3",1
+"1033","REAC","Activation of anterior HOX genes in hindbrain development during early embryogenesis",1
+"1034","REAC","Activation of HOX genes during differentiation",1
+"1035","REAC","Amyloid fiber formation",1
+"1036","REAC","Apoptosis induced DNA fragmentation",1
+"1037","REAC","Apoptotic execution phase",1
+"1038","REAC","B-WICH complex positively regulates rRNA expression",1
+"1039","REAC","Cell Cycle",1
+"1040","REAC","Cell Cycle Checkpoints",1
+"1041","REAC","Cell Cycle, Mitotic",1
+"1042","REAC","Cellular responses to external stimuli",1
+"1043","REAC","Cellular responses to stress",1
+"1044","REAC","Cellular Senescence",1
+"1045","REAC","Chromatin modifying enzymes",1
+"1046","REAC","Chromatin organization",1
+"1047","REAC","Chromosome Maintenance",1
+"1048","REAC","Cilium Assembly",1
+"1049","REAC","Complement cascade",1
+"1050","REAC","Condensation of Prophase Chromosomes",1
+"1051","REAC","Defective CSF2RA causes pulmonary surfactant metabolism dysfunction 4 (SMDP4)",1
+"1052","REAC","Defective CSF2RB causes pulmonary surfactant metabolism dysfunction 5 (SMDP5)",1
+"1053","REAC","Deposition of new CENPA-containing nucleosomes at the centromere",1
+"1054","REAC","Deubiquitination",1
+"1055","REAC","Developmental Biology",1
+"1056","REAC","Diseases associated with surfactant metabolism",1
+"1057","REAC","Diseases of metabolism",1
+"1058","REAC","DNA Damage/Telomere Stress Induced Senescence",1
+"1059","REAC","DNA Double-Strand Break Repair",1
+"1060","REAC","DNA Double Strand Break Response",1
+"1061","REAC","DNA methylation",1
+"1062","REAC","DNA Repair",1
+"1063","REAC","E3 ubiquitin ligases ubiquitinate target proteins",1
+"1064","REAC","Epigenetic regulation of gene expression",1
+"1065","REAC","ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression",1
+"1066","REAC","Erythrocytes take up oxygen and release carbon dioxide",1
+"1067","REAC","ESR-mediated signaling",1
+"1068","REAC","Estrogen-dependent gene expression",1
+"1069","REAC","Formation of Senescence-Associated Heterochromatin Foci (SAHF)",1
+"1070","REAC","Formation of the beta-catenin:TCF transactivating complex",1
+"1071","REAC","G2/M Checkpoints",1
+"1072","REAC","G2/M DNA damage checkpoint",1
+"1073","REAC","Gene Silencing by RNA",1
+"1074","REAC","HATs acetylate histones",1
+"1075","REAC","HDACs deacetylate histones",1
+"1076","REAC","HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)",1
+"1077","REAC","Homology Directed Repair",1
+"1078","REAC","Innate Immune System",1
+"1079","REAC","M Phase",1
+"1080","REAC","Meiosis",1
+"1081","REAC","Meiotic recombination",1
+"1082","REAC","Meiotic synapsis",1
+"1083","REAC","Metabolism of RNA",1
+"1084","REAC","Metalloprotease DUBs",1
+"1085","REAC","Mismatch Repair",1
+"1086","REAC","Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)",1
+"1087","REAC","Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)",1
+"1088","REAC","Mitochondrial translation",1
+"1089","REAC","Mitochondrial translation elongation",1
+"1090","REAC","Mitochondrial translation initiation",1
+"1091","REAC","Mitochondrial translation termination",1
+"1092","REAC","Mitotic Prophase",1
+"1093","REAC","Negative epigenetic regulation of rRNA expression",1
+"1094","REAC","Nonhomologous End-Joining (NHEJ)",1
+"1095","REAC","NoRC negatively regulates rRNA expression",1
+"1096","REAC","Nucleosome assembly",1
+"1097","REAC","Organelle biogenesis and maintenance",1
+"1098","REAC","Oxidative Stress Induced Senescence",1
+"1099","REAC","Packaging Of Telomere Ends",1
+"1100","REAC","Platelet degranulation ",1
+"1101","REAC","POLB-Dependent Long Patch Base Excision Repair",1
+"1102","REAC","Positive epigenetic regulation of rRNA expression",1
+"1103","REAC","Post-translational protein modification",1
+"1104","REAC","Post-translational protein phosphorylation",1
+"1105","REAC","PRC2 methylates histones and DNA",1
+"1106","REAC","Pre-NOTCH Expression and Processing",1
+"1107","REAC","Pre-NOTCH Transcription and Translation",1
+"1108","REAC","Processing of DNA double-strand break ends",1
+"1109","REAC","Protein ubiquitination",1
+"1110","REAC","Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",1
+"1111","REAC","Regulation of Complement cascade",1
+"1112","REAC","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",1
+"1113","REAC","Regulation of TLR by endogenous ligand",1
+"1114","REAC","Reproduction",1
+"1115","REAC","Respiratory electron transport",1
+"1116","REAC","Response to elevated platelet cytosolic Ca2+",1
+"1117","REAC","RHO GTPase Effectors",1
+"1118","REAC","RHO GTPases activate PKNs",1
+"1119","REAC","RMTs methylate histone arginines",1
+"1120","REAC","RNA Polymerase I Promoter Clearance",1
+"1121","REAC","RNA Polymerase I Promoter Opening",1
+"1122","REAC","RNA Polymerase I Transcription",1
+"1123","REAC","RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function",1
+"1124","REAC","RUNX1 regulates transcription of genes involved in differentiation of HSCs",1
+"1125","REAC","Senescence-Associated Secretory Phenotype (SASP)",1
+"1126","REAC","Signal Transduction",1
+"1127","REAC","Signaling by FGFR2 in disease",1
+"1128","REAC","Signaling by NOTCH",1
+"1129","REAC","Signaling by Nuclear Receptors",1
+"1130","REAC","Signaling by Rho GTPases",1
+"1131","REAC","Signaling by WNT",1
+"1132","REAC","SIRT1 negatively regulates rRNA expression",1
+"1133","REAC","Surfactant metabolism",1
+"1134","REAC","TCF dependent signaling in response to WNT",1
+"1135","REAC","Telomere Maintenance",1
+"1136","REAC","Terminal pathway of complement",1
+"1137","REAC","Transcriptional regulation by RUNX1",1
+"1138","REAC","Transcriptional regulation by small RNAs",1
+"1139","REAC","Translation",1
+"1140","REAC","Ub-specific processing proteases",1
+"1141","REAC","UCH proteinases",1
+"1142","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1",7
+"1143","TF","Factor: ESE-1; motif: NSMGGAARTN",7
+"1144","TF","Factor: ESE-1; motif: NSMGGAARTN; match class: 0",7
+"1145","TF","Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM; match class: 1",6
+"1146","TF","Factor: E2F; motif: GGCGSG",6
+"1147","TF","Factor: E2F; motif: GGCGSG; match class: 0",6
+"1148","TF","Factor: p300; motif: ACNTCCG; match class: 1",6
+"1149","TF","Factor: PEA3; motif: RCCGGAAGYN",6
+"1150","TF","Factor: PEA3; motif: RCCGGAAGYN; match class: 0",6
+"1151","TF","Factor: ZF5; motif: GSGCGCGR; match class: 1",6
+"1152","TF","Factor: c-Ets-2; motif: NCCGGAAGTG",5
+"1153","TF","Factor: c-Ets-2; motif: NCCGGAAGTG; match class: 0",5
+"1154","TF","Factor: Elf-1; motif: ACTTCCGGG",5
+"1155","TF","Factor: Elf-1; motif: ACTTCCGGG; match class: 0",5
+"1156","TF","Factor: Elk-1; motif: NNNNCCGGAARTNN; match class: 1",5
+"1157","TF","Factor: ER81; motif: RCCGGAARYN; match class: 1",5
+"1158","TF","Factor: ETF; motif: GVGGMGG",5
+"1159","TF","Factor: ETF; motif: GVGGMGG; match class: 0",5
+"1160","TF","Factor: nerf; motif: NRRNSCGGAAGNRNNNN",5
+"1161","TF","Factor: nerf; motif: NRRNSCGGAAGNRNNNN; match class: 0",5
+"1162","TF","Factor: ELF1; motif: AACCCGGAAGTR",4
+"1163","TF","Factor: ELF1; motif: AACCCGGAAGTR; match class: 0",4
+"1164","TF","Factor: ERG; motif: ACCGGAART; match class: 1",4
+"1165","TF","Factor: Erm; motif: ACCGGAAGTN",4
+"1166","TF","Factor: Erm; motif: ACCGGAAGTN; match class: 0",4
+"1167","TF","Factor: ETF; motif: GVGGMGG; match class: 1",4
+"1168","TF","Factor: ETS1; motif: ACCGGAARYN; match class: 1",4
+"1169","TF","Factor: ETV7; motif: NCCGGAANNN; match class: 1",4
+"1170","TF","Factor: Fli-1; motif: ACCGGAAGYN",4
+"1171","TF","Factor: Fli-1; motif: ACCGGAAGYN; match class: 0",4
+"1172","TF","Factor: FLI1; motif: ACCGGAARTN",4
+"1173","TF","Factor: FLI1; motif: ACCGGAARTN; match class: 0",4
+"1174","TF","Factor: GABP-alpha; motif: CTTCCK; match class: 1",4
+"1175","TF","Factor: GABP; motif: CACTTCCGGNNN",4
+"1176","TF","Factor: GABP; motif: CACTTCCGGNNN; match class: 0",4
+"1177","TF","Factor: NRF-1; motif: YGCGCMTGCGC",4
+"1178","TF","Factor: NRF-1; motif: YGCGCMTGCGC; match class: 0",4
+"1179","TF","Factor: ZF5; motif: GSGCGCGR",4
+"1180","TF","Factor: ZF5; motif: GSGCGCGR; match class: 0",4
+"1181","TF","Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1",4
+"1182","TF","Factor: c-ets-1; motif: ACCGGAWGTN",3
+"1183","TF","Factor: c-ets-1; motif: ACCGGAWGTN; match class: 0",3
+"1184","TF","Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN",3
+"1185","TF","Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN; match class: 0",3
+"1186","TF","Factor: c-Ets-2; motif: NCCGGAAGTG; match class: 1",3
+"1187","TF","Factor: Churchill; motif: CGGGNN; match class: 1",3
+"1188","TF","Factor: CREB,; motif: NTGACGTNA",3
+"1189","TF","Factor: CREB,; motif: NTGACGTNA; match class: 0",3
+"1190","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT",3
+"1191","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 0",3
+"1192","TF","Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 1",3
+"1193","TF","Factor: E2F-1; motif: NGGGCGGGARV",3
+"1194","TF","Factor: E2F-1; motif: NGGGCGGGARV; match class: 0",3
+"1195","TF","Factor: E2F-1; motif: NGGGCGGGARV; match class: 1",3
+"1196","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1",3
+"1197","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN",3
+"1198","TF","Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 0",3
+"1199","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT",3
+"1200","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT; match class: 0",3
+"1201","TF","Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT; match class: 1",3
+"1202","TF","Factor: E2F-3; motif: GGCGGGN",3
+"1203","TF","Factor: E2F-3; motif: GGCGGGN; match class: 0",3
+"1204","TF","Factor: E2F-4; motif: NNTTCCCGCCNN",3
+"1205","TF","Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 0",3
+"1206","TF","Factor: E2F-4; motif: NTTTCSCGCC",3
+"1207","TF","Factor: E2F-4; motif: NTTTCSCGCC; match class: 0",3
+"1208","TF","Factor: E2F; motif: GGCGSG; match class: 1",3
+"1209","TF","Factor: E2F; motif: TTTCGCGC",3
+"1210","TF","Factor: E2F; motif: TTTCGCGC; match class: 0",3
+"1211","TF","Factor: E2F; motif: TTTCGCGC; match class: 1",3
+"1212","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 1",3
+"1213","TF","Factor: EHF; motif: CSCGGAARTN",3
+"1214","TF","Factor: EHF; motif: CSCGGAARTN; match class: 0",3
+"1215","TF","Factor: Elf-1; motif: ACTTCCGGG; match class: 1",3
+"1216","TF","Factor: ELF1; motif: NCCGGAARTN",3
+"1217","TF","Factor: ELF1; motif: NCCGGAARTN; match class: 0",3
+"1218","TF","Factor: ELF2; motif: CCCGGAARYN",3
+"1219","TF","Factor: ELF2; motif: CCCGGAARYN; match class: 0",3
+"1220","TF","Factor: ELK-1; motif: ACCGGAAGTN; match class: 1",3
+"1221","TF","Factor: Elk-1; motif: NNNNCCGGAARTNN",3
+"1222","TF","Factor: Elk-1; motif: NNNNCCGGAARTNN; match class: 0",3
+"1223","TF","Factor: ER81; motif: RCCGGAARYN",3
+"1224","TF","Factor: ER81; motif: RCCGGAARYN; match class: 0",3
+"1225","TF","Factor: Erg; motif: ACCGGAAGTN",3
+"1226","TF","Factor: Erg; motif: ACCGGAAGTN; match class: 0",3
+"1227","TF","Factor: ERG; motif: ACCGGAART",3
+"1228","TF","Factor: ERG; motif: ACCGGAART; match class: 0",3
+"1229","TF","Factor: ERG; motif: ACCGGAARTN; match class: 1",3
+"1230","TF","Factor: ETV4; motif: ACCGGAAGTN",3
+"1231","TF","Factor: ETV4; motif: ACCGGAAGTN; match class: 0",3
+"1232","TF","Factor: ETV7; motif: NCCGGAANNN",3
+"1233","TF","Factor: ETV7; motif: NCCGGAANNN; match class: 0",3
+"1234","TF","Factor: FLI-1; motif: NAYTTCCGGT; match class: 1",3
+"1235","TF","Factor: GABP-alpha; motif: CACTTCCGG",3
+"1236","TF","Factor: GABP-alpha; motif: CACTTCCGG; match class: 0",3
+"1237","TF","Factor: GABP-alpha; motif: CTTCCK",3
+"1238","TF","Factor: GABP-alpha; motif: CTTCCK; match class: 0",3
+"1239","TF","Factor: GABPA; motif: ACCGGAAGTN",3
+"1240","TF","Factor: GABPA; motif: ACCGGAAGTN; match class: 0",3
+"1241","TF","Factor: NRF-1; motif: GCGCMTGCGCN",3
+"1242","TF","Factor: NRF-1; motif: GCGCMTGCGCN; match class: 0",3
+"1243","TF","Factor: Pax-5; motif: RRMSWGANWYCTNRAGCGKRACSRYNSM; match class: 1",3
+"1244","TF","Factor: Pet-1; motif: ACCGGAWRTN",3
+"1245","TF","Factor: Pet-1; motif: ACCGGAWRTN; match class: 0",3
+"1246","TF","Factor: TEL1; motif: CNCGGAANNN",3
+"1247","TF","Factor: TEL1; motif: CNCGGAANNN; match class: 0",3
+"1248","TF","Factor: YY1; motif: NNCGCCATTNN",3
+"1249","TF","Factor: YY1; motif: NNCGCCATTNN; match class: 0",3
+"1250","TF","Factor: YY2; motif: NCCGCCATNTY",3
+"1251","TF","Factor: YY2; motif: NCCGCCATNTY; match class: 0",3
+"1252","TF","Factor: ZF5; motif: NRNGNGCGCGCWN",3
+"1253","TF","Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 0",3
+"1254","TF","Factor: AP-2; motif: MKCCCSCNGGCG",2
+"1255","TF","Factor: AP-2; motif: MKCCCSCNGGCG; match class: 0",2
+"1256","TF","Factor: AP-2; motif: MKCCCSCNGGCG; match class: 1",2
+"1257","TF","Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 1",2
+"1258","TF","Factor: ATF-2; motif: TTACGTAA; match class: 1",2
+"1259","TF","Factor: c-ets-1; motif: ACCGGAWGTN; match class: 1",2
+"1260","TF","Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN; match class: 1",2
+"1261","TF","Factor: c-ets-2; motif: ACCGGAWRTN; match class: 1",2
+"1262","TF","Factor: CHD2; motif: TCTCGCGAG",2
+"1263","TF","Factor: CHD2; motif: TCTCGCGAG; match class: 0",2
+"1264","TF","Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM",2
+"1265","TF","Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM; match class: 0",2
+"1266","TF","Factor: E2F-1:TBR2; motif: NGGTGNNANGGCGCNNTNNCRNNN; match class: 1",2
+"1267","TF","Factor: E2F-1; motif: NKTSSCGC",2
+"1268","TF","Factor: E2F-1; motif: NKTSSCGC; match class: 0",2
+"1269","TF","Factor: E2F-1; motif: NNNSSCGCSAANN",2
+"1270","TF","Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 0",2
+"1271","TF","Factor: E2F-1; motif: NTTTCGCGCS",2
+"1272","TF","Factor: E2F-1; motif: NTTTCGCGCS; match class: 0",2
+"1273","TF","Factor: E2F-1; motif: WWTGGCGCCAAA",2
+"1274","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 0",2
+"1275","TF","Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 1",2
+"1276","TF","Factor: E2F-4; motif: NTTTCSCGCC; match class: 1",2
+"1277","TF","Factor: E2F; motif: TTTSGCGSG; match class: 1",2
+"1278","TF","Factor: EHF; motif: CSCGGAARTN; match class: 1",2
+"1279","TF","Factor: Elf-1; motif: AWCCCGGAAGTN",2
+"1280","TF","Factor: Elf-1; motif: AWCCCGGAAGTN; match class: 0",2
+"1281","TF","Factor: Elf-1; motif: NAANCMGGAAGTGN",2
+"1282","TF","Factor: Elf-1; motif: NAANCMGGAAGTGN; match class: 0",2
+"1283","TF","Factor: ELF1; motif: NCCGGAARTN; match class: 1",2
+"1284","TF","Factor: ELF4; motif: NCCGGAARTN",2
+"1285","TF","Factor: ELF4; motif: NCCGGAARTN; match class: 0",2
+"1286","TF","Factor: ELF4; motif: NCCGGAARTN; match class: 1",2
+"1287","TF","Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG; match class: 1",2
+"1288","TF","Factor: ELK-1; motif: ACCGGAAGTN",2
+"1289","TF","Factor: ELK-1; motif: ACCGGAAGTN; match class: 0",2
+"1290","TF","Factor: ELK1; motif: ACCGGAAGTN",2
+"1291","TF","Factor: ELK1; motif: ACCGGAAGTN; match class: 0",2
+"1292","TF","Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG",2
+"1293","TF","Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG; match class: 0",2
+"1294","TF","Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG; match class: 1",2
+"1295","TF","Factor: ER71; motif: ACCGGAARYN",2
+"1296","TF","Factor: ER71; motif: ACCGGAARYN; match class: 0",2
+"1297","TF","Factor: ER71; motif: ACCGGAARYN; match class: 1",2
+"1298","TF","Factor: ER81; motif: NNNGRCMGGAAGYRNNNNNNNS",2
+"1299","TF","Factor: ER81; motif: NNNGRCMGGAAGYRNNNNNNNS; match class: 0",2
+"1300","TF","Factor: Erg; motif: ACCGGAAGTN; match class: 1",2
+"1301","TF","Factor: Erm; motif: ACCGGAAGTN; match class: 1",2
+"1302","TF","Factor: ESE-1; motif: NSMGGAARTN; match class: 1",2
+"1303","TF","Factor: ETV5; motif: NCCGGAWGYN",2
+"1304","TF","Factor: ETV5; motif: NCCGGAWGYN; match class: 0",2
+"1305","TF","Factor: ETV7; motif: NNSCGGAAGTR",2
+"1306","TF","Factor: ETV7; motif: NNSCGGAAGTR; match class: 0",2
+"1307","TF","Factor: FLI-1; motif: NAYTTCCGGT",2
+"1308","TF","Factor: FLI-1; motif: NAYTTCCGGT; match class: 0",2
+"1309","TF","Factor: FLI1; motif: ACCGGAARTN; match class: 1",2
+"1310","TF","Factor: GABP-ALPHA; motif: RCCGGAARTNN",2
+"1311","TF","Factor: GABP-ALPHA; motif: RCCGGAARTNN; match class: 0",2
+"1312","TF","Factor: GABPalpha; motif: RCCGGAWRYN",2
+"1313","TF","Factor: GABPalpha; motif: RCCGGAWRYN; match class: 0",2
+"1314","TF","Factor: Kaiso; motif: TCTCGCGAG",2
+"1315","TF","Factor: Kaiso; motif: TCTCGCGAG; match class: 0",2
+"1316","TF","Factor: Lhx8; motif: TGATTG; match class: 1",2
+"1317","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 1",2
+"1318","TF","Factor: NRF-1; motif: CNCTGCGCATGCGC",2
+"1319","TF","Factor: NRF-1; motif: CNCTGCGCATGCGC; match class: 0",2
+"1320","TF","Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN",2
+"1321","TF","Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN; match class: 0",2
+"1322","TF","Factor: NRF-1; motif: YGCGCATGCGCN; match class: 1",2
+"1323","TF","Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN; match class: 1",2
+"1324","TF","Factor: RNF96; motif: BCCCGCRGCC; match class: 1",2
+"1325","TF","Factor: SAP-1; motif: ACCGGAAGTNN",2
+"1326","TF","Factor: SAP-1; motif: ACCGGAAGTNN; match class: 0",2
+"1327","TF","Factor: Sp1; motif: GGGGCGGGGT",2
+"1328","TF","Factor: Sp1; motif: GGGGCGGGGT; match class: 0",2
+"1329","TF","Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1",2
+"1330","TF","Factor: TEF-3:ER81; motif: ACCGGAAATRCC",2
+"1331","TF","Factor: TEF-3:ER81; motif: ACCGGAAATRCC; match class: 0",2
+"1332","TF","Factor: TEL1; motif: CNCGGAANNN; match class: 1",2
+"1333","TF","Factor: TFAP2A; motif: NGCCCYNNGGGCN",2
+"1334","TF","Factor: TFAP2A; motif: NGCCCYNNGGGCN; match class: 0",2
+"1335","TF","Factor: WT1; motif: CGCCCCCNCN",2
+"1336","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 0",2
+"1337","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN",1
+"1338","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 0",1
+"1339","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 1",1
+"1340","TF","Factor: AP-2; motif: SNNNCCNCAGGCN",1
+"1341","TF","Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 0",1
+"1342","TF","Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 1",1
+"1343","TF","Factor: AP-2alpha; motif: NSCCNCRGGSN",1
+"1344","TF","Factor: AP-2alpha; motif: NSCCNCRGGSN; match class: 0",1
+"1345","TF","Factor: AP-2alphaA; motif: ANMGCCTNAGGCKNT",1
+"1346","TF","Factor: AP-2alphaA; motif: ANMGCCTNAGGCKNT; match class: 0",1
+"1347","TF","Factor: AP-2alphaA; motif: ANMGCCTNAGGCKNT; match class: 1",1
+"1348","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN",1
+"1349","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 0",1
+"1350","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 1",1
+"1351","TF","Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG",1
+"1352","TF","Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 0",1
+"1353","TF","Factor: AP-2gamma:Max; motif: NNSCCYNRGGSNNNNCACGTGN; match class: 1",1
+"1354","TF","Factor: AP-2gamma; motif: GCCYNCRGSN; match class: 1",1
+"1355","TF","Factor: AP-2gamma; motif: GCCYNNGGS",1
+"1356","TF","Factor: AP-2gamma; motif: GCCYNNGGS; match class: 0",1
+"1357","TF","Factor: AP2; motif: GCCYGSGGSN",1
+"1358","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 0",1
+"1359","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 1",1
+"1360","TF","Factor: APA1; motif: NGTTKCTAAACY",1
+"1361","TF","Factor: APA1; motif: NGTTKCTAAACY; match class: 0",1
+"1362","TF","Factor: AR; motif: GGNACRNNRTGTWCT; match class: 1",1
+"1363","TF","Factor: AR; motif: GGTACANNRTGTTCT",1
+"1364","TF","Factor: AR; motif: GGTACANNRTGTTCT; match class: 0",1
+"1365","TF","Factor: AR; motif: GGTACANNRTGTTCT; match class: 1",1
+"1366","TF","Factor: AR; motif: NGNACANNNTGTTCYNN",1
+"1367","TF","Factor: AR; motif: NGNACANNNTGTTCYNN; match class: 0",1
+"1368","TF","Factor: AR; motif: RGGWACAYNGTGTWCYN; match class: 1",1
+"1369","TF","Factor: ATF-1; motif: CYYTGACGTCA",1
+"1370","TF","Factor: ATF-1; motif: CYYTGACGTCA; match class: 0",1
+"1371","TF","Factor: ATF-2; motif: TTACGTAA",1
+"1372","TF","Factor: ATF-2; motif: TTACGTAA; match class: 0",1
+"1373","TF","Factor: ATF-3; motif: GGCGCSSNSNGRTSACGTSA",1
+"1374","TF","Factor: ATF-3; motif: GGCGCSSNSNGRTSACGTSA; match class: 0",1
+"1375","TF","Factor: BEN; motif: CAGCGRNV; match class: 1",1
+"1376","TF","Factor: c-Ets-1(p54); motif: NCMGGAWGYN",1
+"1377","TF","Factor: c-Ets-1(p54); motif: NCMGGAWGYN; match class: 0",1
+"1378","TF","Factor: CDX-2; motif: TTTATN",1
+"1379","TF","Factor: CDX-2; motif: TTTATN; match class: 0",1
+"1380","TF","Factor: CDX-2; motif: TTTATN; match class: 1",1
+"1381","TF","Factor: CHD2; motif: TCTCGCGAG; match class: 1",1
+"1382","TF","Factor: CNOT3; motif: GGCCGCGSSS",1
+"1383","TF","Factor: CNOT3; motif: GGCCGCGSSS; match class: 0",1
+"1384","TF","Factor: CPBP; motif: NGGGCGG",1
+"1385","TF","Factor: CPBP; motif: NGGGCGG; match class: 0",1
+"1386","TF","Factor: CREB,; motif: NTGACGTNA; match class: 1",1
+"1387","TF","Factor: CREB; motif: CNNTGACGTMA; match class: 1",1
+"1388","TF","Factor: CREB; motif: NNGNTGACGTNN",1
+"1389","TF","Factor: CREB; motif: NNGNTGACGTNN; match class: 0",1
+"1390","TF","Factor: CREB; motif: NNGNTGACGTNN; match class: 1",1
+"1391","TF","Factor: CREB; motif: NNTKACGTCANNNS; match class: 1",1
+"1392","TF","Factor: CREB; motif: TGACGTMA; match class: 1",1
+"1393","TF","Factor: CREB1; motif: NNNNTGACGTNANNN; match class: 1",1
+"1394","TF","Factor: CREB1; motif: TKACGTCAYNN",1
+"1395","TF","Factor: CREB1; motif: TKACGTCAYNN; match class: 0",1
+"1396","TF","Factor: CREM; motif: TGACGTCASYN",1
+"1397","TF","Factor: CREM; motif: TGACGTCASYN; match class: 0",1
+"1398","TF","Factor: CSX; motif: TSYCACTTSM; match class: 1",1
+"1399","TF","Factor: DBP; motif: TTRCATAANN",1
+"1400","TF","Factor: DBP; motif: TTRCATAANN; match class: 0",1
+"1401","TF","Factor: DEAF1; motif: NCGNNYTCGGGNRTTTCCGDARNNN",1
+"1402","TF","Factor: DEAF1; motif: NCGNNYTCGGGNRTTTCCGDARNNN; match class: 0",1
+"1403","TF","Factor: DEC2; motif: SNTCACGTGS; match class: 1",1
+"1404","TF","Factor: deltaEF1; motif: NNNCACCTNAN",1
+"1405","TF","Factor: deltaEF1; motif: NNNCACCTNAN; match class: 0",1
+"1406","TF","Factor: E2F-1:DP-2; motif: TTTSSCGC; match class: 1",1
+"1407","TF","Factor: E2F-1:TBR2; motif: NGGTGNNANGGCGCNNTNNCRNNN",1
+"1408","TF","Factor: E2F-1:TBR2; motif: NGGTGNNANGGCGCNNTNNCRNNN; match class: 0",1
+"1409","TF","Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 1",1
+"1410","TF","Factor: E2F-1; motif: TTGGCGCGRAANNGNM",1
+"1411","TF","Factor: E2F-1; motif: TTGGCGCGRAANNGNM; match class: 0",1
+"1412","TF","Factor: E2F-1; motif: TTTGGCGCCAAA",1
+"1413","TF","Factor: E2F-1; motif: TTTGGCGCCAAA; match class: 0",1
+"1414","TF","Factor: E2F-1; motif: TTTSGCGCGMNR; match class: 1",1
+"1415","TF","Factor: E2F-1; motif: TWSGCGCGAAAAYKR",1
+"1416","TF","Factor: E2F-1; motif: TWSGCGCGAAAAYKR; match class: 0",1
+"1417","TF","Factor: E2F-1; motif: TWSGCGCGAAAAYKR; match class: 1",1
+"1418","TF","Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC",1
+"1419","TF","Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC; match class: 0",1
+"1420","TF","Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC; match class: 1",1
+"1421","TF","Factor: E2F-3:FOXO6; motif: NAATGACACGCGCCCMC",1
+"1422","TF","Factor: E2F-3:FOXO6; motif: NAATGACACGCGCCCMC; match class: 0",1
+"1423","TF","Factor: E2F-3:FOXO6; motif: NAATGACACGCGCCCMC; match class: 1",1
+"1424","TF","Factor: E2F-3; motif: GGCGGGN; match class: 1",1
+"1425","TF","Factor: E2F-4:DP-1; motif: TTTSGCGC",1
+"1426","TF","Factor: E2F-4:DP-1; motif: TTTSGCGC; match class: 0",1
+"1427","TF","Factor: E2F-4:DP-1; motif: TTTSGCGC; match class: 1",1
+"1428","TF","Factor: E2F-4; motif: AATGGCGCCAAA",1
+"1429","TF","Factor: E2F-4; motif: AATGGCGCCAAA; match class: 0",1
+"1430","TF","Factor: E2F-4; motif: GCGGGAAANA",1
+"1431","TF","Factor: E2F-4; motif: GCGGGAAANA; match class: 0",1
+"1432","TF","Factor: E2F-4; motif: GCGGGAAANA; match class: 1",1
+"1433","TF","Factor: E2F; motif: NCSCGCSAAAN; match class: 1",1
+"1434","TF","Factor: E2F; motif: NKCGCGCSAAAN; match class: 1",1
+"1435","TF","Factor: E2F; motif: TTTSGCGS",1
+"1436","TF","Factor: E2F; motif: TTTSGCGS; match class: 0",1
+"1437","TF","Factor: E2F; motif: TTTSGCGS; match class: 1",1
+"1438","TF","Factor: E2F1; motif: NNNNNGCGSSAAAN",1
+"1439","TF","Factor: E2F1; motif: NNNNNGCGSSAAAN; match class: 0",1
+"1440","TF","Factor: E2F2; motif: AAAAATGGCGCCAAAAWG; match class: 1",1
+"1441","TF","Factor: E2F2; motif: NNTTTTGGCGCCAAAAWN",1
+"1442","TF","Factor: E2F2; motif: NNTTTTGGCGCCAAAAWN; match class: 0",1
+"1443","TF","Factor: Egr-1; motif: ACCGCCC",1
+"1444","TF","Factor: Egr-1; motif: ACCGCCC; match class: 0",1
+"1445","TF","Factor: Egr-1; motif: GCGCATGCG",1
+"1446","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 0",1
+"1447","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 1",1
+"1448","TF","Factor: Egr-1; motif: GCGGGGGCGG",1
+"1449","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 0",1
+"1450","TF","Factor: EGR1; motif: NACGCCCACGCANW",1
+"1451","TF","Factor: EGR1; motif: NACGCCCACGCANW; match class: 0",1
+"1452","TF","Factor: Elf-1; motif: AWCCCGGAAGTN; match class: 1",1
+"1453","TF","Factor: Elf-1; motif: NAANCMGGAAGTGN; match class: 1",1
+"1454","TF","Factor: Elk-1:HOXA1; motif: ACCGGAAGTAATTA; match class: 1",1
+"1455","TF","Factor: Elk-1:HOXA3; motif: ACCGGWAATKRNNTNWCNNATTAN; match class: 1",1
+"1456","TF","Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG",1
+"1457","TF","Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG; match class: 0",1
+"1458","TF","Factor: Elk-1; motif: RACCGGAAGTR; match class: 1",1
+"1459","TF","Factor: ELK1; motif: ACCGGAAGTN; match class: 1",1
+"1460","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN",1
+"1461","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN; match class: 0",1
+"1462","TF","Factor: ELK1; motif: NACTTCCGSCGGAAGYN; match class: 1",1
+"1463","TF","Factor: ELK3; motif: ACCGGAAGTN",1
+"1464","TF","Factor: ELK3; motif: ACCGGAAGTN; match class: 0",1
+"1465","TF","Factor: ELK4; motif: NCRCTTCCGGN",1
+"1466","TF","Factor: ELK4; motif: NCRCTTCCGGN; match class: 0",1
+"1467","TF","Factor: ER81; motif: NNNGRCMGGAAGYRNNNNNNNS; match class: 1",1
+"1468","TF","Factor: ERG; motif: ACCGGAARTN",1
+"1469","TF","Factor: ERG; motif: ACCGGAARTN; match class: 0",1
+"1470","TF","Factor: Erg; motif: MCAGGAAA",1
+"1471","TF","Factor: Erg; motif: MCAGGAAA; match class: 0",1
+"1472","TF","Factor: Erg; motif: NNACCGGAARTSN",1
+"1473","TF","Factor: Erg; motif: NNACCGGAARTSN; match class: 0",1
+"1474","TF","Factor: ESRRA; motif: CAAGGTCANNYSAAGGTCA; match class: 1",1
+"1475","TF","Factor: ETS1; motif: ACCGGAARYN",1
+"1476","TF","Factor: ETS1; motif: ACCGGAARYN; match class: 0",1
+"1477","TF","Factor: ETS1; motif: GCCGGAWGTACTTCCGGN",1
+"1478","TF","Factor: ETS1; motif: GCCGGAWGTACTTCCGGN; match class: 0",1
+"1479","TF","Factor: ETS1; motif: GCCGGAWGTACTTCCGGN; match class: 1",1
+"1480","TF","Factor: ETV3; motif: ACCGGAAGTN",1
+"1481","TF","Factor: ETV3; motif: ACCGGAAGTN; match class: 0",1
+"1482","TF","Factor: etv3; motif: ACCGGAAGYN",1
+"1483","TF","Factor: etv3; motif: ACCGGAAGYN; match class: 0",1
+"1484","TF","Factor: ETV4; motif: ACCGGAAGTN; match class: 1",1
+"1485","TF","Factor: FEV; motif: ACCGGAAGTN",1
+"1486","TF","Factor: FEV; motif: ACCGGAAGTN; match class: 0",1
+"1487","TF","Factor: FOXO1A:Elf-1; motif: NAGAAAACCGAANM; match class: 1",1
+"1488","TF","Factor: GABP; motif: VCCGGAAGNGCR",1
+"1489","TF","Factor: GABP; motif: VCCGGAAGNGCR; match class: 0",1
+"1490","TF","Factor: GABPA; motif: ACCGGAAGTN; match class: 1",1
+"1491","TF","Factor: GABPalpha; motif: RCCGGAWRYN; match class: 1",1
+"1492","TF","Factor: GABPalpha_GABPbeta; motif: CTTCCKGY",1
+"1493","TF","Factor: GABPalpha_GABPbeta; motif: CTTCCKGY; match class: 0",1
+"1494","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG",1
+"1495","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 0",1
+"1496","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 1",1
+"1497","TF","Factor: GCMb:Sox-20; motif: ATRCGGGYNNNNNYWTTGTTN",1
+"1498","TF","Factor: GCMb:Sox-20; motif: ATRCGGGYNNNNNYWTTGTTN; match class: 0",1
+"1499","TF","Factor: GR; motif: RGNACANKNTGTNCY; match class: 1",1
+"1500","TF","Factor: HEB; motif: RCCWGCTG",1
+"1501","TF","Factor: HEB; motif: RCCWGCTG; match class: 0",1
+"1502","TF","Factor: HNF-6; motif: AATCAATA",1
+"1503","TF","Factor: HNF-6; motif: AATCAATA; match class: 0",1
+"1504","TF","Factor: HNF1B; motif: NRTTAATNATTAACN; match class: 1",1
+"1505","TF","Factor: HOXC10:TBR2; motif: TMACACCTCRTAAA",1
+"1506","TF","Factor: HOXC10:TBR2; motif: TMACACCTCRTAAA; match class: 0",1
+"1507","TF","Factor: HOXD4; motif: NNYMATTANN",1
+"1508","TF","Factor: HOXD4; motif: NNYMATTANN; match class: 0",1
+"1509","TF","Factor: HSF4; motif: CTGCMRN; match class: 1",1
+"1510","TF","Factor: Ikaros; motif: TGGGAGN",1
+"1511","TF","Factor: Ikaros; motif: TGGGAGN; match class: 0",1
+"1512","TF","Factor: IRF-2; motif: NAANYGAAASYR",1
+"1513","TF","Factor: IRF-2; motif: NAANYGAAASYR; match class: 0",1
+"1514","TF","Factor: Kaiso; motif: GCMGGGRGCRGS; match class: 1",1
+"1515","TF","Factor: Kaiso; motif: GNTCTCGCGAGRNNNNGGN",1
+"1516","TF","Factor: Kaiso; motif: GNTCTCGCGAGRNNNNGGN; match class: 0",1
+"1517","TF","Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 1",1
+"1518","TF","Factor: Max; motif: AACACGT; match class: 1",1
+"1519","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG",1
+"1520","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 0",1
+"1521","TF","Factor: meis1:Elf-1; motif: NTGCCGGAAGTN",1
+"1522","TF","Factor: meis1:Elf-1; motif: NTGCCGGAAGTN; match class: 0",1
+"1523","TF","Factor: meis1:Elf-1; motif: NTGCCGGAAGTN; match class: 1",1
+"1524","TF","Factor: MTF-1; motif: TGCGCAC",1
+"1525","TF","Factor: MTF-1; motif: TGCGCAC; match class: 0",1
+"1526","TF","Factor: nerf; motif: NRRNSCGGAAGNRNNNN; match class: 1",1
+"1527","TF","Factor: NF-Y; motif: NCTGATTGGYTASY",1
+"1528","TF","Factor: NF-Y; motif: NCTGATTGGYTASY; match class: 0",1
+"1529","TF","Factor: NF-Y; motif: NCTGATTGGYTASY; match class: 1",1
+"1530","TF","Factor: NF-Y; motif: TRRCCAATSRN",1
+"1531","TF","Factor: NF-Y; motif: TRRCCAATSRN; match class: 0",1
+"1532","TF","Factor: NFYA; motif: AGNSYKCTGATTGGTNNR",1
+"1533","TF","Factor: NFYA; motif: AGNSYKCTGATTGGTNNR; match class: 0",1
+"1534","TF","Factor: NFYA; motif: RRCCAATCAGN",1
+"1535","TF","Factor: NFYA; motif: RRCCAATCAGN; match class: 0",1
+"1536","TF","Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN; match class: 1",1
+"1537","TF","Factor: NRF-1; motif: YGCGCATGCGCN",1
+"1538","TF","Factor: NRF-1; motif: YGCGCATGCGCN; match class: 0",1
+"1539","TF","Factor: NURR1; motif: YRRCCTT",1
+"1540","TF","Factor: NURR1; motif: YRRCCTT; match class: 0",1
+"1541","TF","Factor: NURR1; motif: YRRCCTT; match class: 1",1
+"1542","TF","Factor: Oct-1; motif: MKVATTTGCATATT",1
+"1543","TF","Factor: Oct-1; motif: MKVATTTGCATATT; match class: 0",1
+"1544","TF","Factor: Oct-1; motif: NNNNATGCAAATNAN",1
+"1545","TF","Factor: Oct-1; motif: NNNNATGCAAATNAN; match class: 0",1
+"1546","TF","Factor: Oct-1; motif: NNNNNNNWATGCAAATNNNWNNA",1
+"1547","TF","Factor: Oct-1; motif: NNNNNNNWATGCAAATNNNWNNA; match class: 0",1
+"1548","TF","Factor: Oct-1; motif: TATGCAAATN",1
+"1549","TF","Factor: Oct-1; motif: TATGCAAATN; match class: 0",1
+"1550","TF","Factor: Oct-1; motif: TNATTTGCATW",1
+"1551","TF","Factor: Oct-1; motif: TNATTTGCATW; match class: 0",1
+"1552","TF","Factor: Oct-2; motif: NNNATTTGCATRT",1
+"1553","TF","Factor: Oct-2; motif: NNNATTTGCATRT; match class: 0",1
+"1554","TF","Factor: Oct-2; motif: NNNTATGCAAATNNNN",1
+"1555","TF","Factor: Oct-2; motif: NNNTATGCAAATNNNN; match class: 0",1
+"1556","TF","Factor: oct-2; motif: NNWNATGCAAATNN",1
+"1557","TF","Factor: oct-2; motif: NNWNATGCAAATNN; match class: 0",1
+"1558","TF","Factor: Oct3; motif: TKWNATGCAWATN",1
+"1559","TF","Factor: Oct3; motif: TKWNATGCAWATN; match class: 0",1
+"1560","TF","Factor: p300; motif: ACNTCCG",1
+"1561","TF","Factor: p300; motif: ACNTCCG; match class: 0",1
+"1562","TF","Factor: p53; motif: GGACATGYYCGGACATGYYC; match class: 1",1
+"1563","TF","Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN",1
+"1564","TF","Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN; match class: 0",1
+"1565","TF","Factor: Pax-5; motif: RRMSWGANWYCTNRAGCGKRACSRYNSM",1
+"1566","TF","Factor: Pax-5; motif: RRMSWGANWYCTNRAGCGKRACSRYNSM; match class: 0",1
+"1567","TF","Factor: PEA3; motif: RCCGGAAGYN; match class: 1",1
+"1568","TF","Factor: Pit-1; motif: NMTTCATAAWTATWNMNA",1
+"1569","TF","Factor: Pit-1; motif: NMTTCATAAWTATWNMNA; match class: 0",1
+"1570","TF","Factor: POU1F1; motif: AWTATGCWAATKAG",1
+"1571","TF","Factor: POU1F1; motif: AWTATGCWAATKAG; match class: 0",1
+"1572","TF","Factor: POU2F1; motif: ATGCAAATN",1
+"1573","TF","Factor: POU2F1; motif: ATGCAAATN; match class: 0",1
+"1574","TF","Factor: POU2F1; motif: ATTTGCATN",1
+"1575","TF","Factor: POU2F1; motif: ATTTGCATN; match class: 0",1
+"1576","TF","Factor: POU2F1; motif: NNATTTGCATNN",1
+"1577","TF","Factor: POU2F1; motif: NNATTTGCATNN; match class: 0",1
+"1578","TF","Factor: POU2F1; motif: NWTATGCWAATN",1
+"1579","TF","Factor: POU2F1; motif: NWTATGCWAATN; match class: 0",1
+"1580","TF","Factor: POU2F2; motif: NTATGCWAATN",1
+"1581","TF","Factor: POU2F2; motif: NTATGCWAATN; match class: 0",1
+"1582","TF","Factor: POU2F3; motif: TATGCWAAT",1
+"1583","TF","Factor: POU2F3; motif: TATGCWAAT; match class: 0",1
+"1584","TF","Factor: POU3F1; motif: WTATGCWAATNN",1
+"1585","TF","Factor: POU3F1; motif: WTATGCWAATNN; match class: 0",1
+"1586","TF","Factor: POU3F2; motif: WTATGCWAATKA",1
+"1587","TF","Factor: POU3F2; motif: WTATGCWAATKA; match class: 0",1
+"1588","TF","Factor: POU3F3; motif: WWTATGCWAATTW",1
+"1589","TF","Factor: POU3F3; motif: WWTATGCWAATTW; match class: 0",1
+"1590","TF","Factor: POU3F4; motif: TATGCWAAT",1
+"1591","TF","Factor: POU3F4; motif: TATGCWAAT; match class: 0",1
+"1592","TF","Factor: POU5F1; motif: NNATGCAAANN",1
+"1593","TF","Factor: POU5F1; motif: NNATGCAAANN; match class: 0",1
+"1594","TF","Factor: POU5F1B; motif: TATGCWAAT",1
+"1595","TF","Factor: POU5F1B; motif: TATGCWAAT; match class: 0",1
+"1596","TF","Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC",1
+"1597","TF","Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC; match class: 0",1
+"1598","TF","Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC; match class: 1",1
+"1599","TF","Factor: REST; motif: CCNNGGTGCTGAA",1
+"1600","TF","Factor: REST; motif: CCNNGGTGCTGAA; match class: 0",1
+"1601","TF","Factor: REST; motif: CCNNGGTGCTGAA; match class: 1",1
+"1602","TF","Factor: REST; motif: TTCAGCACCAYGGA",1
+"1603","TF","Factor: REST; motif: TTCAGCACCAYGGA; match class: 0",1
+"1604","TF","Factor: RUNX2; motif: NRACCGCAAACCGCAN; match class: 1",1
+"1605","TF","Factor: RUNX3; motif: NRACCGCAAACCGCAN; match class: 1",1
+"1606","TF","Factor: SAP-1a; motif: NACCGGAAGTV",1
+"1607","TF","Factor: SAP-1a; motif: NACCGGAAGTV; match class: 0",1
+"1608","TF","Factor: SAP1A; motif: NCCGGAARYN",1
+"1609","TF","Factor: SAP1A; motif: NCCGGAARYN; match class: 0",1
+"1610","TF","Factor: SF-1; motif: NYCAAGGYCANNNN",1
+"1611","TF","Factor: SF-1; motif: NYCAAGGYCANNNN; match class: 0",1
+"1612","TF","Factor: Sp1; motif: GGGGCGGGGC",1
+"1613","TF","Factor: Sp1; motif: GGGGCGGGGC; match class: 0",1
+"1614","TF","Factor: SP1; motif: GGGGYGGGGNS",1
+"1615","TF","Factor: SP1; motif: GGGGYGGGGNS; match class: 0",1
+"1616","TF","Factor: Sp1; motif: NGGGGCGGGGN",1
+"1617","TF","Factor: Sp1; motif: NGGGGCGGGGN; match class: 0",1
+"1618","TF","Factor: Sp1; motif: NGGGGGCGGGGYN",1
+"1619","TF","Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 0",1
+"1620","TF","Factor: SP1; motif: RCCMCRCCCMC",1
+"1621","TF","Factor: SP1; motif: RCCMCRCCCMC; match class: 0",1
+"1622","TF","Factor: Sp2; motif: WGGGCGG",1
+"1623","TF","Factor: Sp2; motif: WGGGCGG; match class: 0",1
+"1624","TF","Factor: SP4; motif: NWRGCCACGCCCMCTYN",1
+"1625","TF","Factor: SP4; motif: NWRGCCACGCCCMCTYN; match class: 0",1
+"1626","TF","Factor: Sp6; motif: WGGGCGG",1
+"1627","TF","Factor: Sp6; motif: WGGGCGG; match class: 0",1
+"1628","TF","Factor: Stra13; motif: NYSTCACGTGABNN",1
+"1629","TF","Factor: Stra13; motif: NYSTCACGTGABNN; match class: 0",1
+"1630","TF","Factor: Stra13; motif: NYSTCACGTGABNN; match class: 1",1
+"1631","TF","Factor: TEF-3:Fli-1; motif: ACCGGAAATGCC",1
+"1632","TF","Factor: TEF-3:Fli-1; motif: ACCGGAAATGCC; match class: 0",1
+"1633","TF","Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG; match class: 1",1
+"1634","TF","Factor: TFAP2A; motif: NGCCCYNNGGGCN; match class: 1",1
+"1635","TF","Factor: TFAP2A; motif: YGCCCNNRGGCN",1
+"1636","TF","Factor: TFAP2A; motif: YGCCCNNRGGCN; match class: 0",1
+"1637","TF","Factor: TFDP1; motif: NSGCGGGAANN",1
+"1638","TF","Factor: TFDP1; motif: NSGCGGGAANN; match class: 0",1
+"1639","TF","Factor: TFEC; motif: RNCACRTGAY; match class: 1",1
+"1640","TF","Factor: TORC2; motif: TGGGCTKKD",1
+"1641","TF","Factor: TORC2; motif: TGGGCTKKD; match class: 0",1
+"1642","TF","Factor: USF2; motif: GTCACGTGA; match class: 1",1
+"1643","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 1",1
+"1644","TF","Factor: WT1; motif: GNGGGGGCGGGG",1
+"1645","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 0",1
+"1646","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 1",1
+"1647","TF","Factor: YB-1; motif: CCAMTCNGMR; match class: 1",1
+"1648","TF","Factor: YY2; motif: NCCGCCATNTY; match class: 1",1
+"1649","TF","Factor: Zfx; motif: SNSCAGGCCKCGSCSS",1
+"1650","TF","Factor: Zfx; motif: SNSCAGGCCKCGSCSS; match class: 0",1
+"1651","TF","Factor: Zfx; motif: SNSCAGGCCKCGSCSS; match class: 1",1
+"1652","TF","Factor: ZNF333; motif: ATAAT",1
+"1653","TF","Factor: ZNF333; motif: ATAAT; match class: 0",1
+"1654","TF","Factor: ZNF438; motif: NAMGAKCGKATTGK; match class: 1",1
+"1655","TF","Factor: ZNF511; motif: GGRRGRGGCWGNG",1
+"1656","TF","Factor: ZNF511; motif: GGRRGRGGCWGNG; match class: 0",1
+"1657","TF","Factor: ZNF511; motif: GGRRGRGGCWGNG; match class: 1",1
+"1658","TF","Factor: ZNF648; motif: NGKGGCAGAATS",1
+"1659","TF","Factor: ZNF648; motif: NGKGGCAGAATS; match class: 0",1
+"1660","TF","Factor: ZNF69; motif: KGGGCTTAGCGA",1
+"1661","TF","Factor: ZNF69; motif: KGGGCTTAGCGA; match class: 0",1
+"1662","TF","Factor: ZNF691; motif: NAGGCCAGCCGC",1
+"1663","TF","Factor: ZNF691; motif: NAGGCCAGCCGC; match class: 0",1
+"1664","WP","Complement Activation",1
+"1665","WP","Complement and Coagulation Cascades",1
+"1666","WP","Genes related to primary cilium development (based on CRISPR)",1
+"1667","WP","Genotoxicity pathway",1
+"1668","WP","Glycolysis and Gluconeogenesis",1
+"1669","WP","HIF1A and PPARG regulation of glycolysis",1
+"1670","WP","Human Complement System",1
+"1671","WP","Vitamin A and Carotenoid Metabolism",1

@@ -1,0 +1,1920 @@
+"","source","term_name","n"
+"1","CORUM","ABCG5-ABCG8 complex",1
+"2","CORUM","CAPZA3-CAPZB complex",1
+"3","CORUM","Glutamate receptor 8 complex, metabotropic",1
+"4","CORUM","HTR1D  homodimer complex",1
+"5","CORUM","PTF1-bHLH complex",1
+"6","GO:BP","cell communication",2
+"7","GO:BP","monocarboxylic acid metabolic process",2
+"8","GO:BP","multicellular organismal process",2
+"9","GO:BP","response to chemical",2
+"10","GO:BP","signaling",2
+"11","GO:BP","xenobiotic metabolic process",2
+"12","GO:BP","3'-UTR-mediated mRNA stabilization",1
+"13","GO:BP","aminoglycoside antibiotic metabolic process",1
+"14","GO:BP","ammonium ion metabolic process",1
+"15","GO:BP","anatomical structure development",1
+"16","GO:BP","anatomical structure morphogenesis",1
+"17","GO:BP","animal organ development",1
+"18","GO:BP","axon development",1
+"19","GO:BP","axonogenesis",1
+"20","GO:BP","behavior",1
+"21","GO:BP","biological regulation",1
+"22","GO:BP","brain development",1
+"23","GO:BP","carboxylic acid metabolic process",1
+"24","GO:BP","carboxylic acid transport",1
+"25","GO:BP","cation transmembrane transport",1
+"26","GO:BP","cation transport",1
+"27","GO:BP","cell-cell signaling",1
+"28","GO:BP","cell development",1
+"29","GO:BP","cell differentiation",1
+"30","GO:BP","cell morphogenesis",1
+"31","GO:BP","cell morphogenesis involved in differentiation",1
+"32","GO:BP","cell morphogenesis involved in neuron differentiation",1
+"33","GO:BP","cell part morphogenesis",1
+"34","GO:BP","cell projection morphogenesis",1
+"35","GO:BP","cell projection organization",1
+"36","GO:BP","cellular component morphogenesis",1
+"37","GO:BP","cellular developmental process",1
+"38","GO:BP","cellular glucuronidation",1
+"39","GO:BP","cellular hormone metabolic process",1
+"40","GO:BP","cellular lipid metabolic process",1
+"41","GO:BP","cellular response to chemical stimulus",1
+"42","GO:BP","cellular response to jasmonic acid stimulus",1
+"43","GO:BP","cellular response to stimulus",1
+"44","GO:BP","central nervous system development",1
+"45","GO:BP","central nervous system neuron differentiation",1
+"46","GO:BP","daunorubicin metabolic process",1
+"47","GO:BP","detection of chemical stimulus",1
+"48","GO:BP","detection of chemical stimulus involved in sensory perception",1
+"49","GO:BP","detection of chemical stimulus involved in sensory perception of smell",1
+"50","GO:BP","detection of stimulus",1
+"51","GO:BP","detection of stimulus involved in sensory perception",1
+"52","GO:BP","developmental growth",1
+"53","GO:BP","developmental process",1
+"54","GO:BP","diencephalon development",1
+"55","GO:BP","diterpenoid metabolic process",1
+"56","GO:BP","doxorubicin metabolic process",1
+"57","GO:BP","fatty acid metabolic process",1
+"58","GO:BP","forebrain development",1
+"59","GO:BP","G protein-coupled receptor signaling pathway",1
+"60","GO:BP","G protein-coupled serotonin receptor signaling pathway",1
+"61","GO:BP","generation of neurons",1
+"62","GO:BP","glucuronate metabolic process",1
+"63","GO:BP","glutathione metabolic process",1
+"64","GO:BP","glycosaminoglycan biosynthetic process",1
+"65","GO:BP","glycoside metabolic process",1
+"66","GO:BP","head development",1
+"67","GO:BP","hormone metabolic process",1
+"68","GO:BP","intestinal cholesterol absorption",1
+"69","GO:BP","intestinal lipid absorption",1
+"70","GO:BP","intestinal phytosterol absorption",1
+"71","GO:BP","ion transmembrane transport",1
+"72","GO:BP","ion transport",1
+"73","GO:BP","isoprenoid metabolic process",1
+"74","GO:BP","lipid digestion",1
+"75","GO:BP","lipid metabolic process",1
+"76","GO:BP","locomotion",1
+"77","GO:BP","locomotory behavior",1
+"78","GO:BP","melanin biosynthetic process from tyrosine",1
+"79","GO:BP","metal ion transport",1
+"80","GO:BP","modulation of chemical synaptic transmission",1
+"81","GO:BP","movement of cell or subcellular component",1
+"82","GO:BP","multicellular organism development",1
+"83","GO:BP","natural killer cell activation involved in immune response",1
+"84","GO:BP","negative regulation of intestinal absorption",1
+"85","GO:BP","negative regulation of intestinal cholesterol absorption",1
+"86","GO:BP","negative regulation of intestinal lipid absorption",1
+"87","GO:BP","negative regulation of intestinal phytosterol absorption",1
+"88","GO:BP","negative regulation of very-low-density lipoprotein particle remodeling",1
+"89","GO:BP","nervous system development",1
+"90","GO:BP","nervous system process",1
+"91","GO:BP","neurogenesis",1
+"92","GO:BP","neuron development",1
+"93","GO:BP","neuron differentiation",1
+"94","GO:BP","neuron projection development",1
+"95","GO:BP","neuron projection guidance",1
+"96","GO:BP","neuron projection morphogenesis",1
+"97","GO:BP","nitrobenzene metabolic process",1
+"98","GO:BP","organic acid metabolic process",1
+"99","GO:BP","organic acid transport",1
+"100","GO:BP","organic anion transport",1
+"101","GO:BP","organic hydroxy compound metabolic process",1
+"102","GO:BP","osteoblast differentiation",1
+"103","GO:BP","oxoacid metabolic process",1
+"104","GO:BP","pentose biosynthetic process",1
+"105","GO:BP","pituitary gland development",1
+"106","GO:BP","plasma membrane bounded cell projection morphogenesis",1
+"107","GO:BP","plasma membrane bounded cell projection organization",1
+"108","GO:BP","polyketide metabolic process",1
+"109","GO:BP","positive regulation of cerebellar granule cell precursor proliferation",1
+"110","GO:BP","positive regulation of peptidyl-serine phosphorylation of STAT protein",1
+"111","GO:BP","regulation of anatomical structure size",1
+"112","GO:BP","regulation of axonogenesis",1
+"113","GO:BP","regulation of biological process",1
+"114","GO:BP","regulation of biological quality",1
+"115","GO:BP","regulation of cell communication",1
+"116","GO:BP","regulation of cell development",1
+"117","GO:BP","regulation of cell differentiation",1
+"118","GO:BP","regulation of cellular component size",1
+"119","GO:BP","regulation of cellular process",1
+"120","GO:BP","regulation of developmental process",1
+"121","GO:BP","regulation of hormone levels",1
+"122","GO:BP","regulation of intestinal absorption",1
+"123","GO:BP","regulation of intestinal cholesterol absorption",1
+"124","GO:BP","regulation of intestinal lipid absorption",1
+"125","GO:BP","regulation of multicellular organismal process",1
+"126","GO:BP","regulation of nervous system development",1
+"127","GO:BP","regulation of neurogenesis",1
+"128","GO:BP","regulation of neuron differentiation",1
+"129","GO:BP","regulation of peptidyl-serine phosphorylation of STAT protein",1
+"130","GO:BP","regulation of plasma membrane bounded cell projection organization",1
+"131","GO:BP","regulation of signal transduction",1
+"132","GO:BP","regulation of signaling",1
+"133","GO:BP","regulation of trans-synaptic signaling",1
+"134","GO:BP","response to acid chemical",1
+"135","GO:BP","response to dsRNA",1
+"136","GO:BP","response to exogenous dsRNA",1
+"137","GO:BP","response to fibroblast growth factor",1
+"138","GO:BP","response to jasmonic acid",1
+"139","GO:BP","response to lipid",1
+"140","GO:BP","response to organic substance",1
+"141","GO:BP","response to oxygen-containing compound",1
+"142","GO:BP","response to stimulus",1
+"143","GO:BP","response to xenobiotic stimulus",1
+"144","GO:BP","retinoid metabolic process",1
+"145","GO:BP","sensory perception",1
+"146","GO:BP","sensory perception of chemical stimulus",1
+"147","GO:BP","sensory perception of smell",1
+"148","GO:BP","serine phosphorylation of STAT protein",1
+"149","GO:BP","serotonin receptor signaling pathway",1
+"150","GO:BP","signal transduction",1
+"151","GO:BP","small molecule metabolic process",1
+"152","GO:BP","smoothened signaling pathway involved in regulation of cerebellar granule cell precursor cell proliferation",1
+"153","GO:BP","spermatid nucleus differentiation",1
+"154","GO:BP","stem cell division",1
+"155","GO:BP","synapse assembly",1
+"156","GO:BP","synaptic signaling",1
+"157","GO:BP","system development",1
+"158","GO:BP","system process",1
+"159","GO:BP","terpenoid metabolic process",1
+"160","GO:BP","tertiary alcohol metabolic process",1
+"161","GO:BP","tissue development",1
+"162","GO:BP","tissue morphogenesis",1
+"163","GO:BP","trans-synaptic signaling",1
+"164","GO:BP","transmembrane transport",1
+"165","GO:BP","uronic acid metabolic process",1
+"166","GO:BP","ventral midline development",1
+"167","GO:CC","axon",2
+"168","GO:CC","cell periphery",2
+"169","GO:CC","integral component of membrane",2
+"170","GO:CC","intrinsic component of membrane",2
+"171","GO:CC","membrane",2
+"172","GO:CC","membrane part",2
+"173","GO:CC","plasma membrane",2
+"174","GO:CC","asymmetric synapse",1
+"175","GO:CC","ATP-binding cassette (ABC) transporter complex",1
+"176","GO:CC","ATPase dependent transmembrane transport complex",1
+"177","GO:CC","cation channel complex",1
+"178","GO:CC","cell-cell junction",1
+"179","GO:CC","cell projection",1
+"180","GO:CC","cell projection membrane",1
+"181","GO:CC","cell projection part",1
+"182","GO:CC","chitosome",1
+"183","GO:CC","cytoplasm",1
+"184","GO:CC","cytoplasmic part",1
+"185","GO:CC","dendrite",1
+"186","GO:CC","dendritic tree",1
+"187","GO:CC","endomembrane system",1
+"188","GO:CC","endoplasmic reticulum",1
+"189","GO:CC","GABA-ergic synapse",1
+"190","GO:CC","integral component of plasma membrane",1
+"191","GO:CC","intrinsic component of plasma membrane",1
+"192","GO:CC","melanosome membrane",1
+"193","GO:CC","membrane microdomain",1
+"194","GO:CC","membrane raft",1
+"195","GO:CC","membrane region",1
+"196","GO:CC","neuron part",1
+"197","GO:CC","neuron projection",1
+"198","GO:CC","neuron to neuron synapse",1
+"199","GO:CC","pigment granule membrane",1
+"200","GO:CC","plasma membrane bounded cell projection",1
+"201","GO:CC","plasma membrane bounded cell projection part",1
+"202","GO:CC","plasma membrane part",1
+"203","GO:CC","plasma membrane raft",1
+"204","GO:CC","plasma membrane region",1
+"205","GO:CC","platelet dense granule lumen",1
+"206","GO:CC","postsynapse",1
+"207","GO:CC","postsynaptic density",1
+"208","GO:CC","postsynaptic specialization",1
+"209","GO:CC","somatodendritic compartment",1
+"210","GO:CC","synapse",1
+"211","GO:CC","synapse part",1
+"212","GO:CC","voltage-gated calcium channel complex",1
+"213","GO:MF","olfactory receptor activity",2
+"214","GO:MF","alcohol dehydrogenase (NADP+) activity",1
+"215","GO:MF","alditol:NADP+ 1-oxidoreductase activity",1
+"216","GO:MF","aldo-keto reductase (NADP) activity",1
+"217","GO:MF","androsterone dehydrogenase activity",1
+"218","GO:MF","bitter taste receptor activity",1
+"219","GO:MF","catalytic activity",1
+"220","GO:MF","cation transmembrane transporter activity",1
+"221","GO:MF","dopamine neurotransmitter receptor activity",1
+"222","GO:MF","dopamine neurotransmitter receptor activity, coupled via Gi/Go",1
+"223","GO:MF","estrogen 16-alpha-hydroxylase activity",1
+"224","GO:MF","fibroblast growth factor receptor binding",1
+"225","GO:MF","G protein-coupled amine receptor activity",1
+"226","GO:MF","G protein-coupled neurotransmitter receptor activity",1
+"227","GO:MF","G protein-coupled receptor activity",1
+"228","GO:MF","G protein-coupled receptor binding",1
+"229","GO:MF","G protein-coupled serotonin receptor activity",1
+"230","GO:MF","glucuronosyltransferase activity",1
+"231","GO:MF","high-density lipoprotein particle receptor binding",1
+"232","GO:MF","indanol dehydrogenase activity",1
+"233","GO:MF","inorganic cation transmembrane transporter activity",1
+"234","GO:MF","inorganic molecular entity transmembrane transporter activity",1
+"235","GO:MF","ion transmembrane transporter activity",1
+"236","GO:MF","ketosteroid monooxygenase activity",1
+"237","GO:MF","metal ion transmembrane transporter activity",1
+"238","GO:MF","molecular transducer activity",1
+"239","GO:MF","monovalent inorganic cation transmembrane transporter activity",1
+"240","GO:MF","neurotransmitter receptor activity",1
+"241","GO:MF","odorant binding",1
+"242","GO:MF","oxidoreductase activity, acting on CH-OH group of donors",1
+"243","GO:MF","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",1
+"244","GO:MF","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",1
+"245","GO:MF","phenanthrene 9,10-monooxygenase activity",1
+"246","GO:MF","polysaccharide binding",1
+"247","GO:MF","potassium ion transmembrane transporter activity",1
+"248","GO:MF","potassium:sodium symporter activity",1
+"249","GO:MF","protein membrane anchor",1
+"250","GO:MF","serotonin receptor activity",1
+"251","GO:MF","signaling receptor activity",1
+"252","GO:MF","sodium ion transmembrane transporter activity",1
+"253","GO:MF","sodium:potassium:chloride symporter activity",1
+"254","GO:MF","solute:sodium symporter activity",1
+"255","GO:MF","taste receptor activity",1
+"256","GO:MF","trace-amine receptor activity",1
+"257","GO:MF","transferase activity, transferring glycosyl groups",1
+"258","GO:MF","transferase activity, transferring hexosyl groups",1
+"259","GO:MF","translation activator activity",1
+"260","GO:MF","transmembrane signaling receptor activity",1
+"261","GO:MF","transmembrane transporter activity",1
+"262","GO:MF","transporter activity",1
+"263","GO:MF","type I interferon receptor binding",1
+"264","GO:MF","UDP-glycosyltransferase activity",1
+"265","GO:MF","voltage-gated cation channel activity",1
+"266","HP","Abnormal urine potassium concentration",1
+"267","HP","Episodic hemolytic anemia",1
+"268","HP","Hyperapobetalipoproteinemia",1
+"269","HP","Hypokalemic alkalosis",1
+"270","HP","Oligospermia",1
+"271","HP","Recurrent spontaneous abortion",1
+"272","HP","Y-linked inheritance",1
+"273","HPA","adrenal gland; glandular cells[Supported,Not detected]",1
+"274","HPA","appendix; glandular cells[Supported,Not detected]",1
+"275","HPA","appendix; lymphoid tissue[Supported,Not detected]",1
+"276","HPA","bone marrow; hematopoietic cells[Supported,Not detected]",1
+"277","HPA","breast; adipocytes[Supported,Not detected]",1
+"278","HPA","breast; glandular cells[Supported,Not detected]",1
+"279","HPA","breast; myoepithelial cells[Supported,Not detected]",1
+"280","HPA","bronchus; respiratory epithelial cells[Supported,Not detected]",1
+"281","HPA","caudate; glial cells[Supported,Not detected]",1
+"282","HPA","caudate; neuronal cells[Supported,Not detected]",1
+"283","HPA","cerebellum; cells in granular layer[Supported,Not detected]",1
+"284","HPA","cerebellum; cells in molecular layer[Supported,Not detected]",1
+"285","HPA","cerebellum; Purkinje cells[Supported,Not detected]",1
+"286","HPA","cerebral cortex; endothelial cells[Supported,Not detected]",1
+"287","HPA","cerebral cortex; glial cells[Supported,Not detected]",1
+"288","HPA","cerebral cortex; neuronal cells[Supported,Not detected]",1
+"289","HPA","cerebral cortex; neuropil[Supported,Not detected]",1
+"290","HPA","cervix, uterine; glandular cells[Supported,Not detected]",1
+"291","HPA","cervix, uterine; squamous epithelial cells[Supported,Not detected]",1
+"292","HPA","colon; endothelial cells[Supported,Not detected]",1
+"293","HPA","colon; glandular cells[Supported,Not detected]",1
+"294","HPA","colon; peripheral nerve/ganglion[Supported,Not detected]",1
+"295","HPA","duodenum; glandular cells[Supported,Not detected]",1
+"296","HPA","endometrium 1; cells in endometrial stroma[Supported,Not detected]",1
+"297","HPA","endometrium 1; glandular cells[Supported,Not detected]",1
+"298","HPA","endometrium 2; cells in endometrial stroma[Supported,Not detected]",1
+"299","HPA","endometrium 2; glandular cells[Supported,Not detected]",1
+"300","HPA","epididymis; glandular cells[Supported,Not detected]",1
+"301","HPA","esophagus; squamous epithelial cells[Supported,Not detected]",1
+"302","HPA","fallopian tube; glandular cells[Supported,Not detected]",1
+"303","HPA","gallbladder; glandular cells[Supported,Not detected]",1
+"304","HPA","heart muscle; myocytes[Supported,Not detected]",1
+"305","HPA","hippocampus; glial cells[Supported,Not detected]",1
+"306","HPA","hippocampus; neuronal cells[Supported,Not detected]",1
+"307","HPA","kidney; cells in glomeruli[Supported,Not detected]",1
+"308","HPA","kidney; cells in tubules[Supported,Not detected]",1
+"309","HPA","liver; bile duct cells[Supported,Not detected]",1
+"310","HPA","liver; hepatocytes[Supported,Not detected]",1
+"311","HPA","lung; macrophages[Supported,Not detected]",1
+"312","HPA","lung; pneumocytes[Supported,Not detected]",1
+"313","HPA","lymph node; germinal center cells[Supported,Not detected]",1
+"314","HPA","lymph node; non-germinal center cells[Supported,Not detected]",1
+"315","HPA","nasopharynx; respiratory epithelial cells[Supported,Not detected]",1
+"316","HPA","oral mucosa; squamous epithelial cells[Supported,Not detected]",1
+"317","HPA","ovary; follicle cells[Supported,Not detected]",1
+"318","HPA","ovary; ovarian stroma cells[Supported,Not detected]",1
+"319","HPA","pancreas; exocrine glandular cells[Supported,Not detected]",1
+"320","HPA","pancreas; islets of Langerhans[Supported,Not detected]",1
+"321","HPA","parathyroid gland; glandular cells[Supported,Not detected]",1
+"322","HPA","placenta; decidual cells[Supported,Not detected]",1
+"323","HPA","placenta; trophoblastic cells[Supported,Not detected]",1
+"324","HPA","prostate; glandular cells[Supported,Not detected]",1
+"325","HPA","rectum; glandular cells[Supported,Not detected]",1
+"326","HPA","salivary gland; glandular cells[Supported,Not detected]",1
+"327","HPA","seminal vesicle; glandular cells[Supported,Not detected]",1
+"328","HPA","skeletal muscle; myocytes[Supported,Not detected]",1
+"329","HPA","skin 1; fibroblasts[Supported,Not detected]",1
+"330","HPA","skin 1; keratinocytes[Supported,Not detected]",1
+"331","HPA","skin 1; Langerhans[Supported,Not detected]",1
+"332","HPA","skin 1; melanocytes[Supported,Not detected]",1
+"333","HPA","skin 2; epidermal cells[Supported,Not detected]",1
+"334","HPA","small intestine; glandular cells[Supported,Not detected]",1
+"335","HPA","smooth muscle; smooth muscle cells[Supported,Not detected]",1
+"336","HPA","soft tissue 1; adipocytes[Supported,Not detected]",1
+"337","HPA","soft tissue 1; chondrocytes[Supported,Not detected]",1
+"338","HPA","soft tissue 1; fibroblasts[Supported,Not detected]",1
+"339","HPA","soft tissue 1; peripheral nerve[Supported,Not detected]",1
+"340","HPA","soft tissue 2; adipocytes[Supported,Not detected]",1
+"341","HPA","soft tissue 2; chondrocytes[Supported,Not detected]",1
+"342","HPA","soft tissue 2; fibroblasts[Supported,Not detected]",1
+"343","HPA","soft tissue 2; peripheral nerve[Supported,Not detected]",1
+"344","HPA","spleen; cells in red pulp[Supported,Not detected]",1
+"345","HPA","spleen; cells in white pulp[Supported,Not detected]",1
+"346","HPA","stomach 1; glandular cells[Supported,Not detected]",1
+"347","HPA","stomach 2; glandular cells[Supported,Not detected]",1
+"348","HPA","testis; cells in seminiferous ducts[Supported,Not detected]",1
+"349","HPA","testis; Leydig cells[Supported,Not detected]",1
+"350","HPA","testis; preleptotene spermatocytes[Approved,High]",1
+"351","HPA","testis; spermatogonia[Approved,High]",1
+"352","HPA","thyroid gland; glandular cells[Supported,Not detected]",1
+"353","HPA","tonsil; germinal center cells[Supported,Not detected]",1
+"354","HPA","tonsil; non-germinal center cells[Supported,Not detected]",1
+"355","HPA","tonsil; squamous epithelial cells[Supported,Not detected]",1
+"356","HPA","urinary bladder; urothelial cells[Supported,Not detected]",1
+"357","HPA","vagina; squamous epithelial cells[Supported,Not detected]",1
+"358","KEGG","Chemical carcinogenesis",3
+"359","KEGG","Metabolism of xenobiotics by cytochrome P450",2
+"360","KEGG","Olfactory transduction",2
+"361","KEGG","Steroid hormone biosynthesis",2
+"362","KEGG","Ascorbate and aldarate metabolism",1
+"363","KEGG","Basal cell carcinoma",1
+"364","KEGG","Breast cancer",1
+"365","KEGG","Drug metabolism - cytochrome P450",1
+"366","KEGG","Drug metabolism - other enzymes",1
+"367","KEGG","Glutathione metabolism",1
+"368","KEGG","Hepatocellular carcinoma",1
+"369","KEGG","Hippo signaling pathway",1
+"370","KEGG","Melanogenesis",1
+"371","KEGG","Melanoma",1
+"372","KEGG","Metabolic pathways",1
+"373","KEGG","Neuroactive ligand-receptor interaction",1
+"374","KEGG","Pathogenic Escherichia coli infection",1
+"375","KEGG","Pathways in cancer",1
+"376","KEGG","Pentose and glucuronate interconversions",1
+"377","KEGG","Porphyrin and chlorophyll metabolism",1
+"378","KEGG","Retinol metabolism",1
+"379","MIRNA","hsa-miR-1237-3p",1
+"380","MIRNA","hsa-miR-933",1
+"381","REAC","Biological oxidations",2
+"382","REAC","G alpha (s) signalling events",2
+"383","REAC","Olfactory Signaling Pathway",2
+"384","REAC","Activated point mutants of FGFR2",1
+"385","REAC","Activation of AMPK downstream of NMDARs",1
+"386","REAC","Amine ligand-binding receptors",1
+"387","REAC","Carboxyterminal post-translational modifications of tubulin",1
+"388","REAC","Constitutive Signaling by Aberrant PI3K in Cancer",1
+"389","REAC","Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding",1
+"390","REAC","Defective ABCG5 causes sitosterolemia",1
+"391","REAC","Defective ABCG8 causes gallbladder disease 4 and sitosterolemia",1
+"392","REAC","Downstream signaling of activated FGFR1",1
+"393","REAC","Downstream signaling of activated FGFR2",1
+"394","REAC","Downstream signaling of activated FGFR3",1
+"395","REAC","Downstream signaling of activated FGFR4",1
+"396","REAC","FGFR1 ligand binding and activation",1
+"397","REAC","FGFR1 mutant receptor activation",1
+"398","REAC","FGFR1c ligand binding and activation",1
+"399","REAC","FGFR2 ligand binding and activation",1
+"400","REAC","FGFR2 mutant receptor activation",1
+"401","REAC","FGFR2c ligand binding and activation",1
+"402","REAC","FGFR3 ligand binding and activation",1
+"403","REAC","FGFR3 mutant receptor activation",1
+"404","REAC","FGFR3b ligand binding and activation",1
+"405","REAC","FGFR3c ligand binding and activation",1
+"406","REAC","FGFR4 ligand binding and activation",1
+"407","REAC","Formation of tubulin folding intermediates by CCT/TriC",1
+"408","REAC","FRS-mediated FGFR1 signaling",1
+"409","REAC","FRS-mediated FGFR2 signaling",1
+"410","REAC","FRS-mediated FGFR3 signaling",1
+"411","REAC","FRS-mediated FGFR4 signaling",1
+"412","REAC","Gap junction assembly",1
+"413","REAC","Glucuronidation",1
+"414","REAC","GPCR downstream signalling",1
+"415","REAC","IGF1R signaling cascade",1
+"416","REAC","Insulin receptor signalling cascade",1
+"417","REAC","IRS-mediated signalling",1
+"418","REAC","IRS-related events triggered by IGF1R",1
+"419","REAC","Melanin biosynthesis",1
+"420","REAC","Metabolism",1
+"421","REAC","Metabolism of lipids",1
+"422","REAC","Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane",1
+"423","REAC","Negative regulation of FGFR1 signaling",1
+"424","REAC","Negative regulation of FGFR2 signaling",1
+"425","REAC","Negative regulation of FGFR3 signaling",1
+"426","REAC","Negative regulation of FGFR4 signaling",1
+"427","REAC","Negative regulation of the PI3K/AKT network",1
+"428","REAC","Neuronal System",1
+"429","REAC","Neurotransmitter receptors and postsynaptic signal transmission",1
+"430","REAC","Phase II - Conjugation of compounds",1
+"431","REAC","Phospholipase C-mediated cascade: FGFR1",1
+"432","REAC","Phospholipase C-mediated cascade; FGFR2",1
+"433","REAC","Phospholipase C-mediated cascade; FGFR3",1
+"434","REAC","Phospholipase C-mediated cascade; FGFR4",1
+"435","REAC","PI-3K cascade:FGFR1",1
+"436","REAC","PI-3K cascade:FGFR2",1
+"437","REAC","PI-3K cascade:FGFR3",1
+"438","REAC","PI-3K cascade:FGFR4",1
+"439","REAC","PI3K Cascade",1
+"440","REAC","PI3K/AKT Signaling in Cancer",1
+"441","REAC","PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",1
+"442","REAC","Post-chaperonin tubulin folding pathway",1
+"443","REAC","Recycling pathway of L1",1
+"444","REAC","Regulation of IFNA signaling",1
+"445","REAC","RHO GTPases activate IQGAPs",1
+"446","REAC","SHC-mediated cascade:FGFR1",1
+"447","REAC","SHC-mediated cascade:FGFR2",1
+"448","REAC","SHC-mediated cascade:FGFR3",1
+"449","REAC","SHC-mediated cascade:FGFR4",1
+"450","REAC","Signal Transduction",1
+"451","REAC","Signaling by activated point mutants of FGFR1",1
+"452","REAC","Signaling by activated point mutants of FGFR3",1
+"453","REAC","Signaling by FGFR",1
+"454","REAC","Signaling by FGFR in disease",1
+"455","REAC","Signaling by FGFR1",1
+"456","REAC","Signaling by FGFR1 in disease",1
+"457","REAC","Signaling by FGFR2",1
+"458","REAC","Signaling by FGFR2 in disease",1
+"459","REAC","Signaling by FGFR3",1
+"460","REAC","Signaling by FGFR3 in disease",1
+"461","REAC","Signaling by FGFR3 point mutants in cancer",1
+"462","REAC","Signaling by FGFR4",1
+"463","REAC","Signaling by GPCR",1
+"464","REAC","Signaling by Insulin receptor",1
+"465","REAC","Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)",1
+"466","REAC","SLC-mediated transmembrane transport",1
+"467","REAC","TRAF6 mediated IRF7 activation",1
+"468","REAC","Transport of connexons to the plasma membrane",1
+"469","REAC","Transport of small molecules",1
+"470","TF","Factor: AML1; motif: TGTGGT",2
+"471","TF","Factor: AML1; motif: TGTGGT; match class: 0",2
+"472","TF","Factor: AML1; motif: TGTGGT; match class: 1",2
+"473","TF","Factor: ARX; motif: NTAATYNAATTAN",2
+"474","TF","Factor: ARX; motif: NTAATYNAATTAN; match class: 0",2
+"475","TF","Factor: C/EBPbeta; motif: RNRTKDNGMAAKNN",2
+"476","TF","Factor: C/EBPbeta; motif: RNRTKDNGMAAKNN; match class: 0",2
+"477","TF","Factor: CDP:HOXB13; motif: SYMRTAAANATYGATY; match class: 1",2
+"478","TF","Factor: Egr-1; motif: GCGGGGGCGG",2
+"479","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 0",2
+"480","TF","Factor: Egr-1; motif: GCGGGGGCGG; match class: 1",2
+"481","TF","Factor: Foxm1; motif: NTGTTTRT; match class: 1",2
+"482","TF","Factor: FOXM1; motif: TRTTTATNN; match class: 1",2
+"483","TF","Factor: FOXO3A; motif: TRTAAACAANWN",2
+"484","TF","Factor: FOXO3A; motif: TRTAAACAANWN; match class: 0",2
+"485","TF","Factor: Freac-7; motif: WNNANATAAAYANNNN; match class: 1",2
+"486","TF","Factor: HFH8; motif: NNNTGTTTATNTR; match class: 1",2
+"487","TF","Factor: HNF-1beta; motif: NNNNGTTAACTAGNNNT",2
+"488","TF","Factor: HNF-1beta; motif: NNNNGTTAACTAGNNNT; match class: 0",2
+"489","TF","Factor: HNF-1beta; motif: NNNNGTTAACTAGNNNT; match class: 1",2
+"490","TF","Factor: HNF-6; motif: HWAAATCAATAW",2
+"491","TF","Factor: HNF-6; motif: HWAAATCAATAW; match class: 0",2
+"492","TF","Factor: IRF-7; motif: AAGWGAA; match class: 1",2
+"493","TF","Factor: Isl2; motif: YTAAGTG",2
+"494","TF","Factor: Isl2; motif: YTAAGTG; match class: 0",2
+"495","TF","Factor: LEF-1; motif: WCAAAGN",2
+"496","TF","Factor: LEF-1; motif: WCAAAGN; match class: 0",2
+"497","TF","Factor: LEF-1; motif: WCAAAGN; match class: 1",2
+"498","TF","Factor: NFATc2; motif: GGAAAA",2
+"499","TF","Factor: NFATc2; motif: GGAAAA; match class: 0",2
+"500","TF","Factor: NFATc2; motif: GGAAAA; match class: 1",2
+"501","TF","Factor: Oct-1; motif: NNGAATATKCANNNN",2
+"502","TF","Factor: Oct-1; motif: NNGAATATKCANNNN; match class: 0",2
+"503","TF","Factor: Oct3; motif: NYWTTSWTATGCAAAT; match class: 1",2
+"504","TF","Factor: Pit-1; motif: NMTTCATAAWTATWNMNA",2
+"505","TF","Factor: Pit-1; motif: NMTTCATAAWTATWNMNA; match class: 0",2
+"506","TF","Factor: PLAG1; motif: CCCCCKWNNNGGSCCC",2
+"507","TF","Factor: PLAG1; motif: CCCCCKWNNNGGSCCC; match class: 0",2
+"508","TF","Factor: PRRX1; motif: TAATYTAATTA",2
+"509","TF","Factor: PRRX1; motif: TAATYTAATTA; match class: 0",2
+"510","TF","Factor: TATA; motif: STATAAAWRNNNNNN",2
+"511","TF","Factor: TATA; motif: STATAAAWRNNNNNN; match class: 0",2
+"512","TF","Factor: TCF-4; motif: NCTTTGATS",2
+"513","TF","Factor: TCF-4; motif: NCTTTGATS; match class: 0",2
+"514","TF","Factor: AIRE; motif: WTNNNWNNTGGWWNNNWNGGNNWNWN",1
+"515","TF","Factor: AIRE; motif: WTNNNWNNTGGWWNNNWNGGNNWNWN; match class: 0",1
+"516","TF","Factor: AIRE; motif: WTNNNWNNTGGWWNNNWNGGNNWNWN; match class: 1",1
+"517","TF","Factor: ALX3; motif: NNYAATTANN",1
+"518","TF","Factor: ALX3; motif: NNYAATTANN; match class: 0",1
+"519","TF","Factor: ALX3; motif: NNYAATTANN; match class: 1",1
+"520","TF","Factor: ALX4; motif: NTAATYNAATTAN",1
+"521","TF","Factor: ALX4; motif: NTAATYNAATTAN; match class: 0",1
+"522","TF","Factor: ALX4; motif: NTAATYNAATTAN; match class: 1",1
+"523","TF","Factor: AML; motif: TGTGGTNN",1
+"524","TF","Factor: AML; motif: TGTGGTNN; match class: 0",1
+"525","TF","Factor: AML1; motif: TGTGGTK",1
+"526","TF","Factor: AML1; motif: TGTGGTK; match class: 0",1
+"527","TF","Factor: AML1a; motif: TGTGGT",1
+"528","TF","Factor: AML1a; motif: TGTGGT; match class: 0",1
+"529","TF","Factor: AML1a; motif: TGTGGT; match class: 1",1
+"530","TF","Factor: AP-1; motif: NNNTGAGTCAKCN",1
+"531","TF","Factor: AP-1; motif: NNNTGAGTCAKCN; match class: 0",1
+"532","TF","Factor: AP-1; motif: NTGASTCAG",1
+"533","TF","Factor: AP-1; motif: NTGASTCAG; match class: 0",1
+"534","TF","Factor: AP-1; motif: NTGASTCAG; match class: 1",1
+"535","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN",1
+"536","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 0",1
+"537","TF","Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 1",1
+"538","TF","Factor: AP-2; motif: MKCCCSCNGGCG",1
+"539","TF","Factor: AP-2; motif: MKCCCSCNGGCG; match class: 0",1
+"540","TF","Factor: AP-2; motif: MKCCCSCNGGCG; match class: 1",1
+"541","TF","Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 1",1
+"542","TF","Factor: AP-2alpha; motif: GCCNNNRGS",1
+"543","TF","Factor: AP-2alpha; motif: GCCNNNRGS; match class: 0",1
+"544","TF","Factor: AP-2alpha; motif: GCCNNNRGS; match class: 1",1
+"545","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN",1
+"546","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 0",1
+"547","TF","Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 1",1
+"548","TF","Factor: AP-2alpha; motif: NSCCNCRGGSN",1
+"549","TF","Factor: AP-2alpha; motif: NSCCNCRGGSN; match class: 0",1
+"550","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN",1
+"551","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 0",1
+"552","TF","Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 1",1
+"553","TF","Factor: AP-2gamma; motif: GCCYNCRGSN",1
+"554","TF","Factor: AP-2gamma; motif: GCCYNCRGSN; match class: 0",1
+"555","TF","Factor: AP-2gamma; motif: GCCYNNGGS",1
+"556","TF","Factor: AP-2gamma; motif: GCCYNNGGS; match class: 0",1
+"557","TF","Factor: AP-2gamma; motif: GCCYNNGGS; match class: 1",1
+"558","TF","Factor: AP-3; motif: TCYMMATT",1
+"559","TF","Factor: AP-3; motif: TCYMMATT; match class: 0",1
+"560","TF","Factor: AP-3; motif: TKGAAAKN",1
+"561","TF","Factor: AP-3; motif: TKGAAAKN; match class: 0",1
+"562","TF","Factor: AP-3; motif: TKGAAAKN; match class: 1",1
+"563","TF","Factor: AP-4:Dlx-3; motif: NCAGCTGNNNNNNGTAATKR",1
+"564","TF","Factor: AP-4:Dlx-3; motif: NCAGCTGNNNNNNGTAATKR; match class: 0",1
+"565","TF","Factor: AP1; motif: TGACTCA",1
+"566","TF","Factor: AP1; motif: TGACTCA; match class: 0",1
+"567","TF","Factor: AP2; motif: GCCYGSGGSN",1
+"568","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 0",1
+"569","TF","Factor: AP2; motif: GCCYGSGGSN; match class: 1",1
+"570","TF","Factor: AR; motif: AGAACANNNTGTTCT",1
+"571","TF","Factor: AR; motif: AGAACANNNTGTTCT; match class: 0",1
+"572","TF","Factor: AR; motif: AGWACATNWTGTTCT",1
+"573","TF","Factor: AR; motif: AGWACATNWTGTTCT; match class: 0",1
+"574","TF","Factor: AR; motif: ARGAACANNNTGTNC",1
+"575","TF","Factor: AR; motif: ARGAACANNNTGTNC; match class: 0",1
+"576","TF","Factor: AR; motif: ARGAACANNNTGTNC; match class: 1",1
+"577","TF","Factor: AR; motif: GNNCNNNNTGTTCTN",1
+"578","TF","Factor: AR; motif: GNNCNNNNTGTTCTN; match class: 0",1
+"579","TF","Factor: AR; motif: GNNCNNNNTGTTCTN; match class: 1",1
+"580","TF","Factor: AR; motif: NNNGNRRGNACANNGTGTTCTNNNNNN",1
+"581","TF","Factor: AR; motif: NNNGNRRGNACANNGTGTTCTNNNNNN; match class: 0",1
+"582","TF","Factor: AR; motif: NNNNNNRGNACRNNGTGTTCTNNNNNN",1
+"583","TF","Factor: AR; motif: NNNNNNRGNACRNNGTGTTCTNNNNNN; match class: 0",1
+"584","TF","Factor: BARHL2; motif: NNTAATTGNN",1
+"585","TF","Factor: BARHL2; motif: NNTAATTGNN; match class: 0",1
+"586","TF","Factor: BARHL2; motif: NNTAATTGNN; match class: 1",1
+"587","TF","Factor: Barx-2; motif: TAANTAATTANTKNTN",1
+"588","TF","Factor: Barx-2; motif: TAANTAATTANTKNTN; match class: 0",1
+"589","TF","Factor: Barx-2; motif: TAANTAATTANTKNTN; match class: 1",1
+"590","TF","Factor: BARX1; motif: NCMATTAN",1
+"591","TF","Factor: BARX1; motif: NCMATTAN; match class: 0",1
+"592","TF","Factor: Bcl-6; motif: NTTYCTAGRA",1
+"593","TF","Factor: Bcl-6; motif: NTTYCTAGRA; match class: 0",1
+"594","TF","Factor: Bcl-6; motif: NTTYCTAGRA; match class: 1",1
+"595","TF","Factor: BCL-6; motif: WRCTTTCKAGGRAT; match class: 1",1
+"596","TF","Factor: beta-catenin; motif: CTTTGATN",1
+"597","TF","Factor: beta-catenin; motif: CTTTGATN; match class: 0",1
+"598","TF","Factor: beta-catenin; motif: CTTTGATN; match class: 1",1
+"599","TF","Factor: beta-catenin; motif: CTTTGWTN",1
+"600","TF","Factor: beta-catenin; motif: CTTTGWTN; match class: 0",1
+"601","TF","Factor: beta-catenin; motif: CTTTGWTN; match class: 1",1
+"602","TF","Factor: Beta-catenin; motif: GNNNNCTTTGWTGNY",1
+"603","TF","Factor: Beta-catenin; motif: GNNNNCTTTGWTGNY; match class: 0",1
+"604","TF","Factor: Beta-catenin; motif: GNNNNCTTTGWTGNY; match class: 1",1
+"605","TF","Factor: BRCA1:USF2; motif: KTNNGTTG",1
+"606","TF","Factor: BRCA1:USF2; motif: KTNNGTTG; match class: 0",1
+"607","TF","Factor: Brn-3c; motif: NNTTATTAATKANKNC",1
+"608","TF","Factor: Brn-3c; motif: NNTTATTAATKANKNC; match class: 0",1
+"609","TF","Factor: Brn-3c; motif: NNTTATTAATKANKNC; match class: 1",1
+"610","TF","Factor: BRN1; motif: HAATGCN",1
+"611","TF","Factor: BRN1; motif: HAATGCN; match class: 0",1
+"612","TF","Factor: BRN1; motif: HAATGCN; match class: 1",1
+"613","TF","Factor: BSX; motif: NYNATTAN",1
+"614","TF","Factor: BSX; motif: NYNATTAN; match class: 0",1
+"615","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS",1
+"616","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 0",1
+"617","TF","Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 1",1
+"618","TF","Factor: BTEB3; motif: BNRNGGGAGGNGT; match class: 1",1
+"619","TF","Factor: C-FOS:C-JUN; motif: ATGAGTCAYN",1
+"620","TF","Factor: C-FOS:C-JUN; motif: ATGAGTCAYN; match class: 0",1
+"621","TF","Factor: C-FOS; motif: NATGAGTCATN",1
+"622","TF","Factor: C-FOS; motif: NATGAGTCATN; match class: 0",1
+"623","TF","Factor: c-Fos; motif: NNTGASTCATN",1
+"624","TF","Factor: c-Fos; motif: NNTGASTCATN; match class: 0",1
+"625","TF","Factor: c-Fos; motif: RTGASTCAY",1
+"626","TF","Factor: c-Fos; motif: RTGASTCAY; match class: 0",1
+"627","TF","Factor: c-Jun:B-ATF; motif: RNWATGASTCA",1
+"628","TF","Factor: c-Jun:B-ATF; motif: RNWATGASTCA; match class: 0",1
+"629","TF","Factor: c-Jun:B-ATF; motif: RNWATGASTCA; match class: 1",1
+"630","TF","Factor: C-JUN:FRA-2; motif: NNRTGAGTCAYN",1
+"631","TF","Factor: C-JUN:FRA-2; motif: NNRTGAGTCAYN; match class: 0",1
+"632","TF","Factor: C-JUN:FRA-2; motif: NRTGACGTMAT",1
+"633","TF","Factor: C-JUN:FRA-2; motif: NRTGACGTMAT; match class: 0",1
+"634","TF","Factor: c-Jun; motif: NNNNRRTGASTCAN",1
+"635","TF","Factor: c-Jun; motif: NNNNRRTGASTCAN; match class: 0",1
+"636","TF","Factor: c-Jun; motif: NNNNRRTGASTCAN; match class: 1",1
+"637","TF","Factor: c-Maf; motif: NWNNNTGCTGACKNNNNNN",1
+"638","TF","Factor: c-Maf; motif: NWNNNTGCTGACKNNNNNN; match class: 0",1
+"639","TF","Factor: c-Maf; motif: NWNNNTGCTGACKNNNNNN; match class: 1",1
+"640","TF","Factor: C/EBP; motif: NNATTGCNNAANNN",1
+"641","TF","Factor: C/EBP; motif: NNATTGCNNAANNN; match class: 0",1
+"642","TF","Factor: C/EBP; motif: NNNTKNNGNAAN",1
+"643","TF","Factor: C/EBP; motif: NNNTKNNGNAAN; match class: 0",1
+"644","TF","Factor: C/EBP; motif: NTTRCNNAANNN",1
+"645","TF","Factor: C/EBP; motif: NTTRCNNAANNN; match class: 0",1
+"646","TF","Factor: C/EBPalpha; motif: NNNNNTTKCNNAAN",1
+"647","TF","Factor: C/EBPalpha; motif: NNNNNTTKCNNAAN; match class: 0",1
+"648","TF","Factor: C/EBPalpha; motif: NNNTTNNGCAANN",1
+"649","TF","Factor: C/EBPalpha; motif: NNNTTNNGCAANN; match class: 0",1
+"650","TF","Factor: C/EBPalpha; motif: NRTTGTGCAAYNN",1
+"651","TF","Factor: C/EBPalpha; motif: NRTTGTGCAAYNN; match class: 0",1
+"652","TF","Factor: C/EBPbeta; motif: KATTGCAYMAY",1
+"653","TF","Factor: C/EBPbeta; motif: KATTGCAYMAY; match class: 0",1
+"654","TF","Factor: C/EBPbeta; motif: NATTGCRYAAYN",1
+"655","TF","Factor: C/EBPbeta; motif: NATTGCRYAAYN; match class: 0",1
+"656","TF","Factor: C/EBPbeta; motif: NKNTTGCNYAAYNN",1
+"657","TF","Factor: C/EBPbeta; motif: NKNTTGCNYAAYNN; match class: 0",1
+"658","TF","Factor: C/EBPbeta; motif: NNTTKCNNMAN",1
+"659","TF","Factor: C/EBPbeta; motif: NNTTKCNNMAN; match class: 0",1
+"660","TF","Factor: C/EBPbeta; motif: RNRTKDNGMAAKNN; match class: 1",1
+"661","TF","Factor: C/EBPbeta; motif: TKNNGCAANN",1
+"662","TF","Factor: C/EBPbeta; motif: TKNNGCAANN; match class: 0",1
+"663","TF","Factor: C/EBPepsilon; motif: HAANMTTKCNWMAC",1
+"664","TF","Factor: C/EBPepsilon; motif: HAANMTTKCNWMAC; match class: 0",1
+"665","TF","Factor: C/EBPepsilon; motif: MTTDCNNMAB",1
+"666","TF","Factor: C/EBPepsilon; motif: MTTDCNNMAB; match class: 0",1
+"667","TF","Factor: C/EBPgamma; motif: NRTKRSRMAAKN",1
+"668","TF","Factor: C/EBPgamma; motif: NRTKRSRMAAKN; match class: 0",1
+"669","TF","Factor: C/EBPgamma; motif: YTBATTTCARAAW",1
+"670","TF","Factor: C/EBPgamma; motif: YTBATTTCARAAW; match class: 0",1
+"671","TF","Factor: C/EBPgamma; motif: YTBATTTCARAAW; match class: 1",1
+"672","TF","Factor: Cart-1; motif: NNNTAATTNNCATTANCN",1
+"673","TF","Factor: Cart-1; motif: NNNTAATTNNCATTANCN; match class: 0",1
+"674","TF","Factor: Cart-1; motif: NNNTAATTNNCATTANCN; match class: 1",1
+"675","TF","Factor: CART1; motif: NGNNYTAATTARTNNNN",1
+"676","TF","Factor: CART1; motif: NGNNYTAATTARTNNNN; match class: 0",1
+"677","TF","Factor: CART1; motif: NGNNYTAATTARTNNNN; match class: 1",1
+"678","TF","Factor: CDP:HOXA13; motif: ATCGATYAYSYCRTAAA",1
+"679","TF","Factor: CDP:HOXA13; motif: ATCGATYAYSYCRTAAA; match class: 0",1
+"680","TF","Factor: CDP:HOXA13; motif: ATCGATYAYSYCRTAAA; match class: 1",1
+"681","TF","Factor: CDP:HOXB13; motif: SYMRTAAANATYGATY",1
+"682","TF","Factor: CDP:HOXB13; motif: SYMRTAAANATYGATY; match class: 0",1
+"683","TF","Factor: CDP:SRF; motif: NCCWTAYAAGGTMNKRATCRATN",1
+"684","TF","Factor: CDP:SRF; motif: NCCWTAYAAGGTMNKRATCRATN; match class: 0",1
+"685","TF","Factor: CDP:SRF; motif: NCCWTAYAAGGTMNKRATCRATN; match class: 1",1
+"686","TF","Factor: CDP:T-bet; motif: NTCACACNYYRATCRATM",1
+"687","TF","Factor: CDP:T-bet; motif: NTCACACNYYRATCRATM; match class: 0",1
+"688","TF","Factor: CDP:T-bet; motif: NTCACACNYYRATCRATM; match class: 1",1
+"689","TF","Factor: CDP; motif: ATCGATNNNNNATCRAT",1
+"690","TF","Factor: CDP; motif: ATCGATNNNNNATCRAT; match class: 0",1
+"691","TF","Factor: CDP; motif: ATCGATNNNNNATCRAT; match class: 1",1
+"692","TF","Factor: CDP; motif: ATCGATNNNNNNATCRAT",1
+"693","TF","Factor: CDP; motif: ATCGATNNNNNNATCRAT; match class: 0",1
+"694","TF","Factor: CDP; motif: ATCGATNNNNNNATCRAT; match class: 1",1
+"695","TF","Factor: CDP; motif: CACCRATANNTATBG",1
+"696","TF","Factor: CDP; motif: CACCRATANNTATBG; match class: 0",1
+"697","TF","Factor: CDP; motif: CACCRATANNTATBG; match class: 1",1
+"698","TF","Factor: CDP; motif: CCAATAATCGAT",1
+"699","TF","Factor: CDP; motif: CCAATAATCGAT; match class: 0",1
+"700","TF","Factor: CDP; motif: CCAATAATCGAT; match class: 1",1
+"701","TF","Factor: CDP; motif: NATCGATCGS",1
+"702","TF","Factor: CDP; motif: NATCGATCGS; match class: 0",1
+"703","TF","Factor: CDP; motif: NATYGATSSS",1
+"704","TF","Factor: CDP; motif: NATYGATSSS; match class: 0",1
+"705","TF","Factor: CDP; motif: NATYGATSSS; match class: 1",1
+"706","TF","Factor: CDP; motif: NNNNWGWYMAATR",1
+"707","TF","Factor: CDP; motif: NNNNWGWYMAATR; match class: 0",1
+"708","TF","Factor: CDP; motif: NNNNWGWYMAATR; match class: 1",1
+"709","TF","Factor: CDP; motif: NWNATCGATTANYNN",1
+"710","TF","Factor: CDP; motif: NWNATCGATTANYNN; match class: 0",1
+"711","TF","Factor: CDP; motif: NWNATCGATTANYNN; match class: 1",1
+"712","TF","Factor: CDP; motif: TRATCRATAN",1
+"713","TF","Factor: CDP; motif: TRATCRATAN; match class: 0",1
+"714","TF","Factor: CDP; motif: TRATCRATAN; match class: 1",1
+"715","TF","Factor: Cdx-1; motif: TTTATK",1
+"716","TF","Factor: Cdx-1; motif: TTTATK; match class: 0",1
+"717","TF","Factor: Cdx-1; motif: TTTATK; match class: 1",1
+"718","TF","Factor: Cdx-2; motif: ANANTTTTATKRCC",1
+"719","TF","Factor: Cdx-2; motif: ANANTTTTATKRCC; match class: 0",1
+"720","TF","Factor: Cdx-2; motif: BNNATAAANRN",1
+"721","TF","Factor: Cdx-2; motif: BNNATAAANRN; match class: 0",1
+"722","TF","Factor: Cdx-2; motif: GYMATAAAA",1
+"723","TF","Factor: Cdx-2; motif: GYMATAAAA; match class: 0",1
+"724","TF","Factor: Cdx-2; motif: NNGYMATAAAA",1
+"725","TF","Factor: Cdx-2; motif: NNGYMATAAAA; match class: 0",1
+"726","TF","Factor: Cdx-2; motif: NNNGGYMATAAAANNN",1
+"727","TF","Factor: Cdx-2; motif: NNNGGYMATAAAANNN; match class: 0",1
+"728","TF","Factor: Cdx-2; motif: NNNNNWTTTATNNN",1
+"729","TF","Factor: Cdx-2; motif: NNNNNWTTTATNNN; match class: 0",1
+"730","TF","Factor: CDX-2; motif: TTTATN",1
+"731","TF","Factor: CDX-2; motif: TTTATN; match class: 0",1
+"732","TF","Factor: CDX-2; motif: TTTATN; match class: 1",1
+"733","TF","Factor: Cdx; motif: NAYNRHNARAKTHATAAA",1
+"734","TF","Factor: Cdx; motif: NAYNRHNARAKTHATAAA; match class: 0",1
+"735","TF","Factor: Cdx; motif: NAYNRHNARAKTHATAAA; match class: 1",1
+"736","TF","Factor: cdx; motif: NNTTTATNN",1
+"737","TF","Factor: cdx; motif: NNTTTATNN; match class: 0",1
+"738","TF","Factor: CEBPA; motif: ATTGCAYAAYN",1
+"739","TF","Factor: CEBPA; motif: ATTGCAYAAYN; match class: 0",1
+"740","TF","Factor: Churchill; motif: CGGGNN; match class: 1",1
+"741","TF","Factor: CKROX; motif: SCCCTCCCC",1
+"742","TF","Factor: CKROX; motif: SCCCTCCCC; match class: 0",1
+"743","TF","Factor: COUP-TF1; motif: RRGGTCAAAGGTCAN",1
+"744","TF","Factor: COUP-TF1; motif: RRGGTCAAAGGTCAN; match class: 0",1
+"745","TF","Factor: COUP-TF1; motif: TGACCTY",1
+"746","TF","Factor: COUP-TF1; motif: TGACCTY; match class: 0",1
+"747","TF","Factor: CPEB1; motif: AATAAAAA",1
+"748","TF","Factor: CPEB1; motif: AATAAAAA; match class: 0",1
+"749","TF","Factor: CPEB1; motif: AATAAAAA; match class: 1",1
+"750","TF","Factor: CRX; motif: YTAATC",1
+"751","TF","Factor: CRX; motif: YTAATC; match class: 0",1
+"752","TF","Factor: CRX; motif: YTAATC; match class: 1",1
+"753","TF","Factor: ctcf; motif: CCNCNAGRKGGCRSTN",1
+"754","TF","Factor: ctcf; motif: CCNCNAGRKGGCRSTN; match class: 0",1
+"755","TF","Factor: ctcf; motif: CCNCNAGRKGGCRSTN; match class: 1",1
+"756","TF","Factor: CTCF; motif: NCCRSTAGGGGGCGC",1
+"757","TF","Factor: CTCF; motif: NCCRSTAGGGGGCGC; match class: 0",1
+"758","TF","Factor: CTCF; motif: NCCRSTAGGGGGCGC; match class: 1",1
+"759","TF","Factor: DBP; motif: TTRCATAANN",1
+"760","TF","Factor: DBP; motif: TTRCATAANN; match class: 0",1
+"761","TF","Factor: DBP; motif: TTRCATAANN; match class: 1",1
+"762","TF","Factor: DBP; motif: TTWTGYAA",1
+"763","TF","Factor: DBP; motif: TTWTGYAA; match class: 0",1
+"764","TF","Factor: Dlx-1; motif: NNTAATTANN",1
+"765","TF","Factor: Dlx-1; motif: NNTAATTANN; match class: 0",1
+"766","TF","Factor: Dlx-1; motif: NNTAATTANN; match class: 1",1
+"767","TF","Factor: Dlx-2; motif: NYAATTAN",1
+"768","TF","Factor: Dlx-2; motif: NYAATTAN; match class: 0",1
+"769","TF","Factor: Dlx-2; motif: NYAATTAN; match class: 1",1
+"770","TF","Factor: Dlx-3; motif: NNNNNATAATTACMNNN",1
+"771","TF","Factor: Dlx-3; motif: NNNNNATAATTACMNNN; match class: 0",1
+"772","TF","Factor: Dlx-3; motif: NNNNNATAATTACMNNN; match class: 1",1
+"773","TF","Factor: Dlx-3; motif: NTAATTNVN",1
+"774","TF","Factor: Dlx-3; motif: NTAATTNVN; match class: 0",1
+"775","TF","Factor: Dlx-3; motif: NTAATTNVN; match class: 1",1
+"776","TF","Factor: Dlx-5; motif: AATTAN",1
+"777","TF","Factor: Dlx-5; motif: AATTAN; match class: 0",1
+"778","TF","Factor: Dlx-5; motif: AATTAN; match class: 1",1
+"779","TF","Factor: Dlx-5; motif: NNRGYAATTRNYKNNN",1
+"780","TF","Factor: Dlx-5; motif: NNRGYAATTRNYKNNN; match class: 0",1
+"781","TF","Factor: Dlx-5; motif: NNRGYAATTRNYKNNN; match class: 1",1
+"782","TF","Factor: Dlx-5; motif: NYAATTAN",1
+"783","TF","Factor: Dlx-5; motif: NYAATTAN; match class: 0",1
+"784","TF","Factor: DMRT4; motif: AATGTADCAAWTT",1
+"785","TF","Factor: DMRT4; motif: AATGTADCAAWTT; match class: 0",1
+"786","TF","Factor: DRI1; motif: AATTAA",1
+"787","TF","Factor: DRI1; motif: AATTAA; match class: 0",1
+"788","TF","Factor: DRI1; motif: AATTAA; match class: 1",1
+"789","TF","Factor: DUXA; motif: NTRAYYTAATCAN",1
+"790","TF","Factor: DUXA; motif: NTRAYYTAATCAN; match class: 0",1
+"791","TF","Factor: E2F-1; motif: NGGGCGGGARV; match class: 1",1
+"792","TF","Factor: E2F-1; motif: TTTGGCGCCAAA",1
+"793","TF","Factor: E2F-1; motif: TTTGGCGCCAAA; match class: 0",1
+"794","TF","Factor: E2F-1; motif: TTTGGCGCCAAA; match class: 1",1
+"795","TF","Factor: E2F-1; motif: WWTGGCGCCAAA",1
+"796","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 0",1
+"797","TF","Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1",1
+"798","TF","Factor: E2F-3; motif: GGCGGGN; match class: 1",1
+"799","TF","Factor: E2F; motif: GGCGSG; match class: 1",1
+"800","TF","Factor: Egr-1; motif: GCGCATGCG",1
+"801","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 0",1
+"802","TF","Factor: Egr-1; motif: GCGCATGCG; match class: 1",1
+"803","TF","Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN",1
+"804","TF","Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN; match class: 0",1
+"805","TF","Factor: EGR; motif: CGCCCCCGCNN",1
+"806","TF","Factor: EGR; motif: CGCCCCCGCNN; match class: 0",1
+"807","TF","Factor: EGR; motif: CGCCCCCGCNN; match class: 1",1
+"808","TF","Factor: EGR1; motif: NACGCCCACGCANW",1
+"809","TF","Factor: EGR1; motif: NACGCCCACGCANW; match class: 0",1
+"810","TF","Factor: EGR1; motif: NACGCCCACGCANW; match class: 1",1
+"811","TF","Factor: EGR1; motif: NCNCCGCCCCCGCN",1
+"812","TF","Factor: EGR1; motif: NCNCCGCCCCCGCN; match class: 0",1
+"813","TF","Factor: Elf5; motif: WNAAGGAARTW",1
+"814","TF","Factor: Elf5; motif: WNAAGGAARTW; match class: 0",1
+"815","TF","Factor: Elf5; motif: WNAAGGAARTW; match class: 1",1
+"816","TF","Factor: Elk-1:EVX1; motif: NNCGGWAATNNYMATTA",1
+"817","TF","Factor: Elk-1:EVX1; motif: NNCGGWAATNNYMATTA; match class: 0",1
+"818","TF","Factor: Elk-1:EVX1; motif: NNCGGWAATNNYMATTA; match class: 1",1
+"819","TF","Factor: EMX1; motif: NNTAATKANN",1
+"820","TF","Factor: EMX1; motif: NNTAATKANN; match class: 0",1
+"821","TF","Factor: EMX1; motif: NNTAATKANN; match class: 1",1
+"822","TF","Factor: EMX1; motif: NNTAATTANN",1
+"823","TF","Factor: EMX1; motif: NNTAATTANN; match class: 0",1
+"824","TF","Factor: EMX1; motif: NNTAATTANN; match class: 1",1
+"825","TF","Factor: EN1; motif: NYAATTAN",1
+"826","TF","Factor: EN1; motif: NYAATTAN; match class: 0",1
+"827","TF","Factor: EN1; motif: TAATTRSNYAATTA",1
+"828","TF","Factor: EN1; motif: TAATTRSNYAATTA; match class: 0",1
+"829","TF","Factor: EN1; motif: TAATTRSNYAATTA; match class: 1",1
+"830","TF","Factor: ESX1; motif: NNYAATTANN",1
+"831","TF","Factor: ESX1; motif: NNYAATTANN; match class: 0",1
+"832","TF","Factor: ESX1; motif: NNYAATTANN; match class: 1",1
+"833","TF","Factor: ETF; motif: GVGGMGG",1
+"834","TF","Factor: ETF; motif: GVGGMGG; match class: 0",1
+"835","TF","Factor: ETF; motif: GVGGMGG; match class: 1",1
+"836","TF","Factor: EVX1; motif: NNTNATTANN",1
+"837","TF","Factor: EVX1; motif: NNTNATTANN; match class: 0",1
+"838","TF","Factor: EVX1; motif: NNTNATTANN; match class: 1",1
+"839","TF","Factor: EVX2; motif: NNTNATTANN",1
+"840","TF","Factor: EVX2; motif: NNTNATTANN; match class: 0",1
+"841","TF","Factor: EVX2; motif: NNTNATTANN; match class: 1",1
+"842","TF","Factor: EVX2; motif: TTTTATKRCNNN",1
+"843","TF","Factor: EVX2; motif: TTTTATKRCNNN; match class: 0",1
+"844","TF","Factor: EVX2; motif: TTTTATKRCNNN; match class: 1",1
+"845","TF","Factor: FAC1; motif: NNNCAMAACACRNA",1
+"846","TF","Factor: FAC1; motif: NNNCAMAACACRNA; match class: 0",1
+"847","TF","Factor: FAC1; motif: NNNCAMAACACRNA; match class: 1",1
+"848","TF","Factor: FKHL5; motif: ATGTTTAT",1
+"849","TF","Factor: FKHL5; motif: ATGTTTAT; match class: 0",1
+"850","TF","Factor: FKLF; motif: BGGGNGGVMD",1
+"851","TF","Factor: FKLF; motif: BGGGNGGVMD; match class: 0",1
+"852","TF","Factor: FKLF; motif: BGGGNGGVMD; match class: 1",1
+"853","TF","Factor: FOSB:JUND; motif: NNTNACTNATN",1
+"854","TF","Factor: FOSB:JUND; motif: NNTNACTNATN; match class: 0",1
+"855","TF","Factor: FOSB:JUND; motif: NNTNACTNATN; match class: 1",1
+"856","TF","Factor: FOX; motif: KWTTGTTTRTTTW",1
+"857","TF","Factor: FOX; motif: KWTTGTTTRTTTW; match class: 0",1
+"858","TF","Factor: Foxc1; motif: TTVYTTTNW",1
+"859","TF","Factor: Foxc1; motif: TTVYTTTNW; match class: 0",1
+"860","TF","Factor: Foxc1; motif: TTVYTTTNW; match class: 1",1
+"861","TF","Factor: FOXD2; motif: NRNWAATATTTAYN",1
+"862","TF","Factor: FOXD2; motif: NRNWAATATTTAYN; match class: 0",1
+"863","TF","Factor: FOXD3; motif: NAWTGTTTRTTT",1
+"864","TF","Factor: FOXD3; motif: NAWTGTTTRTTT; match class: 0",1
+"865","TF","Factor: FOXJ2:HOXB13; motif: TTTTATNDGNMAACA",1
+"866","TF","Factor: FOXJ2:HOXB13; motif: TTTTATNDGNMAACA; match class: 0",1
+"867","TF","Factor: FOXJ2; motif: AYMATAATATTTKN",1
+"868","TF","Factor: FOXJ2; motif: AYMATAATATTTKN; match class: 0",1
+"869","TF","Factor: FOXJ2; motif: AYMATAATATTTKN; match class: 1",1
+"870","TF","Factor: FOXJ3; motif: RTAAACAA",1
+"871","TF","Factor: FOXJ3; motif: RTAAACAA; match class: 0",1
+"872","TF","Factor: FOXJ3; motif: RTAAACAA; match class: 1",1
+"873","TF","Factor: FOXL2; motif: TWAKACWAMTTT",1
+"874","TF","Factor: FOXL2; motif: TWAKACWAMTTT; match class: 0",1
+"875","TF","Factor: FOXL2; motif: TWAKACWAMTTT; match class: 1",1
+"876","TF","Factor: FOXM1; motif: NAGASTGATTA",1
+"877","TF","Factor: FOXM1; motif: NAGASTGATTA; match class: 0",1
+"878","TF","Factor: FOXM1; motif: NAGASTGATTA; match class: 1",1
+"879","TF","Factor: Foxm1; motif: NTGTTTRT",1
+"880","TF","Factor: Foxm1; motif: NTGTTTRT; match class: 0",1
+"881","TF","Factor: FOXM1; motif: TRTTTATNN",1
+"882","TF","Factor: FOXM1; motif: TRTTTATNN; match class: 0",1
+"883","TF","Factor: FOXO1; motif: GTAAACATGTTTAC",1
+"884","TF","Factor: FOXO1; motif: GTAAACATGTTTAC; match class: 0",1
+"885","TF","Factor: FOXO1; motif: GTAAACATGTTTAC; match class: 1",1
+"886","TF","Factor: FOXO1; motif: NRWAAACAAN",1
+"887","TF","Factor: FOXO1; motif: NRWAAACAAN; match class: 0",1
+"888","TF","Factor: FOXO1A:HOXA10; motif: RWMAACANCRTWAA",1
+"889","TF","Factor: FOXO1A:HOXA10; motif: RWMAACANCRTWAA; match class: 0",1
+"890","TF","Factor: FOXO1A:HOXA10; motif: RWMAACANCRTWAA; match class: 1",1
+"891","TF","Factor: FOXO1A:Net; motif: RWMAACAGGAAGTN; match class: 1",1
+"892","TF","Factor: FOXO1A:PDEF; motif: WNCCGGATGTTDN",1
+"893","TF","Factor: FOXO1A:PDEF; motif: WNCCGGATGTTDN; match class: 0",1
+"894","TF","Factor: FOXO1A:PDEF; motif: WNCCGGATGTTDN; match class: 1",1
+"895","TF","Factor: FOXO1A; motif: AAACAA",1
+"896","TF","Factor: FOXO1A; motif: AAACAA; match class: 0",1
+"897","TF","Factor: FOXO1A; motif: AAACAA; match class: 1",1
+"898","TF","Factor: FOXO3; motif: GTAAACATGTTTAC",1
+"899","TF","Factor: FOXO3; motif: GTAAACATGTTTAC; match class: 0",1
+"900","TF","Factor: FOXO3; motif: GTAAACATGTTTAC; match class: 1",1
+"901","TF","Factor: FOXO3; motif: TNNTTGTTTACNTW",1
+"902","TF","Factor: FOXO3; motif: TNNTTGTTTACNTW; match class: 0",1
+"903","TF","Factor: FOXO3A; motif: NNNRTAAACANNN",1
+"904","TF","Factor: FOXO3A; motif: NNNRTAAACANNN; match class: 0",1
+"905","TF","Factor: FOXO3A; motif: TRTAAACAANWN; match class: 1",1
+"906","TF","Factor: FOXP3; motif: NNNVAAACANWD",1
+"907","TF","Factor: FOXP3; motif: NNNVAAACANWD; match class: 0",1
+"908","TF","Factor: FOXP3; motif: RTAAACAA",1
+"909","TF","Factor: FOXP3; motif: RTAAACAA; match class: 0",1
+"910","TF","Factor: Fra-1; motif: ACTCATG",1
+"911","TF","Factor: Fra-1; motif: ACTCATG; match class: 0",1
+"912","TF","Factor: Fra-1; motif: NRTGACTCATN",1
+"913","TF","Factor: Fra-1; motif: NRTGACTCATN; match class: 0",1
+"914","TF","Factor: Fra-2; motif: RTGACTCANNN",1
+"915","TF","Factor: Fra-2; motif: RTGACTCANNN; match class: 0",1
+"916","TF","Factor: FRA-2; motif: RTGANTCA",1
+"917","TF","Factor: FRA-2; motif: RTGANTCA; match class: 0",1
+"918","TF","Factor: FRA-2; motif: RTGANTCA; match class: 1",1
+"919","TF","Factor: Fra-2; motif: TGASTCANCN",1
+"920","TF","Factor: Fra-2; motif: TGASTCANCN; match class: 0",1
+"921","TF","Factor: Freac-3; motif: NNNNNGTAAATAAACA",1
+"922","TF","Factor: Freac-3; motif: NNNNNGTAAATAAACA; match class: 0",1
+"923","TF","Factor: Freac-3; motif: NNNNNGTAAATAAACA; match class: 1",1
+"924","TF","Factor: Freac-7; motif: WNNANATAAAYANNNN",1
+"925","TF","Factor: Freac-7; motif: WNNANATAAAYANNNN; match class: 0",1
+"926","TF","Factor: GATA-1; motif: CCTTATCTS",1
+"927","TF","Factor: GATA-1; motif: CCTTATCTS; match class: 0",1
+"928","TF","Factor: GATA-1; motif: CCTTATCTS; match class: 1",1
+"929","TF","Factor: GATA-1; motif: MNAGATAANR",1
+"930","TF","Factor: GATA-1; motif: MNAGATAANR; match class: 0",1
+"931","TF","Factor: GATA-1; motif: MNAGATAANR; match class: 1",1
+"932","TF","Factor: GATA-1; motif: NCWGATAACA",1
+"933","TF","Factor: GATA-1; motif: NCWGATAACA; match class: 0",1
+"934","TF","Factor: GATA-1; motif: NCWGATAACA; match class: 1",1
+"935","TF","Factor: GATA-1; motif: NGATAAN",1
+"936","TF","Factor: GATA-1; motif: NGATAAN; match class: 0",1
+"937","TF","Factor: GATA-1; motif: NGATAAN; match class: 1",1
+"938","TF","Factor: GATA-1; motif: NNCWGATARNNNN",1
+"939","TF","Factor: GATA-1; motif: NNCWGATARNNNN; match class: 0",1
+"940","TF","Factor: GATA-1; motif: NNNNNWGATARNNNN",1
+"941","TF","Factor: GATA-1; motif: NNNNNWGATARNNNN; match class: 0",1
+"942","TF","Factor: GATA-1; motif: NTGNNNNNNNSAGATAAGR",1
+"943","TF","Factor: GATA-1; motif: NTGNNNNNNNSAGATAAGR; match class: 0",1
+"944","TF","Factor: GATA-1; motif: NTGNNNNNNNSAGATAAGR; match class: 1",1
+"945","TF","Factor: GATA-2; motif: ASAGATAANA",1
+"946","TF","Factor: GATA-2; motif: ASAGATAANA; match class: 0",1
+"947","TF","Factor: GATA-2; motif: ASAGATAANA; match class: 1",1
+"948","TF","Factor: GATA-2; motif: NNWGATAASA",1
+"949","TF","Factor: GATA-2; motif: NNWGATAASA; match class: 0",1
+"950","TF","Factor: GATA-2; motif: NSAGATAAGNN",1
+"951","TF","Factor: GATA-2; motif: NSAGATAAGNN; match class: 0",1
+"952","TF","Factor: GATA-3; motif: AGATAA",1
+"953","TF","Factor: GATA-3; motif: AGATAA; match class: 0",1
+"954","TF","Factor: GATA-3; motif: AGATAA; match class: 1",1
+"955","TF","Factor: GATA-3; motif: ANAGATMWWA",1
+"956","TF","Factor: GATA-3; motif: ANAGATMWWA; match class: 0",1
+"957","TF","Factor: GATA-3; motif: ANAGATMWWA; match class: 1",1
+"958","TF","Factor: GATA-3; motif: NGAGATAANA",1
+"959","TF","Factor: GATA-3; motif: NGAGATAANA; match class: 0",1
+"960","TF","Factor: GATA-3; motif: NGAGATAANA; match class: 1",1
+"961","TF","Factor: GATA-3; motif: NNAGATAANAW",1
+"962","TF","Factor: GATA-3; motif: NNAGATAANAW; match class: 0",1
+"963","TF","Factor: GATA-3; motif: WGATAASN",1
+"964","TF","Factor: GATA-3; motif: WGATAASN; match class: 0",1
+"965","TF","Factor: GATA-3; motif: WGATAASN; match class: 1",1
+"966","TF","Factor: GATA-4; motif: AGATAAN",1
+"967","TF","Factor: GATA-4; motif: AGATAAN; match class: 0",1
+"968","TF","Factor: GATA-4; motif: AGATAAN; match class: 1",1
+"969","TF","Factor: GATA-5; motif: TATCTN",1
+"970","TF","Factor: GATA-5; motif: TATCTN; match class: 0",1
+"971","TF","Factor: GATA-5; motif: TATCTN; match class: 1",1
+"972","TF","Factor: GATA-6; motif: AGATAAN",1
+"973","TF","Factor: GATA-6; motif: AGATAAN; match class: 0",1
+"974","TF","Factor: GATA-6; motif: AGATAAN; match class: 1",1
+"975","TF","Factor: GATA-6; motif: NNNAGATAAGAWAN",1
+"976","TF","Factor: GATA-6; motif: NNNAGATAAGAWAN; match class: 0",1
+"977","TF","Factor: GATA-6; motif: NNNAGATAAGAWAN; match class: 1",1
+"978","TF","Factor: GATA-X; motif: NGATAAGNMNN",1
+"979","TF","Factor: GATA-X; motif: NGATAAGNMNN; match class: 0",1
+"980","TF","Factor: GATA-X; motif: NGATAAGNMNN; match class: 1",1
+"981","TF","Factor: GATA; motif: WGATARN",1
+"982","TF","Factor: GATA; motif: WGATARN; match class: 0",1
+"983","TF","Factor: GATA; motif: WGATARN; match class: 1",1
+"984","TF","Factor: GATA2; motif: NNNTTCTTATCTSN",1
+"985","TF","Factor: GATA2; motif: NNNTTCTTATCTSN; match class: 0",1
+"986","TF","Factor: GATA2; motif: NNNTTCTTATCTSN; match class: 1",1
+"987","TF","Factor: GATA3; motif: AGATAAGA",1
+"988","TF","Factor: GATA3; motif: AGATAAGA; match class: 0",1
+"989","TF","Factor: GATA3; motif: AGATAAGA; match class: 1",1
+"990","TF","Factor: GATA3; motif: NGATAANN",1
+"991","TF","Factor: GATA3; motif: NGATAANN; match class: 0",1
+"992","TF","Factor: GATA3; motif: NGATAANN; match class: 1",1
+"993","TF","Factor: GATA6; motif: NNNAGATAAGANN",1
+"994","TF","Factor: GATA6; motif: NNNAGATAAGANN; match class: 0",1
+"995","TF","Factor: GATA6; motif: NNNAGATAAGANN; match class: 1",1
+"996","TF","Factor: GBX2; motif: NNYAATTANN",1
+"997","TF","Factor: GBX2; motif: NNYAATTANN; match class: 0",1
+"998","TF","Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 1",1
+"999","TF","Factor: GCMa:FOXO1A; motif: GTMAATAMGGGTRN",1
+"1000","TF","Factor: GCMa:FOXO1A; motif: GTMAATAMGGGTRN; match class: 0",1
+"1001","TF","Factor: GCMa:FOXO1A; motif: GTMAATAMGGGTRN; match class: 1",1
+"1002","TF","Factor: GEMIN3; motif: NCWGGRARRGRGNGNG; match class: 1",1
+"1003","TF","Factor: Gfi1; motif: NAAATCNSNG",1
+"1004","TF","Factor: Gfi1; motif: NAAATCNSNG; match class: 0",1
+"1005","TF","Factor: GKLF; motif: NNNRGGNGNGGSN",1
+"1006","TF","Factor: GKLF; motif: NNNRGGNGNGGSN; match class: 0",1
+"1007","TF","Factor: GKLF; motif: NNRRGRRNGNSNNN",1
+"1008","TF","Factor: GKLF; motif: NNRRGRRNGNSNNN; match class: 0",1
+"1009","TF","Factor: GR; motif: CNNNNTGTYCTNN",1
+"1010","TF","Factor: GR; motif: CNNNNTGTYCTNN; match class: 0",1
+"1011","TF","Factor: GR; motif: CNNNNTGTYCTNN; match class: 1",1
+"1012","TF","Factor: GR; motif: GGTACAANNTGTYCTK",1
+"1013","TF","Factor: GR; motif: GGTACAANNTGTYCTK; match class: 0",1
+"1014","TF","Factor: GR; motif: GGTACAANNTGTYCTK; match class: 1",1
+"1015","TF","Factor: GR; motif: NNNNNNCNNTNTGTNCTNN",1
+"1016","TF","Factor: GR; motif: NNNNNNCNNTNTGTNCTNN; match class: 0",1
+"1017","TF","Factor: GR; motif: NNNNNNCNNTNTGTNCTNN; match class: 1",1
+"1018","TF","Factor: GR; motif: NNNNNNNGKACNNNNTGTTCTNNNNNN",1
+"1019","TF","Factor: GR; motif: NNNNNNNGKACNNNNTGTTCTNNNNNN; match class: 0",1
+"1020","TF","Factor: GSX1; motif: NNYMATTANN",1
+"1021","TF","Factor: GSX1; motif: NNYMATTANN; match class: 0",1
+"1022","TF","Factor: GSX1; motif: NNYMATTANN; match class: 1",1
+"1023","TF","Factor: GSX2; motif: NNYMATTANN",1
+"1024","TF","Factor: GSX2; motif: NNYMATTANN; match class: 0",1
+"1025","TF","Factor: GSX2; motif: NNYMATTANN; match class: 1",1
+"1026","TF","Factor: HFH8; motif: NNNTGTTTATNTR",1
+"1027","TF","Factor: HFH8; motif: NNNTGTTTATNTR; match class: 0",1
+"1028","TF","Factor: HIC1; motif: NSNNNNTGCCCSSNN",1
+"1029","TF","Factor: HIC1; motif: NSNNNNTGCCCSSNN; match class: 0",1
+"1030","TF","Factor: HLTF; motif: AGSCARAAAGYRGSTGS; match class: 1",1
+"1031","TF","Factor: HMBOX1; motif: MYTAGTTAMN",1
+"1032","TF","Factor: HMBOX1; motif: MYTAGTTAMN; match class: 0",1
+"1033","TF","Factor: HMGIY; motif: NGWWATTN",1
+"1034","TF","Factor: HMGIY; motif: NGWWATTN; match class: 0",1
+"1035","TF","Factor: HMGIY; motif: NGWWATTN; match class: 1",1
+"1036","TF","Factor: HMGIY; motif: NNKKNAWTTTNYTNN",1
+"1037","TF","Factor: HMGIY; motif: NNKKNAWTTTNYTNN; match class: 0",1
+"1038","TF","Factor: HMGIY; motif: NNKKNAWTTTNYTNN; match class: 1",1
+"1039","TF","Factor: HMX1; motif: ANCAATTAANN",1
+"1040","TF","Factor: HMX1; motif: ANCAATTAANN; match class: 0",1
+"1041","TF","Factor: HMX2; motif: ANCAMTTAANN",1
+"1042","TF","Factor: HMX2; motif: ANCAMTTAANN; match class: 0",1
+"1043","TF","Factor: HMX2; motif: ANCAMTTAANN; match class: 1",1
+"1044","TF","Factor: HMX3; motif: NNCAMTTAANN",1
+"1045","TF","Factor: HMX3; motif: NNCAMTTAANN; match class: 0",1
+"1046","TF","Factor: HMX3; motif: NNCAMTTAANN; match class: 1",1
+"1047","TF","Factor: HNF-1; motif: DGTTAATKAWTNACCAM",1
+"1048","TF","Factor: HNF-1; motif: DGTTAATKAWTNACCAM; match class: 0",1
+"1049","TF","Factor: HNF-1; motif: NNNNGNTAAWNATTAACYNNN",1
+"1050","TF","Factor: HNF-1; motif: NNNNGNTAAWNATTAACYNNN; match class: 0",1
+"1051","TF","Factor: HNF-1; motif: WRGTTAATNATTAACNNN",1
+"1052","TF","Factor: HNF-1; motif: WRGTTAATNATTAACNNN; match class: 0",1
+"1053","TF","Factor: HNF-1alpha; motif: NGNNAAWNATTAACNN",1
+"1054","TF","Factor: HNF-1alpha; motif: NGNNAAWNATTAACNN; match class: 0",1
+"1055","TF","Factor: HNF-1alpha; motif: NNKNNGTTAACTAANNN",1
+"1056","TF","Factor: HNF-1alpha; motif: NNKNNGTTAACTAANNN; match class: 0",1
+"1057","TF","Factor: HNF-1alpha; motif: RGTTAATNWTT",1
+"1058","TF","Factor: HNF-1alpha; motif: RGTTAATNWTT; match class: 0",1
+"1059","TF","Factor: HNF-1beta; motif: GTTAATYATTAACY",1
+"1060","TF","Factor: HNF-1beta; motif: GTTAATYATTAACY; match class: 0",1
+"1061","TF","Factor: HNF-1beta; motif: NNNYAAHCATTAACYN",1
+"1062","TF","Factor: HNF-1beta; motif: NNNYAAHCATTAACYN; match class: 0",1
+"1063","TF","Factor: HNF-3alpha; motif: WRWGTAAAC",1
+"1064","TF","Factor: HNF-3alpha; motif: WRWGTAAAC; match class: 0",1
+"1065","TF","Factor: HNF-3alpha; motif: WRWGTAAAC; match class: 1",1
+"1066","TF","Factor: HNF-3alpha; motif: WRWGTAAAYA",1
+"1067","TF","Factor: HNF-3alpha; motif: WRWGTAAAYA; match class: 0",1
+"1068","TF","Factor: HNF-6; motif: AATCAATA",1
+"1069","TF","Factor: HNF-6; motif: AATCAATA; match class: 0",1
+"1070","TF","Factor: HNF-6; motif: RNNWAAATCAATAAN",1
+"1071","TF","Factor: HNF-6; motif: RNNWAAATCAATAAN; match class: 0",1
+"1072","TF","Factor: HNF1A; motif: NRTTAATNATTAACN",1
+"1073","TF","Factor: HNF1A; motif: NRTTAATNATTAACN; match class: 0",1
+"1074","TF","Factor: HNF3beta; motif: KGNANTRTTTRYTTW",1
+"1075","TF","Factor: HNF3beta; motif: KGNANTRTTTRYTTW; match class: 0",1
+"1076","TF","Factor: HNF4alpha; motif: VTGAACTTTGMMB",1
+"1077","TF","Factor: HNF4alpha; motif: VTGAACTTTGMMB; match class: 0",1
+"1078","TF","Factor: HOX; motif: TTWATKNN",1
+"1079","TF","Factor: HOX; motif: TTWATKNN; match class: 0",1
+"1080","TF","Factor: HOXA10; motif: ANTTTATG",1
+"1081","TF","Factor: HOXA10; motif: ANTTTATG; match class: 0",1
+"1082","TF","Factor: HOXA10; motif: NGYMATAAAAN",1
+"1083","TF","Factor: HOXA10; motif: NGYMATAAAAN; match class: 0",1
+"1084","TF","Factor: HOXA10; motif: NNNGYAATAAAATNNW",1
+"1085","TF","Factor: HOXA10; motif: NNNGYAATAAAATNNW; match class: 0",1
+"1086","TF","Factor: HOXA10; motif: NNNGYAATAAAATNNW; match class: 1",1
+"1087","TF","Factor: HOXA10; motif: TTATNNYWN",1
+"1088","TF","Factor: HOXA10; motif: TTATNNYWN; match class: 0",1
+"1089","TF","Factor: HOXA10; motif: TTATNNYWN; match class: 1",1
+"1090","TF","Factor: HOXA13; motif: ATAAMA",1
+"1091","TF","Factor: HOXA13; motif: ATAAMA; match class: 0",1
+"1092","TF","Factor: HOXA13; motif: ATAAMA; match class: 1",1
+"1093","TF","Factor: HOXA2; motif: NNTMATTANN",1
+"1094","TF","Factor: HOXA2; motif: NNTMATTANN; match class: 0",1
+"1095","TF","Factor: HOXA3; motif: NSTAATTANN",1
+"1096","TF","Factor: HOXA3; motif: NSTAATTANN; match class: 0",1
+"1097","TF","Factor: HOXA4; motif: RYCATTRN",1
+"1098","TF","Factor: HOXA4; motif: RYCATTRN; match class: 0",1
+"1099","TF","Factor: HOXA5; motif: ANGNTAATTANCNNAN",1
+"1100","TF","Factor: HOXA5; motif: ANGNTAATTANCNNAN; match class: 0",1
+"1101","TF","Factor: HOXA5; motif: ANGNTAATTANCNNAN; match class: 1",1
+"1102","TF","Factor: HOXA5; motif: CDBWAATK",1
+"1103","TF","Factor: HOXA5; motif: CDBWAATK; match class: 0",1
+"1104","TF","Factor: HOXA5; motif: TGCNHNCWYCCYCATTAKTGNDCNMNHYCN",1
+"1105","TF","Factor: HOXA5; motif: TGCNHNCWYCCYCATTAKTGNDCNMNHYCN; match class: 0",1
+"1106","TF","Factor: HOXA5; motif: TGCNHNCWYCCYCATTAKTGNDCNMNHYCN; match class: 1",1
+"1107","TF","Factor: HOXA6; motif: NYMATTAN",1
+"1108","TF","Factor: HOXA6; motif: NYMATTAN; match class: 0",1
+"1109","TF","Factor: HOXA6; motif: NYMATTAN; match class: 1",1
+"1110","TF","Factor: HOXA7; motif: NYMATTAN",1
+"1111","TF","Factor: HOXA7; motif: NYMATTAN; match class: 0",1
+"1112","TF","Factor: HOXA7; motif: NYMATTAN; match class: 1",1
+"1113","TF","Factor: Hoxa9; motif: ATYAATDACATC",1
+"1114","TF","Factor: Hoxa9; motif: ATYAATDACATC; match class: 0",1
+"1115","TF","Factor: Hoxa9; motif: ATYAATDACATC; match class: 1",1
+"1116","TF","Factor: HOXA9; motif: DTGATTTATKGY",1
+"1117","TF","Factor: HOXA9; motif: DTGATTTATKGY; match class: 0",1
+"1118","TF","Factor: HOXA9; motif: DTGATTTATKGY; match class: 1",1
+"1119","TF","Factor: hoxa9; motif: NCGGYCATWAAAWTANW",1
+"1120","TF","Factor: hoxa9; motif: NCGGYCATWAAAWTANW; match class: 0",1
+"1121","TF","Factor: hoxa9; motif: NCGGYCATWAAAWTANW; match class: 1",1
+"1122","TF","Factor: Hoxa9; motif: NTTAAWTAMA",1
+"1123","TF","Factor: Hoxa9; motif: NTTAAWTAMA; match class: 0",1
+"1124","TF","Factor: Hoxa9; motif: NTTAAWTAMA; match class: 1",1
+"1125","TF","Factor: HOXB13:TBR2; motif: ANGTGTNNMATAAAN",1
+"1126","TF","Factor: HOXB13:TBR2; motif: ANGTGTNNMATAAAN; match class: 0",1
+"1127","TF","Factor: HOXB13:TBR2; motif: ANGTGTNNMATAAAN; match class: 1",1
+"1128","TF","Factor: HOXB13; motif: CCAATAAAAN",1
+"1129","TF","Factor: HOXB13; motif: CCAATAAAAN; match class: 0",1
+"1130","TF","Factor: HOXB2:Sox-20; motif: ACAATRSNNNNNNNATYA",1
+"1131","TF","Factor: HOXB2:Sox-20; motif: ACAATRSNNNNNNNATYA; match class: 0",1
+"1132","TF","Factor: HOXB2:Sox-20; motif: ACAATRSNNNNNNNATYA; match class: 1",1
+"1133","TF","Factor: HOXB2:TBR2; motif: NNGTGNTAATKN",1
+"1134","TF","Factor: HOXB2:TBR2; motif: NNGTGNTAATKN; match class: 0",1
+"1135","TF","Factor: HOXB2; motif: NNTMATTANN",1
+"1136","TF","Factor: HOXB2; motif: NNTMATTANN; match class: 0",1
+"1137","TF","Factor: HOXB2; motif: NNTMATTANN; match class: 1",1
+"1138","TF","Factor: HOXB3; motif: NNYMATTANN",1
+"1139","TF","Factor: HOXB3; motif: NNYMATTANN; match class: 0",1
+"1140","TF","Factor: HOXB5; motif: NNYMATTANN",1
+"1141","TF","Factor: HOXB5; motif: NNYMATTANN; match class: 0",1
+"1142","TF","Factor: HOXB5; motif: NNYMATTANN; match class: 1",1
+"1143","TF","Factor: HOXB8; motif: NNNNGYAATTAATANW",1
+"1144","TF","Factor: HOXB8; motif: NNNNGYAATTAATANW; match class: 0",1
+"1145","TF","Factor: HOXC-8; motif: NNNNNGTAATTANNNT",1
+"1146","TF","Factor: HOXC-8; motif: NNNNNGTAATTANNNT; match class: 0",1
+"1147","TF","Factor: HOXC-8; motif: NNNNNGTAATTANNNT; match class: 1",1
+"1148","TF","Factor: HOXC10; motif: GYMATWAAAN",1
+"1149","TF","Factor: HOXC10; motif: GYMATWAAAN; match class: 0",1
+"1150","TF","Factor: HOXC11; motif: NGYMATAAAAN",1
+"1151","TF","Factor: HOXC11; motif: NGYMATAAAAN; match class: 0",1
+"1152","TF","Factor: HOXC11; motif: NGYMATAAAAN; match class: 1",1
+"1153","TF","Factor: HOXC13; motif: CYAATAAAAN",1
+"1154","TF","Factor: HOXC13; motif: CYAATAAAAN; match class: 0",1
+"1155","TF","Factor: HOXD10; motif: TTTTATTM",1
+"1156","TF","Factor: HOXD10; motif: TTTTATTM; match class: 0",1
+"1157","TF","Factor: HOXD10; motif: TTTTATTM; match class: 1",1
+"1158","TF","Factor: HOXD11; motif: NNYMATAAAA",1
+"1159","TF","Factor: HOXD11; motif: NNYMATAAAA; match class: 0",1
+"1160","TF","Factor: HOXD11; motif: NNYMATAAAA; match class: 1",1
+"1161","TF","Factor: HOXD12:HOXA3; motif: NTAATKGNTMATAAAN",1
+"1162","TF","Factor: HOXD12:HOXA3; motif: NTAATKGNTMATAAAN; match class: 0",1
+"1163","TF","Factor: HOXD12; motif: GTAATAAAA",1
+"1164","TF","Factor: HOXD12; motif: GTAATAAAA; match class: 0",1
+"1165","TF","Factor: HOXD13; motif: CYMATAAAAN",1
+"1166","TF","Factor: HOXD13; motif: CYMATAAAAN; match class: 0",1
+"1167","TF","Factor: HOXD13; motif: NNNYYAATAAAANNNN",1
+"1168","TF","Factor: HOXD13; motif: NNNYYAATAAAANNNN; match class: 0",1
+"1169","TF","Factor: HOXD13; motif: NNNYYAATAAAANNNN; match class: 1",1
+"1170","TF","Factor: HOXD13; motif: WNNAATAAWAY",1
+"1171","TF","Factor: HOXD13; motif: WNNAATAAWAY; match class: 0",1
+"1172","TF","Factor: HOXD13; motif: WNNAATAAWAY; match class: 1",1
+"1173","TF","Factor: HOXD4; motif: NNYMATTANN",1
+"1174","TF","Factor: HOXD4; motif: NNYMATTANN; match class: 0",1
+"1175","TF","Factor: HSF2; motif: NGAANNWTCK",1
+"1176","TF","Factor: HSF2; motif: NGAANNWTCK; match class: 0",1
+"1177","TF","Factor: Ikaros; motif: TGGGAGN; match class: 1",1
+"1178","TF","Factor: ipf1; motif: AVCTAATGAG",1
+"1179","TF","Factor: ipf1; motif: AVCTAATGAG; match class: 0",1
+"1180","TF","Factor: ipf1; motif: CATTAR",1
+"1181","TF","Factor: ipf1; motif: CATTAR; match class: 0",1
+"1182","TF","Factor: ipf1; motif: CATTAR; match class: 1",1
+"1183","TF","Factor: ipf1; motif: GHNNTAATGACM",1
+"1184","TF","Factor: ipf1; motif: GHNNTAATGACM; match class: 0",1
+"1185","TF","Factor: ipf1; motif: GHNNTAATGACM; match class: 1",1
+"1186","TF","Factor: ipf1; motif: MVCTAATTAS",1
+"1187","TF","Factor: ipf1; motif: MVCTAATTAS; match class: 0",1
+"1188","TF","Factor: Ipf1; motif: NNNNTAATKR",1
+"1189","TF","Factor: Ipf1; motif: NNNNTAATKR; match class: 0",1
+"1190","TF","Factor: ipf1; motif: NNRNTAATTAGYNCAN",1
+"1191","TF","Factor: ipf1; motif: NNRNTAATTAGYNCAN; match class: 0",1
+"1192","TF","Factor: ipf1; motif: NNRNTAATTAGYNCAN; match class: 1",1
+"1193","TF","Factor: ipf1; motif: NVSTAATTAC",1
+"1194","TF","Factor: ipf1; motif: NVSTAATTAC; match class: 0",1
+"1195","TF","Factor: ipf1; motif: NVSTAATTAC; match class: 1",1
+"1196","TF","Factor: ipf1; motif: RNWCATTAANWN",1
+"1197","TF","Factor: ipf1; motif: RNWCATTAANWN; match class: 0",1
+"1198","TF","Factor: ipf1; motif: TSNGYCATTANNNNC",1
+"1199","TF","Factor: ipf1; motif: TSNGYCATTANNNNC; match class: 0",1
+"1200","TF","Factor: ipf1; motif: YTAATGN",1
+"1201","TF","Factor: ipf1; motif: YTAATGN; match class: 0",1
+"1202","TF","Factor: IRF-1; motif: TTCACTT",1
+"1203","TF","Factor: IRF-1; motif: TTCACTT; match class: 0",1
+"1204","TF","Factor: IRF-4; motif: GAAARTA",1
+"1205","TF","Factor: IRF-4; motif: GAAARTA; match class: 0",1
+"1206","TF","Factor: IRF-4; motif: GAAARTA; match class: 1",1
+"1207","TF","Factor: IRF-7; motif: AAGWGAA",1
+"1208","TF","Factor: IRF-7; motif: AAGWGAA; match class: 0",1
+"1209","TF","Factor: IRF; motif: NNGAAANTGAAANN",1
+"1210","TF","Factor: IRF; motif: NNGAAANTGAAANN; match class: 0",1
+"1211","TF","Factor: IRF; motif: RAAANTGAAAN",1
+"1212","TF","Factor: IRF; motif: RAAANTGAAAN; match class: 0",1
+"1213","TF","Factor: IRX2; motif: NWACAYGACAWN",1
+"1214","TF","Factor: IRX2; motif: NWACAYGACAWN; match class: 0",1
+"1215","TF","Factor: IRX5; motif: NWACAYRACAWN",1
+"1216","TF","Factor: IRX5; motif: NWACAYRACAWN; match class: 0",1
+"1217","TF","Factor: IRX5; motif: NWACAYRACAWN; match class: 1",1
+"1218","TF","Factor: Isl2; motif: CTAATKR",1
+"1219","TF","Factor: Isl2; motif: CTAATKR; match class: 0",1
+"1220","TF","Factor: Isl2; motif: CTAATKR; match class: 1",1
+"1221","TF","Factor: Isl2; motif: YTAAGTG; match class: 1",1
+"1222","TF","Factor: JUNB:C-FOS; motif: NATGAGTCATNN",1
+"1223","TF","Factor: JUNB:C-FOS; motif: NATGAGTCATNN; match class: 0",1
+"1224","TF","Factor: JUNB:C-FOS; motif: NATGAGTCATNN; match class: 1",1
+"1225","TF","Factor: JUNB:C-JUN; motif: NATGACKCAT",1
+"1226","TF","Factor: JUNB:C-JUN; motif: NATGACKCAT; match class: 0",1
+"1227","TF","Factor: JUNB:FOSB; motif: NRTGASTCAT",1
+"1228","TF","Factor: JUNB:FOSB; motif: NRTGASTCAT; match class: 0",1
+"1229","TF","Factor: JUNB:FOSB; motif: NRTGASTCAT; match class: 1",1
+"1230","TF","Factor: JUNB:FRA-2; motif: NRTGASTCAT",1
+"1231","TF","Factor: JUNB:FRA-2; motif: NRTGASTCAT; match class: 0",1
+"1232","TF","Factor: JUNB:FRA-2; motif: NRTGASTCAT; match class: 1",1
+"1233","TF","Factor: JunB; motif: TGACTCAN",1
+"1234","TF","Factor: JunB; motif: TGACTCAN; match class: 0",1
+"1235","TF","Factor: JUND:C-FOS; motif: NNATGAGTCATNN",1
+"1236","TF","Factor: JUND:C-FOS; motif: NNATGAGTCATNN; match class: 0",1
+"1237","TF","Factor: JUND:FRA-2; motif: NATGACTCAT",1
+"1238","TF","Factor: JUND:FRA-2; motif: NATGACTCAT; match class: 0",1
+"1239","TF","Factor: JunD; motif: NRTGASTCATN",1
+"1240","TF","Factor: JunD; motif: NRTGASTCATN; match class: 0",1
+"1241","TF","Factor: JunD; motif: NRTGASTCATN; match class: 1",1
+"1242","TF","Factor: Kaiso; motif: GCMGGGRGCRGS; match class: 1",1
+"1243","TF","Factor: KLF4; motif: MCACACCCTNN; match class: 1",1
+"1244","TF","Factor: KROX; motif: CCCGCCCCCRCCCC",1
+"1245","TF","Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 0",1
+"1246","TF","Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 1",1
+"1247","TF","Factor: LBX2; motif: CTNRANSTAATTA",1
+"1248","TF","Factor: LBX2; motif: CTNRANSTAATTA; match class: 0",1
+"1249","TF","Factor: LBX2; motif: CTNRANSTAATTA; match class: 1",1
+"1250","TF","Factor: LBX2; motif: NNYAATTANN",1
+"1251","TF","Factor: LBX2; motif: NNYAATTANN; match class: 0",1
+"1252","TF","Factor: LBX2; motif: NNYAATTANN; match class: 1",1
+"1253","TF","Factor: LEF-1,; motif: MCTTTGWTSNY",1
+"1254","TF","Factor: LEF-1,; motif: MCTTTGWTSNY; match class: 0",1
+"1255","TF","Factor: LEF-1; motif: AAAGATCAAAGGRWW",1
+"1256","TF","Factor: LEF-1; motif: AAAGATCAAAGGRWW; match class: 0",1
+"1257","TF","Factor: LEF-1; motif: ANNWWCAAAGN",1
+"1258","TF","Factor: LEF-1; motif: ANNWWCAAAGN; match class: 0",1
+"1259","TF","Factor: LEF-1; motif: NANNWWCAAAGNN",1
+"1260","TF","Factor: LEF-1; motif: NANNWWCAAAGNN; match class: 0",1
+"1261","TF","Factor: LEF-1; motif: NNNCTTTGAT",1
+"1262","TF","Factor: LEF-1; motif: NNNCTTTGAT; match class: 0",1
+"1263","TF","Factor: LEF-1; motif: NNNCTTTGAT; match class: 1",1
+"1264","TF","Factor: LEF-1; motif: NWTCAAAGNN",1
+"1265","TF","Factor: LEF-1; motif: NWTCAAAGNN; match class: 0",1
+"1266","TF","Factor: LEF-1; motif: NWTCAAAGNN; match class: 1",1
+"1267","TF","Factor: LHX2; motif: NCTAATTANN",1
+"1268","TF","Factor: LHX2; motif: NCTAATTANN; match class: 0",1
+"1269","TF","Factor: Lhx2; motif: NYTAATTASNK",1
+"1270","TF","Factor: Lhx2; motif: NYTAATTASNK; match class: 0",1
+"1271","TF","Factor: Lhx2; motif: NYTAATTASNK; match class: 1",1
+"1272","TF","Factor: Lhx2; motif: WATTAN",1
+"1273","TF","Factor: Lhx2; motif: WATTAN; match class: 0",1
+"1274","TF","Factor: Lhx2; motif: WATTAN; match class: 1",1
+"1275","TF","Factor: LHX2; motif: WNNACTAATTAGNNNNN",1
+"1276","TF","Factor: LHX2; motif: WNNACTAATTAGNNNNN; match class: 0",1
+"1277","TF","Factor: LHX2; motif: WNNACTAATTAGNNNNN; match class: 1",1
+"1278","TF","Factor: LHX3; motif: ATTAAW",1
+"1279","TF","Factor: LHX3; motif: ATTAAW; match class: 0",1
+"1280","TF","Factor: LHX3; motif: ATTAAW; match class: 1",1
+"1281","TF","Factor: Lhx3; motif: NNAATTAATTAAWWNNN",1
+"1282","TF","Factor: Lhx3; motif: NNAATTAATTAAWWNNN; match class: 0",1
+"1283","TF","Factor: Lhx8; motif: TGATTG",1
+"1284","TF","Factor: Lhx8; motif: TGATTG; match class: 0",1
+"1285","TF","Factor: Lhx8; motif: TGATTG; match class: 1",1
+"1286","TF","Factor: LMX1A; motif: NTAATTAA",1
+"1287","TF","Factor: LMX1A; motif: NTAATTAA; match class: 0",1
+"1288","TF","Factor: LMX1A; motif: NTAATTAA; match class: 1",1
+"1289","TF","Factor: LMX1B; motif: NYAATTAN",1
+"1290","TF","Factor: LMX1B; motif: NYAATTAN; match class: 0",1
+"1291","TF","Factor: LRF; motif: GGGGKYNNB; match class: 1",1
+"1292","TF","Factor: MAFB; motif: NTCAGCN; match class: 1",1
+"1293","TF","Factor: MAZ; motif: GGGGAGGG",1
+"1294","TF","Factor: MAZ; motif: GGGGAGGG; match class: 0",1
+"1295","TF","Factor: MAZ; motif: GGGGAGGG; match class: 1",1
+"1296","TF","Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 1",1
+"1297","TF","Factor: MEF-2; motif: RGCTATWTTTAR",1
+"1298","TF","Factor: MEF-2; motif: RGCTATWTTTAR; match class: 0",1
+"1299","TF","Factor: MEF-2C; motif: TATTTWT",1
+"1300","TF","Factor: MEF-2C; motif: TATTTWT; match class: 0",1
+"1301","TF","Factor: MEF-2C; motif: TATTTWT; match class: 1",1
+"1302","TF","Factor: MEF-2D; motif: WAAATAR",1
+"1303","TF","Factor: MEF-2D; motif: WAAATAR; match class: 0",1
+"1304","TF","Factor: MEF-2D; motif: WAAATAR; match class: 1",1
+"1305","TF","Factor: meis1:Dlx-2; motif: TGACANNNTAATTR",1
+"1306","TF","Factor: meis1:Dlx-2; motif: TGACANNNTAATTR; match class: 0",1
+"1307","TF","Factor: meis1:Prrxl1; motif: TGACANTAATTN",1
+"1308","TF","Factor: meis1:Prrxl1; motif: TGACANTAATTN; match class: 0",1
+"1309","TF","Factor: meis1:Sox-2; motif: TGACAKGTTAACAATGT",1
+"1310","TF","Factor: meis1:Sox-2; motif: TGACAKGTTAACAATGT; match class: 0",1
+"1311","TF","Factor: meis1:Sox-2; motif: TGACAKGTTAACAATGT; match class: 1",1
+"1312","TF","Factor: meis1:TBR2; motif: NNGTGNTGACAN",1
+"1313","TF","Factor: meis1:TBR2; motif: NNGTGNTGACAN; match class: 0",1
+"1314","TF","Factor: MEIS1A:HOXA9; motif: TGACAGKTTTAYGA",1
+"1315","TF","Factor: MEIS1A:HOXA9; motif: TGACAGKTTTAYGA; match class: 0",1
+"1316","TF","Factor: MEIS1A:HOXA9; motif: TGACAGKTTTAYGA; match class: 1",1
+"1317","TF","Factor: Meis1b:Hoxa9:Pbx1a; motif: RTGATTTATGNS",1
+"1318","TF","Factor: Meis1b:Hoxa9:Pbx1a; motif: RTGATTTATGNS; match class: 0",1
+"1319","TF","Factor: MEIS1B:HOXA9; motif: TGACASTTTWAYRR",1
+"1320","TF","Factor: MEIS1B:HOXA9; motif: TGACASTTTWAYRR; match class: 0",1
+"1321","TF","Factor: MEIS1B:HOXA9; motif: TGACASTTTWAYRR; match class: 1",1
+"1322","TF","Factor: MEL1; motif: GARGAT",1
+"1323","TF","Factor: MEL1; motif: GARGAT; match class: 0",1
+"1324","TF","Factor: MEL1; motif: GARGAT; match class: 1",1
+"1325","TF","Factor: MEL1; motif: GATAAGATAA",1
+"1326","TF","Factor: MEL1; motif: GATAAGATAA; match class: 0",1
+"1327","TF","Factor: MEL1; motif: GATGAG",1
+"1328","TF","Factor: MEL1; motif: GATGAG; match class: 0",1
+"1329","TF","Factor: MEL1; motif: GATGAG; match class: 1",1
+"1330","TF","Factor: MEOX1; motif: NSTAATTANN",1
+"1331","TF","Factor: MEOX1; motif: NSTAATTANN; match class: 0",1
+"1332","TF","Factor: MEOX2; motif: NSTAATTANN",1
+"1333","TF","Factor: MEOX2; motif: NSTAATTANN; match class: 0",1
+"1334","TF","Factor: MEOX2; motif: NSTAATTANN; match class: 1",1
+"1335","TF","Factor: MITF; motif: CATGTGM",1
+"1336","TF","Factor: MITF; motif: CATGTGM; match class: 0",1
+"1337","TF","Factor: MIXL1; motif: NNYAATTANN",1
+"1338","TF","Factor: MIXL1; motif: NNYAATTANN; match class: 0",1
+"1339","TF","Factor: MIXL1; motif: NNYAATTANN; match class: 1",1
+"1340","TF","Factor: MNX1; motif: NNYAATTAAN",1
+"1341","TF","Factor: MNX1; motif: NNYAATTAAN; match class: 0",1
+"1342","TF","Factor: MOVO-B; motif: GNGGGGG",1
+"1343","TF","Factor: MOVO-B; motif: GNGGGGG; match class: 0",1
+"1344","TF","Factor: MOVO-B; motif: GNGGGGG; match class: 1",1
+"1345","TF","Factor: Msx-1; motif: AHAWWTSMYYCAATTAN",1
+"1346","TF","Factor: Msx-1; motif: AHAWWTSMYYCAATTAN; match class: 0",1
+"1347","TF","Factor: Msx-1; motif: AHAWWTSMYYCAATTAN; match class: 1",1
+"1348","TF","Factor: Msx-1; motif: CNGTAWNTG",1
+"1349","TF","Factor: Msx-1; motif: CNGTAWNTG; match class: 0",1
+"1350","TF","Factor: Msx-1; motif: CNGTAWNTG; match class: 1",1
+"1351","TF","Factor: Msx-1; motif: NNNNANTAATTANTNN",1
+"1352","TF","Factor: Msx-1; motif: NNNNANTAATTANTNN; match class: 0",1
+"1353","TF","Factor: Msx-1; motif: NNNNANTAATTANTNN; match class: 1",1
+"1354","TF","Factor: Msx-1; motif: WNGNAATTANV",1
+"1355","TF","Factor: Msx-1; motif: WNGNAATTANV; match class: 0",1
+"1356","TF","Factor: Msx-1; motif: WNGNAATTANV; match class: 1",1
+"1357","TF","Factor: Msx-2; motif: NNNGACYAATTAGYNNT",1
+"1358","TF","Factor: Msx-2; motif: NNNGACYAATTAGYNNT; match class: 0",1
+"1359","TF","Factor: Msx-2; motif: NNNGACYAATTAGYNNT; match class: 1",1
+"1360","TF","Factor: Msx-2; motif: TAATTAN",1
+"1361","TF","Factor: Msx-2; motif: TAATTAN; match class: 0",1
+"1362","TF","Factor: Msx-2; motif: TAATTAN; match class: 1",1
+"1363","TF","Factor: nanog; motif: CCATTAAAWNGTK",1
+"1364","TF","Factor: nanog; motif: CCATTAAAWNGTK; match class: 0",1
+"1365","TF","Factor: Nanog; motif: NTNTAATGSN",1
+"1366","TF","Factor: Nanog; motif: NTNTAATGSN; match class: 0",1
+"1367","TF","Factor: nanog; motif: NYWTTGWNATGCAAATN",1
+"1368","TF","Factor: nanog; motif: NYWTTGWNATGCAAATN; match class: 0",1
+"1369","TF","Factor: Ncx; motif: NAATNAATTAATAANWW",1
+"1370","TF","Factor: Ncx; motif: NAATNAATTAATAANWW; match class: 0",1
+"1371","TF","Factor: Ncx; motif: NAATNAATTAATAANWW; match class: 1",1
+"1372","TF","Factor: NeuroD-2; motif: RMCATATGKY",1
+"1373","TF","Factor: NeuroD-2; motif: RMCATATGKY; match class: 0",1
+"1374","TF","Factor: NeuroD-2; motif: RMCATATGKY; match class: 1",1
+"1375","TF","Factor: NEUROD1; motif: NNACAGATGGNNN",1
+"1376","TF","Factor: NEUROD1; motif: NNACAGATGGNNN; match class: 0",1
+"1377","TF","Factor: NF1C; motif: WGCCARR; match class: 1",1
+"1378","TF","Factor: NFATc1; motif: NATGGAAANWNANTTTYCMN",1
+"1379","TF","Factor: NFATc1; motif: NATGGAAANWNANTTTYCMN; match class: 0",1
+"1380","TF","Factor: NFATc1; motif: TTTTCCATGGAAAN",1
+"1381","TF","Factor: NFATc1; motif: TTTTCCATGGAAAN; match class: 0",1
+"1382","TF","Factor: NFATc1; motif: TTTTCCATGGAAAN; match class: 1",1
+"1383","TF","Factor: NFATc2; motif: TTTTCCA",1
+"1384","TF","Factor: NFATc2; motif: TTTTCCA; match class: 0",1
+"1385","TF","Factor: NFATc3; motif: GGAAAA",1
+"1386","TF","Factor: NFATc3; motif: GGAAAA; match class: 0",1
+"1387","TF","Factor: NFATc3; motif: GGAAAA; match class: 1",1
+"1388","TF","Factor: NFATC3; motif: WNTTTCCRNN",1
+"1389","TF","Factor: NFATC3; motif: WNTTTCCRNN; match class: 0",1
+"1390","TF","Factor: NFATc4; motif: NGGAAAAN",1
+"1391","TF","Factor: NFATc4; motif: NGGAAAAN; match class: 0",1
+"1392","TF","Factor: NFATc4; motif: NGGAAAAN; match class: 1",1
+"1393","TF","Factor: Nfe2l1; motif: TGYNNAGTCATT",1
+"1394","TF","Factor: Nfe2l1; motif: TGYNNAGTCATT; match class: 0",1
+"1395","TF","Factor: Nfe2l1; motif: TGYNNAGTCATT; match class: 1",1
+"1396","TF","Factor: Ngn-2; motif: RACATATGTC",1
+"1397","TF","Factor: Ngn-2; motif: RACATATGTC; match class: 0",1
+"1398","TF","Factor: Ngn-2; motif: RACATATGTC; match class: 1",1
+"1399","TF","Factor: NKX25; motif: NNANCCACTTRAAWTT",1
+"1400","TF","Factor: NKX25; motif: NNANCCACTTRAAWTT; match class: 0",1
+"1401","TF","Factor: NKX25; motif: NNANCCACTTRAAWTT; match class: 1",1
+"1402","TF","Factor: NKX2B; motif: CACTTNA",1
+"1403","TF","Factor: NKX2B; motif: CACTTNA; match class: 0",1
+"1404","TF","Factor: NKX2B; motif: CACTTNA; match class: 1",1
+"1405","TF","Factor: Nkx3-1; motif: NWATAAGTATWT",1
+"1406","TF","Factor: Nkx3-1; motif: NWATAAGTATWT; match class: 0",1
+"1407","TF","Factor: Nkx3-2; motif: TRAGTG",1
+"1408","TF","Factor: Nkx3-2; motif: TRAGTG; match class: 0",1
+"1409","TF","Factor: Nkx3-2; motif: TRAGTG; match class: 1",1
+"1410","TF","Factor: NKX6-1; motif: NTMATTAA",1
+"1411","TF","Factor: NKX6-1; motif: NTMATTAA; match class: 0",1
+"1412","TF","Factor: Nkx6-2; motif: NWADTAAWTANN",1
+"1413","TF","Factor: Nkx6-2; motif: NWADTAAWTANN; match class: 0",1
+"1414","TF","Factor: NKX6A; motif: NNNAATTAATTAMYNNG",1
+"1415","TF","Factor: NKX6A; motif: NNNAATTAATTAMYNNG; match class: 0",1
+"1416","TF","Factor: NMYC; motif: CAYCTG",1
+"1417","TF","Factor: NMYC; motif: CAYCTG; match class: 0",1
+"1418","TF","Factor: NMYC; motif: CAYCTG; match class: 1",1
+"1419","TF","Factor: NR1B1; motif: RAGGTCA",1
+"1420","TF","Factor: NR1B1; motif: RAGGTCA; match class: 0",1
+"1421","TF","Factor: NR2E1; motif: AAAAGTCAA",1
+"1422","TF","Factor: NR2E1; motif: AAAAGTCAA; match class: 0",1
+"1423","TF","Factor: NR3C1; motif: NRGWACAYNRTGTWCYN",1
+"1424","TF","Factor: NR3C1; motif: NRGWACAYNRTGTWCYN; match class: 0",1
+"1425","TF","Factor: NRL; motif: NNNNTGCTGAC",1
+"1426","TF","Factor: NRL; motif: NNNNTGCTGAC; match class: 0",1
+"1427","TF","Factor: OC-2; motif: TCAATA",1
+"1428","TF","Factor: OC-2; motif: TCAATA; match class: 0",1
+"1429","TF","Factor: OC-2; motif: TCAATA; match class: 1",1
+"1430","TF","Factor: Oct-1; motif: CWNAWTKWSATRYN",1
+"1431","TF","Factor: Oct-1; motif: CWNAWTKWSATRYN; match class: 0",1
+"1432","TF","Factor: Oct-1; motif: MKVATTTGCATATT",1
+"1433","TF","Factor: Oct-1; motif: MKVATTTGCATATT; match class: 0",1
+"1434","TF","Factor: Oct-1; motif: NNGAATATKCANNNN; match class: 1",1
+"1435","TF","Factor: Oct-1; motif: NNNNATGCAAATNAN",1
+"1436","TF","Factor: Oct-1; motif: NNNNATGCAAATNAN; match class: 0",1
+"1437","TF","Factor: Oct-1; motif: NNNNATGCAAATNAN; match class: 1",1
+"1438","TF","Factor: Oct-1; motif: NNNNNNNWATGCAAATNNNWNNA",1
+"1439","TF","Factor: Oct-1; motif: NNNNNNNWATGCAAATNNNWNNA; match class: 0",1
+"1440","TF","Factor: Oct-1; motif: NNNNNNNWATGCAAATNNNWNNA; match class: 1",1
+"1441","TF","Factor: Oct-1; motif: NNNNWTATGCAAATNTNNN",1
+"1442","TF","Factor: Oct-1; motif: NNNNWTATGCAAATNTNNN; match class: 0",1
+"1443","TF","Factor: Oct-1; motif: NNNRTAATNANNN",1
+"1444","TF","Factor: Oct-1; motif: NNNRTAATNANNN; match class: 0",1
+"1445","TF","Factor: Oct-1; motif: NNNRTAATNANNN; match class: 1",1
+"1446","TF","Factor: Oct-1; motif: TATGCAAATN",1
+"1447","TF","Factor: Oct-1; motif: TATGCAAATN; match class: 0",1
+"1448","TF","Factor: Oct-1; motif: TATGCAAATN; match class: 1",1
+"1449","TF","Factor: Oct-1; motif: TNATTTGCATW",1
+"1450","TF","Factor: Oct-1; motif: TNATTTGCATW; match class: 0",1
+"1451","TF","Factor: Oct-1; motif: TNTATGBTAATT",1
+"1452","TF","Factor: Oct-1; motif: TNTATGBTAATT; match class: 0",1
+"1453","TF","Factor: OCT-2; motif: ATGMATATGCWAAT",1
+"1454","TF","Factor: OCT-2; motif: ATGMATATGCWAAT; match class: 0",1
+"1455","TF","Factor: OCT-2; motif: ATGMATATGCWAAT; match class: 1",1
+"1456","TF","Factor: Oct-2; motif: ATTTGCA",1
+"1457","TF","Factor: Oct-2; motif: ATTTGCA; match class: 0",1
+"1458","TF","Factor: Oct-2; motif: ATTTGCA; match class: 1",1
+"1459","TF","Factor: Oct-2; motif: NNNATTTGCATRT",1
+"1460","TF","Factor: Oct-2; motif: NNNATTTGCATRT; match class: 0",1
+"1461","TF","Factor: Oct-2; motif: NNNATTTGCATRT; match class: 1",1
+"1462","TF","Factor: Oct-2; motif: NNNTATGCAAATNNNN",1
+"1463","TF","Factor: Oct-2; motif: NNNTATGCAAATNNNN; match class: 0",1
+"1464","TF","Factor: oct-2; motif: NNWNATGCAAATNN",1
+"1465","TF","Factor: oct-2; motif: NNWNATGCAAATNN; match class: 0",1
+"1466","TF","Factor: oct-2; motif: NNWNATGCAAATNN; match class: 1",1
+"1467","TF","Factor: Oct-4; motif: ATTGWSWTGCWAAWN",1
+"1468","TF","Factor: Oct-4; motif: ATTGWSWTGCWAAWN; match class: 0",1
+"1469","TF","Factor: Oct-4; motif: ATTGWSWTGCWAAWN; match class: 1",1
+"1470","TF","Factor: Oct-4; motif: YWTTSTNATGCAAAT",1
+"1471","TF","Factor: Oct-4; motif: YWTTSTNATGCAAAT; match class: 0",1
+"1472","TF","Factor: OCT-x; motif: CTNATTTGCATAY",1
+"1473","TF","Factor: OCT-x; motif: CTNATTTGCATAY; match class: 0",1
+"1474","TF","Factor: OCT-x; motif: CTNATTTGCATAY; match class: 1",1
+"1475","TF","Factor: Oct3; motif: NATGCAANNN",1
+"1476","TF","Factor: Oct3; motif: NATGCAANNN; match class: 0",1
+"1477","TF","Factor: Oct3; motif: NATGCAANNN; match class: 1",1
+"1478","TF","Factor: Oct3; motif: NYWTTSWTATGCAAAT",1
+"1479","TF","Factor: Oct3; motif: NYWTTSWTATGCAAAT; match class: 0",1
+"1480","TF","Factor: Oct3; motif: TKWNATGCAWATN",1
+"1481","TF","Factor: Oct3; motif: TKWNATGCAWATN; match class: 0",1
+"1482","TF","Factor: Octamer; motif: TNATTTGCATN",1
+"1483","TF","Factor: Octamer; motif: TNATTTGCATN; match class: 0",1
+"1484","TF","Factor: Octamer; motif: TNATTTGCATN; match class: 1",1
+"1485","TF","Factor: Osf2; motif: ACCACANM",1
+"1486","TF","Factor: Osf2; motif: ACCACANM; match class: 0",1
+"1487","TF","Factor: Osx; motif: CCNCCCCCNNN",1
+"1488","TF","Factor: Osx; motif: CCNCCCCCNNN; match class: 0",1
+"1489","TF","Factor: OTX; motif: GATTANNT",1
+"1490","TF","Factor: OTX; motif: GATTANNT; match class: 0",1
+"1491","TF","Factor: PARP; motif: TTTCYN",1
+"1492","TF","Factor: PARP; motif: TTTCYN; match class: 0",1
+"1493","TF","Factor: PARP; motif: TTTCYN; match class: 1",1
+"1494","TF","Factor: PARP; motif: YDRGAAAWAS",1
+"1495","TF","Factor: PARP; motif: YDRGAAAWAS; match class: 0",1
+"1496","TF","Factor: PARP; motif: YDRGAAAWAS; match class: 1",1
+"1497","TF","Factor: Pax-2; motif: NNNNGTCANGNRTKANNNN",1
+"1498","TF","Factor: Pax-2; motif: NNNNGTCANGNRTKANNNN; match class: 0",1
+"1499","TF","Factor: Pax-4; motif: SWAATWAN",1
+"1500","TF","Factor: Pax-4; motif: SWAATWAN; match class: 0",1
+"1501","TF","Factor: Pax-4; motif: SWAATWAN; match class: 1",1
+"1502","TF","Factor: Pax-4; motif: WNNNYTAATTARYNSNN",1
+"1503","TF","Factor: Pax-4; motif: WNNNYTAATTARYNSNN; match class: 0",1
+"1504","TF","Factor: Pax-4; motif: WNNNYTAATTARYNSNN; match class: 1",1
+"1505","TF","Factor: Pax-6; motif: NNNNTTCACGCWTGANTKNNN",1
+"1506","TF","Factor: Pax-6; motif: NNNNTTCACGCWTGANTKNNN; match class: 0",1
+"1507","TF","Factor: Pax-6; motif: NNNNTTCACGCWTGANTKNNN; match class: 1",1
+"1508","TF","Factor: Pbx-1; motif: NNATCAATCANN",1
+"1509","TF","Factor: Pbx-1; motif: NNATCAATCANN; match class: 0",1
+"1510","TF","Factor: Pbx-1; motif: NNATCAATCANN; match class: 1",1
+"1511","TF","Factor: Pbx-1b; motif: NNCATCAATCAANNW",1
+"1512","TF","Factor: Pbx-1b; motif: NNCATCAATCAANNW; match class: 0",1
+"1513","TF","Factor: Pbx; motif: GATTGATKGNNS",1
+"1514","TF","Factor: Pbx; motif: GATTGATKGNNS; match class: 0",1
+"1515","TF","Factor: Pbx; motif: NTGATTGANN",1
+"1516","TF","Factor: Pbx; motif: NTGATTGANN; match class: 0",1
+"1517","TF","Factor: Pbx1; motif: ATCAATCAN",1
+"1518","TF","Factor: Pbx1; motif: ATCAATCAN; match class: 0",1
+"1519","TF","Factor: Pbx1; motif: NYAYMCATCAAWNWNNN",1
+"1520","TF","Factor: Pbx1; motif: NYAYMCATCAAWNWNNN; match class: 0",1
+"1521","TF","Factor: PBX4:HOXA1; motif: NYNATMAATCA",1
+"1522","TF","Factor: PBX4:HOXA1; motif: NYNATMAATCA; match class: 0",1
+"1523","TF","Factor: PBX4:HOXA10; motif: NCATAAATCA",1
+"1524","TF","Factor: PBX4:HOXA10; motif: NCATAAATCA; match class: 0",1
+"1525","TF","Factor: PDX1; motif: NYAATTAN",1
+"1526","TF","Factor: PDX1; motif: NYAATTAN; match class: 0",1
+"1527","TF","Factor: PEA3; motif: ACWTCCK",1
+"1528","TF","Factor: PEA3; motif: ACWTCCK; match class: 0",1
+"1529","TF","Factor: PEA3; motif: ACWTCCK; match class: 1",1
+"1530","TF","Factor: PEBP2beta; motif: TGTGGTY",1
+"1531","TF","Factor: PEBP2beta; motif: TGTGGTY; match class: 0",1
+"1532","TF","Factor: PEBP2beta; motif: TGTGGTY; match class: 1",1
+"1533","TF","Factor: PHOX2A; motif: TAATYYAATTA",1
+"1534","TF","Factor: PHOX2A; motif: TAATYYAATTA; match class: 0",1
+"1535","TF","Factor: Pit-1; motif: NMTTCATAAWTATWNMNA; match class: 1",1
+"1536","TF","Factor: Pit-1; motif: NNWWATTCAT",1
+"1537","TF","Factor: Pit-1; motif: NNWWATTCAT; match class: 0",1
+"1538","TF","Factor: Pit-1; motif: NNWWATTCAT; match class: 1",1
+"1539","TF","Factor: Pitx3; motif: GATTANA",1
+"1540","TF","Factor: Pitx3; motif: GATTANA; match class: 0",1
+"1541","TF","Factor: PLZF; motif: ACTKTANNTN",1
+"1542","TF","Factor: PLZF; motif: ACTKTANNTN; match class: 0",1
+"1543","TF","Factor: PLZF; motif: ACTKTANNTN; match class: 1",1
+"1544","TF","Factor: PMX1; motif: TAATHA",1
+"1545","TF","Factor: PMX1; motif: TAATHA; match class: 0",1
+"1546","TF","Factor: PMX1; motif: TAATHA; match class: 1",1
+"1547","TF","Factor: PMX2B; motif: NNNAATTAATTAANNNG",1
+"1548","TF","Factor: PMX2B; motif: NNNAATTAATTAANNNG; match class: 0",1
+"1549","TF","Factor: PMX2B; motif: NNNAATTAATTAANNNG; match class: 1",1
+"1550","TF","Factor: POU1F1; motif: ATGAATAAWT",1
+"1551","TF","Factor: POU1F1; motif: ATGAATAAWT; match class: 0",1
+"1552","TF","Factor: POU1F1; motif: ATGAATAAWT; match class: 1",1
+"1553","TF","Factor: POU1F1; motif: AWTATGCWAATKAG",1
+"1554","TF","Factor: POU1F1; motif: AWTATGCWAATKAG; match class: 0",1
+"1555","TF","Factor: POU1F1; motif: AWTATGCWAATKAG; match class: 1",1
+"1556","TF","Factor: POU1F1; motif: NNNATGMATAWTTAATN",1
+"1557","TF","Factor: POU1F1; motif: NNNATGMATAWTTAATN; match class: 0",1
+"1558","TF","Factor: POU1F1; motif: NNNATGMATAWTTAATN; match class: 1",1
+"1559","TF","Factor: POU2F1:Gscl; motif: NNGATTANNTATKCANNNN",1
+"1560","TF","Factor: POU2F1:Gscl; motif: NNGATTANNTATKCANNNN; match class: 0",1
+"1561","TF","Factor: POU2F1:Gscl; motif: NNGATTANNTATKCANNNN; match class: 1",1
+"1562","TF","Factor: POU2F1:HOXB13; motif: NGMATATACCAATAAA",1
+"1563","TF","Factor: POU2F1:HOXB13; motif: NGMATATACCAATAAA; match class: 0",1
+"1564","TF","Factor: POU2F1:HOXB13; motif: NGMATATACCAATAAA; match class: 1",1
+"1565","TF","Factor: POU2F1; motif: ATGCAAATN",1
+"1566","TF","Factor: POU2F1; motif: ATGCAAATN; match class: 0",1
+"1567","TF","Factor: POU2F1; motif: ATTTGCATN",1
+"1568","TF","Factor: POU2F1; motif: ATTTGCATN; match class: 0",1
+"1569","TF","Factor: POU2F1; motif: ATTTGCATN; match class: 1",1
+"1570","TF","Factor: POU2F1; motif: NNATTTGCATNN",1
+"1571","TF","Factor: POU2F1; motif: NNATTTGCATNN; match class: 0",1
+"1572","TF","Factor: POU2F1; motif: NWTATGCWAATN",1
+"1573","TF","Factor: POU2F1; motif: NWTATGCWAATN; match class: 0",1
+"1574","TF","Factor: POU2F2; motif: NTATGCWAATN",1
+"1575","TF","Factor: POU2F2; motif: NTATGCWAATN; match class: 0",1
+"1576","TF","Factor: POU2F2; motif: NWTRMATATKCAWN",1
+"1577","TF","Factor: POU2F2; motif: NWTRMATATKCAWN; match class: 0",1
+"1578","TF","Factor: POU2F2; motif: NWTRMATATKCAWN; match class: 1",1
+"1579","TF","Factor: POU2F3; motif: ATGMATATKCAW",1
+"1580","TF","Factor: POU2F3; motif: ATGMATATKCAW; match class: 0",1
+"1581","TF","Factor: POU2F3; motif: ATGMATATKCAW; match class: 1",1
+"1582","TF","Factor: POU3F1; motif: RNYBCATTTGCATTWCAA",1
+"1583","TF","Factor: POU3F1; motif: RNYBCATTTGCATTWCAA; match class: 0",1
+"1584","TF","Factor: POU3F1; motif: RNYBCATTTGCATTWCAA; match class: 1",1
+"1585","TF","Factor: POU3F1; motif: WTGMATAAWTNA",1
+"1586","TF","Factor: POU3F1; motif: WTGMATAAWTNA; match class: 0",1
+"1587","TF","Factor: POU3F1; motif: WTGMATAAWTNA; match class: 1",1
+"1588","TF","Factor: POU3F2; motif: ATGMATWWATTCAT",1
+"1589","TF","Factor: POU3F2; motif: ATGMATWWATTCAT; match class: 0",1
+"1590","TF","Factor: POU3F2; motif: ATGMATWWATTCAT; match class: 1",1
+"1591","TF","Factor: POU3F2; motif: NWTGCATAAWTTA",1
+"1592","TF","Factor: POU3F2; motif: NWTGCATAAWTTA; match class: 0",1
+"1593","TF","Factor: POU3F2; motif: NWTGCATAAWTTA; match class: 1",1
+"1594","TF","Factor: POU3F2; motif: TTATGYTAAT",1
+"1595","TF","Factor: POU3F2; motif: TTATGYTAAT; match class: 0",1
+"1596","TF","Factor: POU3F2; motif: TTATGYTAAT; match class: 1",1
+"1597","TF","Factor: POU3F3; motif: WTGMATAAWTWA",1
+"1598","TF","Factor: POU3F3; motif: WTGMATAAWTWA; match class: 0",1
+"1599","TF","Factor: POU3F3; motif: WTGMATAAWTWA; match class: 1",1
+"1600","TF","Factor: POU3F3; motif: WTNAATAWKNAW",1
+"1601","TF","Factor: POU3F3; motif: WTNAATAWKNAW; match class: 0",1
+"1602","TF","Factor: POU3F3; motif: WTNAATAWKNAW; match class: 1",1
+"1603","TF","Factor: POU3F4; motif: TGCATAAWTTA",1
+"1604","TF","Factor: POU3F4; motif: TGCATAAWTTA; match class: 0",1
+"1605","TF","Factor: POU5F1; motif: NNATGCAAANN",1
+"1606","TF","Factor: POU5F1; motif: NNATGCAAANN; match class: 0",1
+"1607","TF","Factor: POU5F1; motif: NNATGCAAANN; match class: 1",1
+"1608","TF","Factor: POU5F1B; motif: ATGMATATKCAW",1
+"1609","TF","Factor: POU5F1B; motif: ATGMATATKCAW; match class: 0",1
+"1610","TF","Factor: POU6F1; motif: ANTAATTANT",1
+"1611","TF","Factor: POU6F1; motif: ANTAATTANT; match class: 0",1
+"1612","TF","Factor: POU6F1; motif: ANTAATTANT; match class: 1",1
+"1613","TF","Factor: POU6F1; motif: GCATAAWTTAT",1
+"1614","TF","Factor: POU6F1; motif: GCATAAWTTAT; match class: 0",1
+"1615","TF","Factor: POU6F1; motif: GCATAAWTTAT; match class: 1",1
+"1616","TF","Factor: POU6F1; motif: NNNNATAATGAGSTNNN",1
+"1617","TF","Factor: POU6F1; motif: NNNNATAATGAGSTNNN; match class: 0",1
+"1618","TF","Factor: POU6F1; motif: NNNNATAATGAGSTNNN; match class: 1",1
+"1619","TF","Factor: POU6F1; motif: NNNNWTAATGAGSTNNN",1
+"1620","TF","Factor: POU6F1; motif: NNNNWTAATGAGSTNNN; match class: 0",1
+"1621","TF","Factor: POU6F1; motif: NNNNWTAATGAGSTNNN; match class: 1",1
+"1622","TF","Factor: POU6F2; motif: ASCTMATTAW",1
+"1623","TF","Factor: POU6F2; motif: ASCTMATTAW; match class: 0",1
+"1624","TF","Factor: PPARgamma:RXRalpha,; motif: AAGTAGGTCACNGTGACCYACTT",1
+"1625","TF","Factor: PPARgamma:RXRalpha,; motif: AAGTAGGTCACNGTGACCYACTT; match class: 0",1
+"1626","TF","Factor: PPARgamma:RXRalpha,; motif: AAGTAGGTCACNGTGACCYACTT; match class: 1",1
+"1627","TF","Factor: PPARgamma:RXRalpha; motif: NNWGRGGTCAAAGGTCANNNN",1
+"1628","TF","Factor: PPARgamma:RXRalpha; motif: NNWGRGGTCAAAGGTCANNNN; match class: 0",1
+"1629","TF","Factor: PPARGAMMA; motif: NWNTRGGTYANN",1
+"1630","TF","Factor: PPARGAMMA; motif: NWNTRGGTYANN; match class: 0",1
+"1631","TF","Factor: PPARGAMMA; motif: NWNTRGGTYANN; match class: 1",1
+"1632","TF","Factor: PR; motif: NNNNNNGGNACRNNNTGTTCTNNNNNN",1
+"1633","TF","Factor: PR; motif: NNNNNNGGNACRNNNTGTTCTNNNNNN; match class: 0",1
+"1634","TF","Factor: PR; motif: NNNNNNGGNACRNNNTGTTCTNNNNNN; match class: 1",1
+"1635","TF","Factor: PR; motif: NNNNNNRGNACNNKNTGTTCTNNNNNN",1
+"1636","TF","Factor: PR; motif: NNNNNNRGNACNNKNTGTTCTNNNNNN; match class: 0",1
+"1637","TF","Factor: PRDM16; motif: KGGTCATRACCM",1
+"1638","TF","Factor: PRDM16; motif: KGGTCATRACCM; match class: 0",1
+"1639","TF","Factor: Prop-1; motif: TAATYNAATTA",1
+"1640","TF","Factor: Prop-1; motif: TAATYNAATTA; match class: 0",1
+"1641","TF","Factor: PRRX1; motif: NYAATTAN",1
+"1642","TF","Factor: PRRX1; motif: NYAATTAN; match class: 0",1
+"1643","TF","Factor: PRRX1; motif: NYAATTAN; match class: 1",1
+"1644","TF","Factor: PRRX2; motif: NYAATTAN",1
+"1645","TF","Factor: PRRX2; motif: NYAATTAN; match class: 0",1
+"1646","TF","Factor: PRRX2; motif: NYAATTAN; match class: 1",1
+"1647","TF","Factor: Prx2; motif: TYAWAKTAA",1
+"1648","TF","Factor: Prx2; motif: TYAWAKTAA; match class: 0",1
+"1649","TF","Factor: Prx2; motif: TYAWAKTAA; match class: 1",1
+"1650","TF","Factor: RARA; motif: AGGTCAANNARAGGTCA",1
+"1651","TF","Factor: RARA; motif: AGGTCAANNARAGGTCA; match class: 0",1
+"1652","TF","Factor: RARA; motif: AGGTCAANNARAGGTCA; match class: 1",1
+"1653","TF","Factor: Rarb; motif: AGGTCANNYARAGGTCA",1
+"1654","TF","Factor: Rarb; motif: AGGTCANNYARAGGTCA; match class: 0",1
+"1655","TF","Factor: Rarb; motif: AGGTCANNYARAGGTCA; match class: 1",1
+"1656","TF","Factor: RARG; motif: RAGGTCAASYARAGGTCA",1
+"1657","TF","Factor: RARG; motif: RAGGTCAASYARAGGTCA; match class: 0",1
+"1658","TF","Factor: RARG; motif: RAGGTCAASYARAGGTCA; match class: 1",1
+"1659","TF","Factor: RAX2; motif: NYAATTAN",1
+"1660","TF","Factor: RAX2; motif: NYAATTAN; match class: 0",1
+"1661","TF","Factor: RAX2; motif: NYAATTAN; match class: 1",1
+"1662","TF","Factor: RNF96; motif: BCCCGCRGCC",1
+"1663","TF","Factor: RNF96; motif: BCCCGCRGCC; match class: 0",1
+"1664","TF","Factor: RNF96; motif: BCCCGCRGCC; match class: 1",1
+"1665","TF","Factor: RP58; motif: NNAACATCTGGA",1
+"1666","TF","Factor: RP58; motif: NNAACATCTGGA; match class: 0",1
+"1667","TF","Factor: RSRFC4; motif: ANKCTAWAAATAGMHYN",1
+"1668","TF","Factor: RSRFC4; motif: ANKCTAWAAATAGMHYN; match class: 0",1
+"1669","TF","Factor: RUSH-1alpha; motif: NNMCWTNKNN",1
+"1670","TF","Factor: RUSH-1alpha; motif: NNMCWTNKNN; match class: 0",1
+"1671","TF","Factor: RXR-ALPHA; motif: RAGGTCA",1
+"1672","TF","Factor: RXR-ALPHA; motif: RAGGTCA; match class: 0",1
+"1673","TF","Factor: RXRA; motif: GRGGTCAAAGGTCA",1
+"1674","TF","Factor: RXRA; motif: GRGGTCAAAGGTCA; match class: 0",1
+"1675","TF","Factor: RXRA; motif: GRGGTCAAAGGTCA; match class: 1",1
+"1676","TF","Factor: SATB1; motif: AKWAWTAAHGRYMNWW",1
+"1677","TF","Factor: SATB1; motif: AKWAWTAAHGRYMNWW; match class: 0",1
+"1678","TF","Factor: SATB1; motif: AKWAWTAAHGRYMNWW; match class: 1",1
+"1679","TF","Factor: SATB1; motif: NTTTAT",1
+"1680","TF","Factor: SATB1; motif: NTTTAT; match class: 0",1
+"1681","TF","Factor: SATB1; motif: NTTTAT; match class: 1",1
+"1682","TF","Factor: SHOX; motif: NYAATTAN",1
+"1683","TF","Factor: SHOX; motif: NYAATTAN; match class: 0",1
+"1684","TF","Factor: SHOX; motif: NYAATTAN; match class: 1",1
+"1685","TF","Factor: Six-3; motif: NWBTAATNYYWN",1
+"1686","TF","Factor: Six-3; motif: NWBTAATNYYWN; match class: 0",1
+"1687","TF","Factor: Six-3; motif: NWBTAATNYYWN; match class: 1",1
+"1688","TF","Factor: six-4; motif: ANNNATGACACCNNNNN",1
+"1689","TF","Factor: six-4; motif: ANNNATGACACCNNNNN; match class: 0",1
+"1690","TF","Factor: six-4; motif: ANNNATGACACCNNNNN; match class: 1",1
+"1691","TF","Factor: SMAD; motif: TNGNCAGACWN",1
+"1692","TF","Factor: SMAD; motif: TNGNCAGACWN; match class: 0",1
+"1693","TF","Factor: Sox-10; motif: CWTTGT",1
+"1694","TF","Factor: Sox-10; motif: CWTTGT; match class: 0",1
+"1695","TF","Factor: Sox-10; motif: CWTTGT; match class: 1",1
+"1696","TF","Factor: Sox-10; motif: CWTTGTN",1
+"1697","TF","Factor: Sox-10; motif: CWTTGTN; match class: 0",1
+"1698","TF","Factor: Sox-10; motif: CWTTGTN; match class: 1",1
+"1699","TF","Factor: Sox-10; motif: NACAAWG",1
+"1700","TF","Factor: Sox-10; motif: NACAAWG; match class: 0",1
+"1701","TF","Factor: Sox-10; motif: NACAAWG; match class: 1",1
+"1702","TF","Factor: Sox-17; motif: ACCGAACAAT",1
+"1703","TF","Factor: Sox-17; motif: ACCGAACAAT; match class: 0",1
+"1704","TF","Factor: Sox-17; motif: TTGTYY",1
+"1705","TF","Factor: Sox-17; motif: TTGTYY; match class: 0",1
+"1706","TF","Factor: Sox-17; motif: TTGTYY; match class: 1",1
+"1707","TF","Factor: Sox-18; motif: CAAWGBB; match class: 1",1
+"1708","TF","Factor: Sox-2; motif: NNNANAACAAWGRNN",1
+"1709","TF","Factor: Sox-2; motif: NNNANAACAAWGRNN; match class: 0",1
+"1710","TF","Factor: Sox-4; motif: AACAAA",1
+"1711","TF","Factor: Sox-4; motif: AACAAA; match class: 0",1
+"1712","TF","Factor: Sox-4; motif: AACAAA; match class: 1",1
+"1713","TF","Factor: Sox-4; motif: ACAAWGNRNYN",1
+"1714","TF","Factor: Sox-4; motif: ACAAWGNRNYN; match class: 0",1
+"1715","TF","Factor: Sox-4; motif: BCWTTGT",1
+"1716","TF","Factor: Sox-4; motif: BCWTTGT; match class: 0",1
+"1717","TF","Factor: Sox-4; motif: BCWTTGT; match class: 1",1
+"1718","TF","Factor: Sox-4; motif: NNNNNAATTGTTNNNNN",1
+"1719","TF","Factor: Sox-4; motif: NNNNNAATTGTTNNNNN; match class: 0",1
+"1720","TF","Factor: Sox-4; motif: NNNNNAATTGTTNNNNN; match class: 1",1
+"1721","TF","Factor: Sox-5; motif: NNAACAATNN",1
+"1722","TF","Factor: Sox-5; motif: NNAACAATNN; match class: 0",1
+"1723","TF","Factor: Sox-5; motif: NNAACAATNN; match class: 1",1
+"1724","TF","Factor: Sox-6; motif: NARACAAAARN",1
+"1725","TF","Factor: Sox-6; motif: NARACAAAARN; match class: 0",1
+"1726","TF","Factor: Sox-7; motif: NACAATDGA",1
+"1727","TF","Factor: Sox-7; motif: NACAATDGA; match class: 0",1
+"1728","TF","Factor: Sox-9; motif: MACARWGNNNYCNTTNW",1
+"1729","TF","Factor: Sox-9; motif: MACARWGNNNYCNTTNW; match class: 0",1
+"1730","TF","Factor: Sox-9; motif: NNNNAACAATRGNN",1
+"1731","TF","Factor: Sox-9; motif: NNNNAACAATRGNN; match class: 0",1
+"1732","TF","Factor: Sox-9; motif: NNNNNACAAARGNNSMN",1
+"1733","TF","Factor: Sox-9; motif: NNNNNACAAARGNNSMN; match class: 0",1
+"1734","TF","Factor: Sox-9; motif: NNNNNACAAARGNNSMN; match class: 1",1
+"1735","TF","Factor: SOX; motif: CTCTTTGTTANGA",1
+"1736","TF","Factor: SOX; motif: CTCTTTGTTANGA; match class: 0",1
+"1737","TF","Factor: SOX; motif: CTCTTTGTTANGA; match class: 1",1
+"1738","TF","Factor: SOX10; motif: NNAACAAAGNN",1
+"1739","TF","Factor: SOX10; motif: NNAACAAAGNN; match class: 0",1
+"1740","TF","Factor: SOX10; motif: NNAACAAAGNN; match class: 1",1
+"1741","TF","Factor: SP1:SP3; motif: CCSCCCCCYCC",1
+"1742","TF","Factor: SP1:SP3; motif: CCSCCCCCYCC; match class: 0",1
+"1743","TF","Factor: Sp1; motif: NGGGGGCGGGGYN",1
+"1744","TF","Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 0",1
+"1745","TF","Factor: SRY; motif: AAACWAM",1
+"1746","TF","Factor: SRY; motif: AAACWAM; match class: 0",1
+"1747","TF","Factor: SRY; motif: AAACWAM; match class: 1",1
+"1748","TF","Factor: SRY; motif: AACAATANCATTGTT",1
+"1749","TF","Factor: SRY; motif: AACAATANCATTGTT; match class: 0",1
+"1750","TF","Factor: SRY; motif: AACAATANCATTGTT; match class: 1",1
+"1751","TF","Factor: SRY; motif: AACAATNNNCATTGTT",1
+"1752","TF","Factor: SRY; motif: AACAATNNNCATTGTT; match class: 0",1
+"1753","TF","Factor: SRY; motif: AACAATNNNCATTGTT; match class: 1",1
+"1754","TF","Factor: SRY; motif: AACAATNR",1
+"1755","TF","Factor: SRY; motif: AACAATNR; match class: 0",1
+"1756","TF","Factor: SRY; motif: AACAATNR; match class: 1",1
+"1757","TF","Factor: SRY; motif: NWWAACAAWANN",1
+"1758","TF","Factor: SRY; motif: NWWAACAAWANN; match class: 0",1
+"1759","TF","Factor: SRY; motif: TCAATAMCATTGA",1
+"1760","TF","Factor: SRY; motif: TCAATAMCATTGA; match class: 0",1
+"1761","TF","Factor: SRY; motif: TCAATAMCATTGA; match class: 1",1
+"1762","TF","Factor: SRY; motif: TTGTTT",1
+"1763","TF","Factor: SRY; motif: TTGTTT; match class: 0",1
+"1764","TF","Factor: SRY; motif: TTGTTT; match class: 1",1
+"1765","TF","Factor: Tal-1; motif: CAGATGG",1
+"1766","TF","Factor: Tal-1; motif: CAGATGG; match class: 0",1
+"1767","TF","Factor: Tal-1beta:ITF-2; motif: NNNAACAGATGKTNNN",1
+"1768","TF","Factor: Tal-1beta:ITF-2; motif: NNNAACAGATGKTNNN; match class: 0",1
+"1769","TF","Factor: Tal-1beta:ITF-2; motif: NNNAACAGATGKTNNN; match class: 1",1
+"1770","TF","Factor: TAL1::GATA1; motif: NTTATCWNNNNNNNNCAG",1
+"1771","TF","Factor: TAL1::GATA1; motif: NTTATCWNNNNNNNNCAG; match class: 0",1
+"1772","TF","Factor: TATA; motif: STATAAAWRNNNNNN; match class: 1",1
+"1773","TF","Factor: TBP; motif: NGNNTATAAAA",1
+"1774","TF","Factor: TBP; motif: NGNNTATAAAA; match class: 0",1
+"1775","TF","Factor: TBP; motif: NGNNTATAAAA; match class: 1",1
+"1776","TF","Factor: TBP; motif: TTTATAN",1
+"1777","TF","Factor: TBP; motif: TTTATAN; match class: 0",1
+"1778","TF","Factor: TBP; motif: TTTATAN; match class: 1",1
+"1779","TF","Factor: TCF-1; motif: CTTTGW",1
+"1780","TF","Factor: TCF-1; motif: CTTTGW; match class: 0",1
+"1781","TF","Factor: TCF-1; motif: CTTTGW; match class: 1",1
+"1782","TF","Factor: TCF-1; motif: NNNSWWCAAAGN",1
+"1783","TF","Factor: TCF-1; motif: NNNSWWCAAAGN; match class: 0",1
+"1784","TF","Factor: TCF-3; motif: CTTTGA",1
+"1785","TF","Factor: TCF-3; motif: CTTTGA; match class: 0",1
+"1786","TF","Factor: TCF-3; motif: CTTTGA; match class: 1",1
+"1787","TF","Factor: TCF-3; motif: NCTTTGWTNTKYW",1
+"1788","TF","Factor: TCF-3; motif: NCTTTGWTNTKYW; match class: 0",1
+"1789","TF","Factor: TCF-3; motif: NCTTTGWTNTKYW; match class: 1",1
+"1790","TF","Factor: TCF-4; motif: NNASATCAAAGNNN",1
+"1791","TF","Factor: TCF-4; motif: NNASATCAAAGNNN; match class: 0",1
+"1792","TF","Factor: TCF-4; motif: NNNCTTTGAWSTN",1
+"1793","TF","Factor: TCF-4; motif: NNNCTTTGAWSTN; match class: 0",1
+"1794","TF","Factor: TCF-4; motif: NNNCTTTGAWSTN; match class: 1",1
+"1795","TF","Factor: TCF-4; motif: NNWTCAAAGN",1
+"1796","TF","Factor: TCF-4; motif: NNWTCAAAGN; match class: 0",1
+"1797","TF","Factor: TCF-4; motif: NNWTCAAAGN; match class: 1",1
+"1798","TF","Factor: TCF-4; motif: SCTTTGAW",1
+"1799","TF","Factor: TCF-4; motif: SCTTTGAW; match class: 0",1
+"1800","TF","Factor: TCF-7; motif: TCAAAG",1
+"1801","TF","Factor: TCF-7; motif: TCAAAG; match class: 0",1
+"1802","TF","Factor: TCF-7; motif: TCAAAG; match class: 1",1
+"1803","TF","Factor: TCF11:MafG; motif: NNNNNATGACTCAGCANTTNNG",1
+"1804","TF","Factor: TCF11:MafG; motif: NNNNNATGACTCAGCANTTNNG; match class: 0",1
+"1805","TF","Factor: TCF3; motif: DCATCAAAGB",1
+"1806","TF","Factor: TCF3; motif: DCATCAAAGB; match class: 0",1
+"1807","TF","Factor: TCF3; motif: DCATCAAAGB; match class: 1",1
+"1808","TF","Factor: TCF7RELATED; motif: NANNWWCAAAGN",1
+"1809","TF","Factor: TCF7RELATED; motif: NANNWWCAAAGN; match class: 0",1
+"1810","TF","Factor: TEF-3:Alx-4; motif: GGAATGNNAANYTAATTA",1
+"1811","TF","Factor: TEF-3:Alx-4; motif: GGAATGNNAANYTAATTA; match class: 0",1
+"1812","TF","Factor: TEF-3:C/EBPdelta; motif: RGWATGYNRTTRCGYAAY",1
+"1813","TF","Factor: TEF-3:C/EBPdelta; motif: RGWATGYNRTTRCGYAAY; match class: 0",1
+"1814","TF","Factor: TEF-3:C/EBPdelta; motif: RGWATGYNRTTRCGYAAY; match class: 1",1
+"1815","TF","Factor: TEF-3:Dlx-2; motif: RMATWCYNNNYAATTA",1
+"1816","TF","Factor: TEF-3:Dlx-2; motif: RMATWCYNNNYAATTA; match class: 0",1
+"1817","TF","Factor: TEF-3:HOXA2; motif: RCATWCCNNNNNMATTA",1
+"1818","TF","Factor: TEF-3:HOXA2; motif: RCATWCCNNNNNMATTA; match class: 0",1
+"1819","TF","Factor: TEF-3:HOXA3; motif: RCATWCYNNNNNMATTA",1
+"1820","TF","Factor: TEF-3:HOXA3; motif: RCATWCYNNNNNMATTA; match class: 0",1
+"1821","TF","Factor: TEF-3; motif: GNTATTTTT",1
+"1822","TF","Factor: TEF-3; motif: GNTATTTTT; match class: 0",1
+"1823","TF","Factor: TEF-3; motif: GNTATTTTT; match class: 1",1
+"1824","TF","Factor: TEF-5; motif: AAAAATAT",1
+"1825","TF","Factor: TEF-5; motif: AAAAATAT; match class: 0",1
+"1826","TF","Factor: TEF-5; motif: AAAAATAT; match class: 1",1
+"1827","TF","Factor: TEF; motif: ATGTTWAYATAA",1
+"1828","TF","Factor: TEF; motif: ATGTTWAYATAA; match class: 0",1
+"1829","TF","Factor: TEF; motif: ATGTTWAYATAA; match class: 1",1
+"1830","TF","Factor: TEF5; motif: NNWGGWATKTTT",1
+"1831","TF","Factor: TEF5; motif: NNWGGWATKTTT; match class: 0",1
+"1832","TF","Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG; match class: 1",1
+"1833","TF","Factor: TFIIB; motif: SASTATRWAAG",1
+"1834","TF","Factor: TFIIB; motif: SASTATRWAAG; match class: 0",1
+"1835","TF","Factor: TRPS1; motif: DGHHWCTATYTCCTD",1
+"1836","TF","Factor: TRPS1; motif: DGHHWCTATYTCCTD; match class: 0",1
+"1837","TF","Factor: Tst-1; motif: NNKGAATTAVAVTDN",1
+"1838","TF","Factor: Tst-1; motif: NNKGAATTAVAVTDN; match class: 0",1
+"1839","TF","Factor: Tst-1; motif: NNKGAATTAVAVTDN; match class: 1",1
+"1840","TF","Factor: TTF1; motif: ASTCAAGTRK",1
+"1841","TF","Factor: TTF1; motif: ASTCAAGTRK; match class: 0",1
+"1842","TF","Factor: TTF1; motif: ASTCAAGTRK; match class: 1",1
+"1843","TF","Factor: UNCX; motif: NTAATNNAATTAN",1
+"1844","TF","Factor: UNCX; motif: NTAATNNAATTAN; match class: 0",1
+"1845","TF","Factor: UNCX; motif: NTAATNNAATTAN; match class: 1",1
+"1846","TF","Factor: UNCX; motif: NYAATTAN",1
+"1847","TF","Factor: UNCX; motif: NYAATTAN; match class: 0",1
+"1848","TF","Factor: UNCX; motif: NYAATTAN; match class: 1",1
+"1849","TF","Factor: VAX1; motif: YTAATTAN",1
+"1850","TF","Factor: VAX1; motif: YTAATTAN; match class: 0",1
+"1851","TF","Factor: VAX1; motif: YTAATTAN; match class: 1",1
+"1852","TF","Factor: VAX2; motif: YTAATTAN",1
+"1853","TF","Factor: VAX2; motif: YTAATTAN; match class: 0",1
+"1854","TF","Factor: VAX2; motif: YTAATTAN; match class: 1",1
+"1855","TF","Factor: VBP; motif: GTTACRTMAT",1
+"1856","TF","Factor: VBP; motif: GTTACRTMAT; match class: 0",1
+"1857","TF","Factor: VDR; motif: GRGTTCATYGRGTTCA",1
+"1858","TF","Factor: VDR; motif: GRGTTCATYGRGTTCA; match class: 0",1
+"1859","TF","Factor: VSX1; motif: NGCYAATTRNN",1
+"1860","TF","Factor: VSX1; motif: NGCYAATTRNN; match class: 0",1
+"1861","TF","Factor: VSX1; motif: NGCYAATTRNN; match class: 1",1
+"1862","TF","Factor: WT1; motif: CGCCCCCNCN",1
+"1863","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 0",1
+"1864","TF","Factor: WT1; motif: CGCCCCCNCN; match class: 1",1
+"1865","TF","Factor: WT1; motif: GNGGGGGCGGGG",1
+"1866","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 0",1
+"1867","TF","Factor: WT1; motif: GNGGGGGCGGGG; match class: 1",1
+"1868","TF","Factor: WT1; motif: NGCGGGGGGGTSMMCYN",1
+"1869","TF","Factor: WT1; motif: NGCGGGGGGGTSMMCYN; match class: 0",1
+"1870","TF","Factor: YY1; motif: AAACATGGC",1
+"1871","TF","Factor: YY1; motif: AAACATGGC; match class: 0",1
+"1872","TF","Factor: YY1; motif: CCATNTT",1
+"1873","TF","Factor: YY1; motif: CCATNTT; match class: 0",1
+"1874","TF","Factor: YY1; motif: NNNNNCCATNTWNNNWN",1
+"1875","TF","Factor: YY1; motif: NNNNNCCATNTWNNNWN; match class: 0",1
+"1876","TF","Factor: YY1; motif: NNNNNCCATNTWNNNWN; match class: 1",1
+"1877","TF","Factor: YY2; motif: CCATTWN",1
+"1878","TF","Factor: YY2; motif: CCATTWN; match class: 0",1
+"1879","TF","Factor: YY2; motif: CCATTWN; match class: 1",1
+"1880","TF","Factor: Zbtb44; motif: CKGTGA",1
+"1881","TF","Factor: Zbtb44; motif: CKGTGA; match class: 0",1
+"1882","TF","Factor: Zbtb44; motif: CKGTGA; match class: 1",1
+"1883","TF","Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1",1
+"1884","TF","Factor: Zfp281; motif: TGGGGGAGGGG",1
+"1885","TF","Factor: Zfp281; motif: TGGGGGAGGGG; match class: 0",1
+"1886","TF","Factor: ZNF333; motif: ATAAT",1
+"1887","TF","Factor: ZNF333; motif: ATAAT; match class: 0",1
+"1888","TF","Factor: ZNF333; motif: ATAAT; match class: 1",1
+"1889","TF","Factor: ZNF511; motif: GGRRGRGGCWGNG; match class: 1",1
+"1890","TF","Factor: ZNF536; motif: AATAYGCC",1
+"1891","TF","Factor: ZNF536; motif: AATAYGCC; match class: 0",1
+"1892","TF","Factor: znf646; motif: TKTCCGCCTGGG",1
+"1893","TF","Factor: znf646; motif: TKTCCGCCTGGG; match class: 0",1
+"1894","WP","Metapathway biotransformation Phase I and II",3
+"1895","WP","Benzene metabolism",1
+"1896","WP","Benzo(a)pyrene metabolism",1
+"1897","WP","Bile Acids synthesis and enterohepatic circulation ",1
+"1898","WP","Blood Clotting Cascade",1
+"1899","WP","Complement and Coagulation Cascades",1
+"1900","WP","Composition of Lipid Particles",1
+"1901","WP","Drug Induction of Bile Acid Pathway",1
+"1902","WP","ESC Pluripotency Pathways",1
+"1903","WP","Glucuronidation",1
+"1904","WP","Glutathione metabolism",1
+"1905","WP","GPCRs, Class A Rhodopsin-like",1
+"1906","WP","GPCRs, Other",1
+"1907","WP","Hedgehog Signaling Pathway",1
+"1908","WP","Human Complement System",1
+"1909","WP","Irinotecan Pathway",1
+"1910","WP","Liver X Receptor Pathway",1
+"1911","WP","NRF2 pathway",1
+"1912","WP","Nuclear Receptors Meta-Pathway",1
+"1913","WP","Parkin-Ubiquitin Proteasomal System pathway",1
+"1914","WP","Pathogenic Escherichia coli infection",1
+"1915","WP","Pentose Phosphate Metabolism",1
+"1916","WP","Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling",1
+"1917","WP","Pregnane X Receptor pathway",1
+"1918","WP","Regulation of Actin Cytoskeleton",1
+"1919","WP","Vitamin B12 Metabolism",1

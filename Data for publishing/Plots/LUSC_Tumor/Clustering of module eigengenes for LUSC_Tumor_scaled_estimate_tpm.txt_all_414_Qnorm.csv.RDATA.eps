@@ -1,0 +1,654 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%DocumentNeededResources: font Helvetica
+%%+ font Helvetica-Bold
+%%+ font Helvetica-Oblique
+%%+ font Helvetica-BoldOblique
+%%+ font Symbol
+%%Title: R Graphics Output
+%%Creator: R Software
+%%Pages: (atend)
+%%BoundingBox: 0 0 504 504
+%%EndComments
+%%BeginProlog
+/bp  { gs sRGB gs } def
+% begin .ps.prolog
+/gs  { gsave } bind def
+/gr  { grestore } bind def
+/ep  { showpage gr gr } bind def
+/m   { moveto } bind def
+/l  { rlineto } bind def
+/np  { newpath } bind def
+/cp  { closepath } bind def
+/f   { fill } bind def
+/o   { stroke } bind def
+/c   { newpath 0 360 arc } bind def
+/r   { 4 2 roll moveto 1 copy 3 -1 roll exch 0 exch rlineto 0 rlineto -1 mul 0 exch rlineto closepath } bind def
+/p1  { stroke } bind def
+/p2  { gsave bg fill grestore newpath } bind def
+/p3  { gsave bg fill grestore stroke } bind def
+/p6  { gsave bg eofill grestore newpath } bind def
+/p7  { gsave bg eofill grestore stroke } bind def
+/t   { 5 -2 roll moveto gsave rotate
+       1 index stringwidth pop
+       mul neg 0 rmoveto show grestore } bind def
+/ta  { 4 -2 roll moveto gsave rotate show } bind def
+/tb  { 2 -1 roll 0 rmoveto show } bind def
+/cl  { grestore gsave newpath 3 index 3 index moveto 1 index
+       4 -1 roll lineto  exch 1 index lineto lineto
+       closepath clip newpath } bind def
+/rgb { setrgbcolor } bind def
+/s   { scalefont setfont } bind def
+% end   .ps.prolog
+/sRGB { [ /CIEBasedABC
+          << /DecodeLMN
+               [ { dup 0.03928 le
+                        {12.92321 div}
+                        {0.055 add 1.055 div 2.4 exp }
+                     ifelse
+                 } bind dup dup
+               ]
+             /MatrixLMN [0.412457 0.212673 0.019334
+                         0.357576 0.715152 0.119192
+                         0.180437 0.072175 0.950301]
+             /WhitePoint [0.9505 1.0 1.0890]
+           >>
+         ] setcolorspace } bind def
+/srgb { setcolor } bind def
+%%IncludeResource: font Helvetica
+/Helvetica findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font1 exch definefont pop
+%%IncludeResource: font Helvetica-Bold
+/Helvetica-Bold findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font2 exch definefont pop
+%%IncludeResource: font Helvetica-Oblique
+/Helvetica-Oblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font3 exch definefont pop
+%%IncludeResource: font Helvetica-BoldOblique
+/Helvetica-BoldOblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font4 exch definefont pop
+%%IncludeResource: font Symbol
+/Symbol findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  currentdict
+  end
+/Font5 exch definefont pop
+%%EndProlog
+%%Page: 1 1
+bp
+0.00 0.00 504.00 504.00 cl
+/Font1 findfont 12 s
+0 0 0 srgb
+76.98 259.80 (MEla) 90 ta
+-0.240 (v) tb
+-0.300 (enderb) tb
+-0.240 (lush3) tb gr
+83.38 347.24 (MEbisque4) 1 90 t
+89.78 305.90 (MEgre) 90 ta
+-0.240 (y) tb gr
+0.75 setlinewidth
+[] 0 setdash
+1 setlinecap
+1 setlinejoin
+10.00 setmiterlimit
+np
+80.80 357.24 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+np
+74.40 369.17 m
+0 22.32 l
+9.60 0 l
+0 -11.93 l
+o
+96.18 309.17 (MEpur) 90 ta
+0.360 (ple) tb gr
+102.58 273.65 (MElighty) 90 ta
+-0.240 (ello) tb
+-0.180 (w) tb gr
+108.98 225.73 (MEgreen) 90 ta
+-0.180 (y) tb
+-0.240 (ello) tb
+-0.180 (w) tb gr
+115.38 182.25 (MEb) 90 ta
+-0.240 (lack) tb gr
+121.78 187.57 (MEb) 90 ta
+-0.240 (lue) tb gr
+np
+112.80 238.25 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+128.18 240.28 (MEplum2) 1 90 t
+134.58 240.28 (MEturquoise) 1 90 t
+np
+125.60 250.28 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+np
+116.00 260.57 m
+0 74.79 l
+12.80 0 l
+0 -62.76 l
+o
+np
+106.40 317.75 m
+0 22.32 l
+16.00 0 l
+0 -4.71 l
+o
+np
+100.00 356.99 m
+0 22.32 l
+14.40 0 l
+0 -39.24 l
+o
+np
+93.60 370.51 m
+0 22.32 l
+13.60 0 l
+0 -13.52 l
+o
+np
+79.20 391.49 m
+0 15.76 l
+21.20 0 l
+0 -14.42 l
+o
+140.98 337.84 (MEsalmon4) 1 90 t
+147.38 328.94 (MEplum1) 1 90 t
+153.78 213.21 (MEhone) 90 ta
+-0.240 (yde) tb
+-0.240 (w1) tb gr
+160.18 249.25 (MEiv) 90 ta
+-0.300 (or) tb
+0.360 (y) tb gr
+np
+151.20 302.57 m
+0 22.33 l
+6.40 0 l
+0 -22.33 l
+o
+np
+144.80 338.93 m
+0 22.33 l
+9.60 0 l
+0 -36.36 l
+o
+np
+138.40 347.84 m
+0 22.32 l
+11.20 0 l
+0 -8.90 l
+o
+166.58 343.37 (MEthistle1) 1 90 t
+172.98 245.46 (MElightcy) 90 ta
+-0.240 (an1) tb gr
+179.38 140.04 (MElightcy) 90 ta
+-0.240 (an) tb gr
+185.78 119.36 (MEmidnightb) 90 ta
+-0.240 (lue) tb gr
+np
+176.80 215.39 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+192.18 213.20 (MEdar) 90 ta
+0.180 (kred) tb gr
+198.58 271.88 (MEwhite) 1 90 t
+np
+189.60 281.88 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+np
+180.00 237.71 m
+0 88.25 l
+12.80 0 l
+0 -21.76 l
+o
+np
+170.40 327.48 m
+0 22.32 l
+16.00 0 l
+0 -23.84 l
+o
+np
+164.00 353.36 m
+0 22.32 l
+14.40 0 l
+0 -25.88 l
+o
+np
+144.00 370.16 m
+0 22.62 l
+27.20 0 l
+0 -17.10 l
+o
+204.98 255.73 (MEdar) 90 ta
+0.180 (kseagreen4) tb gr
+211.38 281.76 (MEflor) 90 ta
+-0.120 (alwhite) tb gr
+np
+202.40 363.77 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+217.78 276.47 (MEdar) 90 ta
+0.180 (kmagenta) tb gr
+224.18 239.72 (MEdar) 90 ta
+0.180 (kslateb) tb
+-0.240 (lue) tb gr
+230.58 261.36 (MEcor) 90 ta
+-0.120 (al1) tb gr
+236.98 181.08 (MElightsteelb) 90 ta
+-0.240 (lue1) tb gr
+243.38 175.09 (MEmediumpur) 90 ta
+0.360 (ple3) tb gr
+np
+234.40 285.78 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+np
+228.00 322.04 m
+0 22.32 l
+9.60 0 l
+0 -36.26 l
+o
+np
+221.60 339.08 m
+0 22.32 l
+11.20 0 l
+0 -17.04 l
+o
+249.78 355.09 (MEsienna3) 1 90 t
+256.18 225.77 (MEna) 90 ta
+-0.240 (v) tb
+-0.300 (ajo) tb
+-0.180 (white2) tb gr
+262.58 258.45 (MEor) 90 ta
+-0.120 (ange) tb gr
+np
+253.60 323.80 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+268.98 265.28 (MEskyb) 90 ta
+-0.240 (lue) tb gr
+275.38 221.33 (MElightpink4) 1 90 t
+281.78 155.31 (MEsteelb) 90 ta
+-0.240 (lue) tb gr
+np
+272.80 231.33 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+np
+266.40 333.96 m
+0 22.32 l
+9.60 0 l
+0 -102.63 l
+o
+np
+256.80 346.12 m
+0 36.48 l
+14.40 0 l
+0 -26.32 l
+o
+np
+247.20 365.09 m
+0 22.32 l
+16.80 0 l
+0 -4.81 l
+o
+np
+227.20 361.40 m
+0 30.70 l
+28.40 0 l
+0 -4.69 l
+o
+np
+215.20 374.50 m
+0 22.32 l
+26.20 0 l
+0 -4.72 l
+o
+np
+205.60 386.09 m
+0 11.90 l
+22.70 0 l
+0 -1.17 l
+o
+np
+157.60 392.78 m
+0 5.81 l
+59.35 0 l
+0 -0.60 l
+o
+288.18 325.89 (MEpaleturquoise) 1 90 t
+294.58 197.87 (MEbro) 90 ta
+-0.180 (wn4) tb gr
+300.98 255.22 (MEmaroon) 1 90 t
+np
+292.00 265.21 m
+0 22.33 l
+6.40 0 l
+0 -22.33 l
+o
+np
+285.60 335.89 m
+0 22.32 l
+9.60 0 l
+0 -70.67 l
+o
+307.38 267.95 (MEdar) 90 ta
+0.180 (kgre) tb
+-0.240 (y) tb gr
+313.78 252.52 (MEskyb) 90 ta
+-0.240 (lue3) tb gr
+320.18 223.01 (MEdar) 90 ta
+0.180 (kturquoise) tb gr
+326.58 222.17 (MEdar) 90 ta
+0.180 (k) tb
+-0.240 (or) tb
+-0.120 (ange2) tb gr
+332.98 221.99 (MEdar) 90 ta
+0.180 (kgreen) tb gr
+339.38 217.67 (MEcy) 90 ta
+-0.240 (an) tb gr
+345.78 124.98 (MEbro) 90 ta
+-0.180 (wn) tb gr
+352.18 175.66 (MEgreen) 1 90 t
+np
+343.20 185.66 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+358.58 136.28 (MEsaddlebro) 90 ta
+-0.180 (wn) tb gr
+364.98 189.28 (MEmagenta) 1 90 t
+371.38 189.28 (MEred) 1 90 t
+np
+362.40 199.27 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+np
+356.00 232.30 m
+0 22.32 l
+9.60 0 l
+0 -33.03 l
+o
+np
+346.40 207.98 m
+0 65.76 l
+14.40 0 l
+0 -19.12 l
+o
+np
+336.80 271.01 m
+0 22.33 l
+16.80 0 l
+0 -19.60 l
+o
+np
+330.40 304.01 m
+0 22.33 l
+14.80 0 l
+0 -33.00 l
+o
+np
+324.00 317.54 m
+0 22.32 l
+13.80 0 l
+0 -13.52 l
+o
+np
+317.60 323.70 m
+0 22.32 l
+13.30 0 l
+0 -6.16 l
+o
+np
+311.20 327.87 m
+0 22.32 l
+13.05 0 l
+0 -4.17 l
+o
+np
+304.80 342.63 m
+0 22.32 l
+12.93 0 l
+0 -14.76 l
+o
+np
+290.40 358.21 m
+0 10.40 l
+20.86 0 l
+0 -3.66 l
+o
+377.78 284.69 (MEro) 90 ta
+-0.360 (y) tb
+-0.240 (alb) tb
+-0.240 (lue) tb gr
+384.18 325.18 (MEtan) 1 90 t
+390.58 215.91 (MEy) 90 ta
+-0.240 (ello) tb
+-0.180 (wgreen) tb gr
+396.98 151.31 (MEpale) 90 ta
+-0.360 (violetred3) tb gr
+403.38 88.05 (MEdar) 90 ta
+0.180 (k) tb
+-0.240 (oliv) tb
+-0.300 (egreen) tb gr
+409.78 130.06 (MEgre) 90 ta
+-0.240 (y60) tb gr
+np
+400.80 194.74 m
+0 22.32 l
+6.40 0 l
+0 -22.32 l
+o
+np
+394.40 254.00 m
+0 22.33 l
+9.60 0 l
+0 -59.27 l
+o
+np
+388.00 307.92 m
+0 22.32 l
+11.20 0 l
+0 -53.91 l
+o
+np
+381.60 335.18 m
+0 22.32 l
+12.00 0 l
+0 -27.26 l
+o
+np
+375.20 361.37 m
+0 22.32 l
+12.40 0 l
+0 -26.19 l
+o
+416.18 359.10 (MEpink) 1 90 t
+422.58 204.60 (MEdar) 90 ta
+0.180 (k) tb
+-0.240 (or) tb
+-0.120 (ange) tb gr
+428.98 264.15 (MElightgreen) 1 90 t
+435.38 234.95 (MEsalmon) 1 90 t
+441.78 183.61 (MEy) 90 ta
+-0.240 (ello) tb
+-0.180 (w) tb gr
+np
+432.80 244.94 m
+0 22.33 l
+6.40 0 l
+0 -22.33 l
+o
+np
+426.40 274.14 m
+0 22.33 l
+9.60 0 l
+0 -29.20 l
+o
+np
+420.00 293.29 m
+0 22.32 l
+11.20 0 l
+0 -19.14 l
+o
+448.18 211.88 (MEor) 90 ta
+-0.120 (angered4) tb gr
+454.58 229.52 (MEthistle2) 1 90 t
+460.98 229.52 (MEviolet) 1 90 t
+np
+452.00 239.51 m
+0 22.33 l
+6.40 0 l
+0 -22.33 l
+o
+np
+445.60 301.24 m
+0 22.32 l
+9.60 0 l
+0 -61.72 l
+o
+np
+425.60 315.61 m
+0 20.93 l
+24.80 0 l
+0 -12.98 l
+o
+np
+413.60 369.10 m
+0 22.32 l
+24.40 0 l
+0 -54.88 l
+o
+np
+381.40 383.69 m
+0 9.72 l
+44.40 0 l
+0 -1.99 l
+o
+np
+300.83 368.61 m
+0 32.79 l
+102.77 0 l
+0 -7.99 l
+o
+np
+187.27 398.59 m
+0 11.11 l
+164.95 0 l
+0 -8.30 l
+o
+np
+89.80 407.25 m
+0 23.95 l
+179.95 0 l
+0 -21.50 l
+o
+0.00 0.00 504.00 504.00 cl
+0 0 0 srgb
+0.75 setlinewidth
+[] 0 setdash
+1 setlinecap
+1 setlinejoin
+10.00 setmiterlimit
+np
+59.04 188.59 m
+0 256.37 l
+o
+np
+59.04 188.59 m
+-7.20 0 l
+o
+np
+59.04 244.21 m
+-7.20 0 l
+o
+np
+59.04 299.82 m
+-7.20 0 l
+o
+np
+59.04 355.44 m
+-7.20 0 l
+o
+np
+59.04 411.05 m
+-7.20 0 l
+o
+/Font1 findfont 12 s
+41.76 188.59 (0.2) .5 90 t
+41.76 244.21 (0.4) .5 90 t
+41.76 299.82 (0.6) .5 90 t
+41.76 355.44 (0.8) .5 90 t
+41.76 411.05 (1.0) .5 90 t
+0.00 0.00 504.00 504.00 cl
+/Font2 findfont 14 s
+0 0 0 srgb
+-81.35 469.45 (Clustering of module eig) 0 ta
+0.140 (eng) tb
+0.140 (enes f) tb
+-0.280 (or LUSC_T) tb
+-1.260 (umor_scaled_estimate_tpm.txt_all_414_Qnorm.csv.RD) tb
+-0.560 (A) tb
+-1.260 (T) tb
+-1.260 (A) tb gr
+/Font1 findfont 12 s
+12.96 259.20 (Height) .5 90 t
+59.04 73.44 473.76 444.96 cl
+1 0 0 srgb
+0.75 setlinewidth
+[] 0 setdash
+1 setlinecap
+1 setlinejoin
+10.00 setmiterlimit
+np
+59.04 202.50 m
+414.72 0 l
+o
+ep
+%%Trailer
+%%Pages: 1
+%%EOF
